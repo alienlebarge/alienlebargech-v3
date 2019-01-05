@@ -1,0 +1,21 @@
+{
+  "name": "alienlebarge.ch",
+  "version": "3.0.0",
+  "description": "The personal website of Cédric Aellen",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alienlebarge/alienlebargech-v3.git"
+  },
+  "keywords": [
+    "personal-website"
+  ],
+  "author": "Cédric Aellen",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/alienlebarge/alienlebargech-v3/issues"
+  },
+  "homepage": "https://github.com/alienlebarge/alienlebargech-v3#readme"
+}
