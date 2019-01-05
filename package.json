@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/alienlebarge/alienlebargech-v3/issues"
   },
-  "homepage": "https://github.com/alienlebarge/alienlebargech-v3#readme"
+  "homepage": "https://github.com/alienlebarge/alienlebargech-v3#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.6.0"
+  }
 }
