@@ -5,7 +5,9 @@
   "scripts": {
     "build:files": "eleventy --config lib/eleventy.config.js",
     "build:styles": "postcss src/assets/styles/style.css -o www/assets/styles/style.css --config lib/postcss.config.js",
-    "build": "npm run build:files && npm run build:files"
+    "build": "npm run build:files && npm run build:files",
+    "lint:styles": "stylelint src/**/*.css",
+    "lint": "npm-run-all lint:*"
   },
   "repository": {
     "type": "git",
@@ -22,9 +24,12 @@
   "homepage": "https://github.com/alienlebarge/alienlebargech-v3#readme",
   "dependencies": {
     "@11ty/eleventy": "^0.6.0",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.1",
     "cssnano": "^4.1.8",
+    "npm-run-all": "^4.1.5",
     "postcss-cli": "^6.1.1",
     "postcss-easy-import": "^3.0.0"
+  },
+  "devDependencies": {
+    "@alienlebarge/stylelint-config": "^3.1.2"
   }
 }
