@@ -1,2 +1,5 @@
 # Ignore node modules
 node_modules
+
+# Build files
+dist
