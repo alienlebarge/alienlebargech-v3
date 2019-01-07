@@ -11,7 +11,8 @@
     "watch:styles": "postcss src/assets/styles/style.css -o www/assets/styles/style.css --config lib/postcss.config.js --watch",
     "watch": "npm-run-all --parallel watch:*",
     "lint:styles": "stylelint src/**/*.css",
-    "lint": "npm-run-all lint:*"
+    "lint": "npm-run-all lint:*",
+    "debug": "DEBUG=* npx eleventy"
   },
   "repository": {
     "type": "git",
