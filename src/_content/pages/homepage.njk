@@ -5,3 +5,11 @@ permalink: /index.html
 ---
 
 <p>Hello world!</p>
+
+<ul>
+{%- for article in collections.article -%}
+<li>
+      <a href="{{ article.url | url }}">{{ article.data.title }}</a> 
+</li>
+{%- endfor -%}
+</ul>
