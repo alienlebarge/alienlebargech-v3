@@ -1,0 +1,18 @@
+<!doctype>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ "/assets/styles/style.css" | url }}">
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <main>
+      <h1>{{ title }}</h1>
+      {{ content | safe }}
+    </main>
+    <footer>
+      <a href="https://github.com/alienlebarge/snip/tree/master/{{ page.inputPath }}">Edit this page on GitHub</a>
+    </footer>
+  </body>
+</html>
