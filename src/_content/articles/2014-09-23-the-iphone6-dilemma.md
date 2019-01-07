@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "The iPhone 6 dilemma"
 description: "The new iPhone will be available in a few days and I can not choose between the big and the bigger model."
 date:        2014-09-23 22:17:58

@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "UX Lausanne: Mind the Gap"
 date:        2014-06-13 16:05:28
 categories:  blog

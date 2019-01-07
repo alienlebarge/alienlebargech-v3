@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Bullet Journal and Sketchnotes variations"
 description: "Since more than a year, I write down everything I do. This logging technique works well for and I want to share it with you."
 image:       http://alb-blog.s3.amazonaws.com/2015-01-22-blog-sketchnote-t8ffm1i.jpg

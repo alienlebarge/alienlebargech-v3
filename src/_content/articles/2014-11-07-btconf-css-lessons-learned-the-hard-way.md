@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: CSS Lessons Learned the Hard Way"
 description: "Zoe Mickeley Gillenwater talk about CSS and experimenting things to improve our knowledge"
 image:       https://farm8.staticflickr.com/7474/15691031896_e38e1ff67b_c.jpg

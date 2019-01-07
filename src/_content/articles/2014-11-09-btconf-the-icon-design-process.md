@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: The Icon Design Process"
 description: "Jon Hicks, the man behind so much well known icons, presented us his process to design an icon at Beyond Tellerrand"
 image:       https://farm4.staticflickr.com/3947/15112506354_5ce607be41_c.jpg

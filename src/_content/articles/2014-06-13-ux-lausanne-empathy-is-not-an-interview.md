@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "UX Lausanne: Empathy is not an Interview"
 date:        2014-06-13 16:26:15
 categories:  blog

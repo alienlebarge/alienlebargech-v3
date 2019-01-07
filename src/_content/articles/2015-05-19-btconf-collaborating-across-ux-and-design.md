@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: Collaborating Across UX & Design"
 description: ""
 image:       https://c2.staticflickr.com/8/7657/17502535856_9e87f042b5_z.jpg

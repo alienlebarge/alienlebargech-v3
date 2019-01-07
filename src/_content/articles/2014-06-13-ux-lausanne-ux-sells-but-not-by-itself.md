@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "UX Lausanne: UX sells, but not by itself"
 date:        2014-06-13 15:24:27
 categories:  blog

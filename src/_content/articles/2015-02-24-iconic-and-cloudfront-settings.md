@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "How to use Iconic with Amazon S3 and CloudFront"
 description: "How I set up S3 and CloudFront to make it works with Iconic incons system."
 date:        2015-02-24 19:27:09

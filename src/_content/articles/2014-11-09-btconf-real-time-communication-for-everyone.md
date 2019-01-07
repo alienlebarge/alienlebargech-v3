@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: Real-time Communication – for Everyone!"
 description: "Lisa Larson-Kelly's talk about realtime communication"
 image:       https://farm4.staticflickr.com/3949/15546587639_c24542b444_c.jpg

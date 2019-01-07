@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: Design & Happiness"
 description: ""
 image:       https://farm4.staticflickr.com/3944/15095391433_11272688cf_c.jpg

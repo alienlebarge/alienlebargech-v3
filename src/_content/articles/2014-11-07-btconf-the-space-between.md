@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: The Space Between"
 description: "Tim Kadlec talk about transitions in the UI"
 image:       https://farm9.staticflickr.com/8593/15691034206_af69414d46_c.jpg

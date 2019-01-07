@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: Content Amid Chaos"
 description: "Sara Wachter-Boettcher's talk Content Amid Chaos"
 image:       https://c2.staticflickr.com/6/5339/17518678705_b30b75c711_z.jpg

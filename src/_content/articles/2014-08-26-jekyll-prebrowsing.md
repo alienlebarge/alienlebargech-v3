@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Jekyll and prebrowsing"
 description: How to setup some prebrowsing in Jekyll
 date:        2014-08-26 05:00:00

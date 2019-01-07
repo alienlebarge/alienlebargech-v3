@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Mapbox map API"
 description: How to build maps with Mapbox API and Jekyll
 date:   2014-07-31 13:10:35

@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: Enhance!"
 description: "Jeremy Keith's talk Enhance!"
 image:       https://c1.staticflickr.com/9/8816/17529059905_932925c1a4_z.jpg

@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Stylelint: My CSS linting workflow"
 description: "How I use Stylelint to lint my CSS"
 date:        2016-06-15 13:44:58

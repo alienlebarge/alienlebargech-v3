@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Underline learned the hard way"
 description: "How to make good looking underline with CSS"
 date:        2015-09-23 17:55:06

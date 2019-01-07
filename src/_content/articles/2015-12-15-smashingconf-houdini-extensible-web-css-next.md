@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "SmashingConf: Houdini, Extensible Web, CSS.Next"
 description: "Bruce Lawson presentation about the history of the web, what is his future and how we can help as developers to make it happen"
 image:       https://farm6.staticflickr.com/5682/22502903546_c12e44286d_b.jpg

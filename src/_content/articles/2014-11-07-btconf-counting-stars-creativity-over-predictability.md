@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: Counting Stars: Creativity over Predicatbility"
 description: "Add more creativity in your work! It's Andy Clark message in his talk at Beyond Tellerrand"
 image:       https://farm8.staticflickr.com/7468/15712848731_01aa741414_c.jpg

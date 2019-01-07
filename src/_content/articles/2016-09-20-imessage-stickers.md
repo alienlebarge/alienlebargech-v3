@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Favorites stickers"
 description: "Favorites stickers on iOS iMessage"
 date:        2016-09-20 20:44:09

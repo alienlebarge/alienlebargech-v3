@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "SmashingConf: Game Console Browsers"
 description: "Anna Debenham's talk about what we have to take in consideration to build websites for console browsers and what we can learn from them.
 "

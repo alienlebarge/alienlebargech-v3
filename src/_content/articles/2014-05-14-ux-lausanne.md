@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "UX Lausanne"
 date:   2014-05-14 14:46:04
 categories: blog

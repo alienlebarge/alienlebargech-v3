@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: CSS3 For Responsive Hardboiled Web Design"
 description: "My sketchnote about Andrew Clark workshop"
 date:        2014-11-04 22:14:34

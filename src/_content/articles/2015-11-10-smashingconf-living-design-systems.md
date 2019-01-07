@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "SmashingConf: Living Design Systems"
 description: "Jina Bolton talks about how they build and maintain design sytems at salesforce"
 image:       https://farm1.staticflickr.com/630/22540085821_e7f934b969_b.jpg

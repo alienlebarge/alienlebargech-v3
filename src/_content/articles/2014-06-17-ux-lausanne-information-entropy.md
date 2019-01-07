@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "UX Lausanne: Information ↔ Entropy"
 date:        2014-06-17 21:37:50
 categories:  blog

@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "SmashingConf: Peace, Hellfire & Outer Space"
 description: "Seb Lest talks about his life, work and achievements."
 image:       https://farm1.staticflickr.com/614/21907715103_b2c966fd27_b.jpg

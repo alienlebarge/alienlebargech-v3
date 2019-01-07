@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: Getting Artistic With Code"
 description: "My sketchnote about Seb Lee-Delisle's talk at Beyond Tellerrand Berlin"
 date:        2014-11-04 22:54:11

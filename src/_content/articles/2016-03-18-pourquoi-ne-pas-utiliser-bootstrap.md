@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Pourquoi ne pas utiliser Bootstrap ?"
 description: "Dans le cadre du développement d'une libraire distribué, est-il bon d'utiliser Bootstrap ?"
 date:        2016-03-18 07:28:30

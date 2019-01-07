@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "SmashingConf: Embracing The Network"
 description: "The network is intrinsically unreliable. Patrick Hammann tell us how to work with it."
 image:       https://farm1.staticflickr.com/617/22340985680_fcc5ba198f_b.jpg

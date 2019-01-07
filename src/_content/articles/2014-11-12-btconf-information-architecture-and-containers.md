@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: Information, Architecture & Containers"
 description: "Oliver Reichenstein's talk about information, architecture & containers at Beyond Tellerrand"
 image:       https://farm8.staticflickr.com/7550/15733471082_acd5f2f036_c.jpg

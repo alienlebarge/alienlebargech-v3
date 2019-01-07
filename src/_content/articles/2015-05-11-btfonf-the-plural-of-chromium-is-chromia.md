@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: The Plural of Chromium is Chromia"
 description: "There a lot of Chrome browser on Android mobiles. Peter-Paul Koch presented a little selection of them"
 image:       https://farm8.staticflickr.com/7755/17527325582_1b56086e8f_z_d.jpg

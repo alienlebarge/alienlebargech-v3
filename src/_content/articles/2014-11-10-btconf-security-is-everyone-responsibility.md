@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: Security is Everyone's Responsibility"
 description: "James Hall showed us how insecure wifi and Internet are if we doesn't care about it"
 image:       https://farm8.staticflickr.com/7470/15732468105_ac1cf14521_c.jpg

@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: Putting the Fonts into Webfonts"
 description: "Jonathan Hoefler talk about fonts and webfonts at Bexond Tellerand"
 image:       https://farm8.staticflickr.com/7471/15712844971_8a6f4d1970_c.jpg

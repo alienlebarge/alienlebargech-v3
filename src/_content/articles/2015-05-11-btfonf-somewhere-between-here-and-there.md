@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: Somewhere Between Here and There"
 description: "Simon answers the question: what has changed in the web these last 5 years?"
 image:       https://c2.staticflickr.com/6/5455/17331145580_ac97a234cc_z.jpg

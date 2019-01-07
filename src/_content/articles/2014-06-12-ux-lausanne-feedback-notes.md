@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "UX Lausanne feedback and notes"
 date:   2014-06-12 20:00:00
 categories: blog

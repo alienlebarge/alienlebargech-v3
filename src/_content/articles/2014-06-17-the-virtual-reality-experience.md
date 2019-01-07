@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "UX Lausanne: The Virtual Reality Experience"
 date:        2014-06-17 21:32:17
 categories:  blog

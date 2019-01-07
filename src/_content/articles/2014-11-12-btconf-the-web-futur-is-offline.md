@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: The Web's Futur Is Offline"
 description: "John Allsop's talk about putting your website in offline mode"
 image:       https://farm6.staticflickr.com/5614/15730350261_cc927bb61c_c.jpg

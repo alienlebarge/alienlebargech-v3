@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: Connected Spaces to make Connected Experiences"
 description: "Zoe Mickeley Gillenwater talk about CSS and experimenting things to improve our knowledge"
 image:       https://farm4.staticflickr.com/3941/15691033406_d5dd179f29_c.jpg

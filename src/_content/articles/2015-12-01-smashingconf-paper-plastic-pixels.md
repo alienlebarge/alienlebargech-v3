@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "SmashingConf: Paper, Plastic & Pixels"
 description: "Brendan Dawes talks at smashingconf Barcelona"
 image:       https://farm6.staticflickr.com/5671/22528903615_767b6fb212_b.jpg

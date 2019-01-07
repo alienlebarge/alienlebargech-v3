@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "UX Lausanne: Bodily Experiences of the Digital"
 date:        2014-06-17 14:41:48
 categories:  blog

@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "UX Lausanne: Delight and Innovation"
 date:        2014-06-13 05:40:08
 categories:  blog

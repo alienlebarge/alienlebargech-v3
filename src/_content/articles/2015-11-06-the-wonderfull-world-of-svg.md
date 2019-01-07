@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "SmashingConf: The Wonderfull World of SVG"
 description: "Chris Coyier tell us how SVG are wonderfull."
 image:       https://farm1.staticflickr.com/679/22340998290_cae14ba580_z.jpg

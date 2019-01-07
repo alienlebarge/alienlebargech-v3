@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Priority+ navigation with flexbox"
 description: "A concept of priority+ navigation built with flexbox"
 date:        2015-10-02 14:42:45

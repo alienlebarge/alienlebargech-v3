@@ -1,5 +1,5 @@
 ---
-layout:      post
+
 title:       "Beyond Tellerrand: First Impression"
 description: "My impression of Beyond Tellerand Berlin 2014 conference"
 image:       https://farm8.staticflickr.com/7519/15529324368_ef08549418_c.jpg
