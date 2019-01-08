@@ -3,22 +3,21 @@
  * ========================================================================== */
 
 :--heading {
-    font-weight: 500;
     line-height: var(--line-height-solid);
-
+    font-weight: 500;
     margin-top: 0;
 }
 
 h1 {
-    font-size: var(--font-size-title);
+  font-size: var(--font-size-title);
 }
 
 h2 {
-    font-size: var(--font-size-heading);
+  font-size: var(--font-size-heading);
 }
 
 h3 {
-    font-size: var(--font-size-subhead);
+  font-size: var(--font-size-subhead);
 }
 
 h4,
