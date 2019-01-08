@@ -28,15 +28,5 @@ figure,
 hr,
 table,
 fieldset {
-    margin-bottom: var(--space-block-small);
-}
-
-
-
-/**
- * Consistent indentation for lists.
- */
-
-dd, ol, ul {
-    margin-left: var(--space-inline-small);
+  margin-bottom: var(--space-block-small);
 }

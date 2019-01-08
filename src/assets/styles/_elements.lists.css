@@ -1,0 +1,32 @@
+/* ==========================================================================
+ * #LISTS
+ * ========================================================================== */
+
+/**
+ * All lists
+ */
+:--list {
+   margin-left: 0;
+   list-style-position: inside;
+}
+
+:--list :--list {
+   margin-left: var(--space-block-small);
+}
+
+
+
+/**
+ * Definition list
+ */
+dt {
+    font-weight: 500;
+}
+
+dd {
+    margin-left: var(--space-block-small);
+}
+
+dd + dt {
+    margin-top: var(--space-block-xsmall);
+}
