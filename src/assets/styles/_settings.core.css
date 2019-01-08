@@ -7,7 +7,7 @@
     --font-family-sans: "Untitled", sans-serif;
     --font-family-system: system-ui;
     --font-family-monospace: "Source Code Pro", monospace;
-    --font-size-title: calc(1.75rem);
+    --font-size-title: calc(1.75rem + 2vmin);
     --font-size-lede: calc(1.125rem);
     --font-size-heading: calc(1.25rem + .75vmin);
     --font-size-subhead: calc(1.125rem + .125vmin);
@@ -20,4 +20,14 @@
     --line-height-loose: calc(1.4em + .25vw);
     --line-measure: 42.5rem;
     --word-spacing: 0;
+
+    /* Spacing > Block */
+    --space-block-large: calc(2rem + 6vh);
+    --space-block-medium: calc(1rem + 3vh);
+    --space-block-small: calc(0.5rem + 1.5vmin);
+    --space-block-xsmall: calc(0.25rem + 0.5vh);
+
+    /* Spacing > Inline */
+    --space-inline-small: 0.375rem;
+    --space-inline: 0.75rem;
 }

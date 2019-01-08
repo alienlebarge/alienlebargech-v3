@@ -4,6 +4,33 @@ summary: An overview of the typographic and layout styles available for content 
 permalink: /styleguide.html
 hidden: true
 ---
+
+# Heading level 1
+
+Here's the style a basic `h1` will get.
+
+## Heading level 2
+
+Here's the style a basic `h2` will get.
+
+### Heading level 3
+
+Here's the style a basic `h3` will get.
+
+#### Heading level 4
+
+Here's the style a basic `h4` will get.
+
+##### Heading level 5
+
+Here's the style a basic `h5` will get.
+
+###### Heading level 6
+
+Here's the style a basic `h1` will get.
+
+---
+
 Le contenu de cette page concerne le scope `.g-prose`.
 
 ## Second-level heading
