@@ -3,21 +3,21 @@
  * ========================================================================== */
 
 :root {
-  /* Typography */
-  --font-family-sans: "Untitled", sans-serif;
-  --font-family-system: system-ui;
-  --font-family-monospace: "Source Code Pro", monospace;
-  --font-size-title: calc(1.75rem);
-  --font-size-lede: calc(1.125rem);
-  --font-size-heading: calc(1.25rem + 0.75vmin);
-  --font-size-subhead: calc(1.125rem + 0.125vmin);
-  --font-size-body: calc(1rem + 0.375vmin);
-  --font-size-reference: calc(0.875rem + 0.25vmin);
-  --font-size-caption: calc(0.75rem + 0.125vmin);
-  --font-size-default: 1rem;
-  --line-height-solid: 1em;
-  --line-height-tight: calc(1.25em + 0.25vw);
-  --line-height-loose: calc(1.4em + 0.25vw);
-  --line-measure: 42.5rem;
-  --word-spacing: 0;
+    /* Typography */
+    --font-family-sans: "Untitled", sans-serif;
+    --font-family-system: system-ui;
+    --font-family-monospace: "Source Code Pro", monospace;
+    --font-size-title: calc(1.75rem);
+    --font-size-lede: calc(1.125rem);
+    --font-size-heading: calc(1.25rem + .75vmin);
+    --font-size-subhead: calc(1.125rem + .125vmin);
+    --font-size-body: calc(1rem + .375vmin);
+    --font-size-reference: calc(.875rem + .25vmin);
+    --font-size-caption: calc(.75rem + .125vmin);
+    --font-size-default: 1rem;
+    --line-height-solid: 1em;
+    --line-height-tight: calc(1.25em + .25vw);
+    --line-height-loose: calc(1.4em + .25vw);
+    --line-measure: 42.5rem;
+    --word-spacing: 0;
 }
