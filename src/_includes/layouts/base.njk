@@ -8,14 +8,8 @@
     <title>{{ title }}</title>
   </head>
   <body>
-    <nav>
-        <h2>Navigation</h2>
-        <ul class="navigation">
-            {%- for item in navigation.primary -%}
-            <li><a href="{{ item.url }}">{{ item.label }}</a></li>
-            {%- endfor -%}
-        </ul>
-    </nav>
+      {% import 'navigation.njk' as nav %}
+      {{ nav.menu(navigation.primary) }}
     <main>
         <h1>{{ title }}</h1>
         {{ content | safe }}
