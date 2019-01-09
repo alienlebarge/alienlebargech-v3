@@ -3,6 +3,10 @@
     {
       "label": "Writting",
       "url": "/articles/"
+    },
+    {
+      "label": "Bookmarks",
+      "url": "/bookmarks/"
     }
   ]
 }
