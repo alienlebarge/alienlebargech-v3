@@ -1,6 +1,6 @@
 {% macro paginate(pagination, label="Undefined") %}
 {# Check if there's more than one page. Unless, we do not need a pagination. #}
-{%- if pagination.hrefs.length > 0 -%}
+{%- if pagination.hrefs.length > 1 -%}
 <nav aria-label="Pagination">
   <h2>Pagination</h2>
   <ul>
