@@ -3,9 +3,12 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="{% if hidden == true %}noindex{% else %}index{% endif %}, follow">
-    <link rel="stylesheet" href="{{ "/assets/styles/style.css" | url }}">
-    <title>{{ title }}</title>
+        <meta name="robots" content="{% if hidden == true %}noindex{% else %}index{% endif %}, follow">
+
+        <link rel="me" href="https://mastodon.alienlebarge.ch/@alienlebarged">
+        <link rel="stylesheet" href="{{ "/assets/styles/style.css" | url }}">
+
+        <title>{{ title }}</title>
     </head>
     <body>
         {% import 'navigation.njk' as nav %}
