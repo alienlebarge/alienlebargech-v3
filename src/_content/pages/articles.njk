@@ -25,7 +25,7 @@ pagination:
       {%- endif -%}
       {%- if article.data.date -%}
       <footer>
-        <p><time datetime="{{ article.data.date }}">{{ article.data.date }}</time></p>
+        <p><time datetime="{{ article.data.date | date }}">{{ article.data.date | date("DD MMMM YYYY") }}</time></p>
       </footer>
       {%- endif -%}
     </article>
