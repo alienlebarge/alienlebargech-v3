@@ -8,6 +8,12 @@
     <title>{{ title }}</title>
   </head>
   <body>
+    <nav>
+      <h2>Navigation</h2>
+      <ul>
+        <li><a href="{{ "/" | url }}">Back home</a></li>
+      </ul>
+    </nav>
     <main>
       <h1>{{ title }}</h1>
       {{ content | safe }}
