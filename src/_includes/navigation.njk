@@ -1,13 +1,16 @@
-{% macro menu(navigationLevel) %}
+{% macro menu(navigationLevel, title='Navigation') %}
 {# Check if there something in `navigationLevel` #}
-{%- if navigationLevel > 0 -%}
+{%- if navigationLevel -%}
 <nav>
-    <h2>Navigation macro</h2>
+    <h2>{{ title }}</h2>
     <ul>
         {%- for item in navigationLevel -%}
         <li><a href="{{ item.url }}">{{ item.label }}</a></li>
         {%- endfor -%}
     </ul>
 </nav>
-{% endif %}
+{%- else -%}
+{# Print an error message #}
+<p>There is an error</p>
+{%- endif -%}
 {% endmacro %}
