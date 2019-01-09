@@ -1,7 +1,7 @@
 ---
 title: Styleguide
 summary: An overview of the typographic and layout styles available for content pages
-permalink: /styleguide.html
+permalink: /styleguide/index.html
 hidden: true
 ---
 
