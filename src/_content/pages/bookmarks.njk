@@ -3,7 +3,7 @@ title: Bookmarks
 summary: List of bookmarks
 permalink: bookmarks/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html
 pagination:
-    data: collections.article
+    data: collections.bookmark
     size: 20
 ---
 
@@ -34,4 +34,4 @@ pagination:
 </ul>
 
 {% import 'pagination.njk' as transverse %}
-{{ transverse.paginate(pagination, label='articles') }}
+{{ transverse.paginate(pagination, label='Bookmarks') }}
