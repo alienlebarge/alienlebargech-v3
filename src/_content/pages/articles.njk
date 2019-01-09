@@ -1,7 +1,7 @@
 ---
 title: Articles
 summary: List of all articles
-permalink: articles/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber }}{% else %}index{% endif %}.html
+permalink: articles/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html
 pagination:
   data: collections.article
   size: 10
@@ -16,6 +16,4 @@ pagination:
 </ul>
 
 {% import 'pagination.njk' as transverse %}
-{{ transverse.label('articles') }}
-{%- if pagination.hrefs -%}yo!{% endif %}
-{%- if pagination.nextPageLink -%}youyouy{% endif %}
+{{ transverse.paginate(pagination, label='articles') }}
