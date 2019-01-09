@@ -14,3 +14,8 @@ pagination:
 </li>
 {%- endfor -%}
 </ul>
+
+{% import 'pagination.njk' as transverse %}
+{{ transverse.label('articles') }}
+{%- if pagination.hrefs -%}yo!{% endif %}
+{%- if pagination.nextPageLink -%}youyouy{% endif %}

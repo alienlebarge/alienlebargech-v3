@@ -1,0 +1,22 @@
+{% macro label(text) %}
+<nav aria-label="Pagination">
+  <h2>Pagination</h2>
+  <ul>
+    <li>
+      <a href="#">
+        <span>{{ text }} précédente</span>
+        <span class="sr-only">:</span>
+        <span>11 sur 244</span>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <span>{{ text }} suivante </span>
+        <span class="sr-only">:</span>
+        <span>13 sur 244</span></a>
+    </li>
+  </ul>
+</nav>
+{%- if pagination.hrefs -%}1yo!{% endif %}
+{%- if pagination.nextPageLink -%}1youyouy{% endif %}
+{% endmacro %}
