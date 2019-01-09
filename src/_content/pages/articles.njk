@@ -3,34 +3,34 @@ title: Articles
 summary: List of all articles
 permalink: articles/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html
 pagination:
-  data: collections.article
-  size: 10
+    data: collections.article
+    size: 10
 ---
 
 <h2>Recent articles</h2>
 <ul>
-  {%- for article in pagination.items -%}
-  <li>
-    <article>
-      <header>
-        <h3><a href="{{ article.url | url }}">{{ article.data.title }}</a></h3>
-      </header>
-      {%- if article.data.image -%}
-      <figure>
-        <img src="{{ article.data.image }}">
-      </figure>
-      {%- endif -%}
-      {%- if article.data.summary -%}
-      <p>{{ article.data.summary }}</p>
-      {%- endif -%}
-      {%- if article.data.date -%}
-      <footer>
-        <p><time datetime="{{ article.data.date | date }}">{{ article.data.date | date("DD MMMM YYYY") }}</time></p>
-      </footer>
-      {%- endif -%}
-    </article>
-  </li>
-  {%- endfor -%}
+    {%- for article in pagination.items -%}
+    <li>
+        <article>
+            <header>
+                <h3><a href="{{ article.url | url }}">{{ article.data.title }}</a></h3>
+            </header>
+            {%- if article.data.image -%}
+            <figure>
+                <img src="{{ article.data.image }}">
+            </figure>
+            {%- endif -%}
+            {%- if article.data.summary -%}
+            <p>{{ article.data.summary }}</p>
+            {%- endif -%}
+            {%- if article.data.date -%}
+            <footer>
+                <p><time datetime="{{ article.data.date | date }}">{{ article.data.date | date("DD MMMM YYYY") }}</time></p>
+            </footer>
+            {%- endif -%}
+        </article>
+    </li>
+    {%- endfor -%}
 </ul>
 
 {% import 'pagination.njk' as transverse %}
