@@ -9,17 +9,19 @@
   </head>
   <body>
     <nav>
-      <h2>Navigation</h2>
-      <ul>
-        <li><a href="{{ "/" | url }}">Back home</a></li>
-      </ul>
+        <h2>Navigation</h2>
+        <ul class="navigation">
+            {%- for item in navigation.primary -%}
+            <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+            {%- endfor -%}
+        </ul>
     </nav>
     <main>
-      <h1>{{ title }}</h1>
-      {{ content | safe }}
+        <h1>{{ title }}</h1>
+        {{ content | safe }}
     </main>
     <footer>
-      <a href="https://github.com/alienlebarge/snip/tree/master/{{ page.inputPath }}">Edit this page on GitHub</a>
+        <a href="https://github.com/alienlebarge/snip/tree/master/{{ page.inputPath }}">Edit this page on GitHub</a>
     </footer>
   </body>
 </html>
