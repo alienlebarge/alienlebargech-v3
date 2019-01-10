@@ -16,6 +16,7 @@
     <body>
         {% import 'navigation.njk' as nav %}
         {{ nav.menu(navigation.primary) }}
+        {{ nav.menu(navigation.secondary, title="Navigation secondary") }}
         <main>
             {% block main %}
                 {{ layoutContent }}
