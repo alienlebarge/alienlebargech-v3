@@ -3,9 +3,11 @@
     {%- for item in items -%}
     <li>
         <article>
+            {%- if item.data.title -%}
             <header>
                 <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
             </header>
+            {%- endif %-}
 
             {%- if item.data.image -%}
             <figure>
