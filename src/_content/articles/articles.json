@@ -1,5 +1,5 @@
 {
-  "layout": "layouts/base.njk",
+  "layout": "layouts/article.njk",
   "permalink": "{{ page.date | date: '%Y/%m' }}/{{ page.fileSlug }}.html",
   "type": "article"
 }

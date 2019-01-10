@@ -11,8 +11,9 @@
         {% import 'navigation.njk' as nav %}
         {{ nav.menu(navigation.primary) }}
         <main>
-            <h1>{{ title }}</h1>
-            {{ content | safe }}
+        {% block main %}
+            {{ layoutContent }}
+        {% endblock %}
         </main>
         <footer>
             <a href="https://github.com/alienlebarge/snip/tree/master/{{ page.inputPath }}">Edit this page on GitHub</a>
