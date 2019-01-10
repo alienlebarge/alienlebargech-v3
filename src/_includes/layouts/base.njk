@@ -19,7 +19,7 @@
         {{ nav.menu(navigation.secondary, title="Navigation secondary") }}
         <main>
             {% block main %}
-                {{ layoutContent }}
+                {{ layoutContent | safe }}
             {% endblock %}
         </main>
         <footer>
