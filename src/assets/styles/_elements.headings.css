@@ -8,6 +8,13 @@
     margin-top: 0;
 }
 
+h1,
+h2,
+h3 {
+    font-family: var(--font-family-display);
+    font-variation-settings: "wght" 700;
+}
+
 h1 {
   font-size: var(--font-size-title);
 }
@@ -26,4 +33,5 @@ h6 {
     font-size: var(--font-size-caption);
     text-transform: uppercase;
     letter-spacing: .125em;
+    font-weight: 800;
 }

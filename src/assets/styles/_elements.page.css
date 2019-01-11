@@ -17,7 +17,7 @@ html {
     min-height: 100%; /* [3] */
 
     font-size: var(--font-size-body); /* [1] */
-    font-family: var(--font-family-sans);
+    font-family: var(--font-family-serif);
     line-height: var(--line-height-tight); /* [1] */
     overflow-y: scroll; /* [2] */
 }
