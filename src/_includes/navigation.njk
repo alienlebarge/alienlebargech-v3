@@ -2,7 +2,7 @@
 {# Check if there something in `navigationLevel` #}
 {%- if navigationLevel -%}
 <nav>
-    <h2>{{ title }}</h2>
+    <h2 class="u-visually-hidden">{{ title }}</h2>
     <ul>
         {%- for item in navigationLevel -%}
         <li><a href="{{ item.url }}">{{ item.label }}</a></li>

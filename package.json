@@ -44,6 +44,7 @@
     "postcss-cli": "^6.1.1",
     "postcss-custom-selectors": "^5.1.2",
     "postcss-easy-import": "^3.0.0",
+    "postcss-extend-rule": "^2.0.0",
     "postcss-logical": "^3.0.0",
     "uslug": "^1.0.4"
   },
