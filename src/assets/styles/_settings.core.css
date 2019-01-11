@@ -4,16 +4,18 @@
 
 :root {
     /* Typography */
+    --font-family-display: "UntitledSerifDisplay", serif;
+    --font-family-serif: "UntitledSerif", serif;
     --font-family-sans: "Untitled", sans-serif;
     --font-family-system: system-ui;
     --font-family-monospace: "Source Code Pro", monospace;
-    --font-size-title: calc(1.75rem + 2vmin);
+    --font-size-title: calc(2.25rem + 2vmin);
     --font-size-lede: calc(1.125rem);
-    --font-size-heading: calc(1.25rem + .75vmin);
-    --font-size-subhead: calc(1.125rem + .125vmin);
-    --font-size-body: calc(1rem + .375vmin);
-    --font-size-reference: calc(.875rem + .25vmin);
-    --font-size-caption: calc(.75rem + .125vmin);
+    --font-size-heading: calc(1.875rem + .75vmin);
+    --font-size-subhead: calc(1.5em + .125vmin);
+    --font-size-body: calc(1.1rem + .375vmin);
+    --font-size-reference: calc(.975rem + .25vmin);
+    --font-size-caption: calc(.85rem + .125vmin);
     --font-size-default: 1rem;
     --line-height-solid: 1em;
     --line-height-tight: calc(1.25em + .25vw);
@@ -22,7 +24,8 @@
     --word-spacing: 0;
 
     /* Spacing > Block */
-    --space-block-large: calc(2rem + 6vh);
+    --space-block-xlarge: calc(2rem + 6vh);
+    --space-block-large: calc(1.5rem + 4.5vh);
     --space-block-medium: calc(1rem + 3vh);
     --space-block-small: calc(.5rem + 1.5vmin);
     --space-block-xsmall: calc(.25rem + .5vh);

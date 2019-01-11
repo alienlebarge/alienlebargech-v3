@@ -6,6 +6,9 @@
         <meta name="robots" content="{% if hidden == true %}noindex{% else %}index{% endif %}, follow">
 
         <link rel="me" href="https://mastodon.alienlebarge.ch/@alienlebarged">
+        <link rel="me" href="https://twitter.com/alienlebarge">
+        <link rel="me" href="https://github.com/alienlebarge">
+
         <link rel="stylesheet" href="{{ "/assets/styles/style.css" | url }}">
 
         <title>{{ title }}</title>
@@ -13,9 +16,11 @@
     <body>
         {% import 'navigation.njk' as nav %}
         {{ nav.menu(navigation.primary) }}
+        {{ nav.menu(navigation.secondary, title="Navigation secondary") }}
         <main>
-            <h1>{{ title }}</h1>
-            {{ content | safe }}
+            {% block main %}
+                {{ layoutContent | safe }}
+            {% endblock %}
         </main>
         <footer>
             <a href="https://github.com/alienlebarge/snip/tree/master/{{ page.inputPath }}">Edit this page on GitHub</a>

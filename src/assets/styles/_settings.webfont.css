@@ -1,6 +1,10 @@
 /* ==========================================================================
- * #WEBFONT
- * ========================================================================== */
+   #WEBFONT
+   ========================================================================== */
+
+/* -------------------------------------
+   #SANS
+   ------------------------------------- */
 
 @font-face {
     font-weight: 400;
@@ -22,4 +26,46 @@
     font-family: Untitled;
     font-display: swap;
     src: url("../fonts/Untitled-Medium.woff2") format("woff2");
+}
+
+
+
+/* -------------------------------------
+   #SERIF
+   ------------------------------------- */
+
+@font-face {
+    font-weight: 400;
+    font-family: UntitledSerif;
+    font-display: swap;
+    src: url("../fonts/UntitledSerif-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-weight: 400;
+    font-style: italic;
+    font-family: UntitledSerif;
+    font-display: swap;
+    src: url("../fonts/UntitledSerif-Italic.woff2") format("woff2");
+}
+
+@font-face {
+    font-weight: 800;
+    font-family: UntitledSerif;
+    font-display: swap;
+    src: url("../fonts/UntitledSerif-Bold.woff2") format("woff2");
+}
+
+
+
+/* -------------------------------------
+   #DISPLAY
+   ------------------------------------- */
+
+@font-face {
+    font-weight: normal;
+    font-style: normal;
+    font-family: UntitledSerifDisplay;
+    font-display: swap;
+    src: url("../fonts/UntitledSerifDisplay-VF.woff2") format("woff2");
 }

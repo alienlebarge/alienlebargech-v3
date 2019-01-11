@@ -31,7 +31,8 @@ Here's the style a basic `h1` will get.
 
 ---
 
-Le contenu de cette page concerne le scope `.g-prose`.
+<div class="o-prose">
+Le contenu de cette page concerne le scope `.0-prose`.
 
 ## Second-level heading
 
@@ -274,3 +275,4 @@ If you use these elements, you must use every element. They should appear in thi
 *[HTML]: HyperText Markup Language
 *[BBC]: British Broadcasting Corportation
 *[Staffs.]: Staffordshire
+</div>

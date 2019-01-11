@@ -1,0 +1,13 @@
+---
+title: Articles
+summary: List of all articles
+permalink: articles/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html
+pagination:
+    data: collections.article
+    size: 10
+---
+{% import 'list-items.njk' as list %}
+{{ list.listItems(pagination.items) }}
+
+{% import 'pagination.njk' as transverse %}
+{{ transverse.paginate(pagination, label='articles') }}

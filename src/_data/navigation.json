@@ -8,5 +8,11 @@
       "label": "Bookmarks",
       "url": "/bookmarks/"
     }
+  ],
+  "secondary": [
+    {
+      "label": "Notes",
+      "url": "/notes/"
+    }
   ]
 }
