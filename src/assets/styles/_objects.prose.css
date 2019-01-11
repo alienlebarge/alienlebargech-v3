@@ -17,6 +17,7 @@
     margin-block-start: var(--space-block-large);
 }
 
-.o-prose * + h3 {
+.o-prose * + h3,
+.o-prose * + h4 {
     margin-block-start: var(--space-block-medium);
 }
