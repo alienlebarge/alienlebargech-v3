@@ -2,10 +2,21 @@
    #PROSE
    ========================================================================== */
 
+/**
+ * Prose is a scope for linear text.
+ */
+.o-prose p {
+    line-height: var(--line-height-loose);
+}
+
 .o-prose * {
     max-inline-size: var(--line-measure);
 }
 
-.o-prose :--heading {
-    margin-top: var(--space-block-large);
+.o-prose * + h2 {
+    margin-block-start: var(--space-block-large);
+}
+
+.o-prose * + h3 {
+    margin-block-start: var(--space-block-medium);
 }
