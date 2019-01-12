@@ -14,9 +14,7 @@
         <title>{{ title }}</title>
     </head>
     <body>
-        {% import 'navigation.njk' as nav %}
-        {{ nav.menu(navigation.primary) }}
-        {{ nav.menu(navigation.secondary, title="Navigation secondary") }}
+        {% include 'banner.njk' %}
         <main>
             {% block main %}
                 {{ layoutContent | safe }}
