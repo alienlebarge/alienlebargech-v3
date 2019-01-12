@@ -1,0 +1,18 @@
+/* ==========================================================================
+   #ANCHORS
+   ========================================================================== */
+
+a {
+    color: var(a--anchor-color, inherit);
+    text-decoration: var(--anchor-decoration, none);
+}
+
+/**
+ * Instead of using a `class="is-current"`, there is an accessible way of doing
+ * it.
+ * https://tink.uk/using-the-aria-current-attribute/
+ */
+
+a[aria-current] {
+    font-weight: 800;
+}
