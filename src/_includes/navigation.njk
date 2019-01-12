@@ -3,7 +3,7 @@
 {%- if navigationLevel -%}
 <nav>
     <h2 class="u-visually-hidden">{{ title }}</h2>
-    <ul>
+    <ul class="o-list-inline">
         {%- for item in navigationLevel -%}
         <li><a href="{{ item.url }}">{{ item.label }}</a></li>
         {%- endfor -%}

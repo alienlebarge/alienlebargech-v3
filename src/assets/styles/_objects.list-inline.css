@@ -1,0 +1,13 @@
+/* ==========================================================================
+   #LIST-INLINE
+   ========================================================================== */
+
+/**
+ * The list-inline object simply displays a list of items in one line.
+ */
+
+.o-list-inline {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+}
