@@ -20,4 +20,5 @@ html {
     font-family: var(--font-family-serif);
     line-height: var(--line-height-tight); /* [1] */
     overflow-y: scroll; /* [2] */
+    color: var(--color-text);
 }
