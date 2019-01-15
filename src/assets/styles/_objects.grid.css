@@ -1,0 +1,17 @@
+/* ==========================================================================
+   #GRID
+   ========================================================================== */
+
+.o-grid {
+    display: flex;
+    flex-wrap: wrap;
+    margin: calc(-1 * var(--space-block-xsmall));
+    padding-bottom: var(--space-block-small);
+}
+
+.o-grid > * {
+    --grid-item-width: calc(5 * var(--space-block-medium));
+
+    flex: 1 0 var(--grid-item-width);
+    margin: var(--space-block-xsmall);
+}

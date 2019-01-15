@@ -31,6 +31,47 @@ Here's the style a basic `h1` will get.
 
 ---
 
+## Colors
+
+### Neutral
+
+<div class="o-grid">
+    <div class="o-box u-background-neutral">Neutral</div>
+    <div class="o-box u-background-neutral-darkest">Neutral darker</div>
+    <div class="o-box u-background-neutral-darker">Neutral darkest</div>
+    <div class="o-box u-background-neutral-dark">Neutral dark</div>
+    <div class="o-box u-background-neutral-light">Neutral light</div>
+    <div class="o-box u-background-neutral-lighter">Neutral lighter</div>
+    <div class="o-box u-background-neutral-lightest">Neutral lightest</div>
+</div>
+
+### Alpha
+
+<div class="o-grid">
+    <div class="o-box u-background-alpha-highest">Alpha high</div>
+    <div class="o-box u-background-alpha-high">Alpha high</div>
+    <div class="o-box u-background-alpha-low">Alpha low</div>
+    <div class="o-box u-background-alpha-lowest">Alpha lowest</div>
+</div>
+
+### Assignement
+
+<div class="o-grid">
+    <div class="o-box u-background-accent">Accent</div>
+    <div class="o-box u-background-background">Background</div>
+    <div class="o-box u-background-text">Text</div>
+    <div class="o-box u-background-link">Link</div>
+    <div class="o-box u-background-link-underline">Link underline</div>
+    <div class="o-box u-background-rule">Rule</div>
+    <div class="o-box u-background-offset">Offset</div>
+    <div class="o-box u-background-delete">Delete</div>
+    <div class="o-box u-background-highlight">Highlight</div>
+    <div class="o-box u-background-insert">Insert</div>
+    <div class="o-box u-background-focus">Focus</div>
+</div>
+
+---
+
 <div class="o-prose">
 
 Le contenu de cette page concerne le scope `.0-prose`.

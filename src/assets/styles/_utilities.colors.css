@@ -1,0 +1,95 @@
+/* ==========================================================================
+   #UTILITIES-COLORS
+   ========================================================================== */
+
+.u-background-neutral {
+    background-color: var(--color-neutral);
+}
+
+.u-background-neutral-darkest {
+    background-color: var(--color-neutral-darkest);
+}
+
+.u-background-neutral-darker {
+    background-color: var(--color-neutral-darker);
+}
+
+.u-background-neutral-dark {
+    background-color: var(--color-neutral-dark);
+}
+
+.u-background-neutral-light {
+    background-color: var(--color-neutral-light);
+}
+
+.u-background-neutral-lighter {
+    background-color: var(--color-neutral-lighter);
+}
+
+.u-background-neutral-lightest {
+    background-color: var(--color-neutral-lightest);
+}
+
+
+
+.u-background-alpha-highest {
+    background-color: var(--color-alpha-highest);
+}
+
+.u-background-alpha-high {
+    background-color: var(--color-alpha-high);
+}
+
+.u-background-alpha-low {
+    background-color: var(--color-alpha-low);
+}
+
+.u-background-alpha-lowest {
+    background-color: var(--color-alpha-lowest);
+}
+
+
+
+.u-background-accent {
+    background-color: var(--color-accent);
+}
+
+.u-background-background {
+    background-color: var(--color-background);
+}
+
+.u-background-text {
+    background-color: var(--color-text);
+}
+
+.u-background-link {
+    background-color: var(--color-link);
+}
+
+.u-background-link-underline {
+    background-color: var(--color-link-underline);
+}
+
+.u-background-rule {
+    background-color: var(--color-rule);
+}
+
+.u-background-offset {
+    background-color: var(--color-offset);
+}
+
+.u-background-delete {
+    background-color: var(--color-delete);
+}
+
+.u-background-highlight {
+    background-color: var(--color-highlight);
+}
+
+.u-background-insert {
+    background-color: var(--color-insert);
+}
+
+.u-background-focus {
+    background-color: var(--color-accent);
+}
