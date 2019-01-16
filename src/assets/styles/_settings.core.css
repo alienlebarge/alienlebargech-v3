@@ -61,4 +61,11 @@
     /* Spacing > Inline */
     --space-inline-small: .375rem;
     --space-inline: .75rem;
+
+    /* Borders */
+    --border-radius-xsmall: 0.125rem;
+    --border-radius-small: 0.25rem;
+    --border-width-thin: 1px;
+    --border-width-thick: 0.125rem;
+    --border-width-thickest: 0.5rem;
 }

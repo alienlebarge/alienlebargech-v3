@@ -3,8 +3,6 @@
    ========================================================================== */
 
 blockquote {
-    padding-inline-start: var(--space-block-medium);
-    border-inline-start-width: var(--space-block-small);
-    border-inline-start-color: var(--color-rule);
-    border-inline-start-style: solid;
+    padding-inline-start: var(--space-block-small);
+    border-inline-start: var(--border-width-thickest) solid var(--color-rule);
 }
