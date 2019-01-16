@@ -4,6 +4,7 @@
 
 .o-box {
     display: block;
+
     padding: var(--space-block-medium);
 }
 
