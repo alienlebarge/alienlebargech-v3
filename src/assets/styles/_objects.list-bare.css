@@ -11,10 +11,10 @@
  */
 
 .o-list-bare {
-  list-style: none;
-  margin-left: 0;
+    margin-left: 0;
+    list-style: none;
 }
 
-  .o-list-bare__item {
+.o-list-bare__item {
     margin-left: 0;
 }

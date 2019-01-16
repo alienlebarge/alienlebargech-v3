@@ -6,12 +6,12 @@
  * All lists
  */
 :--list {
-   margin-left: 0;
-   list-style-position: inside;
+    margin-left: 0;
+    list-style-position: inside;
 }
 
 :--list :--list {
-   margin-left: var(--space-block-small);
+    margin-left: var(--space-block-small);
 }
 
 

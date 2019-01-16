@@ -28,5 +28,5 @@ figure,
 hr,
 table,
 fieldset {
-  margin-bottom: var(--space-block-small);
+    margin-bottom: var(--space-block-small);
 }
