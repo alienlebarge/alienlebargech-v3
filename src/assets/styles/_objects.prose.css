@@ -5,6 +5,11 @@
 /**
  * Prose is a scope for linear text.
  */
+
+.o-prose {
+    --flow-inset: 1.5em;
+}
+
 .o-prose p {
     line-height: var(--line-height-loose);
     hyphenate-limit-chars: 6 3 2;
