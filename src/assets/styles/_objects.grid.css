@@ -5,15 +5,15 @@
 .o-grid {
     display: flex;
 
-    margin: calc(-1 * var(--space-block-xsmall));
-    padding-bottom: var(--space-block-small);
+    margin: calc(-1 * var(--grid-column-gap));
+    padding-bottom: var(--grid-row-gap);
     flex-wrap: wrap;
 }
 
 .o-grid > * {
-    --grid-item-width: calc(5 * var(--space-block-medium));
+    --grid-item-width: var(--container-inline-inset);
 
     flex: 1 0 var(--grid-item-width);
 
-    margin: var(--space-block-xsmall);
+    margin: var(--grid-column-gap);
 }
