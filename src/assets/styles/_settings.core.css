@@ -23,7 +23,7 @@
     --color-background: white;
     --color-text: var(--color-neutral-darkest);
     --color-link: var(--color-accent);
-    --color-link-underline: var(--color-alpha-high);
+    --color-link-underline: var(--color-alpha-low);
     --color-rule: var(--color-alpha-highest);
     --color-offset: var(--color-neutral-lightest);
     --color-delete: hsla(0, 100%, 80%, .75);

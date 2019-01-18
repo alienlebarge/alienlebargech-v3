@@ -3,8 +3,14 @@
    ========================================================================== */
 
 a {
-    color: var(a--anchor-color, inherit);
+    color: var(--anchor-color, inherit);
     text-decoration: var(--anchor-decoration, none);
+    text-decoration-skip-ink: auto;
+}
+
+a:hover {
+    color: var(--color-accent);
+    text-decoration-color: var(--color-accent);
 }
 
 /**
