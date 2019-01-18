@@ -8,6 +8,8 @@
 
 .o-list-inline {
     display: flex;
-    flex-wrap: wrap;
-    list-style: none;
+}
+
+.o-list-inline > * {
+    display: block;
 }
