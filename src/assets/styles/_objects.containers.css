@@ -9,13 +9,15 @@
 }
 
 @media (--from-large-viewport) {
-  :root {
-    --container-inline-size: 80vw;
-  }
+
+    :root {
+        --container-inline-size: 80vw;
+    }
 }
 
 @media (--from-largest-viewport) {
-  :root {
-    --container-inline-size: 80rem;
-  }
+
+    :root {
+        --container-inline-size: 80rem;
+    }
 }

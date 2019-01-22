@@ -52,11 +52,11 @@
     --word-spacing: 0;
 
     /* Borders */
-        --border-radius-xsmall: 0.125rem;
-    --border-radius-small: 0.25rem;
+    --border-radius-xsmall: .125rem;
+    --border-radius-small: .25rem;
     --border-width-thin: 1px;
-    --border-width-thick: 0.125rem;
-    --border-width-thickest: 0.5rem;
+    --border-width-thick: .125rem;
+    --border-width-thickest: .5rem;
 
     /* Spacing > Block */
     --space-block-xlarge: calc(2rem + 6vh);
@@ -70,7 +70,7 @@
     --space-inline: .75rem;
 
     /* Inset spacing */
-    --inset: calc(0.5rem + 0.25vw);
+    --inset: calc(.5rem + .25vw);
     --inset-squished: calc(var(--inset) / 2) var(--inset);
     --inset-small: calc(var(--inset) / 2);
     --inset-small-squished: calc(var(--inset-small) / 2) var(--inset-small);
@@ -82,7 +82,7 @@
     --grid-row-gap: var(--space-block-medium);
 
     /* Animation */
-    --transition-short: 0.15s;
+    --transition-short: .15s;
 
     /* Container values */
     --container-inline-size: 100vw;
@@ -91,13 +91,15 @@
 }
 
 @media (--from-large-viewport) {
-  :root {
-    --container-inline-size: 80vw;
-  }
+
+    :root {
+        --container-inline-size: 80vw;
+    }
 }
 
 @media (--from-largest-viewport) {
-  :root {
-    --container-inline-size: 80rem;
-  }
+
+    :root {
+        --container-inline-size: 80rem;
+    }
 }
