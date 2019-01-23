@@ -1,1 +1,8 @@
-<h1>{{ title }}</h1>
+<header class=header>
+    <h1 class="header__title">{{ title }}</h1>
+    {% if summary -%}
+    <div class="header__summary">
+        <p>{{ summary }}
+    </div>
+    {%- endif %}
+</header>
