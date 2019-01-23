@@ -4,6 +4,9 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="robots" content="{% if hidden == true %}noindex{% else %}index{% endif %}, follow">
+        <meta property="og:title" content="{{ title }}">
+        <meta property="og:url" content="{{ page.url }}">
+        {%- if summary %}<meta name="description" content="{{ summary }}">{%- endif %}
 
         <link rel="me" href="https://mastodon.alienlebarge.ch/@alienlebarged">
         <link rel="me" href="https://twitter.com/alienlebarge">
@@ -11,7 +14,7 @@
 
         <link rel="stylesheet" href="{{ "/assets/styles/style.css" | url }}">
 
-        <title>{{ title }}</title>
+    <title>{{ title }}</title>
     </head>
     <body>
         {% include 'banner.njk' %}
