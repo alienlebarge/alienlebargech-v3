@@ -1,0 +1,20 @@
+/* ==========================================================================
+   #HEADER
+   ========================================================================== */
+
+.c-header {
+    margin-block-end: var(--space-block-large);
+}
+
+.c-header__title,
+.c-header__summary {
+    max-width: var(--line-measure);
+}
+
+.c-header__title {
+    @extend %title;
+}
+
+.c-header__summary {
+    @extend %lede;
+}
