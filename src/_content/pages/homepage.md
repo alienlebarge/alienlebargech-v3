@@ -1,8 +1,11 @@
 ---
 title: Hi, I'm Cédric–
-summary: a front end engineer based in Lausanne, Switzerland. I help the State of Vaud to ship powerful products.
+summary: a front end engineer based in Lausanne, Switzerland. I help organizations to ship powerful products.
 permalink: /index.html
 ---
 
-I’m building interfaces to the web since 2004.
+I'm making website since 2004.
 
+At the State of Vaud, I am the lead developer of the design system. We assist the government entities to facilitate the services they offer to users.
+
+Inclusiveness is a vital part of my job. It is important to leave no one behind.
