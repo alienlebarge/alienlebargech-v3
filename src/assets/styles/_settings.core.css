@@ -38,7 +38,7 @@
     --font-family-system: system-ui;
     --font-family-monospace: "Source Code Pro", monospace;
     --font-size-title: calc(2.25rem + 2vmin);
-    --font-size-lede: calc(1.125rem);
+    --font-size-lede: calc(1.125rem + 1.25vmin);
     --font-size-heading: calc(1.875em + .75vmin);
     --font-size-subhead: calc(1.5em + .125vmin);
     --font-size-body: calc(1rem + .375vmin);

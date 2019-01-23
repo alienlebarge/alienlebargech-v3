@@ -13,8 +13,11 @@
 
 %lede {
     font-size: var(--font-size-lede);
+    font-weight: var(--font-weight-lede, 400);
+    font-family: var(--font-family-lede, var(--font-family-display));
     line-height: var(--line-height-lede, var(--line-height-tight));
     color: var(--color-neutral-darker);
+    font-variation-settings: "wght" var(--font-weight-lede, 400);
     hanging-punctuation: first;
 }
 
