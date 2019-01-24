@@ -10,9 +10,11 @@
  */
 
 .c-navigation {
+    font-size: var(--font-size-reference);
     display: grid;
     grid-template-columns: min-content auto auto;
     margin-inline: calc(-1 * var(--inset)); /* [1] */
+    margin-block-end: 0;
 }
 
 .c-navigation a {
@@ -23,6 +25,7 @@
 }
 
 .c-navigation__logo a {
+    color: var(--color-text);
     font-weight: 800; /* [2] */
 }
 
