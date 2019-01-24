@@ -1,0 +1,9 @@
+/* ==========================================================================
+   #BANNER
+   ========================================================================== */
+
+.c-banner {
+    color: var(--color-neutral-dark);
+    padding-block: 4vw;
+    background-color: var(--color-neutral-lightest);
+}
