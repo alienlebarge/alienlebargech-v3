@@ -18,10 +18,12 @@
     </head>
     <body>
         {% include 'banner.njk' %}
-        <main class="o-container c-main">
-            {% block main %}
-                {{ layoutContent | safe }}
-            {% endblock %}
+        <main class="c-main">
+            <div class="o-container">
+                {% block main %}
+                    {{ layoutContent | safe }}
+                {% endblock %}
+            </div>
         </main>
         {% include 'footer.njk' %}
     </body>

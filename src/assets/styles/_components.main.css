@@ -5,4 +5,11 @@
 .c-main {
     --anchor-decoration: underline var(--color-link-underline);
     margin-block: var(--space-block-medium);
+
+    background: linear-gradient(
+        90deg,
+        var(--color-background) 0,
+        var(--color-background) calc(50vw + var(--container-inline-size) / 2),
+        transparent 0,
+        transparent);
 }
