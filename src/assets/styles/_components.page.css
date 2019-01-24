@@ -1,0 +1,22 @@
+/* ==========================================================================
+   #PAGE
+   ========================================================================== */
+
+/**
+ * Structure the page.
+ *
+ * It helps the footer to be stick at the bottom of the page event if there not
+ * enough content.
+ */
+.c-page {
+    display: flex;
+    min-height: 100vh;
+}
+
+.c-page__main {
+    flex: 1;
+}
+
+.c-page__footer {
+    margin-block-start: auto;
+}

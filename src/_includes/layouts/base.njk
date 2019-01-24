@@ -16,9 +16,9 @@
 
         <title>{{ title }}</title>
     </head>
-    <body>
+    <body class="c-page">
         {% include 'banner.njk' %}
-        <main class="c-main">
+        <main class="c-main c-page__main">
             <div class="o-container">
                 {% block main %}
                     {{ layoutContent | safe }}

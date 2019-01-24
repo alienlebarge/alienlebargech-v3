@@ -7,5 +7,5 @@
     color: var(--color-neutral-dark);
 
     background-color: var(--color-neutral-lightest);
-    padding-block: 4vw;
+    padding-block: var(--space-block-small);
 }
