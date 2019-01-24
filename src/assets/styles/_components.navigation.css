@@ -17,6 +17,7 @@
 
 .c-navigation a {
     display: inline-flex;
+
     padding: var(--inset-squished);
     white-space: nowrap;
 }

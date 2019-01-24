@@ -47,3 +47,48 @@
     text-transform: uppercase;
     letter-spacing: .125em;
 }
+
+/* -------------------------------------
+   #TYPE-FEATURES
+   ------------------------------------- */
+
+/**
+ * more info here:
+ * https://practice.typekit.com/lesson/caring-about-opentype-features/
+ */
+
+%type-features-body {
+    font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum";
+    font-variant-ligatures: common-ligatures contextual;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+}
+
+%type-features-inline {
+    font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum",
+                           "smcp", "c2sc";
+    font-variant-ligatures: common-ligatures contextual;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+}
+
+%type-features-display {
+    font-feature-settings: "kern", "liga", "clig", "calt", "dlig";
+    font-variant-ligatures: common-ligatures contextual discretionary-ligatures;
+}
+
+%type-features-data {
+    font-feature-settings: "kern", "liga", "clig", "calt", "lnum", "tnum";
+    font-variant-ligatures: common-ligatures contextual;
+    font-variant-numeric: lining-nums tabular-nums;
+}
+
+%type-features-fraction {
+    font-feature-settings: "kern", "liga", "clig", "calt", "frac";
+    font-variant-ligatures: common-ligatures contextual;
+    font-variant-numeric: diagonal-fractions;
+}
+
+%type-features-fn {
+    font-feature-settings: "kern", "liga", "clig", "calt", "subs";
+    font-variant-ligatures: common-ligatures contextual;
+    font-variant-position: sub;
+}

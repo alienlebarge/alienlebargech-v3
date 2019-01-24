@@ -21,4 +21,8 @@ html {
     line-height: var(--line-height-tight); /* [1] */
     color: var(--color-text);
     overflow-y: scroll; /* [2] */
+
+    text-rendering: optimizeLegibility;
+
+    @extend %type-features-body;
 }
