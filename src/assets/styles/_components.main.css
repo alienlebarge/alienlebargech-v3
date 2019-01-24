@@ -4,4 +4,5 @@
 
 .c-main {
     --anchor-decoration: underline var(--color-link-underline);
+    margin-block: var(--space-block-medium);
 }
