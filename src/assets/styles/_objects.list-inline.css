@@ -8,8 +8,15 @@
 
 .o-list-inline {
     display: flex;
+    flex-wrap: wrap;
+    margin-block-end: 0;
+    margin-inline-start: 0;
 }
 
-.o-list-inline > * {
+.o-list-inline__item {
     display: block;
+}
+
+.o-list-inline__item:not(:last-child) {
+    margin-inline-end: var(--space-inline);
 }

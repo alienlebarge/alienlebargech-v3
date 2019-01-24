@@ -1,25 +1,26 @@
 <header class="o-container">
     <nav>
         <h2 class="u-visually-hidden">Navigation</h2>
-        <ul>
+        <ul class="c-navigation">
+            <li class="c-navigation__logo"><a href="{{ "/" | url }}">alienlebarge</a></li>
             {%- if navigation.primary -%}
-            <li><a href="{{ "/" | url }}">alienlebarge</a></li>
-            {%- for item in navigation.primary -%}
-            <li><a href="{{ item.url }}">{{ item.label }}</a></li>
-            {%- endfor -%}
+            <li class="c-navigation__primary"><span class="u-visually-hidden">Primary navigation</span>
+                <ul class="o-list-inline">
+                    {%- for item in navigation.primary -%}
+                    <li class="o-list-inline__item"><a href="{{ item.url }}">{{ item.label }}</a></li>
+                    {%- endfor -%}
+                </ul>
+            </li>
             {%- endif -%}
             {%- if navigation.secondary -%}
-            <li>Secondary
-                <ul>
+            <li class="c-navigation__secondary"><span class="u-visually-hidden">Secondary secondary</span>
+                <ul class="o-list-inline">
                     {%- for item in navigation.secondary -%}
-                    <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+                    <li class="o-list-inline__item"><a href="{{ item.url }}">{{ item.label }}</a></li>
                     {%- endfor -%}
                 </ul>
             </li>
             {%- endif -%}
         </ul>
     </nav>
-    {% import 'navigation.njk' as nav %}
-    {{ nav.menu(navigation.primary) }}
-    {{ nav.menu(navigation.secondary, title="Navigation secondary") }}
 </header>

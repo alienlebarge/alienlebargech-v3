@@ -13,6 +13,14 @@
     {
       "label": "Notes",
       "url": "/notes/"
+    },
+    {
+      "label": "Bookmarks",
+      "url": "/bookmarks/"
+    },
+    {
+      "label": "Snippets",
+      "url": "/snippets/"
     }
   ]
 }

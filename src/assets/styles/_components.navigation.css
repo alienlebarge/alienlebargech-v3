@@ -1,0 +1,58 @@
+/* ==========================================================================
+   #NAVIGATION
+   ========================================================================== */
+
+/**
+ * 1. Align the text to the left and the right. This is because links have
+ *    paddings.
+ * 2. Style the logo
+ * 3. Remove list bullet
+ */
+
+.c-navigation {
+    display: grid;
+    grid-template-columns: min-content auto auto;
+    margin-inline: calc(-1 * var(--inset)); /* [1] */
+}
+
+.c-navigation a {
+    display: inline-flex;
+    padding: var(--inset-squished);
+    white-space: nowrap;
+}
+
+.c-navigation__logo a {
+    font-weight: 800; /* [2] */
+}
+
+.c-navigation__logo,
+.c-navigation__primary,
+.c-navigation__secondary {
+    display: block; /* [3] */
+    grid-column: auto / span 3;
+}
+
+@media (--from-small-viewport) {
+
+    .c-navigation__logo {
+        grid-column: 1 / 2;
+        grid-row: auto / span 2;
+    }
+
+    .c-navigation__primary,
+    .c-navigation__secondary {
+        grid-column: 2 / 4;
+    }
+}
+
+@media (--from-medium-viewport) {
+
+    .c-navigation__primary {
+        grid-column: 2 / 3;
+    }
+
+    .c-navigation__secondary {
+        grid-column: 3 / 4;
+        justify-self: end;
+    }
+}
