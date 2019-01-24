@@ -24,6 +24,7 @@ html {
 
 body {
     min-height: 100vh; /* [3] */
+
     font-size: var(--font-size-body); /* [1] */
     font-family: var(--font-family-serif);
     line-height: var(--line-height-tight); /* [1] */
