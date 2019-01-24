@@ -1,0 +1,11 @@
+/* ==========================================================================
+   #FOOTER
+   ========================================================================== */
+
+.c-footer {
+    font-size: var(--font-size-reference);
+    color: var(--color-neutral-dark);
+
+    background-color: var(--color-neutral-lightest);
+    padding-block: 4vw;
+}
