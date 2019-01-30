@@ -8,4 +8,6 @@
 
 table {
     width: 100%; /* [1] */
+
+    @extend %type-features-data;
 }
