@@ -3,61 +3,62 @@
    ========================================================================== */
 
 .token {
-  --color-token-comment: var(--color-neutral-dark);
-  --color-token-operator: var(--color-neutral-darker);
-  --color-token-function: #a90101;
-  --color-token-keyword: #02769c;
-  --color-token-selector: #610099;
-  --color-token-string: #c06;
-  --color-token-variable: #186f30;
+    --color-token-comment: var(--color-neutral-dark);
+    --color-token-operator: var(--color-neutral-darker);
+    --color-token-function: hsla(0, 99%, 66%, 1);
+    --color-token-keyword: hsla(195, 99%, 61%, 1);
+    --color-token-selector: hsla(278, 100%, 60%, 1);
+    --color-token-string: hsla(330, 100%, 80%, 1);
+    --color-token-variable: hsla(137, 78%, 44%, 1);
 }
 
 @media (prefers-color-scheme: dark) {
-  .token {
-    --color-token-function: #f99;
-    --color-token-keyword: #0cf;
-    --color-token-selector: #99f;
-    --color-token-string: #f09;
-    --color-token-variable: #9ff;
-  }
+
+    .token {
+        --color-token-function: hsla(0, 40%, 100%, 1);
+        --color-token-keyword: hsla(192, 100%, 100%, 1);
+        --color-token-selector: hsla(240, 40%, 100%, 1);
+        --color-token-string: hsla(324, 100%, 100%, 1);
+        --color-token-variable: hsla(180, 40%, 100%);
+    }
 }
 
 .token.namespace {
-  opacity: 0.7;
+    opacity: .7;
 }
 
 .token.cdata,
 .token.comment,
 .token.doctype,
 .token.prolog {
-  color: var(--color-token-comment);
-  font-style: italic;
+    font-style: italic;
+    color: var(--color-token-comment);
 }
 
 .token.operator,
 .token.punctuation {
-  color: var(--color-token-operator);
+    color: var(--color-token-operator);
 }
 
 .token.deleted,
 .token.function {
-  color: var(--color-token-function);
+    color: var(--color-token-function);
 }
 
 .token.atrule,
 .token.attr-name,
 .token.keyword {
-  color: var(--color-token-keyword);
+    color: var(--color-token-keyword);
 }
 
 .token.selector,
 .token.tag {
-  color: var(--color-token-selector);
+    color: var(--color-token-selector);
 }
 
 .token.attr-value,
 .token.string {
-  color: var(--color-token-string);
+    color: var(--color-token-string);
 }
 
 .token.boolean,
@@ -70,7 +71,7 @@
 .token.symbol,
 .token.url,
 .token.variable {
-  color: var(--color-token-variable);
+    color: var(--color-token-variable);
 }
 
 .token.bold,
@@ -80,5 +81,5 @@
 }
 
 .token.italic {
-  font-style: italic;
+    font-style: italic;
 }

@@ -20,13 +20,14 @@ samp {
 }
 
 pre {
-    background-color: var(--color-offset);
     display: block;
-    overflow-x: scroll;
+
+    background-color: var(--color-offset);
     padding: var(--inset);
+    overflow-x: scroll;
 }
 
 samp {
-  border: var(--border-width-thin) solid var(--color-offset);
-  padding: var(--inset-small-squished);
+    border: var(--border-width-thin) solid var(--color-offset);
+    padding: var(--inset-small-squished);
 }

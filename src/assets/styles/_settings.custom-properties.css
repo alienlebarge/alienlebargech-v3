@@ -20,7 +20,7 @@
 
     /* Colour assignments */
     --color-accent: var(--color-accent-light);
-    --color-background: white;
+    --color-background: hsla(0, 0%, 100%, 1);
     --color-text: var(--color-neutral-darkest);
     --color-link: var(--color-accent);
     --color-link-underline: var(--color-alpha-low);
