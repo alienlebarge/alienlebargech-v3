@@ -5,21 +5,21 @@
 .token {
     --color-token-comment: var(--color-neutral-dark);
     --color-token-operator: var(--color-neutral-darker);
-    --color-token-function: hsla(0, 99%, 66%, 1);
-    --color-token-keyword: hsla(195, 99%, 61%, 1);
-    --color-token-selector: hsla(278, 100%, 60%, 1);
-    --color-token-string: hsla(330, 100%, 80%, 1);
-    --color-token-variable: hsla(137, 78%, 44%, 1);
+    --color-token-function: hsla(0, 100%, 40%, 1);
+    --color-token-keyword: hsla(200, 100%, 30%, 1);
+    --color-token-selector: hsla(300, 100%, 30%, 1);
+    --color-token-string: hsla(335, 100%, 30%, 1);
+    --color-token-variable: hsla(130, 80%, 20%, 1);
 }
 
 @media (prefers-color-scheme: dark) {
 
     .token {
-        --color-token-function: hsla(0, 40%, 100%, 1);
-        --color-token-keyword: hsla(192, 100%, 100%, 1);
-        --color-token-selector: hsla(240, 40%, 100%, 1);
-        --color-token-string: hsla(324, 100%, 100%, 1);
-        --color-token-variable: hsla(180, 40%, 100%);
+        --color-token-function: hsla(0, 100%, 90%, 1);
+        --color-token-keyword: hsla(200, 100%, 90%, 1);
+        --color-token-selector: hsla(300, 100%, 90%, 1);
+        --color-token-string: hsla(335, 100%, 90%, 1);
+        --color-token-variable: hsla(130, 80%, 90%, 1);
     }
 }
 
