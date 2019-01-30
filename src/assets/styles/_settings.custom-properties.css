@@ -36,7 +36,7 @@
     --font-family-serif: "UntitledSerif", serif;
     --font-family-sans: "Untitled", sans-serif;
     --font-family-system: system-ui;
-    --font-family-monospace: "Source Code Pro", monospace;
+    --font-family-monospace: "UntitledMono", monospace;
     --font-size-title: calc(2.25rem + 2vmin);
     --font-size-lede: calc(1.25rem + 1.25vmin);
     --font-size-heading: calc(1.875em + .75vmin);

@@ -20,5 +20,8 @@
 /* Components */
 @import "./_components.*.css";
 
+/* Vendors */
+@import "./_vendors.*.css";
+
 /* Utilities */
 @import "./_utilities.*.css";

@@ -69,3 +69,24 @@
     font-display: swap;
     src: url("../fonts/UntitledSerifDisplay-VF.woff2") format("woff2");
 }
+
+
+
+/* -------------------------------------
+   #MONO
+   ------------------------------------- */
+
+@font-face {
+    font-weight: 400;
+    font-family: UntitledMono;
+    font-display: swap;
+    src: url("../fonts/UntitledMono-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-weight: 400;
+    font-style: italic;
+    font-family: UntitledMono;
+    font-display: swap;
+    src: url("../fonts/UntitledMono-Italic.woff2") format("woff2");
+}

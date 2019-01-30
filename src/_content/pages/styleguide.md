@@ -243,6 +243,13 @@ The following exampes shows the `code` element used in conjunction with the `pre
 console.log('Hello World!');
 ```
 
+```css
+/* This is a comment */
+.myClass {
+    color: hsla(60, 100%, 80%, .75);
+}
+```
+
 ### Variable
 
 The `var` element is used to denote a variable in a mathematical expression or programming context, but can also be used to indicate a placeholder where the contents should be replaced with your own value. Example:
