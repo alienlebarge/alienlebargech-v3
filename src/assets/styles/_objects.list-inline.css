@@ -16,7 +16,3 @@
 .o-list-inline__item {
     display: block;
 }
-
-.o-list-inline__item:not(:last-child) {
-    margin-inline-end: var(--space-inline);
-}
