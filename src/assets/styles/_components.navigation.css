@@ -12,14 +12,22 @@
 .c-navigation {
     display: flex; /* [1] */
     flex-wrap: wrap; /* [1] */
+    flex-direction: column;
     margin-left: calc(var(--inset) * -1); /* [3] */
     margin-right: calc(var(--inset) * -1); /* [3] */
+}
+
+@media (--from-small-viewport) {
+    .c-navigation {
+        flex-direction: row;
+    }
 }
 
 .c-navigation__title {
     flex:0; /* [1] */
     font-weight: bold; /* [2] */
     color: var(--color-text);
+    margin-block-end: var(--space-block-xsmall);
 }
 
 .c-navigation__pages {
@@ -27,6 +35,10 @@
     flex-wrap: wrap; /* [2] */
     justify-content: space-between; /* [2] */
     flex: 1; /* [1] */
+}
+
+.c-navigation__list {
+    margin-block-end: var(--space-block-xsmall);
 }
 
 .c-navigation__link {

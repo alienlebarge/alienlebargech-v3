@@ -11,7 +11,7 @@
             <div class="c-navigation__pages">
                 {%- if navigation.primary -%}
                 <h2 class="u-visually-hidden">Primary Pages</h2>
-                <ul class="o-list-inline">
+                <ul class="o-list-inline c-navigation__list">
                     {%- for item in navigation.primary -%}
                     <li class="o-list-inline__item">
                         <a class="c-navigation__link" href="{{ item.url }}">{{ item.label }}</a>
@@ -21,7 +21,7 @@
                 {%- endif -%}
                 {%- if navigation.secondary -%}
                 <h2 class="u-visually-hidden">Secondary Pages</h2>
-                <ul class="o-list-inline">
+                <ul class="o-list-inline c-navigation__list">
                     {%- for item in navigation.secondary -%}
                     <li class="o-list-inline__item">
                         <a class="c-navigation__link" href="{{ item.url }}">{{ item.label }}</a>
