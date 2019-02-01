@@ -1,0 +1,24 @@
+{
+  social: [
+    {
+      "label": "Mastodon",
+      "url": "https://mastodon.alienlebarge.ch/@alienlebarge",
+      "image": ""
+    },
+    {
+      "label": "Twitter",
+      "url": "https://twitter.com/alienlebarge",
+      "image": ""
+    },
+    {
+      "label": "Flickr",
+      "url": "https://www.flickr.com/photos/alienlebarge/",
+      "image": ""
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/alienlebarge",
+      "image": ""
+    }
+  ]
+}
