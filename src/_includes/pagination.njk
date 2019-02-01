@@ -7,13 +7,13 @@
     {# Check if we are on the last page #}
     {%- if pagination.nextPageHref -%}
     <li>
-      <a href="{{ pagination.nextPageHref }}"><span>Older {{ label }}</span> <span>(Page {{ pagination.pageNumber + 2 }} of {{ pagination.hrefs.length }})</span></a>
+      <a href="{{ pagination.nextPageHref }}" rel="next"><span>Older {{ label }}</span> <span>(Page {{ pagination.pageNumber + 2 }} of {{ pagination.hrefs.length }})</span></a>
     </li>
     {%- endif -%}
     {# Check if we are on the first page #}
     {%- if pagination.previousPageHref -%}
     <li>
-      <a href="{{ pagination.previousPageHref }}"><span>Newer {{ label }}</span> <span>(Page {{ pagination.pageNumber }} of {{ pagination.hrefs.length }})</span></a>
+      <a href="{{ pagination.previousPageHref }}" rel="prev"><span>Newer {{ label }}</span> <span>(Page {{ pagination.pageNumber }} of {{ pagination.hrefs.length }})</span></a>
     </li>
     {%- endif -%}
   </ul>
