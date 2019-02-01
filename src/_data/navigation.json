@@ -1,15 +1,11 @@
 {
-  "primary": [
+  "primary_secret": [
     {
       "label": "Writting",
       "url": "/articles/"
-    },
-    {
-      "label": "Bookmarks",
-      "url": "/bookmarks/"
     }
   ],
-  "secondary": [
+  "secondary_secret": [
     {
       "label": "Notes",
       "url": "/notes/"
