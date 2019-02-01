@@ -15,7 +15,7 @@ meta:
   _edit_last: '1'
   layout: default
   post_color: default
-  video_url: http://vimeo.com/15337353
+  video_url: https://vimeo.com/15337353
   hide_post_title: default
   unlink_post_title: default
   hide_post_meta: default
@@ -24,7 +24,7 @@ meta:
   lightbox_link: ''
   _thumbnail_id: '5239'
   tmac_last_id: '256453663013367809'
-  _oembed_7cee092b45d604c0b376884249b9a535: <iframe src="http://player.vimeo.com/video/15337353"
+  _oembed_7cee092b45d604c0b376884249b9a535: <iframe src="https://player.vimeo.com/video/15337353"
     width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen
     allowFullScreen></iframe>
 ---

@@ -17,8 +17,8 @@ meta:
   hide_post_title: default
   layout: default
   post_color: default
-  link_url: http://icondock.com/free/vector-social-media-icons
+  link_url: https://icondock.com/free/vector-social-media-icons
   _edit_last: '1'
   tmac_last_id: '256453696219664384'
 ---
-Si vous chercher des icônes de la multitude de réseaux sociaux, IconDock met à disposition au téléchargement <a title="Vector Social Media Icons sur IconDock.com" href="http://icondock.com/free/vector-social-media-icons">un set</a> fort appréciable et de très belle facture des icônes des principaux acteurs du domaine.
+Si vous chercher des icônes de la multitude de réseaux sociaux, IconDock met à disposition au téléchargement <a title="Vector Social Media Icons sur IconDock.com" href="https://icondock.com/free/vector-social-media-icons">un set</a> fort appréciable et de très belle facture des icônes des principaux acteurs du domaine.

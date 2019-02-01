@@ -16,7 +16,7 @@ meta:
 ---
 <img class="alignnone size-medium wp-image-1039" title="Une capture d'écran du site TinyChat" src="https://dlgjp9x71cipk.cloudfront.net/2009/02/tinychat-499x304.png" alt="Une capture d'écran du site TinyChat" width="499" height="304" />
 
-Le principe de <a href="http://www.tinychat.com/" title="Lien vers le site tinychat.com">TinyChat</a> est bien sympa. Il vous permet de créer à la volée des chatroom.
+Le principe de <a href="https://www.tinychat.com/" title="Lien vers le site tinychat.com">TinyChat</a> est bien sympa. Il vous permet de créer à la volée des chatroom.
 
 Cela dit au jour où tout le monde est n'importe qui a un compte de messagerie instantanée, on peut se demandé si cela va avoir du succès.
 

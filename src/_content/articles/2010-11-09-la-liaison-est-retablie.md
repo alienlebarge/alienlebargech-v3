@@ -14,7 +14,7 @@ meta:
   _edit_last: '1'
   tmac_last_id: '256453832165449729'
 ---
-<img src="http://farm2.static.flickr.com/1405/5118542586_1cb1c98777.jpg" alt="Pointe à la Renomée" />
+<img src="https://farm2.static.flickr.com/1405/5118542586_1cb1c98777.jpg" alt="Pointe à la Renomée" />
 
 Allo ? Est-ce que vous m'entendez ? Oui !
 Ça fait un petit moment, hein !

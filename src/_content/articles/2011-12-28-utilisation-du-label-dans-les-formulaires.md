@@ -26,7 +26,7 @@ meta:
   hide_post_image: default
   tmac_last_id: '256453682114199552'
 ---
-Ce matin dans le train, je lisais "<a title="Mobil First sur a book apart" href="http://www.abookapart.com/products/mobile-first">Mobile First</a>" de Luke Wroblewski. Il y fait un bref étude de cas sur l'utilisation de la balise <a title="Description de l'élément label en HTML5" href="http://www.w3.org/TR/html5/forms.html#the-label-element">label</a> dans les formulaires. Je trouvais intéréssant de partager la reflexion avec vous.<!--more-->
+Ce matin dans le train, je lisais "<a title="Mobil First sur a book apart" href="https://www.abookapart.com/products/mobile-first">Mobile First</a>" de Luke Wroblewski. Il y fait un bref étude de cas sur l'utilisation de la balise <a title="Description de l'élément label en HTML5" href="https://www.w3.org/TR/html5/forms.html#the-label-element">label</a> dans les formulaires. Je trouvais intéréssant de partager la reflexion avec vous.<!--more-->
 
 [caption id="attachment_4686" align="alignright" width="250" caption="Le formulaire d&#39;inscritpion de Twitter affiche les labels dans les champs de saisie"]<a href="https://dlgjp9x71cipk.cloudfront.net/2011/12/label_inside.png"><img class="size-medium wp-image-4686" title="Twitter desktop login form" src="https://dlgjp9x71cipk.cloudfront.net/2011/12/label_inside-250x162.png" alt="Capture d'écran du formulaire d'inscription du site Twitter" width="250" height="162" /></a>[/caption]
 

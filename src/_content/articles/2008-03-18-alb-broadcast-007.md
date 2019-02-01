@@ -10,10 +10,10 @@ status: publish
 type: post
 published: true
 meta:
-  enclosure: "http://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_007.mp3\r\n14474157\r\naudio/mpeg"
+  enclosure: "https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_007.mp3\r\n14474157\r\naudio/mpeg"
   _edit_last: '1'
   tweetbackscheck: '1234606552'
-  shorturls: a:7:{s:9:"permalink";s:56:"http://www.alienlebarge.ch/2008/03/18/alb-broadcast-007/";s:7:"tinyurl";s:25:"http://tinyurl.com/37bcyd";s:4:"isgd";s:17:"http://is.gd/ikdo";s:5:"bitly";s:18:"http://bit.ly/d4IJ";s:5:"snipr";s:22:"http://snipr.com/b9x79";s:5:"snurl";s:22:"http://snurl.com/b9x79";s:7:"snipurl";s:24:"http://snipurl.com/b9x79";}
+  shorturls: a:7:{s:9:"permalink";s:56:"https://www.alienlebarge.ch/2008/03/18/alb-broadcast-007/";s:7:"tinyurl";s:25:"https://tinyurl.com/37bcyd";s:4:"isgd";s:17:"https://is.gd/ikdo";s:5:"bitly";s:18:"https://bit.ly/d4IJ";s:5:"snipr";s:22:"https://snipr.com/b9x79";s:5:"snurl";s:22:"https://snurl.com/b9x79";s:7:"snipurl";s:24:"https://snipurl.com/b9x79";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -22,11 +22,11 @@ meta:
 
 Bonne écoute !
 
-[dewplayer:http://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_007.mp3]
+[dewplayer:https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_007.mp3]
 
 <!--more-->
 
-<strong>Playliste alb broadcat #007</strong> - <a title="Télécharger alb broadcast #007" href="http://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_007.mp3">à emporter ici</a>
+<strong>Playliste alb broadcat #007</strong> - <a title="Télécharger alb broadcast #007" href="https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_007.mp3">à emporter ici</a>
 
 Cadence Weapon - In Search Of The Youth Crew
 Ghislain Poirier - Ladies &amp; Gentleman

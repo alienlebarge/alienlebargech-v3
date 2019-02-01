@@ -11,13 +11,13 @@ type: post
 published: true
 meta:
   tweetbackscheck: '1234184252'
-  shorturls: a:7:{s:9:"permalink";s:57:"http://www.alienlebarge.ch/2007/11/06/the-scare-homebake/";s:7:"tinyurl";s:25:"http://tinyurl.com/de3j4v";s:4:"isgd";s:17:"http://is.gd/iU2G";s:5:"bitly";s:18:"http://bit.ly/EJbI";s:5:"snipr";s:22:"http://snipr.com/bkonk";s:5:"snurl";s:22:"http://snurl.com/bkonk";s:7:"snipurl";s:24:"http://snipurl.com/bkonk";}
+  shorturls: a:7:{s:9:"permalink";s:57:"https://www.alienlebarge.ch/2007/11/06/the-scare-homebake/";s:7:"tinyurl";s:25:"https://tinyurl.com/de3j4v";s:4:"isgd";s:17:"https://is.gd/iU2G";s:5:"bitly";s:18:"https://bit.ly/EJbI";s:5:"snipr";s:22:"https://snipr.com/bkonk";s:5:"snurl";s:22:"https://snurl.com/bkonk";s:7:"snipurl";s:24:"https://snipurl.com/bkonk";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
 ---
- <img src="http://farm1.static.flickr.com/34/70365314_449289b984.jpg" alt="The Scare @ Homebake" />
-<em><a href="http://www.flickr.com/photos/dreadfuldan/70365314/" title="photo sharing">The Scare @ Homebake</a></em>
+ <img src="https://farm1.static.flickr.com/34/70365314_449289b984.jpg" alt="The Scare @ Homebake" />
+<em><a href="https://www.flickr.com/photos/dreadfuldan/70365314/" title="photo sharing">The Scare @ Homebake</a></em>
 
 Il y a un truc qui m'énerve passablement. Quand il y a un concert "monstre cool" dans la région, je suis toujours au courant à la dernière. La faute à qui??? ... à bibi (moi). Pour pallier à cela, voici une liste des concerts <strike>que j'aimerais voir ces prochaines semaines</strike> auxquels j'aurais énormément de plaisir à être présent.
 <ul>

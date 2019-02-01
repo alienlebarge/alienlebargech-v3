@@ -13,7 +13,7 @@ meta:
   cocomment_trackall: ''
   _utw_tags_: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Internet";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Médias";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"Social";}}
   tweetbackscheck: '1234186144'
-  shorturls: a:7:{s:9:"permalink";s:69:"http://www.alienlebarge.ch/2007/08/01/microbloging-twitter-vs-pownce/";s:7:"tinyurl";s:25:"http://tinyurl.com/bmfqbv";s:4:"isgd";s:17:"http://is.gd/iUdz";s:5:"bitly";s:19:"http://bit.ly/wIRsW";s:5:"snipr";s:22:"http://snipr.com/bkq51";s:5:"snurl";s:22:"http://snurl.com/bkq51";s:7:"snipurl";s:24:"http://snipurl.com/bkq51";}
+  shorturls: a:7:{s:9:"permalink";s:69:"https://www.alienlebarge.ch/2007/08/01/microbloging-twitter-vs-pownce/";s:7:"tinyurl";s:25:"https://tinyurl.com/bmfqbv";s:4:"isgd";s:17:"https://is.gd/iUdz";s:5:"bitly";s:19:"https://bit.ly/wIRsW";s:5:"snipr";s:22:"https://snipr.com/bkq51";s:5:"snurl";s:22:"https://snurl.com/bkq51";s:7:"snipurl";s:24:"https://snipurl.com/bkq51";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -26,7 +26,7 @@ Il s'agit à la manière de poster des diffusés des messages (articles) mais ce
 
 <!--more-->
 
-Actuellement deux acteurs de la sphère internet se partagent ce service. Il s'agit de <a href="http://http://twitter.com/" title="Twitter.com">Twitter</a> et <a href="http://www.pownce.com/" title="Pownce.com/">Pownce</a>. Je ne vais pas trop m'étendre sur ceux-ci. <a href="http://www.bizetfamily.net/index.php/post/2007/07/06/Twitter-vs-Pownce" title="Twitter vs Pownce sur Bizet's Blog">Un article de Guillaume Bizet</a> présente très bien ces services ainsi que leurs avantages et désavantages. Je rejoins complètement son avis.
+Actuellement deux acteurs de la sphère internet se partagent ce service. Il s'agit de <a href="https://https://twitter.com/" title="Twitter.com">Twitter</a> et <a href="https://www.pownce.com/" title="Pownce.com/">Pownce</a>. Je ne vais pas trop m'étendre sur ceux-ci. <a href="https://www.bizetfamily.net/index.php/post/2007/07/06/Twitter-vs-Pownce" title="Twitter vs Pownce sur Bizet's Blog">Un article de Guillaume Bizet</a> présente très bien ces services ainsi que leurs avantages et désavantages. Je rejoins complètement son avis.
 
 Pour ma part, j'utilise Twitter même si je trouve Pownce beaucoup plus aboutit. Malheureusement pour Pownce, Twitter a une interface mobile qui permet de poster via votre téléphone mobile.
 
@@ -38,6 +38,6 @@ Moi j'aime :D
 
 Mes profils :
 <ul>
-	<li><a href="http://twitter.com/alienlebarge" title="alienlebarge sur Twitter">alienlebarge sur Twitter</a></li>
-	<li><a href="http://www.pownce.com/alienlebarge/" title="alienlebarge sur Pownce">alienlebarge sur Pownce</a></li>
+	<li><a href="https://twitter.com/alienlebarge" title="alienlebarge sur Twitter">alienlebarge sur Twitter</a></li>
+	<li><a href="https://www.pownce.com/alienlebarge/" title="alienlebarge sur Pownce">alienlebarge sur Pownce</a></li>
 </ul>

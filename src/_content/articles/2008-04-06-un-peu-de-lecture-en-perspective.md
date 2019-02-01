@@ -15,7 +15,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234512782'
-  shorturls: a:7:{s:9:"permalink";s:71:"http://www.alienlebarge.ch/2008/04/06/un-peu-de-lecture-en-perspective/";s:7:"tinyurl";s:25:"http://tinyurl.com/cttuwx";s:4:"isgd";s:17:"http://is.gd/ilrI";s:5:"bitly";s:19:"http://bit.ly/1806m";s:5:"snipr";s:22:"http://snipr.com/ba7zw";s:5:"snurl";s:22:"http://snurl.com/ba7zw";s:7:"snipurl";s:24:"http://snipurl.com/ba7zw";}
+  shorturls: a:7:{s:9:"permalink";s:71:"https://www.alienlebarge.ch/2008/04/06/un-peu-de-lecture-en-perspective/";s:7:"tinyurl";s:25:"https://tinyurl.com/cttuwx";s:4:"isgd";s:17:"https://is.gd/ilrI";s:5:"bitly";s:19:"https://bit.ly/1806m";s:5:"snipr";s:22:"https://snipr.com/ba7zw";s:5:"snurl";s:22:"https://snurl.com/ba7zw";s:7:"snipurl";s:24:"https://snipurl.com/ba7zw";}
   twittercomments: a:5:{i:1176537234;s:7:"retweet";i:1176359200;s:7:"retweet";i:1176350980;s:7:"retweet";i:1176349902;s:7:"retweet";i:1176343675;s:7:"retweet";}
   tweetcount: '5'
   tmac_last_id: ''

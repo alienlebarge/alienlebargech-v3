@@ -24,4 +24,4 @@ Voici la marche à suivre :
 </ol>
 Pour cacher ne pas afficher les fichiers cachés, c'est idem sauf la commande qui est <code>defaults write com.apple.Finder AppleShowAllFiles false</code>
 
-<ins datetime="2012-01-04">Si comme moi, vous utilisez l'application <a title="L'application Alfred" href="http://www.alfredapp.com/">Alfred</a>, voici <a title="Hidden file extension" href="http://matthojo.co.uk/alfred-hide-show-hidden-file-extentions/">une extension</a> fort pratique qui fait le même travail.</ins>
+<ins datetime="2012-01-04">Si comme moi, vous utilisez l'application <a title="L'application Alfred" href="https://www.alfredapp.com/">Alfred</a>, voici <a title="Hidden file extension" href="https://matthojo.co.uk/alfred-hide-show-hidden-file-extentions/">une extension</a> fort pratique qui fait le même travail.</ins>

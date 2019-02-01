@@ -13,13 +13,13 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234275000'
-  shorturls: a:7:{s:9:"permalink";s:79:"http://www.alienlebarge.ch/2008/05/18/une-annee-trois-semaines-et-quatre-jours/";s:7:"tinyurl";s:25:"http://tinyurl.com/co5euv";s:4:"isgd";s:17:"http://is.gd/iwMC";s:5:"bitly";s:18:"http://bit.ly/jyzA";s:5:"snipr";s:22:"http://snipr.com/bd7fj";s:5:"snurl";s:22:"http://snurl.com/bd7fj";s:7:"snipurl";s:24:"http://snipurl.com/bd7fj";}
+  shorturls: a:7:{s:9:"permalink";s:79:"https://www.alienlebarge.ch/2008/05/18/une-annee-trois-semaines-et-quatre-jours/";s:7:"tinyurl";s:25:"https://tinyurl.com/co5euv";s:4:"isgd";s:17:"https://is.gd/iwMC";s:5:"bitly";s:18:"https://bit.ly/jyzA";s:5:"snipr";s:22:"https://snipr.com/bd7fj";s:5:"snurl";s:22:"https://snurl.com/bd7fj";s:7:"snipurl";s:24:"https://snipurl.com/bd7fj";}
   twittercomments: a:1:{i:1180687689;s:7:"retweet";}
   tweetcount: '1'
   tmac_last_id: ''
 ---
-<img src="http://farm1.static.flickr.com/191/519615576_b06608e680.jpg" alt="(em)Plâtre" />
-<em><a title="photo sharing" href="http://www.flickr.com/photos/alienlebarge/519615576/">(em)Plâtre</a></em>
+<img src="https://farm1.static.flickr.com/191/519615576_b06608e680.jpg" alt="(em)Plâtre" />
+<em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/519615576/">(em)Plâtre</a></em>
 
 C'est le temps que j'ai attendu avant de rejouer un match. De plus, j'ai conjuré le sort. En effet, le 22 avril 2007 alors que nous affrontions Etagnières chez eux, je me suis fracturé la malléole interne droite. Et hier, c'est face à cette même équipe que j'ai pu rejoué. Même si je n'ai joué qu'une petite vingtaine de minutes, cela m'a fait un plaisir fou de fouler la pelouse à nouveau.
 

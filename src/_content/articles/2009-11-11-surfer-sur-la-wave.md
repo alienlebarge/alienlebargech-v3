@@ -16,7 +16,7 @@ meta:
 ---
 <img class="alignnone size-medium wp-image-1414" title="Google Wave" src="https://dlgjp9x71cipk.cloudfront.net/2009/11/GoogleWave-500x292.png" alt="Google Wave" width="500" height="292" />
 
-Les équipes Google viennent de sortir leur révolution (c'est eux qui le disent). Il est prévu que <a title="Lien vers le site de Google Wave" href="http://www.google.com/wave/">Google Wave</a> prenne le pas sur les vieillissants courriels.
+Les équipes Google viennent de sortir leur révolution (c'est eux qui le disent). Il est prévu que <a title="Lien vers le site de Google Wave" href="https://www.google.com/wave/">Google Wave</a> prenne le pas sur les vieillissants courriels.
 
 <!--more-->
 

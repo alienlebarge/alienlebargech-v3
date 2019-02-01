@@ -25,11 +25,11 @@ meta:
   _thumbnail_id: '4065'
   tmac_last_id: '256453718789214209'
 ---
-La nouvelle mouture du concurrent de Photoshop est <a href="http://www.pixelmator.com/buy">disponible depuis aujourd'hui sur l'App Store</a>.<!--more-->
+La nouvelle mouture du concurrent de Photoshop est <a href="https://www.pixelmator.com/buy">disponible depuis aujourd'hui sur l'App Store</a>.<!--more-->
 
 Je n'ai l'ai pas encore testé. Mais on peut s'attendre à quelques chose de vraiment bien.
-Je me réjouis de mettre à l’épreuve le nouvel <a href="http://www.pixelmator.com/#healing-tool">outil de masquage</a>.
+Je me réjouis de mettre à l’épreuve le nouvel <a href="https://www.pixelmator.com/#healing-tool">outil de masquage</a>.
 
 Pour la moitié du prix de Photoshop Element soit 29$, vous avez un logiciel de traitement et retouche d'image tout à fait compétitif avec Photoshop.
 
-Vous trouverez plus d'information sur <a href="http://www.pixelmator.com">le site de Pixelmator</a>.
+Vous trouverez plus d'information sur <a href="https://www.pixelmator.com">le site de Pixelmator</a>.

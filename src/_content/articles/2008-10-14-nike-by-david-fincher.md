@@ -13,7 +13,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234526961'
-  shorturls: a:7:{s:9:"permalink";s:60:"http://www.alienlebarge.ch/2008/10/14/nike-by-david-fincher/";s:7:"tinyurl";s:25:"http://tinyurl.com/bq9wtp";s:4:"isgd";s:17:"http://is.gd/ikgg";s:5:"bitly";s:18:"http://bit.ly/hiuf";s:5:"snipr";s:22:"http://snipr.com/b9xog";s:5:"snurl";s:22:"http://snurl.com/b9xog";s:7:"snipurl";s:24:"http://snipurl.com/b9xog";}
+  shorturls: a:7:{s:9:"permalink";s:60:"https://www.alienlebarge.ch/2008/10/14/nike-by-david-fincher/";s:7:"tinyurl";s:25:"https://tinyurl.com/bq9wtp";s:4:"isgd";s:17:"https://is.gd/ikgg";s:5:"bitly";s:18:"https://bit.ly/hiuf";s:5:"snipr";s:22:"https://snipr.com/b9xog";s:5:"snurl";s:22:"https://snurl.com/b9xog";s:7:"snipurl";s:24:"https://snipurl.com/b9xog";}
   twittercomments: a:1:{i:1176158748;s:7:"retweet";}
   tweetcount: '1'
   tmac_last_id: '256454056871092224'
@@ -26,4 +26,4 @@ Il retrace la vie de deux footballeurs (américains) en une minute.
 
 <!--more-->
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/jlXRengzZoc&amp;hl=fr&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/jlXRengzZoc&amp;hl=fr&amp;fs=1" allowfullscreen="true"></embed></object>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="https://www.youtube.com/v/jlXRengzZoc&amp;hl=fr&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="https://www.youtube.com/v/jlXRengzZoc&amp;hl=fr&amp;fs=1" allowfullscreen="true"></embed></object>

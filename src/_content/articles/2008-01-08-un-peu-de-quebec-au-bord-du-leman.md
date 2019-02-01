@@ -15,15 +15,15 @@ type: post
 published: true
 meta:
   tweetbackscheck: '1234462038'
-  shorturls: a:7:{s:9:"permalink";s:72:"http://www.alienlebarge.ch/2008/01/08/un-peu-de-quebec-au-bord-du-leman/";s:7:"tinyurl";s:25:"http://tinyurl.com/athg57";s:4:"isgd";s:17:"http://is.gd/itQR";s:5:"bitly";s:20:"http://bit.ly/3EJ83e";s:5:"snipr";s:22:"http://snipr.com/bcj7m";s:5:"snurl";s:22:"http://snurl.com/bcj7m";s:7:"snipurl";s:24:"http://snipurl.com/bcj7m";}
+  shorturls: a:7:{s:9:"permalink";s:72:"https://www.alienlebarge.ch/2008/01/08/un-peu-de-quebec-au-bord-du-leman/";s:7:"tinyurl";s:25:"https://tinyurl.com/athg57";s:4:"isgd";s:17:"https://is.gd/itQR";s:5:"bitly";s:20:"https://bit.ly/3EJ83e";s:5:"snipr";s:22:"https://snipr.com/bcj7m";s:5:"snurl";s:22:"https://snurl.com/bcj7m";s:7:"snipurl";s:24:"https://snipurl.com/bcj7m";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
 ---
- <img src="http://farm2.static.flickr.com/1203/622472987_2b9080c01f.jpg" alt="Le drapeau du Québec s'affiche à la St-Jean 0440" />
-<em><a href="http://www.flickr.com/photos/zecanadablog/622472987/" title="photo sharing">Le drapeau du Québec s'affiche à la St-Jean 0440</a></em>
+ <img src="https://farm2.static.flickr.com/1203/622472987_2b9080c01f.jpg" alt="Le drapeau du Québec s'affiche à la St-Jean 0440" />
+<em><a href="https://www.flickr.com/photos/zecanadablog/622472987/" title="photo sharing">Le drapeau du Québec s'affiche à la St-Jean 0440</a></em>
 
-La musique québécoise m'atire énormément. Je ne parle pas uniquement d'artistes éléctronique comme Akufen, Stephen Beaupré &amp; Co. Mon iPod est également rempli de musique plus traditionelle. Quelle ne fût pas ma joie lorsqu'on m'a appris qu'il y avait <a href="http://www.pully-quebec.ch/" title="Le site du festival Pully-Québec">un festival Québécois</a> cet été dans la région. (Merci à <a href="http://supercora.skyblog.com/" title="Le blog de supercora">Cora</a> pour la news.)
+La musique québécoise m'atire énormément. Je ne parle pas uniquement d'artistes éléctronique comme Akufen, Stephen Beaupré &amp; Co. Mon iPod est également rempli de musique plus traditionelle. Quelle ne fût pas ma joie lorsqu'on m'a appris qu'il y avait <a href="https://www.pully-quebec.ch/" title="Le site du festival Pully-Québec">un festival Québécois</a> cet été dans la région. (Merci à <a href="https://supercora.skyblog.com/" title="Le blog de supercora">Cora</a> pour la news.)
 
 Et le programme est plus qu'alléchant colisse ! Nous on y serra en tout cas une fois mais surmement plus.
 

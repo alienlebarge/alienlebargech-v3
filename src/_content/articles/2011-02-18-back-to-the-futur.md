@@ -23,4 +23,4 @@ L'artiste argentin Irina Werning nous fait voyager dans le temps grâce à ses c
 
 L'idée est de reprendre une une vieille photo quelques années plus tard avec le même décore et le même rendu. La seul chose qui change, c'est l'âge des personnes.
 
-Toute la série est disponible sur <a href="http://www.irinawerning.com/back-to-the-fut/back-to-the-future/">le site de l'artiste</a>.
+Toute la série est disponible sur <a href="https://www.irinawerning.com/back-to-the-fut/back-to-the-future/">le site de l'artiste</a>.

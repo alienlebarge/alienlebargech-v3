@@ -19,7 +19,7 @@ meta:
 La réédition de news ou articles déjà parrues n'est pas une bonne pratique sur le web. <!--more-->
 <h2>Les clients RSS mettent les articles en cache !</h2>
 La modification d'articles déjà publié posent certains problèmes avec les client RSS.
-Si nous prenons l'exemple de <a title="Google Reader" href="http://www.google.com/reader">Google Reader</a> (qui est certainement un des plus utilisé), il mets tout le contenu des flux RSS en cache.
+Si nous prenons l'exemple de <a title="Google Reader" href="https://www.google.com/reader">Google Reader</a> (qui est certainement un des plus utilisé), il mets tout le contenu des flux RSS en cache.
 
 C'est ce qui explique pourquoi si générer des flux RSS de dix articles, Google Reader affichera tout de même des articles antérieur au dixième plus récent.
 

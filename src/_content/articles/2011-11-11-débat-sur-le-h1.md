@@ -23,8 +23,8 @@ Parmi les questions récurentes on retrouve notamment :
 </ul>
 Le W3C décrit les "headings" comme suit :
 <blockquote>A <dfn>heading element</dfn> briefly describes the topic of the section it introduces. Heading information may be used by user agents, for example, to construct a table of contents for a document automatically.</blockquote>
-<cite><a href="http://www.w3.org/TR/html4/struct/global.html#h-7.5.5">W3c Recommendation - HTML4 - The global structure of an HTML document</a></cite>
-<blockquote><dfn>Heading content</dfn> defines the header of a section (whether explicitly marked up using <a href="http://www.w3.org/TR/html5/content-models.html#sectioning-content">sectioning content</a> elements, or implied by the heading content itself).</blockquote>
-<cite><a href="http://www.w3.org/TR/html5/content-models.html#heading-content-0">W3C Working Draft - HTML5</a></cite>
+<cite><a href="https://www.w3.org/TR/html4/struct/global.html#h-7.5.5">W3c Recommendation - HTML4 - The global structure of an HTML document</a></cite>
+<blockquote><dfn>Heading content</dfn> defines the header of a section (whether explicitly marked up using <a href="https://www.w3.org/TR/html5/content-models.html#sectioning-content">sectioning content</a> elements, or implied by the heading content itself).</blockquote>
+<cite><a href="https://www.w3.org/TR/html5/content-models.html#heading-content-0">W3C Working Draft - HTML5</a></cite>
 
 Le &lt;h1&gt; est un titre de premier niveau qui décrit le contenu de la section qu'il précède.

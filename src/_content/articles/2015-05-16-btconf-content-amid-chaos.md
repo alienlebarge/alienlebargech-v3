@@ -14,7 +14,7 @@ tags:
 
 Taking care of the content of a website is a real challenge, a big challenge. [Sara Wachter-Boettcher](https://twitter.com/sara_ann_marie) presented how to manage this by cutting it into smallest project that are more managable.
 
-[Here is a article version of this talk](http://www.sarawb.com/2015/03/02/content-amid-chaos/).
+[Here is a article version of this talk](https://www.sarawb.com/2015/03/02/content-amid-chaos/).
 
 <figure>
   <a href="https://www.flickr.com/photos/alienlebarge/17529583925" title="Sketchnote of Sara Wachter-Boettcher&#x27;s talk &quot;Content Amid Chaos&quot; by Cédric Aellen, sur Flickr"><img src="https://c2.staticflickr.com/6/5326/17529583925_f0f8f511b9_z.jpg" alt="Sketchnote of Sara Wachter-Boettcher&#x27;s talk &quot;Content Amid Chaos&quot;"></a>
@@ -36,7 +36,7 @@ Taking care of the content of a website is a real challenge, a big challenge. [S
   <figcaption>Create a product content model</figcaption>
 </figure>
 
-<blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr">The sassy <a href="https://twitter.com/sara_ann_marie">@sara_ann_marie</a> &amp; Verizon Solutions Lab - don&#39;t blog garbage just to hit SEO trends (Duh.) <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="http://t.co/UCevjqCctD">pic.twitter.com/UCevjqCctD</a></p>&mdash; Juho Paasonen (@ediootti) <a href="https://twitter.com/ediootti/status/597713658953736192">11 Mai 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr">The sassy <a href="https://twitter.com/sara_ann_marie">@sara_ann_marie</a> &amp; Verizon Solutions Lab - don&#39;t blog garbage just to hit SEO trends (Duh.) <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="https://t.co/UCevjqCctD">pic.twitter.com/UCevjqCctD</a></p>&mdash; Juho Paasonen (@ediootti) <a href="https://twitter.com/ediootti/status/597713658953736192">11 Mai 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr">Setting up a law for web content? I like the idea :-) <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a></p>&mdash; Jarno (@Jarno) <a href="https://twitter.com/Jarno/status/597715039815073792">11 Mai 2015</a></blockquote>
@@ -48,8 +48,8 @@ Taking care of the content of a website is a real challenge, a big challenge. [S
 <blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr">Fix your <a href="https://twitter.com/hashtag/contentBlock?src=hash">#contentBlock</a>, not the whole city at once via <a href="https://twitter.com/sara_ann_marie">@sara_ann_marie</a> at <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a></p>&mdash; Frederick Hofmann (@fredho02) <a href="https://twitter.com/fredho02/status/597716245509701633">11 Mai 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/sketchnotes?src=hash">#sketchnotes</a> for the talk of <a href="https://twitter.com/sara_ann_marie">@sara_ann_marie</a> at <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="http://t.co/pyYw0Njq8r">pic.twitter.com/pyYw0Njq8r</a></p>&mdash; Julia Bode (@LulesSaurus) <a href="https://twitter.com/LulesSaurus/status/597732543706857472">11 Mai 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/sketchnotes?src=hash">#sketchnotes</a> for the talk of <a href="https://twitter.com/sara_ann_marie">@sara_ann_marie</a> at <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="https://t.co/pyYw0Njq8r">pic.twitter.com/pyYw0Njq8r</a></p>&mdash; Julia Bode (@LulesSaurus) <a href="https://twitter.com/LulesSaurus/status/597732543706857472">11 Mai 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr">Moar <a href="https://twitter.com/hashtag/Sketchnotes?src=hash">#Sketchnotes</a> from <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a>. A talk about <a href="https://twitter.com/hashtag/Content?src=hash">#Content</a> strategy and <a href="https://twitter.com/hashtag/Chaos?src=hash">#Chaos</a> by Sara Wachter-Boettcher&#10;&#10;<a href="https://twitter.com/btconf">@btconf</a> <a href="https://twitter.com/hashtag/web?src=hash">#web</a> <a href="http://t.co/aB8nnR8mr6">pic.twitter.com/aB8nnR8mr6</a></p>&mdash; Rino Wenger (@rinowenger) <a href="https://twitter.com/rinowenger/status/597735665279840256">11 Mai 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr">Moar <a href="https://twitter.com/hashtag/Sketchnotes?src=hash">#Sketchnotes</a> from <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a>. A talk about <a href="https://twitter.com/hashtag/Content?src=hash">#Content</a> strategy and <a href="https://twitter.com/hashtag/Chaos?src=hash">#Chaos</a> by Sara Wachter-Boettcher&#10;&#10;<a href="https://twitter.com/btconf">@btconf</a> <a href="https://twitter.com/hashtag/web?src=hash">#web</a> <a href="https://t.co/aB8nnR8mr6">pic.twitter.com/aB8nnR8mr6</a></p>&mdash; Rino Wenger (@rinowenger) <a href="https://twitter.com/rinowenger/status/597735665279840256">11 Mai 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

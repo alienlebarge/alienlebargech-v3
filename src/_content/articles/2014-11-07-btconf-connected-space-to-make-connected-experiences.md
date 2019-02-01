@@ -10,7 +10,7 @@ tags:
 - stttti
 ---
 
-Objects can interact with each and other via the Internet. That's what call <abbr title="Stuff That Talks To The Interwebs">STTTTTI</abbr>. [Stacey Mulcahy](http://twitter.com/bitchwhocodes) presented some (funny) projects she has done and how we can build similar things.
+Objects can interact with each and other via the Internet. That's what call <abbr title="Stuff That Talks To The Interwebs">STTTTTI</abbr>. [Stacey Mulcahy](https://twitter.com/bitchwhocodes) presented some (funny) projects she has done and how we can build similar things.
 
   - Build for fun
   - Start small, think big!
@@ -26,7 +26,7 @@ Objects can interact with each and other via the Internet. That's what call <abb
 <figure>
   <iframe src="//player.vimeo.com/video/112630090?color=9c191e" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <figcaption>
-    <p><a href="http://vimeo.com/112630090">Stacey Mulcahy – Connected Spaces to Make Connected Experiences – beyond tellerrand Berlin 2014</a> from <a href="http://vimeo.com/beyondtellerrand">beyond tellerrand</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    <p><a href="https://vimeo.com/112630090">Stacey Mulcahy – Connected Spaces to Make Connected Experiences – beyond tellerrand Berlin 2014</a> from <a href="https://vimeo.com/beyondtellerrand">beyond tellerrand</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   </figcaption>
 </figure>
 
@@ -34,4 +34,4 @@ Objects can interact with each and other via the Internet. That's what call <abb
 
 Some tweets related to the talk.
 
-<blockquote class="twitter-tweet" lang="fr"><p>&quot;Start small, think big!&quot; Thanks for inspiration <a href="https://twitter.com/bitchwhocodes">@bitchwhocodes</a> <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="http://t.co/UOefST6244">pic.twitter.com/UOefST6244</a></p>&mdash; Matthias H. Lick (@mhlick) <a href="https://twitter.com/mhlick/status/529647998591311872">4 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="fr"><p>&quot;Start small, think big!&quot; Thanks for inspiration <a href="https://twitter.com/bitchwhocodes">@bitchwhocodes</a> <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="https://t.co/UOefST6244">pic.twitter.com/UOefST6244</a></p>&mdash; Matthias H. Lick (@mhlick) <a href="https://twitter.com/mhlick/status/529647998591311872">4 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

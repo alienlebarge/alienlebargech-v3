@@ -8,10 +8,10 @@ tags:
 - aws
 ---
 
-[Iconic](https://useiconic.com/) is an incredible icons system. But this not as simple as downloading it, uploading it on a [S3 bucket](http://aws.amazon.com/s3/), setting up a [CloudFront](http://aws.amazon.com/cloudfront/) and here "*here you go!*".
+[Iconic](https://useiconic.com/) is an incredible icons system. But this not as simple as downloading it, uploading it on a [S3 bucket](https://aws.amazon.com/s3/), setting up a [CloudFront](https://aws.amazon.com/cloudfront/) and here "*here you go!*".
 Here's how I setup all that stuff to make it works with as a <abbr title="Content Delivery Network">CDN</abbr> for this blog.
 
-I will not dive into technical infos. You will find all you needs in the links at the end of this article. I recommand [Gerard Vivancos' article](http://blog.celingest.com/en/2014/10/02/tutorial-using-cors-with-cloudfront-and-s3/). It explain very well all you need to know.
+I will not dive into technical infos. You will find all you needs in the links at the end of this article. I recommand [Gerard Vivancos' article](https://blog.celingest.com/en/2014/10/02/tutorial-using-cors-with-cloudfront-and-s3/). It explain very well all you need to know.
 
 ## Settings
 
@@ -34,7 +34,7 @@ I will not dive into technical infos. You will find all you needs in the links a
 #### New configuration
 
     <?xml version="1.0" encoding="UTF-8"?>
-    <CORSConfiguration xmlns="http://s3.amazonaws.com/doc/2006-03-01/">
+    <CORSConfiguration xmlns="https://s3.amazonaws.com/doc/2006-03-01/">
         <CORSRule>
             <AllowedOrigin>*</AllowedOrigin>
             <AllowedMethod>GET</AllowedMethod>
@@ -63,6 +63,6 @@ Thanks to the Iconic team for the wonderfull work and [support](https://useiconi
 
 ## Further reading
 
-- [Tutorial: Using CORS with CloudFront and S3](http://blog.celingest.com/en/2014/10/02/tutorial-using-cors-with-cloudfront-and-s3/)
+- [Tutorial: Using CORS with CloudFront and S3](https://blog.celingest.com/en/2014/10/02/tutorial-using-cors-with-cloudfront-and-s3/)
 - [Forum post: Does iconic work with Amazon CloudFront ?](https://useiconic.com/community/#!/getting-started:does-iconic-work-with-amazo)
 - [Sample CORS configurations](https://docs.aws.amazon.com/AmazonS3/latest/dev/cors.html#how-do-i-enable-cors)

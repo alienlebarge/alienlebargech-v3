@@ -25,7 +25,7 @@ meta:
   _syntaxhighlighter_encoded: '1'
   tmac_last_id: '256453638317281280'
 ---
-Dernièrement j'ai eu le cas d'un mapping TemplaVoilà avec <a href="http://www.typo3.org">Typo3</a> dans lequel il fallait que les éléments de contenu aient des titres de niveau deux et de niveau trois dans la colonne latérale.<!--more-->
+Dernièrement j'ai eu le cas d'un mapping TemplaVoilà avec <a href="https://www.typo3.org">Typo3</a> dans lequel il fallait que les éléments de contenu aient des titres de niveau deux et de niveau trois dans la colonne latérale.<!--more-->
 
 <a href="https://dlgjp9x71cipk.cloudfront.net/2012/02/templavoila_mapping_header.png"><img class="alignright size-medium wp-image-5495" title="Mapping Templavoilà" src="https://dlgjp9x71cipk.cloudfront.net/2012/02/templavoila_mapping_header-250x177.png" alt="" width="250" height="177" /></a>Il s'agissait d'un site classique en trois colonnes :
 <ul>

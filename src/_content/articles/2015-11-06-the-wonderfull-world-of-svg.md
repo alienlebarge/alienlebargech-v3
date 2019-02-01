@@ -11,7 +11,7 @@ tags:
  - sketchnote
 ---
 
-Chris Coyier is one of guys behind [codepen.io](http://www.codepen.io), a sandbox site where you can throw your html, css and js. He also host the [Shop Talk Show](http://shoptalkshow.com/). This is podcast about web design. (I'm a huge fan of this show.)
+Chris Coyier is one of guys behind [codepen.io](https://www.codepen.io), a sandbox site where you can throw your html, css and js. He also host the [Shop Talk Show](https://shoptalkshow.com/). This is podcast about web design. (I'm a huge fan of this show.)
 
 Here are my sketchnotes of this talks who gave use some nice tips and tricks:
 

@@ -33,7 +33,7 @@ meta:
 ---
 La West Handball Cup s'est tenu la semaine passée à Crissier.
 
-Cinq équipes étaient présentes dans le cadre de ce tournoi de préparation organisé par le <a href="http://www.west-hbc.ch/">HBC West</a> : Chambéry Savoie Handball, Centre de formation de Chambéry, GC Amitica Zürich, HC Krienz et HBC West.
+Cinq équipes étaient présentes dans le cadre de ce tournoi de préparation organisé par le <a href="https://www.west-hbc.ch/">HBC West</a> : Chambéry Savoie Handball, Centre de formation de Chambéry, GC Amitica Zürich, HC Krienz et HBC West.
 
 <!--more-->
 

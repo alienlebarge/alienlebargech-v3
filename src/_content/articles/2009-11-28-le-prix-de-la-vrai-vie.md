@@ -14,10 +14,10 @@ meta:
   _edit_last: '1'
   tmac_last_id: '256453889111494656'
 ---
-<img src="http://farm1.static.flickr.com/80/281333890_30b103a454.jpg" alt="Shot with Raynox macro converter" />
-<em><a title="photo sharing" href="http://www.flickr.com/photos/matthijs/281333890/">Shot with Raynox macro converter</a></em>
+<img src="https://farm1.static.flickr.com/80/281333890_30b103a454.jpg" alt="Shot with Raynox macro converter" />
+<em><a title="photo sharing" href="https://www.flickr.com/photos/matthijs/281333890/">Shot with Raynox macro converter</a></em>
 
-<a title="photo sharing" href="http://www.flickr.com/photos/matthijs/281333890/"></a><em>Le titre de cet article a l’air philosophique, mais je vous rassure, le contenu ne l’est pas (ouf!). Je n’ai juste pas trouvé mieux. Revenons à nos moutons.</em>
+<a title="photo sharing" href="https://www.flickr.com/photos/matthijs/281333890/"></a><em>Le titre de cet article a l’air philosophique, mais je vous rassure, le contenu ne l’est pas (ouf!). Je n’ai juste pas trouvé mieux. Revenons à nos moutons.</em>
 
 Depuis quelque temps, je crie à tout va que les achats sur la toile sont beaucoup plus profitables que dans les magasins (de la vraie vie). Vous l’aurez deviné, je parle de photographie.
 

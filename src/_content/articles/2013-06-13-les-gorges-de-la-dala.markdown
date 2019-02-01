@@ -27,14 +27,14 @@ On a vu des personnes aller jusqu'a la cascade avec une poussette, mais je ne vo
 
 Après la cascade, quelques escaliers bien raides vous conduiront jusqu'à un petit pont. Là, il faudra choisir la suite. Il y a deux possibilités :
 
-- Soit vous contenez à monter pour attendre le restaurant [Weidstübli](http://www.weidstuebli.ch). Les panneaux indiquaient une heure de marche.
-- Ou vous redescendez par le restaurant [Buljes](http://www.buljes.ch/). Ce fut notre choix et en vingt minutes nous avons rejoint la station.</li>
+- Soit vous contenez à monter pour attendre le restaurant [Weidstübli](https://www.weidstuebli.ch). Les panneaux indiquaient une heure de marche.
+- Ou vous redescendez par le restaurant [Buljes](https://www.buljes.ch/). Ce fut notre choix et en vingt minutes nous avons rejoint la station.</li>
 
 ## Résumé
 
 - Départ: Laiterie
-- Durée: 1 heure environ par le restaurant <a title="http://www.buljes.ch/" href="http://www.buljes.ch/">Buljes</a>
+- Durée: 1 heure environ par le restaurant <a title="https://www.buljes.ch/" href="https://www.buljes.ch/">Buljes</a>
 - Dénivelé: 130m
 - Équipement: Ça peut être glissant donc des chaussures qui crochent bien.
 - <a title="https://gist.github.com/alienlebarge/5776473" href="https://gist.github.com/alienlebarge/5776473">Fichier KML</a>
-- <a title="https://gist.github.com/alienlebarge/5776473/raw/bb548d21525b69c60ff3862b19cd6a5644ce3f90/GorgesDala.kml" href="http://map.geo.admin.ch/?Y=615347.43151101&amp;X=136861.53681663&amp;zoom=9&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=KML%7C%7Chttps%3A%2F%2Fgist.github.com%2Falienlebarge%2F5776473,KML%7C%7Chttps%3A%2F%2Fgist.github.com%2Falienlebarge%2F5776473%2Fraw%2Fbb548d21525b69c60ff3862b19cd6a5644ce3f90%2FGorgesDala.kml&amp;layers_opacity=1,1&amp;layers_visibility=true,true&amp;time_current=latest&amp;lang=fr">Carte du parcours</a>
+- <a title="https://gist.github.com/alienlebarge/5776473/raw/bb548d21525b69c60ff3862b19cd6a5644ce3f90/GorgesDala.kml" href="https://map.geo.admin.ch/?Y=615347.43151101&amp;X=136861.53681663&amp;zoom=9&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=KML%7C%7Chttps%3A%2F%2Fgist.github.com%2Falienlebarge%2F5776473,KML%7C%7Chttps%3A%2F%2Fgist.github.com%2Falienlebarge%2F5776473%2Fraw%2Fbb548d21525b69c60ff3862b19cd6a5644ce3f90%2FGorgesDala.kml&amp;layers_opacity=1,1&amp;layers_visibility=true,true&amp;time_current=latest&amp;lang=fr">Carte du parcours</a>

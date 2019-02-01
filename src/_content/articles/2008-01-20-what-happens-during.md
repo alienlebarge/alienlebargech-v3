@@ -10,7 +10,7 @@ type: post
 published: true
 meta:
   tweetbackscheck: '1234357427'
-  shorturls: a:7:{s:9:"permalink";s:58:"http://www.alienlebarge.ch/2008/01/20/what-happens-during/";s:7:"tinyurl";s:25:"http://tinyurl.com/dhddza";s:4:"isgd";s:17:"http://is.gd/iNRx";s:5:"bitly";s:18:"http://bit.ly/5qju";s:5:"snipr";s:22:"http://snipr.com/biboc";s:5:"snurl";s:22:"http://snurl.com/biboc";s:7:"snipurl";s:24:"http://snipurl.com/biboc";}
+  shorturls: a:7:{s:9:"permalink";s:58:"https://www.alienlebarge.ch/2008/01/20/what-happens-during/";s:7:"tinyurl";s:25:"https://tinyurl.com/dhddza";s:4:"isgd";s:17:"https://is.gd/iNRx";s:5:"bitly";s:18:"https://bit.ly/5qju";s:5:"snipr";s:22:"https://snipr.com/biboc";s:5:"snurl";s:22:"https://snurl.com/biboc";s:7:"snipurl";s:24:"https://snipurl.com/biboc";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''

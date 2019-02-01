@@ -25,14 +25,14 @@ Je mets actuellement un site sur pied. Par soucis de découverte et d'apprentiss
 
 <!--more-->
 <ol>
-	<li>Lire <a title="Page de présentation du livre" href="http://books.alistapart.com/products/html5-for-web-designers">HTML5 for Webdesigners</a></li>
+	<li>Lire <a title="Page de présentation du livre" href="https://books.alistapart.com/products/html5-for-web-designers">HTML5 for Webdesigners</a></li>
 	<li>Faire un template en respectant la norme et utilisant les nouvelles balises (&lt;nav&gt;, &lt;header&gt;, etc.)</li>
 	<li>Modifier le doctype dans le setup du gabarit de base.
 [code]
 config.doctype = html_5
 config.xmlprologue = none
 [/code]</li>
-	<li>Utiliser le JavaScript <a id="project_summary_link" href="http://code.google.com/p/html5shiv/">HTML5 IE enabling script</a> pour toutes les versions de IE inferieur à la 9 (merci IE).
+	<li>Utiliser le JavaScript <a id="project_summary_link" href="https://code.google.com/p/html5shiv/">HTML5 IE enabling script</a> pour toutes les versions de IE inferieur à la 9 (merci IE).
 Il suffit d'ajouter le code suivant dans le setup du gabarit de base
 [code]
 #if MS Internet Explorer
@@ -42,7 +42,7 @@ page.headerData = CARRAY
         10 = TEXT
         10.value (
             &lt;!--[if lt IE 9]&gt;
-            &lt;script src=&quot;http://html5shiv.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+            &lt;script src=&quot;https://html5shiv.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
             &lt;![endif]--&gt;
         )
     }

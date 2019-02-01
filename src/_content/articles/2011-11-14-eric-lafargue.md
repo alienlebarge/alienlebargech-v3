@@ -16,7 +16,7 @@ meta:
   unlink_post_title: default
   layout: default
   post_color: default
-  link_url: http://www.tsr.ch/video/sport/sport-dimanche/3582275-le-mag-eric-lafargue-photographe-sportif.html
+  link_url: https://www.tsr.ch/video/sport/sport-dimanche/3582275-le-mag-eric-lafargue-photographe-sportif.html
   hide_post_title: default
   hide_post_image: default
   hide_post_meta: default
@@ -27,4 +27,4 @@ meta:
   soy_post_style: Normal
   tmac_last_id: '256453714368405504'
 ---
-La TSR a effectué un reportage sur le photographe sportif Eric Lafargue. Pour tous ceux pour qui la photo et le port passionne, je vous laisse rêver de faire son métier passionnant. La vidéo est <a href="http://www.tsr.ch/video/sport/sport-dimanche/3582275-le-mag-eric-lafargue-photographe-sportif.html">par là</a>.
+La TSR a effectué un reportage sur le photographe sportif Eric Lafargue. Pour tous ceux pour qui la photo et le port passionne, je vous laisse rêver de faire son métier passionnant. La vidéo est <a href="https://www.tsr.ch/video/sport/sport-dimanche/3582275-le-mag-eric-lafargue-photographe-sportif.html">par là</a>.

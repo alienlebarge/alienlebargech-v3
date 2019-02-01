@@ -30,13 +30,13 @@ Retour d'expérience sur ma dernière acquisition : le Kindle Touch
 
 <!--more-->
 
-Tous les jours, je me rends au travail en train et bus. Durant ces trajets, je lisais beaucoup de <a title="Définition du livre électronique sur wikipédia" href="http://fr.wikipedia.org/wiki/Livre_num%C3%A9rique">livres électroniques</a> (e-books) sur mon iPhone mais la taille de l'écran et son rétro-éclairage me fatiguaient les yeux très vite. De plus, on est tenté de vite aller voir facebook ou vérifier ses mails.
+Tous les jours, je me rends au travail en train et bus. Durant ces trajets, je lisais beaucoup de <a title="Définition du livre électronique sur wikipédia" href="https://fr.wikipedia.org/wiki/Livre_num%C3%A9rique">livres électroniques</a> (e-books) sur mon iPhone mais la taille de l'écran et son rétro-éclairage me fatiguaient les yeux très vite. De plus, on est tenté de vite aller voir facebook ou vérifier ses mails.
 
-Pour épargner mes yeux ainsi que mon forfait téléphonique de données, j'ai décidé de commander un <a title="Le Kindle sur Amazon" href="http://www.amazon.fr/Kindle-liseuse-int%C3%A9gr%C3%A9-affichage-%C3%A9lectronique/dp/B0051QVF7A">Kindle</a>.
+Pour épargner mes yeux ainsi que mon forfait téléphonique de données, j'ai décidé de commander un <a title="Le Kindle sur Amazon" href="https://www.amazon.fr/Kindle-liseuse-int%C3%A9gr%C3%A9-affichage-%C3%A9lectronique/dp/B0051QVF7A">Kindle</a>.
 
-Après <a title="Le livre 'Demain j'arrête' sur Amazon" href="http://www.amazon.fr/Demain-jarr%C3%AAte-Gilles-Legardinier/dp/2265094307">un livre pour les filles</a> (j'avais pas fait attention), j’entame mon deuxième roman de science fiction (dont je vous parlerai peut-être plus tard), c'est donc à mon troisième ouvrage en quelques semaines. Cela faisait des années que je n'avais plus "ouvert un livre". Le Kindle m'a réconcilié avec la lecture !
+Après <a title="Le livre 'Demain j'arrête' sur Amazon" href="https://www.amazon.fr/Demain-jarr%C3%AAte-Gilles-Legardinier/dp/2265094307">un livre pour les filles</a> (j'avais pas fait attention), j’entame mon deuxième roman de science fiction (dont je vous parlerai peut-être plus tard), c'est donc à mon troisième ouvrage en quelques semaines. Cela faisait des années que je n'avais plus "ouvert un livre". Le Kindle m'a réconcilié avec la lecture !
 
-Le confort de lecture sur le Kindle est aussi agréable que sur du papier. J'ai franchement été bleufé par l<a title="L'encre électronique sur wikipédia" href="http://fr.wikipedia.org/wiki/Encre_%C3%A9lectronique">'encre électronique</a>. Plus aucune fatigue ne se fait ressentir en comparaison à l'iPhone ou l'iPad. Je peux rester croché des heures sans problème.
+Le confort de lecture sur le Kindle est aussi agréable que sur du papier. J'ai franchement été bleufé par l<a title="L'encre électronique sur wikipédia" href="https://fr.wikipedia.org/wiki/Encre_%C3%A9lectronique">'encre électronique</a>. Plus aucune fatigue ne se fait ressentir en comparaison à l'iPhone ou l'iPad. Je peux rester croché des heures sans problème.
 Dans le train, les reflets du soleil étaient plus que pénibles. Avec le Kindle, il n'y a plus aucun problème. Plus besoin de se mettre à l'ombre pour lire.
 
 La taille de l'écran est vraiment adéquate. Cela se rapproche d'un format de poche traditionnel. Par contre le périphérique en lui-même est un poil grand. Il tient dans la main. Mais la prise n'est pas franche. Il faut dire que j'ai des mains assez petites. Dans les bousculades comme les sorties de train ou de bus, je fais très attention à ne pas le lâcher.

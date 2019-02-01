@@ -13,7 +13,7 @@ meta:
   _edit_last: '1'
   layout: default
   post_color: default
-  video_url: http://youtu.be/KiLjuRG3hoE
+  video_url: https://youtu.be/KiLjuRG3hoE
   hide_post_title: default
   unlink_post_title: default
   hide_post_meta: default
@@ -21,9 +21,9 @@ meta:
   hide_post_image: default
   _thumbnail_id: '5872'
   tmac_last_id: '256453610576166912'
-  _oembed_2926858fb2d8443084c5082d26dda5f8: <iframe width="1024" height="576" src="http://www.youtube.com/embed/KiLjuRG3hoE?fs=1&feature=oembed"
+  _oembed_2926858fb2d8443084c5082d26dda5f8: <iframe width="1024" height="576" src="https://www.youtube.com/embed/KiLjuRG3hoE?fs=1&feature=oembed"
     frameborder="0" allowfullscreen></iframe>
 ---
-Avec l'annonce du programme du <a title="Le site du festival" href="http://www.paleo.ch/">Paléo</a>, je me suis réécouté l'album "Blood Pressures" de <a title="Le site du groupe" href="http://www.thekills.tv/">The Kills</a>. Du coup, je partage avec vous ma chanson favorite qui tourne à nouveau en boucle. <!--more-->
+Avec l'annonce du programme du <a title="Le site du festival" href="https://www.paleo.ch/">Paléo</a>, je me suis réécouté l'album "Blood Pressures" de <a title="Le site du groupe" href="https://www.thekills.tv/">The Kills</a>. Du coup, je partage avec vous ma chanson favorite qui tourne à nouveau en boucle. <!--more-->
 
 <a href="https://dlgjp9x71cipk.cloudfront.net/2012/05/theKills.jpg"><img class="alignnone size-medium wp-image-5872" title="The Kills" src="https://dlgjp9x71cipk.cloudfront.net/2012/05/theKills-201x250.jpg" alt="" width="201" height="250" /></a>

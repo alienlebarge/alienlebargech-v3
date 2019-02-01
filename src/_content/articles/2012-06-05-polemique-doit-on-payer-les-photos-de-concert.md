@@ -13,7 +13,7 @@ meta:
   _edit_last: '1'
   layout: default
   post_color: default
-  link_url: http://www.lense.fr/2012/06/05/polemique-doit-on-payer-les-photos-de-concert/
+  link_url: https://www.lense.fr/2012/06/05/polemique-doit-on-payer-les-photos-de-concert/
   hide_post_title: default
   unlink_post_title: default
   hide_post_meta: default

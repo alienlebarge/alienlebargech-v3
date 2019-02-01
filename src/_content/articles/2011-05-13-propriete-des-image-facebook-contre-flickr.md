@@ -23,7 +23,7 @@ meta:
   soy_post_style: Normal
   tmac_last_id: '256453791879139329'
 ---
-Aujourd'hui, Flickr <a title="Artilce &quot;At Flickr, your photos are always yours&quot;" href="http://blog.flickr.net/en/2011/05/13/at-flickr-your-photos-are-always-yours/">publie un article sur la propriété des photos qui sont téléversées sur le site</a>.
+Aujourd'hui, Flickr <a title="Artilce &quot;At Flickr, your photos are always yours&quot;" href="https://blog.flickr.net/en/2011/05/13/at-flickr-your-photos-are-always-yours/">publie un article sur la propriété des photos qui sont téléversées sur le site</a>.
 
 J'ai toujours entendu que les photos que l'on mettait sur Facebook ne nous appartenaient plus et qu'ils pouvaient en faire ce qu'ils veulent. Sans m'être trop renseigné j'ai prôné cela auprès de mes connaissances.
 <blockquote>Photos sur Facebook = le mal
@@ -40,7 +40,7 @@ Le contenu et les informations que vous publiez sur Facebook vous appartiennent,
 3. Lorsque vous ajoutez une application et utilisez la plate-forme, votre contenu et vos informations sont partagés avec l'application. Nous demandons aux applications de respecter vos paramètres de confidentialité, mais les options que vous sélectionnez pour cette application contrôlent la façon dont l'application peut utiliser le contenu et les informations que vous partagez (pour en savoir plus sur la plate-forme, consultez la page À propos de la plate-forme).
 4. Lorsque vous publiez du contenu ou des informations avec le paramètre « tout le monde », cela signifie que tout le monde, y compris les personnes qui n'utilisent pas Facebook, peuvent avoir accès au contenu ou aux informations publiés et que vous pouvez donc ne pas pouvoir contrôler ce qu'ils en font.
 5. Nous apprécions vos commentaires et vos suggestions concernant Facebook, mais vous comprenez que nous pouvons les utiliser sans aucune obligation de rémunération (tout comme vous n'avez aucune obligation de nous les communiquer).</blockquote>
-Celle de Flickr (<a href="http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html">point 9b</a>) :
+Celle de Flickr (<a href="https://info.yahoo.com/legal/us/yahoo/utos/utos-173.html">point 9b</a>) :
 <blockquote>With respect to photos, graphics, audio or video you submit or make available for inclusion on publicly accessible areas of the Yahoo! Services other than Yahoo! Groups, the license to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Content on the Yahoo! Services solely for the purpose for which such Content was submitted or made available. This license exists only for as long as you elect to continue to include such Content on the Yahoo! Services and will terminate at the time you remove or Yahoo! removes such Content from the Yahoo! Services.</blockquote>
 Si je comprend bien (je ne suis pas juriste), Facebook pourra faire ce qu'il veulent avec vos photos. Le géant bleu a même le droit de transférer les droits de vos clichés à des entités tierces (licence transférable). Cela se termine lorsque votre contenu n'est plus accessible sur leur site. Je ne sais pas s'il en est de même si les droits ont été transférés (que vos photos sont sur un site tiers).
 

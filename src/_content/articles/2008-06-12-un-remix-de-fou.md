@@ -12,7 +12,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234525283'
-  shorturls: a:7:{s:9:"permalink";s:54:"http://www.alienlebarge.ch/2008/06/12/un-remix-de-fou/";s:7:"tinyurl";s:25:"http://tinyurl.com/cfmqaf";s:4:"isgd";s:17:"http://is.gd/ikdE";s:5:"bitly";s:18:"http://bit.ly/j9lZ";s:5:"snipr";s:22:"http://snipr.com/b9x8b";s:5:"snurl";s:22:"http://snurl.com/b9x8b";s:7:"snipurl";s:24:"http://snipurl.com/b9x8b";}
+  shorturls: a:7:{s:9:"permalink";s:54:"https://www.alienlebarge.ch/2008/06/12/un-remix-de-fou/";s:7:"tinyurl";s:25:"https://tinyurl.com/cfmqaf";s:4:"isgd";s:17:"https://is.gd/ikdE";s:5:"bitly";s:18:"https://bit.ly/j9lZ";s:5:"snipr";s:22:"https://snipr.com/b9x8b";s:5:"snurl";s:22:"https://snurl.com/b9x8b";s:7:"snipurl";s:24:"https://snipurl.com/b9x8b";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -23,4 +23,4 @@ Quand on est technicien et que Radiohead propose de faire un remix d'un de ses 
 
 <!--more-->
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="225" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.vimeo.com/moogaloop.swf?clip_id=1109226&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed type="application/x-shockwave-flash" width="400" height="225" src="http://www.vimeo.com/moogaloop.swf?clip_id=1109226&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="225" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="https://www.vimeo.com/moogaloop.swf?clip_id=1109226&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed type="application/x-shockwave-flash" width="400" height="225" src="https://www.vimeo.com/moogaloop.swf?clip_id=1109226&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>

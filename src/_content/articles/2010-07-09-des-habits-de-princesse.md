@@ -22,7 +22,7 @@ Quand on parle d'habits de princesse, on s'imagine des belles robes, des diadèm
 
 <!--more-->
 
-C'est finit les longues robes qui traînent et se prennent partout. Les princesse de nos jour mettent des vêtement plus décontracter. <a title="Lien vers le site de Mélazic" href="http://www.melazic.com/">Mélazic</a> propose une ligne destinée aux belles qui vivent dans un compte de fée.
+C'est finit les longues robes qui traînent et se prennent partout. Les princesse de nos jour mettent des vêtement plus décontracter. <a title="Lien vers le site de Mélazic" href="https://www.melazic.com/">Mélazic</a> propose une ligne destinée aux belles qui vivent dans un compte de fée.
 
 C'est plein d'humour et de paillettes !
 

@@ -11,7 +11,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234385021'
-  shorturls: a:7:{s:9:"permalink";s:56:"http://www.alienlebarge.ch/2008/11/25/la-course-au-k-do/";s:7:"tinyurl";s:25:"http://tinyurl.com/bgtv85";s:4:"isgd";s:17:"http://is.gd/in0D";s:5:"bitly";s:18:"http://bit.ly/aevV";s:5:"snipr";s:22:"http://snipr.com/bakk6";s:5:"snurl";s:22:"http://snurl.com/bakk6";s:7:"snipurl";s:24:"http://snipurl.com/bakk6";}
+  shorturls: a:7:{s:9:"permalink";s:56:"https://www.alienlebarge.ch/2008/11/25/la-course-au-k-do/";s:7:"tinyurl";s:25:"https://tinyurl.com/bgtv85";s:4:"isgd";s:17:"https://is.gd/in0D";s:5:"bitly";s:18:"https://bit.ly/aevV";s:5:"snipr";s:22:"https://snipr.com/bakk6";s:5:"snurl";s:22:"https://snurl.com/bakk6";s:7:"snipurl";s:24:"https://snipurl.com/bakk6";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: '256454039099813888'

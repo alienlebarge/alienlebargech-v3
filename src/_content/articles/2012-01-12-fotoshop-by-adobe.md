@@ -16,12 +16,12 @@ meta:
   hide_post_meta: default
   unlink_post_title: default
   hide_post_title: default
-  video_url: http://youtu.be/S_vVUIYOmJM
+  video_url: https://youtu.be/S_vVUIYOmJM
   post_color: default
   layout: default
   _edit_last: '1'
   tmac_last_id: '256453666372988928'
-  _oembed_927f17672c4105fa7eb635dc3adba876: <iframe width="1024" height="576" src="http://www.youtube.com/embed/S_vVUIYOmJM?fs=1&feature=oembed"
+  _oembed_927f17672c4105fa7eb635dc3adba876: <iframe width="1024" height="576" src="https://www.youtube.com/embed/S_vVUIYOmJM?fs=1&feature=oembed"
     frameborder="0" allowfullscreen></iframe>
 ---
 Un nouveau produit vient de sortir. Il vous permettra de ressembler à une vraie star ! ;)<!--more-->

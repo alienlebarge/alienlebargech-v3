@@ -12,7 +12,7 @@ published: true
 meta:
   _wp_old_slug: ken-touch-this
   tweetbackscheck: '1234451172'
-  shorturls: a:7:{s:9:"permalink";s:55:"http://www.alienlebarge.ch/2007/12/11/ken-touched-this/";s:7:"tinyurl";s:25:"http://tinyurl.com/atgael";s:4:"isgd";s:17:"http://is.gd/ikpb";s:5:"bitly";s:18:"http://bit.ly/BuZu";s:5:"snipr";s:22:"http://snipr.com/b9zac";s:5:"snurl";s:22:"http://snurl.com/b9zac";s:7:"snipurl";s:24:"http://snipurl.com/b9zac";}
+  shorturls: a:7:{s:9:"permalink";s:55:"https://www.alienlebarge.ch/2007/12/11/ken-touched-this/";s:7:"tinyurl";s:25:"https://tinyurl.com/atgael";s:4:"isgd";s:17:"https://is.gd/ikpb";s:5:"bitly";s:18:"https://bit.ly/BuZu";s:5:"snipr";s:22:"https://snipr.com/b9zac";s:5:"snurl";s:22:"https://snurl.com/b9zac";s:7:"snipurl";s:24:"https://snipurl.com/b9zac";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -27,4 +27,4 @@ Berlitz joue là dessus pour nous sortir une pub où le titre de MC Hamer, "U Ca
 
 [youtube OT--hiLMWGs]
 
-<a href="http://www.marketing-alternatif.com/2007/12/11/berlitz-ken-touched-this/" title="Marketing alternatif">via</a>
+<a href="https://www.marketing-alternatif.com/2007/12/11/berlitz-ken-touched-this/" title="Marketing alternatif">via</a>

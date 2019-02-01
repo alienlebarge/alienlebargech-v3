@@ -13,7 +13,7 @@ Priority+ navigation is an interesting pattern. The main idea of it is to place 
 
 After an unsuccessful search for a priority+ navigation built with flexboxes, I have build one.
 
-[And here's the result](http://codepen.io/alienlebarge/full/rOjRBZ/).
+[And here's the result](https://codepen.io/alienlebarge/full/rOjRBZ/).
 
 ## Pros
 
@@ -29,9 +29,9 @@ After an unsuccessful search for a priority+ navigation built with flexboxes, I 
 
 ## The code
 
-All [the documented code is available on Codepen](http://codepen.io/alienlebarge/pen/rOjRBZ). Feel free to play with it.
+All [the documented code is available on Codepen](https://codepen.io/alienlebarge/pen/rOjRBZ). Feel free to play with it.
 
-<p data-height="268" data-theme-id="7142" data-slug-hash="rOjRBZ" data-default-tab="result" data-user="alienlebarge" class='codepen'>See the Pen <a href='http://codepen.io/alienlebarge/pen/rOjRBZ/'>Priority+ navigation</a> by Cédric Aellen (<a href='http://codepen.io/alienlebarge'>@alienlebarge</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="268" data-theme-id="7142" data-slug-hash="rOjRBZ" data-default-tab="result" data-user="alienlebarge" class='codepen'>See the Pen <a href='https://codepen.io/alienlebarge/pen/rOjRBZ/'>Priority+ navigation</a> by Cédric Aellen (<a href='https://codepen.io/alienlebarge'>@alienlebarge</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 ## Next step

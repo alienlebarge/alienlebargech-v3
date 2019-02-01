@@ -16,7 +16,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234571339'
-  shorturls: a:7:{s:9:"permalink";s:80:"http://www.alienlebarge.ch/2009/01/23/le-web-pour-les-mal-voyants-ma-revelation/";s:7:"tinyurl";s:25:"http://tinyurl.com/azutlo";s:4:"isgd";s:17:"http://is.gd/ikSi";s:5:"bitly";s:19:"http://bit.ly/12FAh";s:5:"snipr";s:22:"http://snipr.com/ba3fc";s:5:"snurl";s:22:"http://snurl.com/ba3fc";s:7:"snipurl";s:24:"http://snipurl.com/ba3fc";}
+  shorturls: a:7:{s:9:"permalink";s:80:"https://www.alienlebarge.ch/2009/01/23/le-web-pour-les-mal-voyants-ma-revelation/";s:7:"tinyurl";s:25:"https://tinyurl.com/azutlo";s:4:"isgd";s:17:"https://is.gd/ikSi";s:5:"bitly";s:19:"https://bit.ly/12FAh";s:5:"snipr";s:22:"https://snipr.com/ba3fc";s:5:"snurl";s:22:"https://snurl.com/ba3fc";s:7:"snipurl";s:24:"https://snipurl.com/ba3fc";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: '256453994241744896'
@@ -27,4 +27,4 @@ Cette semaine, j'ai eu la chance (dans le cadre du boulot) de faire un cours sur
 
 Mais au-delà de ça, je ne m’étais jamais posé les questions quant à la façon dont étaient utilisées les balises destinées aux mal voyants. Cette présentation m'a (on peut le dire) ouvert les yeux.
 
-Promis, je mettrais des balises certifiées, structurées et bien commentées. <a title="Le blog de Cédric Fardel" href="http://www.cfardel.net/blog/">Merci</a>
+Promis, je mettrais des balises certifiées, structurées et bien commentées. <a title="Le blog de Cédric Fardel" href="https://www.cfardel.net/blog/">Merci</a>

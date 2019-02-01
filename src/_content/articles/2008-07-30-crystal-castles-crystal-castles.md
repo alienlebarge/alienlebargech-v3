@@ -12,7 +12,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234470791'
-  shorturls: a:7:{s:9:"permalink";s:70:"http://www.alienlebarge.ch/2008/07/30/crystal-castles-crystal-castles/";s:7:"tinyurl";s:25:"http://tinyurl.com/b4rgwa";s:4:"isgd";s:17:"http://is.gd/ikej";s:5:"bitly";s:20:"http://bit.ly/1GOgFG";s:5:"snipr";s:22:"http://snipr.com/b9xby";s:5:"snurl";s:22:"http://snurl.com/b9xby";s:7:"snipurl";s:24:"http://snipurl.com/b9xby";}
+  shorturls: a:7:{s:9:"permalink";s:70:"https://www.alienlebarge.ch/2008/07/30/crystal-castles-crystal-castles/";s:7:"tinyurl";s:25:"https://tinyurl.com/b4rgwa";s:4:"isgd";s:17:"https://is.gd/ikej";s:5:"bitly";s:20:"https://bit.ly/1GOgFG";s:5:"snipr";s:22:"https://snipr.com/b9xby";s:5:"snurl";s:22:"https://snurl.com/b9xby";s:7:"snipurl";s:24:"https://snipurl.com/b9xby";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -23,7 +23,7 @@ C’est sans aucun doute mon coup de coeur du moment. J’ai découvert ce group
 
 <!--more-->
 
-Pour la petite histoire, voici la bio que j’ai chopée sur <a href="http://www.lastfm.fr/music/Crystal+Castles"><span>last.fm</span></a> :
+Pour la petite histoire, voici la bio que j’ai chopée sur <a href="https://www.lastfm.fr/music/Crystal+Castles"><span>last.fm</span></a> :
 
  
 <blockquote>Crystal Castles est le nom d’un duo torontois formé en par Ethan Kath et Alice Glass.
@@ -35,8 +35,8 @@ Les Crystal Castles ont fait de nombreuses tournées en Europe et aux États-Uni
 
 Dans le troisème épisode de la seconde saison de la série Skins on voit le groupe jouer eux-même le morceau « Alice Pratice ».
 En mai 2008, le groupe de la scène démo, 8-bit collective accuse Crystal Castles de plagiat.</blockquote>
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/F29fGbm0a24&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/F29fGbm0a24&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="https://www.youtube.com/v/F29fGbm0a24&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="https://www.youtube.com/v/F29fGbm0a24&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object>
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/56E8yYgLNHE&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/56E8yYgLNHE&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="https://www.youtube.com/v/56E8yYgLNHE&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="https://www.youtube.com/v/56E8yYgLNHE&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object>
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/HLzgND7CugU&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/HLzgND7CugU&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="https://www.youtube.com/v/HLzgND7CugU&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="https://www.youtube.com/v/HLzgND7CugU&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object>

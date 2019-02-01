@@ -32,7 +32,7 @@ Tout ça pour arrivé au fait que le plus souvent les morceaux, je les écoute s
 
 Brancher ma platine sur ma table de mix, de régler les niveaux puis câbler mon ordinateur sur ladite table pour numériser un vinyle ne me motive plus. Oui, je suis adepte de la facilité.
 
-Mais voilà, certains labels (<a href="http://www.ninjatune.net/">Ninja Tune</a> et <a href="http://us1.campaign-archive.com/?u=6d3df38950bea99903df571ba&amp;id=92e190ea64&amp;e=">Warp </a>notamment) commencent à proposer les morceaux au format mp3 en plus du vinyle. Ceux-ci nous sont proposés au téléchargement lors de l’achat du disque. Et cela, sans aucune majoration du prix. En tant qu'amoureux de la galette, je salue cette initiative. Même si c'est quelques francs de plus, je vais pouvoir garnir mon disque dur ET ma discothèque.
+Mais voilà, certains labels (<a href="https://www.ninjatune.net/">Ninja Tune</a> et <a href="https://us1.campaign-archive.com/?u=6d3df38950bea99903df571ba&amp;id=92e190ea64&amp;e=">Warp </a>notamment) commencent à proposer les morceaux au format mp3 en plus du vinyle. Ceux-ci nous sont proposés au téléchargement lors de l’achat du disque. Et cela, sans aucune majoration du prix. En tant qu'amoureux de la galette, je salue cette initiative. Même si c'est quelques francs de plus, je vais pouvoir garnir mon disque dur ET ma discothèque.
 
 Un vrai disque, c'est toujours plus sympathique à contempler qu'une boite un métal. C'est tellement plus "vivant". Vous ne trouvez pas ?
 

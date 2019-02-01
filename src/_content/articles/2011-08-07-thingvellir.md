@@ -30,15 +30,15 @@ meta:
   layout: default
   tmac_last_id: '256453749923540994'
 ---
-<a href="http://www.alienlebarge.ch/2011/07/16/islandic-horse/">Comme promis</a>, voici quelques photographies de notre récent voyage en Islande.
+<a href="https://www.alienlebarge.ch/2011/07/16/islandic-horse/">Comme promis</a>, voici quelques photographies de notre récent voyage en Islande.
 
 <!--more-->
 
 [gallery link="file" order="DESC" columns="4" orderby="ID"]
 
-Nous avons visité <a href="http://fr.wikipedia.org/wiki/Parc_national_de_%C3%9Eingvellir">Þingvellir</a> le lendemain de notre arrivé sur l'île. Ce parc est chargé d'histoire et cher au cœur des Islandais.
+Nous avons visité <a href="https://fr.wikipedia.org/wiki/Parc_national_de_%C3%9Eingvellir">Þingvellir</a> le lendemain de notre arrivé sur l'île. Ce parc est chargé d'histoire et cher au cœur des Islandais.
 
-Il s'agit du lieu de rassemblement du premier parlement islandais, l'<a href="http://fr.wikipedia.org/wiki/Althing">Alþing</a>. En islandais, <em>Þing</em> veut dire « parlement » et <em>vellir</em> « plaine», soit « Plaines du parlement ». Ce parlement est le plus vieux du monde. Il a été fondé en 930. Le site est inscrit au patrimoine mondial de l'UNESCO.
+Il s'agit du lieu de rassemblement du premier parlement islandais, l'<a href="https://fr.wikipedia.org/wiki/Althing">Alþing</a>. En islandais, <em>Þing</em> veut dire « parlement » et <em>vellir</em> « plaine», soit « Plaines du parlement ». Ce parlement est le plus vieux du monde. Il a été fondé en 930. Le site est inscrit au patrimoine mondial de l'UNESCO.
 
 Le parc est parcouru de failles saillantes. C'est dû à sa position entre deux plaques tectoniques. C'est dans l'une de ces failles que prenait place jadis l'Alþing. Cet endroit avait été choisi, car les parois de la faille amplifiaient le son des orateurs. Cela leur permettait d'être bien entendu par l'assemblée.
 

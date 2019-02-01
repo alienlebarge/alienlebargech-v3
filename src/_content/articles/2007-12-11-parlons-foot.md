@@ -11,13 +11,13 @@ type: post
 published: true
 meta:
   tweetbackscheck: '1234597894'
-  shorturls: a:7:{s:9:"permalink";s:51:"http://www.alienlebarge.ch/2007/12/11/parlons-foot/";s:7:"tinyurl";s:25:"http://tinyurl.com/atlnej";s:4:"isgd";s:17:"http://is.gd/iB7i";s:5:"bitly";s:18:"http://bit.ly/AA8v";s:5:"snipr";s:22:"http://snipr.com/ben1e";s:5:"snurl";s:22:"http://snurl.com/ben1e";s:7:"snipurl";s:24:"http://snipurl.com/ben1e";}
+  shorturls: a:7:{s:9:"permalink";s:51:"https://www.alienlebarge.ch/2007/12/11/parlons-foot/";s:7:"tinyurl";s:25:"https://tinyurl.com/atlnej";s:4:"isgd";s:17:"https://is.gd/iB7i";s:5:"bitly";s:18:"https://bit.ly/AA8v";s:5:"snipr";s:22:"https://snipr.com/ben1e";s:5:"snurl";s:22:"https://snurl.com/ben1e";s:7:"snipurl";s:24:"https://snipurl.com/ben1e";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
 ---
- <img src="http://farm1.static.flickr.com/209/473931318_2ae4f82d62.jpg" alt="Gooooal!" />
-<em><a href="http://www.flickr.com/photos/aaleksander/473931318/" title="photo sharing">Gooooal!</a></em>
+ <img src="https://farm1.static.flickr.com/209/473931318_2ae4f82d62.jpg" alt="Gooooal!" />
+<em><a href="https://www.flickr.com/photos/aaleksander/473931318/" title="photo sharing">Gooooal!</a></em>
 
 Quelques-unes des meilleures expressions footballisitques.
 En tou cas celles qui m'on t bien fait marrer ;)
@@ -51,4 +51,4 @@ Par le mythique Jean-Jacques Tillmann, match Göteborg-Manchester, TSR, 23 novem
 <strong>"Gérald, enlève la remorque" ou "Gérald enlève le frein à main”</strong>
 Expression utilisée par quelques joueurs de Xamax (véridique) quand Forschelet à de la peine à démarrer
 
-<a href="http://www.parlonsfoot.com/archives/2005/03/15/vocabulaire-et-expressions-footballistiques/" title="vocabulaire et expressions footballistiques">etc...</a>
+<a href="https://www.parlonsfoot.com/archives/2005/03/15/vocabulaire-et-expressions-footballistiques/" title="vocabulaire et expressions footballistiques">etc...</a>

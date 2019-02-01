@@ -27,7 +27,7 @@ meta:
   hide_post_image: 'yes'
   tmac_last_id: '256453732999495681'
 ---
-Un petit florilège des maisons, fermes et églises typiques que nous avons eu la chance de visiter lors de <a href="http://www.clicclac.ch/tag/islande+voyage/">notre voyage en Islande</a>. Nous les avons toutes vues dans le nord de l'Islande, dans la régions d'Akureyri et Skagafjörður.
+Un petit florilège des maisons, fermes et églises typiques que nous avons eu la chance de visiter lors de <a href="https://www.clicclac.ch/tag/islande+voyage/">notre voyage en Islande</a>. Nous les avons toutes vues dans le nord de l'Islande, dans la régions d'Akureyri et Skagafjörður.
 
 <!--more-->
 

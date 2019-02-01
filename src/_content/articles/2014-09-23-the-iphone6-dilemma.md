@@ -40,7 +40,7 @@ So here's the pros for each models:
 - I have two hours of commute each days. I read a lot in the public transportation. The *iPhone 6 Plus* can replace my *Kindle*.
 - I love [the landscape view on the *Plus*](https://www.apple.com/iphone-6/display/ "Landscape view on iPhone 6 Plus").
 - Bigger battery more autonomy.
-- [The camera is better](http://www.theverge.com/2014/9/9/6091081/iphone-6-6-plus-camera-announced "Differences between iPhone 6 and iPhone 6 Plus cameras").
+- [The camera is better](https://www.theverge.com/2014/9/9/6091081/iphone-6-6-plus-camera-announced "Differences between iPhone 6 and iPhone 6 Plus cameras").
 
 ## Conclusion
 

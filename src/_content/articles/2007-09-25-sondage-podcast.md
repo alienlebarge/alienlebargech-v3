@@ -13,15 +13,15 @@ meta:
   enclosure: "https://dlgjp9x71cipk.cloudfront.net/2007/09/sound.mp3\r\n176\r\naudio/mpeg"
   _edit_last: '1'
   tweetbackscheck: '1234606788'
-  shorturls: a:7:{s:9:"permalink";s:54:"http://www.alienlebarge.ch/2007/09/25/sondage-podcast/";s:7:"tinyurl";s:25:"http://tinyurl.com/bphds6";s:4:"isgd";s:17:"http://is.gd/ila1";s:5:"bitly";s:18:"http://bit.ly/70wx";s:5:"snipr";s:22:"http://snipr.com/ba5se";s:5:"snurl";s:22:"http://snurl.com/ba5se";s:7:"snipurl";s:24:"http://snipurl.com/ba5se";}
+  shorturls: a:7:{s:9:"permalink";s:54:"https://www.alienlebarge.ch/2007/09/25/sondage-podcast/";s:7:"tinyurl";s:25:"https://tinyurl.com/bphds6";s:4:"isgd";s:17:"https://is.gd/ila1";s:5:"bitly";s:18:"https://bit.ly/70wx";s:5:"snipr";s:22:"https://snipr.com/ba5se";s:5:"snurl";s:22:"https://snurl.com/ba5se";s:7:"snipurl";s:24:"https://snipurl.com/ba5se";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
 ---
-<img src="http://farm2.static.flickr.com/1267/663815522_87c08e5a30.jpg" alt="Father of the Bride" />
-<em><a title="photo sharing" href="http://www.flickr.com/photos/turekcsaba/663815522/">Father of the Bride</a></em>
+<img src="https://farm2.static.flickr.com/1267/663815522_87c08e5a30.jpg" alt="Father of the Bride" />
+<em><a title="photo sharing" href="https://www.flickr.com/photos/turekcsaba/663815522/">Father of the Bride</a></em>
 
-Histoire de vous faire participer la moindre à la prochaine sortie de l'<a title="Les podcasts d'alienlebarge" href="http://www.alienlebarge.ch/podcast/">alb broadcast</a>, voici une question toute simple : qu'est-ce que vous aimeriez y trouver comme style de musique ?
+Histoire de vous faire participer la moindre à la prochaine sortie de l'<a title="Les podcasts d'alienlebarge" href="https://www.alienlebarge.ch/podcast/">alb broadcast</a>, voici une question toute simple : qu'est-ce que vous aimeriez y trouver comme style de musique ?
 
 Dans la mesure du possible, je vais tenter de répondre à vos attentes. N'hésitez pas à participer !
 

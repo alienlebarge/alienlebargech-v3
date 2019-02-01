@@ -11,7 +11,7 @@ type: post
 published: true
 meta:
   tweetbackscheck: '1234592564'
-  shorturls: a:7:{s:9:"permalink";s:50:"http://www.alienlebarge.ch/2008/01/09/flickodeche/";s:7:"tinyurl";s:25:"http://tinyurl.com/ajx3b9";s:4:"isgd";s:17:"http://is.gd/ivM1";s:5:"bitly";s:18:"http://bit.ly/Qfqy";s:5:"snipr";s:22:"http://snipr.com/bcy65";s:5:"snurl";s:22:"http://snurl.com/bcy65";s:7:"snipurl";s:24:"http://snipurl.com/bcy65";}
+  shorturls: a:7:{s:9:"permalink";s:50:"https://www.alienlebarge.ch/2008/01/09/flickodeche/";s:7:"tinyurl";s:25:"https://tinyurl.com/ajx3b9";s:4:"isgd";s:17:"https://is.gd/ivM1";s:5:"bitly";s:18:"https://bit.ly/Qfqy";s:5:"snipr";s:22:"https://snipr.com/bcy65";s:5:"snurl";s:22:"https://snurl.com/bcy65";s:7:"snipurl";s:24:"https://snipurl.com/bcy65";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -19,10 +19,10 @@ meta:
 <img src="https://dlgjp9x71cipk.cloudfront.net/2008/01/deche.png" alt="Best of the dèche" />
 
 Oui, je déroge à la règle que je m'étais fixé de ne pas utiliser d'image énorme. Le blog perd un peu de cohérance mais ça en vallait la peine ... non ?
-Vous avez sous vos petits quinquets une partie de l'album "<a href="http://www.flickr.com/photos/alienlebarge/sets/72157601276042327/" title="l'album best of the dèche">Best of the dèche</a>".
+Vous avez sous vos petits quinquets une partie de l'album "<a href="https://www.flickr.com/photos/alienlebarge/sets/72157601276042327/" title="l'album best of the dèche">Best of the dèche</a>".
 
 Revenons à nos moutons.
-Certain d'entre vous on remarqué que je fais de l'upload massif de photo sur <a href="http://www.flickr.com/photos/alienlebarge/" title="Mes photos sur Flickr">Flickr</a>.
+Certain d'entre vous on remarqué que je fais de l'upload massif de photo sur <a href="https://www.flickr.com/photos/alienlebarge/" title="Mes photos sur Flickr">Flickr</a>.
 Et j'ai besoin de vous !
 
 <!--more-->Comme j'ai mis à peu près 15'000 photos ces deux dernières semaines (et c'est pas finit), vous pensez que je ne prend pas trop le temps de classer tout ça (hormis par album). Du coup, ça fait un gros tas de photos. Lorsque que quelqu'un cherche un photo faite par un groupe de mecs sur le bord d'une route montant au suchet un soir de grillade, on ne sait pas trop où chercher.

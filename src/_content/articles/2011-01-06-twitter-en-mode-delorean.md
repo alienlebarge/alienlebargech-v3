@@ -21,7 +21,7 @@ meta:
 
 Mais que c'est-il passé en 2010 ? Je vous le demande.
 
-Twitter est là pour répondre à la question. En effet, le célèbre petit zozieau bleu (on dit plateforme de microbloging) nous sort <a title="Twitter Year in Review" href="http://yearinreview.twitter.com/">quelques statistiques</a> sur ce qui a été posté sur le site.
+Twitter est là pour répondre à la question. En effet, le célèbre petit zozieau bleu (on dit plateforme de microbloging) nous sort <a title="Twitter Year in Review" href="https://yearinreview.twitter.com/">quelques statistiques</a> sur ce qui a été posté sur le site.
 
 Au programme :
 <ul>

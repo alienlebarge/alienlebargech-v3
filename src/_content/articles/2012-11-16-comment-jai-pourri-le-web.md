@@ -13,4 +13,4 @@ meta:
   dsq_thread_id: '948016700'
   dsq_needs_sync: '1'
 ---
-Je ne me lasse pas de lire <a title="Comment j'ai pourri le web" href="http://www.laviemoderne.net/lames-de-fond/009-comment-j-ai-pourri-le-web.html">le récit</a> de ce professeur ayant volontairement détourné des contenus web afin de rendre attentif ses élèves et collègues à la véracité des contenus trouvés sur la toile.
+Je ne me lasse pas de lire <a title="Comment j'ai pourri le web" href="https://www.laviemoderne.net/lames-de-fond/009-comment-j-ai-pourri-le-web.html">le récit</a> de ce professeur ayant volontairement détourné des contenus web afin de rendre attentif ses élèves et collègues à la véracité des contenus trouvés sur la toile.

@@ -34,24 +34,24 @@ Here is my sketchnote:
 
 <figure>
   <iframe src="//player.vimeo.com/video/113586350?color=9c191e" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  <figcaption><p><a href="http://vimeo.com/113586350">Brian Suda – Connecting The Digital To Analog – beyond tellerrand Berlin 2014</a> from <a href="http://vimeo.com/beyondtellerrand">beyond tellerrand</a> on <a href="https://vimeo.com">Vimeo</a>.</p></figcaption>
+  <figcaption><p><a href="https://vimeo.com/113586350">Brian Suda – Connecting The Digital To Analog – beyond tellerrand Berlin 2014</a> from <a href="https://vimeo.com/beyondtellerrand">beyond tellerrand</a> on <a href="https://vimeo.com">Vimeo</a>.</p></figcaption>
 </figure>
 
 ## Links
 
-- [PaperNet Boarding Pass](http://optional.is/required/2010/05/25/papernet-boarding-pass/)
-- [PDF Creation from HTML service](http://optional.is/required/2014/06/12/pdf-creation-from-html-service/)
+- [PaperNet Boarding Pass](https://optional.is/required/2010/05/25/papernet-boarding-pass/)
+- [PDF Creation from HTML service](https://optional.is/required/2014/06/12/pdf-creation-from-html-service/)
 
 ## Tweets
 
 And here are some tweets related to the talk:
 
-<blockquote class="twitter-tweet" lang="fr"><p>The Sweet Spot according to <a href="https://twitter.com/briansuda">@briansuda</a> <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="http://t.co/31hrn2kHBW">pic.twitter.com/31hrn2kHBW</a></p>&mdash; Henning Hoyer (@ihazweb) <a href="https://twitter.com/ihazweb/status/529999133135081472">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="fr"><p>The Sweet Spot according to <a href="https://twitter.com/briansuda">@briansuda</a> <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="https://t.co/31hrn2kHBW">pic.twitter.com/31hrn2kHBW</a></p>&mdash; Henning Hoyer (@ihazweb) <a href="https://twitter.com/ihazweb/status/529999133135081472">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" lang="fr"><p>Finally: 1st Venn diagram at <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> by <a href="https://twitter.com/briansuda">@briansuda</a>: science∩art = wonder <a href="http://t.co/uWswmLuHt3">pic.twitter.com/uWswmLuHt3</a></p>&mdash; Gunnar Bittersmann (@g16n) <a href="https://twitter.com/g16n/status/530000887373381632">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="fr"><p>Finally: 1st Venn diagram at <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> by <a href="https://twitter.com/briansuda">@briansuda</a>: science∩art = wonder <a href="https://t.co/uWswmLuHt3">pic.twitter.com/uWswmLuHt3</a></p>&mdash; Gunnar Bittersmann (@g16n) <a href="https://twitter.com/g16n/status/530000887373381632">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" lang="fr"><p><a href="https://twitter.com/briansuda">@briansuda</a> &quot;Animated GIFs are available at paper - i don&#39;t know how to use them - but they are here!&quot; <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="https://twitter.com/hashtag/paper?src=hash">#paper</a> <a href="http://t.co/iV9ceHoZoQ">pic.twitter.com/iV9ceHoZoQ</a></p>&mdash; Matthias H. Lick (@mhlick) <a href="https://twitter.com/mhlick/status/530004577731764224">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="fr"><p><a href="https://twitter.com/briansuda">@briansuda</a> &quot;Animated GIFs are available at paper - i don&#39;t know how to use them - but they are here!&quot; <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="https://twitter.com/hashtag/paper?src=hash">#paper</a> <a href="https://t.co/iV9ceHoZoQ">pic.twitter.com/iV9ceHoZoQ</a></p>&mdash; Matthias H. Lick (@mhlick) <a href="https://twitter.com/mhlick/status/530004577731764224">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" lang="fr"><p>Sketch notes of <a href="https://twitter.com/briansuda">@briansuda</a>&#39;s talk at <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="http://t.co/dz3JyrsITL">pic.twitter.com/dz3JyrsITL</a></p>&mdash; Anselm Hannemann (@helloanselm) <a href="https://twitter.com/helloanselm/status/530015945943949313">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="fr"><p>Sketch notes of <a href="https://twitter.com/briansuda">@briansuda</a>&#39;s talk at <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="https://t.co/dz3JyrsITL">pic.twitter.com/dz3JyrsITL</a></p>&mdash; Anselm Hannemann (@helloanselm) <a href="https://twitter.com/helloanselm/status/530015945943949313">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="fr"><p>Web Mashups on lovely, foldable, on-demand printouts. Thx for the great idea <a href="https://twitter.com/briansuda">@briansuda</a> on <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a></p>&mdash; Andy Pillip (@AndyPillip) <a href="https://twitter.com/AndyPillip/status/530015951656607744">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

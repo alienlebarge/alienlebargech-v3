@@ -27,8 +27,8 @@ Avis perso : ça manque de hollandais...
 
 <!--more-->
 
-<object width="500" height="385"><param name="movie" value="http://www.youtube.com/v/idLG6jh23yE&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/idLG6jh23yE&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="385"></embed></object>
+<object width="500" height="385"><param name="movie" value="https://www.youtube.com/v/idLG6jh23yE&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/idLG6jh23yE&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="385"></embed></object>
 
 et pour le plaisir, l'avant-dernière :
 
-<object width="500" height="385"><param name="movie" value="http://www.youtube.com/v/anwlpTgbQTE&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/anwlpTgbQTE&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="385"></embed></object>
+<object width="500" height="385"><param name="movie" value="https://www.youtube.com/v/anwlpTgbQTE&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/anwlpTgbQTE&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="385"></embed></object>

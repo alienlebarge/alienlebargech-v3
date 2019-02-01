@@ -49,7 +49,7 @@ Vous arriverez vers un petit pont qui traverse l’Orbe. Ne l’empruntez pas 
 
 Une fois au pied des chutes vous y êtes.  Voici le Saut du Day, une très jolie petite plage fera le bonheur des enfants et des amateurs de ricochet. C’est la place de pique-nique idéal. D’ici, il faut compter 20 bonnes minutes pour retourner au point de départ de la ballade.
 
-Pour remonter à la gare, il faut emprunter le tunnel  de l’<a title="Histoire de l'usine" href="http://arnexhistoire.blogspot.ch/2012/11/lusine-electrochimique-du-day.html">ancienne usine électrique</a> qui passe sous les chutes. Il est préférable d’être muni d’une lampe de poche. Il n’est pas éclairé et de l’eau ruisselle sur toute la largueuse.
+Pour remonter à la gare, il faut emprunter le tunnel  de l’<a title="Histoire de l'usine" href="https://arnexhistoire.blogspot.ch/2012/11/lusine-electrochimique-du-day.html">ancienne usine électrique</a> qui passe sous les chutes. Il est préférable d’être muni d’une lampe de poche. Il n’est pas éclairé et de l’eau ruisselle sur toute la largueuse.
 
 Une fois le tunnel passé, préparez-vous à remonter d’une traite tout ce que vous avez descendu jusque là (environ 100m de dénivelé). Suivez le sentier jusqu’à la place d’exercice militaire puis la route jusqu’à la gare. Faites attention en traversant la route. La visibilité n’est pas excellente et les voitures n’ont de loin pas toutes des vitesses adaptées pour l’endroit.
 
@@ -60,4 +60,4 @@ Une fois le tunnel passé, préparez-vous à remonter d’une traite tout ce que
 - Dénivelé: env. 100m
 - Equipement: Lampe de poche pour traverser le tunnel
 - <a title="Fichier KML à télécharger sur Github" href="https://gist.github.com/alienlebarge/5657247">Fichier KML</a>
-- <a title="Carte du parcours sur map.geo.admin.ch" href="http://map.geo.admin.ch/?Y=520788&amp;X=174794&amp;zoom=8&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps%3A%2F%2Fgist.github.com%2Falienlebarge%2F5657247%2Fraw%2F3a9b61b34d6a178b7e6c027c1f53a803c217a1df%2FSautDuDay.kml&amp;layers_opacity=1,1&amp;layers_visibility=true,true&amp;time_current=latest&amp;lang=fr">Carte du parcours</a>
+- <a title="Carte du parcours sur map.geo.admin.ch" href="https://map.geo.admin.ch/?Y=520788&amp;X=174794&amp;zoom=8&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps%3A%2F%2Fgist.github.com%2Falienlebarge%2F5657247%2Fraw%2F3a9b61b34d6a178b7e6c027c1f53a803c217a1df%2FSautDuDay.kml&amp;layers_opacity=1,1&amp;layers_visibility=true,true&amp;time_current=latest&amp;lang=fr">Carte du parcours</a>

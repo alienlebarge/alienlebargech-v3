@@ -10,7 +10,7 @@ type: post
 published: true
 meta:
   tweetbackscheck: '1234499697'
-  shorturls: a:7:{s:9:"permalink";s:52:"http://www.alienlebarge.ch/2008/03/29/remi-gaillard/";s:7:"tinyurl";s:25:"http://tinyurl.com/che7u4";s:4:"isgd";s:17:"http://is.gd/izHi";s:5:"bitly";s:18:"http://bit.ly/7lmD";s:5:"snipr";s:22:"http://snipr.com/be7j5";s:5:"snurl";s:22:"http://snurl.com/be7j5";s:7:"snipurl";s:24:"http://snipurl.com/be7j5";}
+  shorturls: a:7:{s:9:"permalink";s:52:"https://www.alienlebarge.ch/2008/03/29/remi-gaillard/";s:7:"tinyurl";s:25:"https://tinyurl.com/che7u4";s:4:"isgd";s:17:"https://is.gd/izHi";s:5:"bitly";s:18:"https://bit.ly/7lmD";s:5:"snipr";s:22:"https://snipr.com/be7j5";s:5:"snurl";s:22:"https://snurl.com/be7j5";s:7:"snipurl";s:24:"https://snipurl.com/be7j5";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -24,13 +24,13 @@ Bon amusement.
 
 <!--more-->
 
-<div><object width="420" height="339"><param name="movie" value="http://www.dailymotion.com/swf/x2x92r" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://www.dailymotion.com/swf/x2x92r" type="application/x-shockwave-flash" width="420" height="339" allowFullScreen="true" allowScriptAccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/swf/x2x92r">GYMNASTIQUE PEKIN 2008</a></b><br /><i>par <a href="http://www.dailymotion.com/nqtv">nqtv</a></i></div>
+<div><object width="420" height="339"><param name="movie" value="https://www.dailymotion.com/swf/x2x92r" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><embed src="https://www.dailymotion.com/swf/x2x92r" type="application/x-shockwave-flash" width="420" height="339" allowFullScreen="true" allowScriptAccess="always"></embed></object><br /><b><a href="https://www.dailymotion.com/swf/x2x92r">GYMNASTIQUE PEKIN 2008</a></b><br /><i>par <a href="https://www.dailymotion.com/nqtv">nqtv</a></i></div>
 
 [youtube nj7mBO9G5qo]
 
 [dailymotion x2fnf9]
 
 vous pourrez en trouvez d'autres au adresses ci-dessous :
-<a href="http://nimportequi.com/">www.nimportequi.com</a>
-<a href="http://youtube.com/user/nqtv">www.youtube.com/user/nqtv</a>
-<a href="http://www.dailymotion.com/nqtv">www.dailymotion.com/nqtv</a>
+<a href="https://nimportequi.com/">www.nimportequi.com</a>
+<a href="https://youtube.com/user/nqtv">www.youtube.com/user/nqtv</a>
+<a href="https://www.dailymotion.com/nqtv">www.dailymotion.com/nqtv</a>

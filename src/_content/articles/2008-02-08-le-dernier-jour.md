@@ -12,13 +12,13 @@ meta:
   enclosure: "https://dlgjp9x71cipk.cloudfront.net/2008/02/musiquedepart.mp3\r\n1343584\r\naudio/mpeg\r\n"
   _edit_last: '1'
   tweetbackscheck: '1234013906'
-  shorturls: a:7:{s:9:"permalink";s:54:"http://www.alienlebarge.ch/2008/02/08/le-dernier-jour/";s:7:"tinyurl";s:25:"http://tinyurl.com/c4qkca";s:4:"isgd";s:17:"http://is.gd/iux1";s:5:"bitly";s:20:"http://bit.ly/3CQ4Z5";s:5:"snipr";s:22:"http://snipr.com/bco2q";s:5:"snurl";s:22:"http://snurl.com/bco2q";s:7:"snipurl";s:24:"http://snipurl.com/bco2q";}
+  shorturls: a:7:{s:9:"permalink";s:54:"https://www.alienlebarge.ch/2008/02/08/le-dernier-jour/";s:7:"tinyurl";s:25:"https://tinyurl.com/c4qkca";s:4:"isgd";s:17:"https://is.gd/iux1";s:5:"bitly";s:20:"https://bit.ly/3CQ4Z5";s:5:"snipr";s:22:"https://snipr.com/bco2q";s:5:"snurl";s:22:"https://snurl.com/bco2q";s:7:"snipurl";s:24:"https://snipurl.com/bco2q";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
 ---
-<img src="http://farm3.static.flickr.com/2366/1994893879_73a5d81eee.jpg" alt="UPS 757 Night Departure" />
-<em><a title="photo sharing" href="http://www.flickr.com/photos/clearskyphotography/1994893879/">UPS 757 Night Departure</a></em>
+<img src="https://farm3.static.flickr.com/2366/1994893879_73a5d81eee.jpg" alt="UPS 757 Night Departure" />
+<em><a title="photo sharing" href="https://www.flickr.com/photos/clearskyphotography/1994893879/">UPS 757 Night Departure</a></em>
 <ul>
 	<li>L'apéro de départ, c'est fait.</li>
 	<li>Rendre mon PC, c'est fait.</li>

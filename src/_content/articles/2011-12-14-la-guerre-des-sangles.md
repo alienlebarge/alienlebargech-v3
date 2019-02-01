@@ -24,7 +24,7 @@ meta:
   _edit_last: '1'
   tmac_last_id: '256453692532862976'
 ---
-Luma Labs <a title="An open letter to our customers, past and future" href="http://lu.ma/blogs/news/4540122-an-open-letter-to-our-customers-past-and-future">annonce sur sont site</a> qu'ils stoppent la production de leurs sangles Loop et LoopIt. Tous ceci pour une question brevet.
+Luma Labs <a title="An open letter to our customers, past and future" href="https://lu.ma/blogs/news/4540122-an-open-letter-to-our-customers-past-and-future">annonce sur sont site</a> qu'ils stoppent la production de leurs sangles Loop et LoopIt. Tous ceci pour une question brevet.
 
 <!--more-->
 
@@ -32,7 +32,7 @@ Luma Labs <a title="An open letter to our customers, past and future" href="http
 
 Loop et LoopIt sont des sangles composé d'une courroie qui se porte en bandoulière et d'une partie qui glisse le long de cette courroie. C'est à cette partie qu'on fixe le boitier photo. Si vous n'avez pas compris (ce que je peu comprendre), j'ai joint des photos à l'article.
 
-Aucun brevet n'existait et Luma Labs n'a jamais jugé nécessaire d'en déposé un pour cette "fonctionnalité" qui existe depuis de nombreuse années dans le domaine de la photographie (en 1938 Leica proposait <a href="http://www.liveauctioneers.com/item/6406913">un modèle de sangle de ce genre</a>).
+Aucun brevet n'existait et Luma Labs n'a jamais jugé nécessaire d'en déposé un pour cette "fonctionnalité" qui existe depuis de nombreuse années dans le domaine de la photographie (en 1938 Leica proposait <a href="https://www.liveauctioneers.com/item/6406913">un modèle de sangle de ce genre</a>).
 
 Mais voilà une de leurs concurants bien plus important que la petite société vient d'un déposer un. Même s'ils sont certain de pouvoir gagner les procès qui leur permettrais de continuer la production de Loop et LoopIt, Luma Labs n'a pas les reins (finances) assez solide pour les conduire.
 Ils ont donc décidé de mettre fin à la production de ces articles et c'est bien dommage.
@@ -41,7 +41,7 @@ Ils ont donc décidé de mettre fin à la production de ces articles et c'est bi
 
 Depuis à peu prêt une année que je possède une sangle Loop, j'en suis ravis. Il s'agit vraiment d'un très bon produit. La sangle est légère, pas du tout imposante mais tout de même très confortable. De plus, le système de clip emprunter au corps des marines est très fonctionnel.
 
-Même si Luma Labs ne donne pas le nom du "concurant", j'ai ma petite idée <a href="http://www.blackrapid.com/">derrière la tête</a>.
+Même si Luma Labs ne donne pas le nom du "concurant", j'ai ma petite idée <a href="https://www.blackrapid.com/">derrière la tête</a>.
 
 Cela dit, il annonce un nouveau produit qu'ils gardent encore secret. Ils devraient l'annoncer sous peu. On se réjouie de voir ça.
 <blockquote>We’ve been working on an interesting new camera strap concept for the last six months. It’s nearing completion and we were planning on introducing it soon as a companion to our existing product line. Now, it will be our primary product. We’re planning to bring it to market in December, the month we’ve traditionally introduced new products.</blockquote>

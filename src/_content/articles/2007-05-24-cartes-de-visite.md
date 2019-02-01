@@ -9,7 +9,7 @@ published: true
 meta:
   _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Design";}i:1;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}}
   tweetbackscheck: '1234548129'
-  shorturls: a:7:{s:9:"permalink";s:55:"http://www.alienlebarge.ch/2007/05/24/cartes-de-visite/";s:7:"tinyurl";s:25:"http://tinyurl.com/dgo8bs";s:4:"isgd";s:17:"http://is.gd/ilS2";s:5:"bitly";s:20:"http://bit.ly/146IJy";s:5:"snipr";s:22:"http://snipr.com/bab6k";s:5:"snurl";s:22:"http://snurl.com/bab6k";s:7:"snipurl";s:24:"http://snipurl.com/bab6k";}
+  shorturls: a:7:{s:9:"permalink";s:55:"https://www.alienlebarge.ch/2007/05/24/cartes-de-visite/";s:7:"tinyurl";s:25:"https://tinyurl.com/dgo8bs";s:4:"isgd";s:17:"https://is.gd/ilS2";s:5:"bitly";s:20:"https://bit.ly/146IJy";s:5:"snipr";s:22:"https://snipr.com/bab6k";s:5:"snurl";s:22:"https://snurl.com/bab6k";s:7:"snipurl";s:24:"https://snipurl.com/bab6k";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''

@@ -28,7 +28,7 @@ meta:
   post_color: black
   tmac_last_id: '256453749923540994'
 ---
-Dimanche 13 août, la <a title="Site du HBC West" href="http://www.west-hbc.ch/">West</a> rencontrait <a title="Site du HV Herzogenbuchsee" href="http://www.hvh.ch/">Herzogenbuchsee</a> pour un match amical.
+Dimanche 13 août, la <a title="Site du HBC West" href="https://www.west-hbc.ch/">West</a> rencontrait <a title="Site du HV Herzogenbuchsee" href="https://www.hvh.ch/">Herzogenbuchsee</a> pour un match amical.
 
 <!--more-->
 

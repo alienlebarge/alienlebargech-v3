@@ -12,7 +12,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234553095'
-  shorturls: a:7:{s:9:"permalink";s:61:"http://www.alienlebarge.ch/2008/10/15/un-peu-de-productivite/";s:7:"tinyurl";s:25:"http://tinyurl.com/cknh5n";s:4:"isgd";s:17:"http://is.gd/ikgw";s:5:"bitly";s:18:"http://bit.ly/Lxyc";s:5:"snipr";s:22:"http://snipr.com/b9xp2";s:5:"snurl";s:22:"http://snurl.com/b9xp2";s:7:"snipurl";s:24:"http://snipurl.com/b9xp2";}
+  shorturls: a:7:{s:9:"permalink";s:61:"https://www.alienlebarge.ch/2008/10/15/un-peu-de-productivite/";s:7:"tinyurl";s:25:"https://tinyurl.com/cknh5n";s:4:"isgd";s:17:"https://is.gd/ikgw";s:5:"bitly";s:18:"https://bit.ly/Lxyc";s:5:"snipr";s:22:"https://snipr.com/b9xp2";s:5:"snurl";s:22:"https://snurl.com/b9xp2";s:7:"snipurl";s:24:"https://snipurl.com/b9xp2";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: '256454052085374976'

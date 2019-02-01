@@ -26,4 +26,4 @@ Here's my sketchnote of his talk.
 
 ## Slides
 
-The slides are [available on GitHub](http://brucelawson.github.io/talks/2015/houdini/).
+The slides are [available on GitHub](https://brucelawson.github.io/talks/2015/houdini/).

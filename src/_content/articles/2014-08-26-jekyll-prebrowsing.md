@@ -3,16 +3,16 @@
 title:       "Jekyll and prebrowsing"
 description: How to setup some prebrowsing in Jekyll
 date:        2014-08-26 05:00:00
-image:       http://wac.450f.edgecastcdn.net/80450F/screencrush.com/files/2013/05/Timecop-2.png
+image:       https://wac.450f.edgecastcdn.net/80450F/screencrush.com/files/2013/05/Timecop-2.png
 tags:
  - code
  - jekyll
  - prebrowsing
 ---
 
-Prebrowsing in one of the hot topic on the web these time. It mean: preparing the next page the user will visite. So if you wanted to be like Jean-Claude Van Damme in [Timecop](http://en.wikipedia.org/wiki/Timecop "Timecop on Wikipedia") and master the (loading) time, here is a few things you can do with a Jekyll based blog.
+Prebrowsing in one of the hot topic on the web these time. It mean: preparing the next page the user will visite. So if you wanted to be like Jean-Claude Van Damme in [Timecop](https://en.wikipedia.org/wiki/Timecop "Timecop on Wikipedia") and master the (loading) time, here is a few things you can do with a Jekyll based blog.
 
-Please, read excellent [Santiago Valdarrama's article on A List Apart ](http://alistapart.com/article/one-step-ahead-improving-performance-with-prebrowsing "One Step Ahead: Improving Performance with Prebrowsing") before.
+Please, read excellent [Santiago Valdarrama's article on A List Apart ](https://alistapart.com/article/one-step-ahead-improving-performance-with-prebrowsing "One Step Ahead: Improving Performance with Prebrowsing") before.
 
 ## DNS prefetching
 
@@ -58,7 +58,7 @@ Here is the iconic icon system I host on my own server.
 
 I use Mapbox to do [some nice headers "Article about Mapbox API"](/2014/07/mapbox-map/).
 
-    <link rel="dns-prefetch" href="http://api.tiles.mapbox.com">
+    <link rel="dns-prefetch" href="https://api.tiles.mapbox.com">
 
 ## Resource prefetching
 
@@ -76,16 +76,16 @@ Here's the little Liquid code:
     <!-- Prerender pagination page -->
       {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
-    <link rel="prerender" href="http://blog.alienlebarge.ch">
+    <link rel="prerender" href="https://blog.alienlebarge.ch">
         {% else %}
-    <link rel="prerender" href="http://blog.alienlebarge.ch/page{{ paginator.previous_page }}">
+    <link rel="prerender" href="https://blog.alienlebarge.ch/page{{ paginator.previous_page }}">
         {% endif %}
       {% endif %}
       {% if paginator.next_page %}
-    <link rel="prerender" href="http://blog.alienlebarge.ch/page{{ paginator.next_page }}">
+    <link rel="prerender" href="https://blog.alienlebarge.ch/page{{ paginator.next_page }}">
       {% endif %}
     {% else %}
     <!-- Prerender homepage -->
-    <link rel="prerender" href="http://blog.alienlebarge.ch">
+    <link rel="prerender" href="https://blog.alienlebarge.ch">
     {% endif %}
 {% endraw %}

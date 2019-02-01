@@ -11,7 +11,7 @@ meta:
   cocomment_trackall: ''
   _utw_tags_0: a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Internet";}i:1;O:8:"stdClass":1:{s:3:"tag";s:9:"Marketing";}i:2;O:8:"stdClass":1:{s:3:"tag";s:7:"Médias";}i:3;O:8:"stdClass":1:{s:3:"tag";s:10:"Publicité";}i:4;O:8:"stdClass":1:{s:3:"tag";s:6:"Vidéo";}}
   tweetbackscheck: '1234285277'
-  shorturls: a:7:{s:9:"permalink";s:60:"http://www.alienlebarge.ch/2007/07/30/gmail-campagne-virale/";s:7:"tinyurl";s:25:"http://tinyurl.com/avha3d";s:4:"isgd";s:17:"http://is.gd/iNRv";s:5:"bitly";s:18:"http://bit.ly/ky1a";s:5:"snipr";s:22:"http://snipr.com/bibob";s:5:"snurl";s:22:"http://snurl.com/bibob";s:7:"snipurl";s:24:"http://snipurl.com/bibob";}
+  shorturls: a:7:{s:9:"permalink";s:60:"https://www.alienlebarge.ch/2007/07/30/gmail-campagne-virale/";s:7:"tinyurl";s:25:"https://tinyurl.com/avha3d";s:4:"isgd";s:17:"https://is.gd/iNRv";s:5:"bitly";s:18:"https://bit.ly/ky1a";s:5:"snipr";s:22:"https://snipr.com/bibob";s:5:"snurl";s:22:"https://snurl.com/bibob";s:7:"snipurl";s:24:"https://snipurl.com/bibob";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -22,7 +22,7 @@ Dernièrement, Google a lancé une collaborative publicitaire "collaborative " p
 
 <!--more-->
 
-Il suffit de se rendre sur <a href="http://mail.google.com/mail/help/intl/fr/gmail_video.html" title="Le site de la vidéo">le site</a> conçu à cet effet, d'imprimer le "M(ail)", de filmer un petit bout de son parcours et de l'envoyer.
+Il suffit de se rendre sur <a href="https://mail.google.com/mail/help/intl/fr/gmail_video.html" title="Le site de la vidéo">le site</a> conçu à cet effet, d'imprimer le "M(ail)", de filmer un petit bout de son parcours et de l'envoyer.
 Google montera une vidéo au moyen de vos (nos) séquences afin de créer un spot publicitaire.
 Bravo !
 

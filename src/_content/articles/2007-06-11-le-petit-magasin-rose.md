@@ -11,7 +11,7 @@ meta:
   _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:2:"DJ";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}}
   cocomment_trackall: ''
   tweetbackscheck: '1234601508'
-  shorturls: a:7:{s:9:"permalink";s:60:"http://www.alienlebarge.ch/2007/06/11/le-petit-magasin-rose/";s:7:"tinyurl";s:25:"http://tinyurl.com/bbfqw5";s:4:"isgd";s:17:"http://is.gd/ilBj";s:5:"bitly";s:18:"http://bit.ly/RyYc";s:5:"snipr";s:22:"http://snipr.com/ba975";s:5:"snurl";s:22:"http://snurl.com/ba975";s:7:"snipurl";s:24:"http://snipurl.com/ba975";}
+  shorturls: a:7:{s:9:"permalink";s:60:"https://www.alienlebarge.ch/2007/06/11/le-petit-magasin-rose/";s:7:"tinyurl";s:25:"https://tinyurl.com/bbfqw5";s:4:"isgd";s:17:"https://is.gd/ilBj";s:5:"bitly";s:18:"https://bit.ly/RyYc";s:5:"snipr";s:22:"https://snipr.com/ba975";s:5:"snurl";s:22:"https://snurl.com/ba975";s:7:"snipurl";s:24:"https://snipurl.com/ba975";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''

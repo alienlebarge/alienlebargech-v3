@@ -11,9 +11,9 @@ type: post
 published: true
 meta:
   _edit_last: '1'
-  enclosure: "http://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_008.mp3\r\n12286358\r\naudio/mpeg\r\n"
+  enclosure: "https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_008.mp3\r\n12286358\r\naudio/mpeg\r\n"
   tweetbackscheck: '1234495212'
-  shorturls: a:7:{s:9:"permalink";s:56:"http://www.alienlebarge.ch/2008/07/31/alb-broadcast-008/";s:7:"tinyurl";s:25:"http://tinyurl.com/ccgnen";s:4:"isgd";s:17:"http://is.gd/ikem";s:5:"bitly";s:20:"http://bit.ly/2eFzyl";s:5:"snipr";s:22:"http://snipr.com/b9xc7";s:5:"snurl";s:22:"http://snurl.com/b9xc7";s:7:"snipurl";s:24:"http://snipurl.com/b9xc7";}
+  shorturls: a:7:{s:9:"permalink";s:56:"https://www.alienlebarge.ch/2008/07/31/alb-broadcast-008/";s:7:"tinyurl";s:25:"https://tinyurl.com/ccgnen";s:4:"isgd";s:17:"https://is.gd/ikem";s:5:"bitly";s:20:"https://bit.ly/2eFzyl";s:5:"snipr";s:22:"https://snipr.com/b9xc7";s:5:"snurl";s:22:"https://snurl.com/b9xc7";s:7:"snipurl";s:24:"https://snipurl.com/b9xc7";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -22,11 +22,11 @@ meta:
 
 Bonne écoute ...
 
-[dewplayer:http://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_008.mp3]
+[dewplayer:https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_008.mp3]
 
 <!--more-->
 
-<strong>Playliste alb broadcat #008</strong> - <a title="Télécharger alb broadcast #008" href="http://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_008.mp3">à emporter ici</a>
+<strong>Playliste alb broadcat #008</strong> - <a title="Télécharger alb broadcast #008" href="https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_008.mp3">à emporter ici</a>
 
 Daedelus - Bass In It
 Apparat - Holdon (Modeselektor rmx)

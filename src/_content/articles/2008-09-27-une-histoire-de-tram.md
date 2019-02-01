@@ -15,7 +15,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234437587'
-  shorturls: a:7:{s:9:"permalink";s:59:"http://www.alienlebarge.ch/2008/09/27/une-histoire-de-tram/";s:7:"tinyurl";s:25:"http://tinyurl.com/bxh8vy";s:4:"isgd";s:17:"http://is.gd/ikeR";s:5:"bitly";s:18:"http://bit.ly/ONF0";s:5:"snipr";s:22:"http://snipr.com/b9xf8";s:5:"snurl";s:22:"http://snurl.com/b9xf8";s:7:"snipurl";s:24:"http://snipurl.com/b9xf8";}
+  shorturls: a:7:{s:9:"permalink";s:59:"https://www.alienlebarge.ch/2008/09/27/une-histoire-de-tram/";s:7:"tinyurl";s:25:"https://tinyurl.com/bxh8vy";s:4:"isgd";s:17:"https://is.gd/ikeR";s:5:"bitly";s:18:"https://bit.ly/ONF0";s:5:"snipr";s:22:"https://snipr.com/b9xf8";s:5:"snurl";s:22:"https://snurl.com/b9xf8";s:7:"snipurl";s:24:"https://snipurl.com/b9xf8";}
   twittercomments: a:0:{}
   tweetcount: '0'
   soy_box_size: Default (310px)
@@ -36,4 +36,4 @@ Moi qui adore les vieilles photos, j'ai été comblé. Ce livre en est rempli. J
 
 [gallery link="file"]
 
-Maintenant que j'ai lu celui là, il faut que je commence "<a title="Le livre M2, le défi" href="http://www.lausanne.ch/view.asp?docId=29840&amp;domId=64648&amp;language=F">m2, le défi</a>" ;)
+Maintenant que j'ai lu celui là, il faut que je commence "<a title="Le livre M2, le défi" href="https://www.lausanne.ch/view.asp?docId=29840&amp;domId=64648&amp;language=F">m2, le défi</a>" ;)

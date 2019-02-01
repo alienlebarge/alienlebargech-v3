@@ -29,6 +29,6 @@ meta:
   soy_post_style: Normal
   tmac_last_id: '256453702049751040'
 ---
-Voici quelques photos prises durant la soirée de gala du <a title="Site du Mouvement juniors Orbe et région" href="http://www.mjor.ch">MJOR</a>.<!--more-->
+Voici quelques photos prises durant la soirée de gala du <a title="Site du Mouvement juniors Orbe et région" href="https://www.mjor.ch">MJOR</a>.<!--more-->
 
 [gallery link="file" order="DESC" columns="4" orderby="ID"]

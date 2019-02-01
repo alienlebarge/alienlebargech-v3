@@ -11,7 +11,7 @@ type: post
 published: true
 meta:
   tweetbackscheck: '1234429277'
-  shorturls: a:7:{s:9:"permalink";s:63:"http://www.alienlebarge.ch/2008/03/02/dvno-encore-un-clip-cool/";s:7:"tinyurl";s:25:"http://tinyurl.com/ce8pxp";s:4:"isgd";s:17:"http://is.gd/itRD";s:5:"bitly";s:20:"http://bit.ly/3JAMgl";s:5:"snipr";s:22:"http://snipr.com/bcjbg";s:5:"snurl";s:22:"http://snurl.com/bcjbg";s:7:"snipurl";s:24:"http://snipurl.com/bcjbg";}
+  shorturls: a:7:{s:9:"permalink";s:63:"https://www.alienlebarge.ch/2008/03/02/dvno-encore-un-clip-cool/";s:7:"tinyurl";s:25:"https://tinyurl.com/ce8pxp";s:4:"isgd";s:17:"https://is.gd/itRD";s:5:"bitly";s:20:"https://bit.ly/3JAMgl";s:5:"snipr";s:22:"https://snipr.com/bcjbg";s:5:"snurl";s:22:"https://snurl.com/bcjbg";s:7:"snipurl";s:24:"https://snipurl.com/bcjbg";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''

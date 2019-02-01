@@ -33,7 +33,7 @@ meta:
   _thumbnail_id: '4961'
   tmac_last_id: '256453791879139329'
 ---
-Il y a quelques mois, le <a title="Site du Groupe Vaudois" href="http://www.groupevaudois.ch/">Groupe Vaudois</a> m'a contacté pour faire des photos de leurs entraînements et production pour la <a title="Site de la Gymnaestrada 2011" href="http://www.wg-2011.com/">Gymnaestrada 2011</a>. La photo de gymnastique était une première pour moi. J’avoue que cette discipline m'était totalement étrangère. Les séances d'anneaux balançant et de barres parallèles à l'école était mes seules référence. Autant dire que c'est assez maigre.
+Il y a quelques mois, le <a title="Site du Groupe Vaudois" href="https://www.groupevaudois.ch/">Groupe Vaudois</a> m'a contacté pour faire des photos de leurs entraînements et production pour la <a title="Site de la Gymnaestrada 2011" href="https://www.wg-2011.com/">Gymnaestrada 2011</a>. La photo de gymnastique était une première pour moi. J’avoue que cette discipline m'était totalement étrangère. Les séances d'anneaux balançant et de barres parallèles à l'école était mes seules référence. Autant dire que c'est assez maigre.
 
 <!--more-->
 

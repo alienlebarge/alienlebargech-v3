@@ -15,7 +15,7 @@ meta:
   _utw_tags_0: a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"CakePHP";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"digit.apéro";}i:2;O:8:"stdClass":1:{s:3:"tag";s:13:"Programmation";}i:3;O:8:"stdClass":1:{s:3:"tag";s:6:"Projet";}i:4;O:8:"stdClass":1:{s:3:"tag";s:3:"SQL";}}
   _edit_last: '1'
   tweetbackscheck: '1234554732'
-  shorturls: a:7:{s:9:"permalink";s:79:"http://www.alienlebarge.ch/2007/05/21/ca-bosse-dur-mais-ca-avance-pas-beaucoup/";s:7:"tinyurl";s:25:"http://tinyurl.com/d5da9z";s:4:"isgd";s:17:"http://is.gd/ikcX";s:5:"bitly";s:20:"http://bit.ly/3hXPo9";s:5:"snipr";s:22:"http://snipr.com/b9x49";s:5:"snurl";s:22:"http://snurl.com/b9x49";s:7:"snipurl";s:24:"http://snipurl.com/b9x49";}
+  shorturls: a:7:{s:9:"permalink";s:79:"https://www.alienlebarge.ch/2007/05/21/ca-bosse-dur-mais-ca-avance-pas-beaucoup/";s:7:"tinyurl";s:25:"https://tinyurl.com/d5da9z";s:4:"isgd";s:17:"https://is.gd/ikcX";s:5:"bitly";s:20:"https://bit.ly/3hXPo9";s:5:"snipr";s:22:"https://snipr.com/b9x49";s:5:"snurl";s:22:"https://snurl.com/b9x49";s:7:"snipurl";s:24:"https://snipurl.com/b9x49";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''

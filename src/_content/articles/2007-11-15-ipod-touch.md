@@ -12,13 +12,13 @@ type: post
 published: true
 meta:
   tweetbackscheck: '1234355836'
-  shorturls: a:7:{s:9:"permalink";s:49:"http://www.alienlebarge.ch/2007/11/15/ipod-touch/";s:7:"tinyurl";s:25:"http://tinyurl.com/byv6yz";s:4:"isgd";s:17:"http://is.gd/ildy";s:5:"bitly";s:18:"http://bit.ly/qE0j";s:5:"snipr";s:22:"http://snipr.com/ba68t";s:5:"snurl";s:22:"http://snurl.com/ba68t";s:7:"snipurl";s:24:"http://snipurl.com/ba68t";}
+  shorturls: a:7:{s:9:"permalink";s:49:"https://www.alienlebarge.ch/2007/11/15/ipod-touch/";s:7:"tinyurl";s:25:"https://tinyurl.com/byv6yz";s:4:"isgd";s:17:"https://is.gd/ildy";s:5:"bitly";s:18:"https://bit.ly/qE0j";s:5:"snipr";s:22:"https://snipr.com/ba68t";s:5:"snurl";s:22:"https://snurl.com/ba68t";s:7:"snipurl";s:24:"https://snipurl.com/ba68t";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
 ---
- <img src="http://farm3.static.flickr.com/2107/2035533100_73ff9a5886.jpg" alt="iPod Touch" />
-<em><a href="http://www.flickr.com/photos/alienlebarge/2035533100/" title="photo sharing">iPod Touch</a></em>
+ <img src="https://farm3.static.flickr.com/2107/2035533100_73ff9a5886.jpg" alt="iPod Touch" />
+<em><a href="https://www.flickr.com/photos/alienlebarge/2035533100/" title="photo sharing">iPod Touch</a></em>
 
 Et oui, j'ai craqué.
 

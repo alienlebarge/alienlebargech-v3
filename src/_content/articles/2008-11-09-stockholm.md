@@ -13,13 +13,13 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234512536'
-  shorturls: a:7:{s:9:"permalink";s:48:"http://www.alienlebarge.ch/2008/11/09/stockholm/";s:7:"tinyurl";s:25:"http://tinyurl.com/c548dq";s:4:"isgd";s:17:"http://is.gd/ikgT";s:5:"bitly";s:18:"http://bit.ly/vGdL";s:5:"snipr";s:22:"http://snipr.com/b9xr1";s:5:"snurl";s:22:"http://snurl.com/b9xr1";s:7:"snipurl";s:24:"http://snipurl.com/b9xr1";}
+  shorturls: a:7:{s:9:"permalink";s:48:"https://www.alienlebarge.ch/2008/11/09/stockholm/";s:7:"tinyurl";s:25:"https://tinyurl.com/c548dq";s:4:"isgd";s:17:"https://is.gd/ikgT";s:5:"bitly";s:18:"https://bit.ly/vGdL";s:5:"snipr";s:22:"https://snipr.com/b9xr1";s:5:"snurl";s:22:"https://snurl.com/b9xr1";s:7:"snipurl";s:24:"https://snipurl.com/b9xr1";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: '256454045349335040'
 ---
-<img src="http://farm4.static.flickr.com/3223/3012892550_94e6c820eb.jpg" alt="Stockholm by night" />
-<em><a title="photo sharing" href="http://www.flickr.com/photos/alienlebarge/3012892550/">Stockholm by night</a></em>
+<img src="https://farm4.static.flickr.com/3223/3012892550_94e6c820eb.jpg" alt="Stockholm by night" />
+<em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/3012892550/">Stockholm by night</a></em>
 
 Ca fait maintenant une semaine qu'on est rentré de vacance. Et bien, j'ai enfin finit de mettre les photos de Stockholm en ligne. Et en plus, je les ai même placé sur la carte. Si ça c'est pas formidable ! ;)
 
@@ -29,4 +29,4 @@ Ca fait maintenant une semaine qu'on est rentré de vacance. Et bien, j'ai enfin
 
 La capitale suédoise est une ville magnifique. Si vous avez l'occasion, je vous invite à vous y rendre. Je ferais un commentaire sur notre voyage plus tard (c'est dimanche soir 22h45 et je suis mort). Ou peut-être que je commenterais les photos. Je vous tiens au courant ...
 
-<a title="Les photos de Stockholm sur Flickr" href="http://www.flickr.com/gp/49665969@N00/Yz2UUG">Par ici les photos</a>
+<a title="Les photos de Stockholm sur Flickr" href="https://www.flickr.com/gp/49665969@N00/Yz2UUG">Par ici les photos</a>

@@ -25,7 +25,7 @@ meta:
 ---
 <img class="alignnone size-medium wp-image-2609" title="Waze" src="https://dlgjp9x71cipk.cloudfront.net/2010/12/waze-500x333.png" alt="" width="500" height="333" />
 
-On connaissant les GPS et on connaissait les sites sociaux. Et bien si on mélange les deux (et qu'on secoue), ça donne <a title="Site de Waze" href="http://www.waze.com">Waze</a>.
+On connaissant les GPS et on connaissait les sites sociaux. Et bien si on mélange les deux (et qu'on secoue), ça donne <a title="Site de Waze" href="https://www.waze.com">Waze</a>.
 
 <!--more-->
 
@@ -42,11 +42,11 @@ Et à côté de ça, il y a plein de fonctionnalisées marrantes qui différenci
 </ul>
 Plutôt que de longue explication, je vous propose de regarder cette présentation flash (oui, flash c'est le mal).
 
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" WIDTH="500" HEIGHT="299" id="waze_guided_tour">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" WIDTH="500" HEIGHT="299" id="waze_guided_tour">
 	<param NAME="movie" VALUE="international_tour.swf">
 	</param><param NAME="quality" VALUE="high">
 	</param><param NAME="bgcolor" VALUE="#FFFFFF">
-	<embed src="http://www.waze.com/guided_tour/international_tour.swf" quality="high" bgcolor="#FFFFFF" WIDTH="500" HEIGHT="299" NAME="waze_guided_tour" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">
+	<embed src="https://www.waze.com/guided_tour/international_tour.swf" quality="high" bgcolor="#FFFFFF" WIDTH="500" HEIGHT="299" NAME="waze_guided_tour" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="https://www.macromedia.com/go/getflashplayer">
 	</embed>
 </param></object>
 				 

@@ -11,7 +11,7 @@ meta:
   enclosure: "https://dlgjp9x71cipk.cloudfront.net/2007/12/zik.mp3\r\n1264219\r\naudio/mpeg"
   _edit_last: '1'
   tweetbackscheck: '1234405931'
-  shorturls: a:4:{s:9:"permalink";s:64:"http://www.alienlebarge.ch/2007/12/19/il-y-a-des-jours-comme-ca/";s:7:"tinyurl";s:25:"http://tinyurl.com/bh9n5j";s:4:"isgd";s:17:"http://is.gd/jeZc";s:5:"bitly";s:18:"http://bit.ly/124L";}
+  shorturls: a:4:{s:9:"permalink";s:64:"https://www.alienlebarge.ch/2007/12/19/il-y-a-des-jours-comme-ca/";s:7:"tinyurl";s:25:"https://tinyurl.com/bh9n5j";s:4:"isgd";s:17:"https://is.gd/jeZc";s:5:"bitly";s:18:"https://bit.ly/124L";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''

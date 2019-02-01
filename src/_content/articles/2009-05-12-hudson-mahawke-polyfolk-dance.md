@@ -23,6 +23,6 @@ Vous prenez une MPC, plein de samples drôles et bizarres, une pincée de mu
 
 Et en plus, la pochette est mortel.
 
-Vous avez la possibilité d'écouter deux extraits (en un) de ce disque sur <a title="Lien vers le Myspace de Hudson Mohawke" href="http://www.myspace.com/hudsonmo">Myspace</a>.
+Vous avez la possibilité d'écouter deux extraits (en un) de ce disque sur <a title="Lien vers le Myspace de Hudson Mohawke" href="https://www.myspace.com/hudsonmo">Myspace</a>.
 
-On dit quoi ? Merci <a title="Lien vers le site de warp records" href="http://www.warprecords.com/">Warp Records</a> !
+On dit quoi ? Merci <a title="Lien vers le site de warp records" href="https://www.warprecords.com/">Warp Records</a> !

@@ -34,7 +34,7 @@ meta:
 ---
 Suite de nos pérégrinations islandaises :
 
-Après notre passage à <a href="http://www.clicclac.ch/2011/08/07/thingvellir/">Þingvellir</a> nous avons continué notre chemin vers les autres sites du cercle d'or.
+Après notre passage à <a href="https://www.clicclac.ch/2011/08/07/thingvellir/">Þingvellir</a> nous avons continué notre chemin vers les autres sites du cercle d'or.
 
 <!--more-->
 

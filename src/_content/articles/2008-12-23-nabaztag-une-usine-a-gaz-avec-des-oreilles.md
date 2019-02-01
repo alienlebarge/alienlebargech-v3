@@ -16,7 +16,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234597225'
-  shorturls: a:7:{s:9:"permalink";s:81:"http://www.alienlebarge.ch/2008/12/23/nabaztag-une-usine-a-gaz-avec-des-oreilles/";s:7:"tinyurl";s:25:"http://tinyurl.com/c7lmlh";s:4:"isgd";s:17:"http://is.gd/ikhW";s:5:"bitly";s:18:"http://bit.ly/Tafe";s:5:"snipr";s:22:"http://snipr.com/b9xy9";s:5:"snurl";s:22:"http://snurl.com/b9xy9";s:7:"snipurl";s:24:"http://snipurl.com/b9xy9";}
+  shorturls: a:7:{s:9:"permalink";s:81:"https://www.alienlebarge.ch/2008/12/23/nabaztag-une-usine-a-gaz-avec-des-oreilles/";s:7:"tinyurl";s:25:"https://tinyurl.com/c7lmlh";s:4:"isgd";s:17:"https://is.gd/ikhW";s:5:"bitly";s:18:"https://bit.ly/Tafe";s:5:"snipr";s:22:"https://snipr.com/b9xy9";s:5:"snurl";s:22:"https://snurl.com/b9xy9";s:7:"snipurl";s:24:"https://snipurl.com/b9xy9";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: '256454006631694336'
@@ -43,7 +43,7 @@ Après l'avoir sortie du carton (ô joie du déballage), je me lance dans sa con
 </span><em>Toujours rien... (ça monte)</em><span>
 </span>Après 30-40min de lecture de forum sur le net et de "pingage" de ce fichu serveur de lapin, je découvre que l'adresse IP n'est pas la bonne (ha ben c'est malin). Tout au fond d'un forum, je tombe sur le bon IP.<span>
 </span><em>Le lapin se connecte et devient tout vert... (YEAH !!!)</em><span>
-</span>On ne peut pas dire que l'équipe de <a title="Le site de Violet" href="http://www.violet.net">Violet</a> (les constructeurs du Nabaztag) marque des points.
+</span>On ne peut pas dire que l'équipe de <a title="Le site de Violet" href="https://www.violet.net">Violet</a> (les constructeurs du Nabaztag) marque des points.
 
 [caption id="attachment_927" align="alignright" width="150" caption="L&#39;interface du site"]<a href="https://dlgjp9x71cipk.cloudfront.net/2008/12/violet.png"><img class="size-thumbnail wp-image-927 " title="Violet" src="https://dlgjp9x71cipk.cloudfront.net/2008/12/violet-150x150.png" alt="L'interface du site" width="150" height="150" /></a>[/caption]
 

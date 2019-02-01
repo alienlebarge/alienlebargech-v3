@@ -42,4 +42,4 @@ Il ne reste que quelques centaines de mètres à faire le long de la route canto
 - Dénivelé: 0m
 - Equipement: Rien de spécial.
 - [Fichier KML](https://gist.github.com/alienlebarge/5700432)
-- [Carte du parcours](http://map.admin.ch/?Y=515355&amp;X=169757.5&amp;zoom=7&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=KML%7C%7Chttps%3A%2F%2Fgist.github.com%2Falienlebarge%2F5700432%2Fraw%2F7adcd7cf00a0310500c61742b4e4414ddbaae079%2FLacBrenet.kml&amp;layers_opacity=1&amp;layers_visibility=true&amp;time_current=latest&amp;lang=fr)
+- [Carte du parcours](https://map.admin.ch/?Y=515355&amp;X=169757.5&amp;zoom=7&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=KML%7C%7Chttps%3A%2F%2Fgist.github.com%2Falienlebarge%2F5700432%2Fraw%2F7adcd7cf00a0310500c61742b4e4414ddbaae079%2FLacBrenet.kml&amp;layers_opacity=1&amp;layers_visibility=true&amp;time_current=latest&amp;lang=fr)

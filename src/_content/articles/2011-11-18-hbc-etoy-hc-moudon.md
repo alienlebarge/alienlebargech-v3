@@ -38,7 +38,7 @@ La semaine passée, Etoy accueillait Moudon à la salle de Beausobre à Morges
 
 <!--more-->
 
-La lumière catastrophiquement faible de cette salle était assez difficile à gérer. Les photos en noir et blanc ont été réaliser avec <a title="Site de Silver Efex" href="http://www.niksoftware.com/silverefexpro/fr/entry.php">Silver Efex Pro 2</a>. J'adore utiliser ce logiciel, on arrive vraiment à des résultats magnifique. Il m'a permit d'isoler la joueuse qui fait du stretching. Au final, une photo minimale avec un jeux de lumière qui plait beaucoup.
+La lumière catastrophiquement faible de cette salle était assez difficile à gérer. Les photos en noir et blanc ont été réaliser avec <a title="Site de Silver Efex" href="https://www.niksoftware.com/silverefexpro/fr/entry.php">Silver Efex Pro 2</a>. J'adore utiliser ce logiciel, on arrive vraiment à des résultats magnifique. Il m'a permit d'isoler la joueuse qui fait du stretching. Au final, une photo minimale avec un jeux de lumière qui plait beaucoup.
 
 Ce week-end, j'ai bien envie de prendre des photos du match de la West face à Herzogenbuchsee.
 

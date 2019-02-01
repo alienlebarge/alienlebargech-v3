@@ -12,7 +12,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234527706'
-  shorturls: a:7:{s:9:"permalink";s:68:"http://www.alienlebarge.ch/2008/10/02/justice-un-teaser-qui-dechire/";s:7:"tinyurl";s:25:"http://tinyurl.com/d9jmen";s:4:"isgd";s:17:"http://is.gd/ikg4";s:5:"bitly";s:19:"http://bit.ly/16xrm";s:5:"snipr";s:22:"http://snipr.com/b9xn7";s:5:"snurl";s:22:"http://snurl.com/b9xn7";s:7:"snipurl";s:24:"http://snipurl.com/b9xn7";}
+  shorturls: a:7:{s:9:"permalink";s:68:"https://www.alienlebarge.ch/2008/10/02/justice-un-teaser-qui-dechire/";s:7:"tinyurl";s:25:"https://tinyurl.com/d9jmen";s:4:"isgd";s:17:"https://is.gd/ikg4";s:5:"bitly";s:19:"https://bit.ly/16xrm";s:5:"snipr";s:22:"https://snipr.com/b9xn7";s:5:"snurl";s:22:"https://snurl.com/b9xn7";s:7:"snipurl";s:24:"https://snipurl.com/b9xn7";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: '256454060394283008'
@@ -24,4 +24,4 @@ Justice sort "A Cross The Universe" le 24 novembre. Il s'agit d'un documentaire 
 Et avec tout ça, je les ai toujours pas vu en concert...
 
 <!--more-->
-<div><object width="420" height="257"><param name="movie" value="http://www.dailymotion.com/swf/k5zidDxiswazP3MW77&related=0"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/k5zidDxiswazP3MW77&related=0" type="application/x-shockwave-flash" width="420" height="257" allowFullScreen="true" allowScriptAccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x6xzc1_a-cross-the-universe-teaser_music">A CROSS THE UNIVERSE teaser</a></b><br /><i>envoyé par <a href="http://www.dailymotion.com/edbangerrecords">edbangerrecords</a></i></div>
+<div><object width="420" height="257"><param name="movie" value="https://www.dailymotion.com/swf/k5zidDxiswazP3MW77&related=0"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="https://www.dailymotion.com/swf/k5zidDxiswazP3MW77&related=0" type="application/x-shockwave-flash" width="420" height="257" allowFullScreen="true" allowScriptAccess="always"></embed></object><br /><b><a href="https://www.dailymotion.com/video/x6xzc1_a-cross-the-universe-teaser_music">A CROSS THE UNIVERSE teaser</a></b><br /><i>envoyé par <a href="https://www.dailymotion.com/edbangerrecords">edbangerrecords</a></i></div>

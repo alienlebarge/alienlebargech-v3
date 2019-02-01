@@ -17,7 +17,7 @@ meta:
   _edit_last: '1'
   enclosure: "https://dlgjp9x71cipk.cloudfront.net/2009/01/pigeon.mp3\r\n4215327\r\naudio/mpeg\r\n"
   tweetbackscheck: '1234591416'
-  shorturls: a:7:{s:9:"permalink";s:101:"http://www.alienlebarge.ch/2009/01/13/pigeon-funk-the-largest-bird-in-the-history-of-the-planet-ever/";s:7:"tinyurl";s:25:"http://tinyurl.com/cratnv";s:4:"isgd";s:17:"http://is.gd/ikic";s:5:"bitly";s:18:"http://bit.ly/TiQB";s:5:"snipr";s:22:"http://snipr.com/b9xzp";s:5:"snurl";s:22:"http://snurl.com/b9xzp";s:7:"snipurl";s:24:"http://snipurl.com/b9xzp";}
+  shorturls: a:7:{s:9:"permalink";s:101:"https://www.alienlebarge.ch/2009/01/13/pigeon-funk-the-largest-bird-in-the-history-of-the-planet-ever/";s:7:"tinyurl";s:25:"https://tinyurl.com/cratnv";s:4:"isgd";s:17:"https://is.gd/ikic";s:5:"bitly";s:18:"https://bit.ly/TiQB";s:5:"snipr";s:22:"https://snipr.com/b9xzp";s:5:"snurl";s:22:"https://snurl.com/b9xzp";s:7:"snipurl";s:24:"https://snipurl.com/b9xzp";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: '256453994241744896'

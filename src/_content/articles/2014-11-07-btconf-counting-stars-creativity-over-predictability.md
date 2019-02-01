@@ -24,7 +24,7 @@ Andy's remind us that we should have fun creating and make room for our imaginat
 <figure>
   <iframe src="//player.vimeo.com/video/112865159?color=9c191e" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <figcaption>
-    <p><a href="http://vimeo.com/112865159">Andrew Clarke – Counting stars: Creativity over predictability – beyond tellerrand Berlin 2014</a> from <a href="http://vimeo.com/beyondtellerrand">beyond tellerrand</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    <p><a href="https://vimeo.com/112865159">Andrew Clarke – Counting stars: Creativity over predictability – beyond tellerrand Berlin 2014</a> from <a href="https://vimeo.com/beyondtellerrand">beyond tellerrand</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   </figcaption>
 </figure>
 
@@ -32,4 +32,4 @@ Andy's remind us that we should have fun creating and make room for our imaginat
 
 Here are the tweets related to the talk:
 
-<blockquote class="twitter-tweet" lang="fr"><p>And here are the sketch notes by <a href="https://twitter.com/Malarkey">@Malarkey</a>&#39;s talk at <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="http://t.co/80No8eSDlf">pic.twitter.com/80No8eSDlf</a></p>&mdash; Anselm Hannemann (@helloanselm) <a href="https://twitter.com/helloanselm/status/529700935963262976">4 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="fr"><p>And here are the sketch notes by <a href="https://twitter.com/Malarkey">@Malarkey</a>&#39;s talk at <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="https://t.co/80No8eSDlf">pic.twitter.com/80No8eSDlf</a></p>&mdash; Anselm Hannemann (@helloanselm) <a href="https://twitter.com/helloanselm/status/529700935963262976">4 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

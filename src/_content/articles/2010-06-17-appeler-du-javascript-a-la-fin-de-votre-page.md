@@ -39,7 +39,7 @@ lib.all.googleAnalytics {
 	wrap (
 		&lt;!-- Google Analytics --&gt;
 		&lt;script type=&quot;text/javascript&quot;&gt;
-		var gaJsHost = ((&quot;https:&quot; == document.location.protocol) ? &quot;https://ssl.&quot; : &quot;http://www.&quot;);
+		var gaJsHost = ((&quot;https:&quot; == document.location.protocol) ? &quot;https://ssl.&quot; : &quot;https://www.&quot;);
 		document.write(unescape(&quot;%3Cscript src='&quot; + gaJsHost + &quot;google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E&quot;));
 		&lt;/script&gt;
 		&lt;script type=&quot;text/javascript&quot;&gt;

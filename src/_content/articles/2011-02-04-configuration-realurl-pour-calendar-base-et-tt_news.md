@@ -28,11 +28,11 @@ meta:
 ---
 <img class="alignnone size-medium wp-image-2784" title="Do you speak machine ?" src="https://dlgjp9x71cipk.cloudfront.net/2011/02/doyouspeakmachine-500x373.jpg" alt="" width="500" height="373" />
 
-J'ai eu un peu de peine à trouver sur le net une configuration de <a title="Page de l'extenoin Realurl" href="http://typo3.org/extensions/repository/view/realurl/current/">Realurl</a> pour l'extension <a title="Page de l'extension Calendar Base" href="http://typo3.org/extensions/repository/view/cal/current/">Calendar Base</a> (ou cal). Je l'ai donc refaite.
+J'ai eu un peu de peine à trouver sur le net une configuration de <a title="Page de l'extenoin Realurl" href="https://typo3.org/extensions/repository/view/realurl/current/">Realurl</a> pour l'extension <a title="Page de l'extension Calendar Base" href="https://typo3.org/extensions/repository/view/cal/current/">Calendar Base</a> (ou cal). Je l'ai donc refaite.
 
 <!--more-->
 
-La voici pour vous (et pour le même prix, vous avez droit à <a title="Page de l'extension tt_news" href="http://typo3.org/extensions/repository/view/tt_news/current/">tt_news</a>) :
+La voici pour vous (et pour le même prix, vous avez droit à <a title="Page de l'extension tt_news" href="https://typo3.org/extensions/repository/view/tt_news/current/">tt_news</a>) :
 
 [php]
 &lt;?php

@@ -10,7 +10,7 @@ type: post
 published: true
 meta:
   tweetbackscheck: '1234461140'
-  shorturls: a:7:{s:9:"permalink";s:81:"http://www.alienlebarge.ch/2007/12/18/homer-sest-aussi-prit-en-photo-chaque-jour/";s:7:"tinyurl";s:25:"http://tinyurl.com/cbx6vo";s:4:"isgd";s:17:"http://is.gd/j5IN";s:5:"bitly";s:18:"http://bit.ly/dVus";s:5:"snipr";s:22:"http://snipr.com/bnfyr";s:5:"snurl";s:22:"http://snurl.com/bnfyr";s:7:"snipurl";s:24:"http://snipurl.com/bnfyr";}
+  shorturls: a:7:{s:9:"permalink";s:81:"https://www.alienlebarge.ch/2007/12/18/homer-sest-aussi-prit-en-photo-chaque-jour/";s:7:"tinyurl";s:25:"https://tinyurl.com/cbx6vo";s:4:"isgd";s:17:"https://is.gd/j5IN";s:5:"bitly";s:18:"https://bit.ly/dVus";s:5:"snipr";s:22:"https://snipr.com/bnfyr";s:5:"snurl";s:22:"https://snurl.com/bnfyr";s:7:"snipurl";s:24:"https://snipurl.com/bnfyr";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -22,8 +22,8 @@ Vous connaissez certainement cette célébre vidéo du gars qui s'est pris en ph
 <!--more-->
 
 [youtube 6B26asyGKDo]
-En passant, allez jeter un coup d'oeil aux photos de Noah (celui de la vidéo) <a href="http://flickr.com/photos/noahkalina/" title="photos de Noah sur flickr">sur Flickr</a>.
+En passant, allez jeter un coup d'oeil aux photos de Noah (celui de la vidéo) <a href="https://flickr.com/photos/noahkalina/" title="photos de Noah sur flickr">sur Flickr</a>.
 
 [youtube 7g1XNaB5I8Q]
 
-Internet touche toute les couches, même celle de bébé. <em>dixit <a href="http://www.javasite.net/" title="site du groupe Java">Java</a></em>
+Internet touche toute les couches, même celle de bébé. <em>dixit <a href="https://www.javasite.net/" title="site du groupe Java">Java</a></em>

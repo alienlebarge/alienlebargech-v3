@@ -27,4 +27,4 @@ meta:
 
 Le mode debug c'est cool. Et bien pour l'activer dans Safari, rien de plus facile. Il vous suffit de taper cette petite ligne de code dans le terminal.
 <pre>defaults write com.apple.Safari IncludeDebugMenu YES</pre>
-via <a title="Smashing Magazin" href="http://www.smashingmagazine.com/2009/06/04/30-must-have-tweaks-for-your-mac/">Smashing Magazin</a>
+via <a title="Smashing Magazin" href="https://www.smashingmagazine.com/2009/06/04/30-must-have-tweaks-for-your-mac/">Smashing Magazin</a>

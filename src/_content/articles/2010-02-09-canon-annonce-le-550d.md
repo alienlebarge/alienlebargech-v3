@@ -39,5 +39,5 @@ Voici tout de même, les principales caractéristiques.
 	<li>Prise pour micro externe</li>
 	<li>Recadrage des vidéos</li>
 </ul>
-Vous trouverez plus d'informations sur <a title="Lien vers la page du 550d sur le site de canon suisse" href="http://fr.canon.ch/For_Home/Product_Finder/Cameras/Digital_SLR/EOS_550D/index.asp">le site de canon</a>.
-On peux espérer une revue ces prochaine sur le site <a title="Lien vers le site &quot;The Digital Picture&quot;" href="http://www.the-digital-picture.com/">The Digital Picture</a>
+Vous trouverez plus d'informations sur <a title="Lien vers la page du 550d sur le site de canon suisse" href="https://fr.canon.ch/For_Home/Product_Finder/Cameras/Digital_SLR/EOS_550D/index.asp">le site de canon</a>.
+On peux espérer une revue ces prochaine sur le site <a title="Lien vers le site &quot;The Digital Picture&quot;" href="https://www.the-digital-picture.com/">The Digital Picture</a>

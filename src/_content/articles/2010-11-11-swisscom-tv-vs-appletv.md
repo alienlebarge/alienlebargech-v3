@@ -20,7 +20,7 @@ meta:
 ---
 <img class="alignnone size-full wp-image-2516" title="swisscomTV vs AppleTV" src="https://dlgjp9x71cipk.cloudfront.net/2010/11/swisscomTVAppleTV.png" alt="" width="500" height="281" />
 
-Apple a annoncé aujourd'hui la disponibilité de son <a title="AppleTV sur le site d'Apple" href="http://www.apple.com/chfr/appletv/">AppleTV</a> en Suisse. Ça tombe bien, j'ai Swisscom TV depuis deux jours :| .
+Apple a annoncé aujourd'hui la disponibilité de son <a title="AppleTV sur le site d'Apple" href="https://www.apple.com/chfr/appletv/">AppleTV</a> en Suisse. Ça tombe bien, j'ai Swisscom TV depuis deux jours :| .
 
 Histoire de justifier le fait qu'un jour je pourrais avoir une AppleTV qui ne soit pas un doublon de la boîte Swisscom :roll:, j'ai fait un petit comparatif entre les deux systèmes.
 

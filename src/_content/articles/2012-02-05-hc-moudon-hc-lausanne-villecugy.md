@@ -31,4 +31,4 @@ Les voilà enfin les photos les photos de la semaine passée. <!--more-->
 
 [gallery link="file" order="DESC" columns="4" orderby="rand"]
 
-Retrouvez le compte rendu du match sur <a href="http://www.moudon-handball.ch/?p=3128">le site du HC Moudon</a>
+Retrouvez le compte rendu du match sur <a href="https://www.moudon-handball.ch/?p=3128">le site du HC Moudon</a>

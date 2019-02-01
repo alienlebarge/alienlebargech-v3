@@ -13,7 +13,7 @@ tags:
 
 At a time when we start having to scrape his windshield in the morning, I had the chance to spend three days in Barcelona where  one of my main concerns in the morning was whether I was going to wear shorts or pants for the day.
 
-The purpose of these three days in this beautiful city was to take part of the [Smashing Conference](http://smashingconf.com/barcelona-2015/) and the associated workshop.
+The purpose of these three days in this beautiful city was to take part of the [Smashing Conference](https://smashingconf.com/barcelona-2015/) and the associated workshop.
 
 This conference was tremendous and I can’t recommend hardly enough to participate to that kind of conference if you are in the web industry.
 

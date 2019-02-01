@@ -29,9 +29,9 @@ Well, this is a legacy of the era of font case and paper. At that time there was
 
 ![A type case](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Metal_movable_type.jpg/1280px-Metal_movable_type.jpg)
 
-[Medium](http://www.medium.com) as done a really great job to unify and beautify their underlines. After reading [how Medium is crafting link underlines](https://medium.com/designing-medium/crafting-link-underlines-on-medium-7c03a9274f9 "Crafting link underlines on Medium"), I wanted to do the same for this site.
+[Medium](https://www.medium.com) as done a really great job to unify and beautify their underlines. After reading [how Medium is crafting link underlines](https://medium.com/designing-medium/crafting-link-underlines-on-medium-7c03a9274f9 "Crafting link underlines on Medium"), I wanted to do the same for this site.
 
-As I am picky, CSS should not depend on any library or framework like [Compass](http://compass-style.org/) . As you can imagine, I had to face some problems.  
+As I am picky, CSS should not depend on any library or framework like [Compass](https://compass-style.org/) . As you can imagine, I had to face some problems.  
 
 ## Problems
 
@@ -42,7 +42,7 @@ But when testing, the underline doesn't appear on some browser.
 
 Due to the fact I wanted extra thin lines, I was tempted to use some  width like `0.04em`. The problem is that `0.04em` is less than 1px. Actually, it's `0.64px` width. And some browser does not like that.
 
-Some browser will not show line that are under 1px. Have a look at [this little test](http://www.w3.org/Style/Examples/007/units.en.html#units "CSS Tips & Tricks: Units"):
+Some browser will not show line that are under 1px. Have a look at [this little test](https://www.w3.org/Style/Examples/007/units.en.html#units "CSS Tips & Tricks: Units"):
 
 ![Firefox is the only browser who show a line thinner than 1px](https://dlgjp9x71cipk.cloudfront.net/2015/09/underline/browser-less-than-1px.png)
 Yeah, Firefox is the only browser who show a line thinner than 1px.
@@ -275,9 +275,9 @@ The reason, is simple. The underline (made of `background-color`) is behind the 
 
 All the code is available on Codepen.
 
-<p data-height="268" data-theme-id="7142" data-slug-hash="KwjpMN" data-default-tab="result" data-user="alienlebarge" class='codepen'>See the Pen <a href='http://codepen.io/alienlebarge/pen/KwjpMN/'>Underline</a> by Cédric Aellen (<a href='http://codepen.io/alienlebarge'>@alienlebarge</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="268" data-theme-id="7142" data-slug-hash="KwjpMN" data-default-tab="result" data-user="alienlebarge" class='codepen'>See the Pen <a href='https://codepen.io/alienlebarge/pen/KwjpMN/'>Underline</a> by Cédric Aellen (<a href='https://codepen.io/alienlebarge'>@alienlebarge</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 ## Inuit-underline
 
-For [Inuitcss](http://inuitcss.com/) users, [Inuit-underline](https://github.com/alienlebarge/inuit-underline) is a collection of Sass files to include in your project.
+For [Inuitcss](https://inuitcss.com/) users, [Inuit-underline](https://github.com/alienlebarge/inuit-underline) is a collection of Sass files to include in your project.

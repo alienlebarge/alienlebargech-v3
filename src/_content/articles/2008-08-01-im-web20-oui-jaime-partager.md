@@ -18,7 +18,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234365292'
-  shorturls: a:7:{s:9:"permalink";s:66:"http://www.alienlebarge.ch/2008/08/01/im-web20-oui-jaime-partager/";s:7:"tinyurl";s:25:"http://tinyurl.com/dmrez6";s:4:"isgd";s:17:"http://is.gd/ikeq";s:5:"bitly";s:19:"http://bit.ly/10pZa";s:5:"snipr";s:22:"http://snipr.com/b9xcl";s:5:"snurl";s:22:"http://snurl.com/b9xcl";s:7:"snipurl";s:24:"http://snipurl.com/b9xcl";}
+  shorturls: a:7:{s:9:"permalink";s:66:"https://www.alienlebarge.ch/2008/08/01/im-web20-oui-jaime-partager/";s:7:"tinyurl";s:25:"https://tinyurl.com/dmrez6";s:4:"isgd";s:17:"https://is.gd/ikeq";s:5:"bitly";s:19:"https://bit.ly/10pZa";s:5:"snipr";s:22:"https://snipr.com/b9xcl";s:5:"snurl";s:22:"https://snurl.com/b9xcl";s:7:"snipurl";s:24:"https://snipurl.com/b9xcl";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -35,9 +35,9 @@ Je vais vous parler un peu des trois sites que j'utilise/visite le plus dans ce 
 
  
 
-<strong><a href="http://www.flickr.com">Flickr</a></strong>
+<strong><a href="https://www.flickr.com">Flickr</a></strong>
 
-<a title="Flickr de alienlebarge, sur Flickr" href="http://www.flickr.com/photos/alienlebarge/2721664187/"><img src="http://farm4.static.flickr.com/3259/2721664187_d14b519ed2.jpg" alt="Flickr" width="500" height="384" /></a>
+<a title="Flickr de alienlebarge, sur Flickr" href="https://www.flickr.com/photos/alienlebarge/2721664187/"><img src="https://farm4.static.flickr.com/3259/2721664187_d14b519ed2.jpg" alt="Flickr" width="500" height="384" /></a>
 
  
 
@@ -48,13 +48,13 @@ J'apprécie également de pouvoir placer les photos sur une carte ("géotager").
 
 Pour la petite histoire, j'ai actuellement 23'255 photos sur mon compte Flickr dont le célèbre album "best of the dèche" :D .
 
-Mon compte Flickr : <a href="http://flickr.com/alienlebarge/">http://flickr.com/alienlebarge/</a>
+Mon compte Flickr : <a href="https://flickr.com/alienlebarge/">https://flickr.com/alienlebarge/</a>
 
  
 
-<strong><a href="http://www.last.fm">Last.fm</a></strong>
+<strong><a href="https://www.last.fm">Last.fm</a></strong>
 
-<a title="Last.fm de alienlebarge, sur Flickr" href="http://www.flickr.com/photos/alienlebarge/2722487554/"><img src="http://farm4.static.flickr.com/3177/2722487554_3032f70f2a.jpg" alt="Last.fm" width="500" height="394" /></a>
+<a title="Last.fm de alienlebarge, sur Flickr" href="https://www.flickr.com/photos/alienlebarge/2722487554/"><img src="https://farm4.static.flickr.com/3177/2722487554_3032f70f2a.jpg" alt="Last.fm" width="500" height="394" /></a>
 
  
 
@@ -64,15 +64,15 @@ En gros, vous installez un petit logiciel sur votre ordinateur. Lorsque vous éc
 
 Il vous est ainsi possible de consulter ce que vous avez écouté et de voir ce que les autres écoutent. Jusque-là ça parerait « assez moyen », je vous l'accorde. Où ça devient fort, c'est qu’en fonction de vos écoutes, Last.fm vous propose d'autres artistes qui pourraient vous plaire. Cela m'a permis de découvrir passablement de nouveautés. Encore mieux, en fonction de vos goûts musicaux, last.fm vous avertit lorsqu'un des artistes que vous affectionnez se produit dans la région. Grâce à cela, vous ne loupez plus un seul concert (sauf si vous pétez la malléole bien sûr).
 
-En bref, Last.fm me permet de découvrir de nouveaux groupes et artistes et d'être averti des dates de concert. Je l'utilise également afin de consulter les biographies des artistes souvent plus complètes que sur <a href="http://www.discogs.com">DiscoGS</a>.
+En bref, Last.fm me permet de découvrir de nouveaux groupes et artistes et d'être averti des dates de concert. Je l'utilise également afin de consulter les biographies des artistes souvent plus complètes que sur <a href="https://www.discogs.com">DiscoGS</a>.
 
-Mon compte Last.fm : <a href="http://www.lastfm.fr/user/alienlebarge">http://www.lastfm.fr/user/alienlebarge</a>
+Mon compte Last.fm : <a href="https://www.lastfm.fr/user/alienlebarge">https://www.lastfm.fr/user/alienlebarge</a>
 
  
 
-<strong><a href="http://www.facebook.com">Facebook</a></strong>
+<strong><a href="https://www.facebook.com">Facebook</a></strong>
 
-<a title="Facebook de alienlebarge, sur Flickr" href="http://www.flickr.com/photos/alienlebarge/2721667515/"><img src="http://farm4.static.flickr.com/3249/2721667515_f9c8416e51.jpg" alt="Facebook" width="500" height="384" /></a>
+<a title="Facebook de alienlebarge, sur Flickr" href="https://www.flickr.com/photos/alienlebarge/2721667515/"><img src="https://farm4.static.flickr.com/3249/2721667515_f9c8416e51.jpg" alt="Facebook" width="500" height="384" /></a>
 
  
 
@@ -80,4 +80,4 @@ Je me demande si cela vaut vraiment la peine que je présente ce site. Je vais f
 
 Pour ma part, je l'utilise surtout pour garder le contact et retrouver de vieux pote que je n'ai pas vu depuis un bail. Cela dit, c'est vraiment impressionnant l'ampleur qu'a prise le phénomène Facebook chez nous.
 
-Mon profil sur Facebook : <a href="http://www.new.facebook.com/profile.php?id=715198221">http://www.new.facebook.com/profile.php?id=715198221</a>
+Mon profil sur Facebook : <a href="https://www.new.facebook.com/profile.php?id=715198221">https://www.new.facebook.com/profile.php?id=715198221</a>

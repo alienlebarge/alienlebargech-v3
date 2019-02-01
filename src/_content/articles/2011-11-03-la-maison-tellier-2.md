@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 meta:
-  video_url: http://youtu.be/Xwcc5OnKng4
+  video_url: https://youtu.be/Xwcc5OnKng4
   hide_post_title: default
   unlink_post_title: default
   hide_post_meta: default
@@ -18,13 +18,13 @@ meta:
   layout: default
   post_color: default
   _edit_last: '1'
-  soy_vid_url: http://youtu.be/Xwcc5OnKng4
+  soy_vid_url: https://youtu.be/Xwcc5OnKng4
   soy_box_size: Default (310px)
   soy_show_title: 'Yes'
   soy_show_desc: 'No'
   soy_post_style: Normal
   tmac_last_id: '256453718336208896'
-  _oembed_65b5b9c5e486960c851744aef2013b47: <iframe width="1024" height="576" src="http://www.youtube.com/embed/Xwcc5OnKng4?fs=1&feature=oembed"
+  _oembed_65b5b9c5e486960c851744aef2013b47: <iframe width="1024" height="576" src="https://www.youtube.com/embed/Xwcc5OnKng4?fs=1&feature=oembed"
     frameborder="0" allowfullscreen></iframe>
 ---
 Ma musique du moment.

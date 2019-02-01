@@ -16,14 +16,14 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234450796'
-  shorturls: a:7:{s:9:"permalink";s:51:"http://www.alienlebarge.ch/2008/12/21/do-you-poken/";s:7:"tinyurl";s:25:"http://tinyurl.com/chr7pc";s:4:"isgd";s:17:"http://is.gd/ikhS";s:5:"bitly";s:18:"http://bit.ly/1kzQ";s:5:"snipr";s:22:"http://snipr.com/b9xxq";s:5:"snurl";s:22:"http://snurl.com/b9xxq";s:7:"snipurl";s:24:"http://snipurl.com/b9xxq";}
+  shorturls: a:7:{s:9:"permalink";s:51:"https://www.alienlebarge.ch/2008/12/21/do-you-poken/";s:7:"tinyurl";s:25:"https://tinyurl.com/chr7pc";s:4:"isgd";s:17:"https://is.gd/ikhS";s:5:"bitly";s:18:"https://bit.ly/1kzQ";s:5:"snipr";s:22:"https://snipr.com/b9xxq";s:5:"snurl";s:22:"https://snurl.com/b9xxq";s:7:"snipurl";s:24:"https://snipurl.com/b9xxq";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: '256454008410079233'
 ---
 <img class="alignnone size-medium wp-image-920" title="Do you poken ?" src="https://dlgjp9x71cipk.cloudfront.net/2008/12/poken_bigbanner-500x329.jpg" alt="Do you poken ?" width="500" height="329" />
 
-Les <a title="Le site des pokens" href="http://www.doyoupoken.com/">pokens</a> arrivent sous les sapins de Noël... Mais qu'est-ce que c'est encore ?
+Les <a title="Le site des pokens" href="https://www.doyoupoken.com/">pokens</a> arrivent sous les sapins de Noël... Mais qu'est-ce que c'est encore ?
 
 On en a très peu entendu parler de leur lancement dans les médias hormis dans quelques blogs de fondu d'internet et/ou d'informatique.
 
@@ -32,10 +32,10 @@ Imaginez une carte de visite sous la forme d'une petite bébétte avec une gross
 
 Ces petits jouets ne sont pas tellement donnés. Il faut compter 25 CHF pour s'en procurer un. On les trouve surtout sur Lausanne (et oui, le projet est basé dans la capitale vaudoise). De plus avec le lancement plus que timide, on espère qu'ils vont faire parler d'eux et que plein de petits poken se baladeront dans les soirées et bars, car personnellement, je trouve le principe génial.
 
-Je vous tiendrais au courant, je vais tenter d'aller <a href="http://www.doyoupoken.com/PokenWeb/corporate/buy_list.jsf">m'en trouver un</a> lundi :)
+Je vous tiendrais au courant, je vais tenter d'aller <a href="https://www.doyoupoken.com/PokenWeb/corporate/buy_list.jsf">m'en trouver un</a> lundi :)
 
 <!--more-->
 
  
 
-<object width="480" height="295" data="http://www.youtube.com/v/O-RElDpDIXw&amp;hl=fr&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/O-RElDpDIXw&amp;hl=fr&amp;fs=1" /><param name="allowfullscreen" value="true" /></object>
+<object width="480" height="295" data="https://www.youtube.com/v/O-RElDpDIXw&amp;hl=fr&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="https://www.youtube.com/v/O-RElDpDIXw&amp;hl=fr&amp;fs=1" /><param name="allowfullscreen" value="true" /></object>

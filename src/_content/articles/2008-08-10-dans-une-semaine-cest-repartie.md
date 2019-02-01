@@ -12,15 +12,15 @@ meta:
   _edit_last: '1'
   enclosure: "https://dlgjp9x71cipk.cloudfront.net/2008/08/reportage-fabienne-tabar_-une-ecole-de-recrue-300608.mp3\r\n7169464\r\naudio/mpeg\r\n"
   tweetbackscheck: '1234326044'
-  shorturls: a:7:{s:9:"permalink";s:69:"http://www.alienlebarge.ch/2008/08/10/dans-une-semaine-cest-repartie/";s:7:"tinyurl";s:25:"http://tinyurl.com/aed9mx";s:4:"isgd";s:17:"http://is.gd/ikew";s:5:"bitly";s:20:"http://bit.ly/4u0wAL";s:5:"snipr";s:22:"http://snipr.com/b9xd0";s:5:"snurl";s:22:"http://snurl.com/b9xd0";s:7:"snipurl";s:24:"http://snipurl.com/b9xd0";}
+  shorturls: a:7:{s:9:"permalink";s:69:"https://www.alienlebarge.ch/2008/08/10/dans-une-semaine-cest-repartie/";s:7:"tinyurl";s:25:"https://tinyurl.com/aed9mx";s:4:"isgd";s:17:"https://is.gd/ikew";s:5:"bitly";s:20:"https://bit.ly/4u0wAL";s:5:"snipr";s:22:"https://snipr.com/b9xd0";s:5:"snurl";s:22:"https://snurl.com/b9xd0";s:7:"snipurl";s:24:"https://snipurl.com/b9xd0";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
 ---
-<img src="http://farm3.static.flickr.com/2324/1852433831_62aad4ae27.jpg" alt="M109 @ night" />
-<em><a title="photo sharing" href="http://www.flickr.com/photos/alienlebarge/1852433831/">M109 @ night</a></em>
+<img src="https://farm3.static.flickr.com/2324/1852433831_62aad4ae27.jpg" alt="M109 @ night" />
+<em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/1852433831/">M109 @ night</a></em>
 
-Et ouais, dans une semaine j'ai droit à mes traditionnelles vacances fédérales. Pour changer, on établira nos quartiers à L'Isle. Ce qui n'est pas pour me déplaire. On y a nos petites habitudes, c'est que le troisième cours de répétition que je fais là-bas. En tout cas, cela serra plus agréable que <a href="http://www.flickr.com/photos/alienlebarge/sets/72157602533332357/"><span>le col du Simplon</span></a> (mais moins beau).
+Et ouais, dans une semaine j'ai droit à mes traditionnelles vacances fédérales. Pour changer, on établira nos quartiers à L'Isle. Ce qui n'est pas pour me déplaire. On y a nos petites habitudes, c'est que le troisième cours de répétition que je fais là-bas. En tout cas, cela serra plus agréable que <a href="https://www.flickr.com/photos/alienlebarge/sets/72157602533332357/"><span>le col du Simplon</span></a> (mais moins beau).
 
 Reste que cette semaine, il va falloir préparer les victuailles pour tenir le coup, tester les fringues pour voir si je rentre toujours dedans et lancer les éternels SMS pour savoir qui s'occupe du vacherin, de la bleue (bon ça c'est les gars de la Brévine en général), du râtelier à bouteille pour le dortoir, la multiprise pour charger les natels, etc. Reste que c'est toujours très sympa... presque trop.
 

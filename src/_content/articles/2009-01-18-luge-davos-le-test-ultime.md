@@ -14,12 +14,12 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234463862'
-  shorturls: a:7:{s:9:"permalink";s:64:"http://www.alienlebarge.ch/2009/01/18/luge-davos-le-test-ultime/";s:7:"tinyurl";s:25:"http://tinyurl.com/akesvt";s:4:"isgd";s:17:"http://is.gd/ilmv";s:5:"bitly";s:20:"http://bit.ly/32RySQ";s:5:"snipr";s:22:"http://snipr.com/ba78b";s:5:"snurl";s:22:"http://snurl.com/ba78b";s:7:"snipurl";s:24:"http://snipurl.com/ba78b";}
+  shorturls: a:7:{s:9:"permalink";s:64:"https://www.alienlebarge.ch/2009/01/18/luge-davos-le-test-ultime/";s:7:"tinyurl";s:25:"https://tinyurl.com/akesvt";s:4:"isgd";s:17:"https://is.gd/ilmv";s:5:"bitly";s:20:"https://bit.ly/32RySQ";s:5:"snipr";s:22:"https://snipr.com/ba78b";s:5:"snurl";s:22:"https://snurl.com/ba78b";s:7:"snipurl";s:24:"https://snipurl.com/ba78b";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: '256453994241744896'
 ---
-<img class="alignnone" title="La photo d'une luge Davos" src="http://farm4.static.flickr.com/3362/3206259790_de55995432.jpg" alt="Davos original" width="500" height="281" /> 
+<img class="alignnone" title="La photo d'une luge Davos" src="https://farm4.static.flickr.com/3362/3206259790_de55995432.jpg" alt="Davos original" width="500" height="281" /> 
 
 Hier, on a fait la folie de s’acheter un Davos avec Céline (cela dit, on avait un bon). Les Davos pour ceux qui ne le savent pas est une luge typiquement suisse. Voici sa légende :
 
@@ -31,11 +31,11 @@ D’ailleurs, c’est à Davos qu’est née la fédération de luge en 1957 et 
 Pour notre part, pour ne pas effondrer notre compte, nous avons acheter une Davos originale à la rondelette somme de 209 CHF (toujours au moyen de notre bon) et une Davos tchèque (ou je ne sais quoi) pour 65 CHF.
 
 L’orignal fait 110cm. On peut se tenir à deux adultes dessus, expérience faite. La finition est exemplaire, le bois est laqué et joliment travaillé. Les patins sont poncés, traités, travaillés et faits pour glisser. Une lanière avec des petits mousquetons est fournie avec pour tirer et guider la luge. 
-<a class="tt-flickr tt-flickr-Square" title="Davos originale" href="http://www.flickr.com/photos/alienlebarge/3206518806/"><img class="alignnone" src="http://farm4.static.flickr.com/3333/3206518806_0896c39962_s.jpg" alt="Davos originale" width="75" height="75" /></a> <a class="tt-flickr tt-flickr-Square" title="Davos originale" href="http://www.flickr.com/photos/alienlebarge/3206518532/"><img class="alignnone" src="http://farm4.static.flickr.com/3343/3206518532_5776c0e85b_s.jpg" alt="Davos originale" width="75" height="75" /></a> <a class="tt-flickr tt-flickr-Square" title="Davos originale" href="http://www.flickr.com/photos/alienlebarge/3205677103/"><img class="alignnone" src="http://farm4.static.flickr.com/3511/3205677103_0a572a3424_s.jpg" alt="Davos originale" width="75" height="75" /></a> 
+<a class="tt-flickr tt-flickr-Square" title="Davos originale" href="https://www.flickr.com/photos/alienlebarge/3206518806/"><img class="alignnone" src="https://farm4.static.flickr.com/3333/3206518806_0896c39962_s.jpg" alt="Davos originale" width="75" height="75" /></a> <a class="tt-flickr tt-flickr-Square" title="Davos originale" href="https://www.flickr.com/photos/alienlebarge/3206518532/"><img class="alignnone" src="https://farm4.static.flickr.com/3343/3206518532_5776c0e85b_s.jpg" alt="Davos originale" width="75" height="75" /></a> <a class="tt-flickr tt-flickr-Square" title="Davos originale" href="https://www.flickr.com/photos/alienlebarge/3205677103/"><img class="alignnone" src="https://farm4.static.flickr.com/3511/3205677103_0a572a3424_s.jpg" alt="Davos originale" width="75" height="75" /></a> 
 
 La copie (on va l’appeler comme ça) fait 80cm. La qualité de la finition n’arrive pas à la cheville de sa rivale, mais cela dit, il n’y a pas d’écharde qui dépassent et n’est pas branlante. Aucune lanière n’est fournie avec. Il vous faudra la faire vous-même.
 Pour ce qui est de la qualité du bois, je pense que c’est sur la durée que nous pourrons juger de la qualité. Les patins quand à eux, c’est des vulgaires bouts de métal vissés sous la luge. Ils sont griffés par endroits.
-<img class="alignnone" src="http://farm4.static.flickr.com/3464/3206518730_260c2e0408_s.jpg" alt="Davos copie" width="75" height="75" /> <a class="tt-flickr tt-flickr-Square" title="Davos copie" href="http://www.flickr.com/photos/alienlebarge/3206518622/"><img class="alignnone" src="http://farm4.static.flickr.com/3414/3206518622_b5553d1d31_s.jpg" alt="Davos copie" width="75" height="75" /></a>  <a class="tt-flickr tt-flickr-Square" title="Davos copie" href="http://www.flickr.com/photos/alienlebarge/3206518352/"><img class="alignnone" src="http://farm4.static.flickr.com/3388/3206518352_f1d09405c8_s.jpg" alt="Davos copie" width="75" height="75" /></a> 
+<img class="alignnone" src="https://farm4.static.flickr.com/3464/3206518730_260c2e0408_s.jpg" alt="Davos copie" width="75" height="75" /> <a class="tt-flickr tt-flickr-Square" title="Davos copie" href="https://www.flickr.com/photos/alienlebarge/3206518622/"><img class="alignnone" src="https://farm4.static.flickr.com/3414/3206518622_b5553d1d31_s.jpg" alt="Davos copie" width="75" height="75" /></a>  <a class="tt-flickr tt-flickr-Square" title="Davos copie" href="https://www.flickr.com/photos/alienlebarge/3206518352/"><img class="alignnone" src="https://farm4.static.flickr.com/3388/3206518352_f1d09405c8_s.jpg" alt="Davos copie" width="75" height="75" /></a> 
 
 Donc hier, nous avons testé ces deux jouets sur la piste de luge de Mauborget. Elle doit faire environ huitante mètres de long. C’est une piste droite. Il n’y a pas de sauts ou d’obstacle. En fait, c’est un talus avec de la neige (et un télébob).
 
@@ -55,7 +55,7 @@ Je n’ai pas fait le test avec l’autre
 <strong>Conclusion</strong>
 Vous vous amuserez tout autant avec une qu’avec l’autre. Mais il est vrai que l’original est magnifique. C’est plus pour la beauté de l’objet et le travail de l’artisan que vous mettez la différence de prix même si les performances sont meilleures. Je vous en reparlerai dans 60ans, car ces luges sont faites pour traverser les générations. 
 
-Il est vrai que ces luges ont un certain prix dans le commerce. Après quelques recherches, je vous conseille de les acheter directement chez le fabricant. Vous économiserez presque un quart du prix. (Hein une adresse ? <a title="Les luges Graf" href="http://www.graf-schlitten.ch/">Bien sûr</a>).
+Il est vrai que ces luges ont un certain prix dans le commerce. Après quelques recherches, je vous conseille de les acheter directement chez le fabricant. Vous économiserez presque un quart du prix. (Hein une adresse ? <a title="Les luges Graf" href="https://www.graf-schlitten.ch/">Bien sûr</a>).
 
 <strong><em>Avis perso</em></strong><em>
 Tout pour l’originale !!!!! L’année prochaine ont en a une deuxième mais avec «Tout schuss» marqué dessus ! :)</em>

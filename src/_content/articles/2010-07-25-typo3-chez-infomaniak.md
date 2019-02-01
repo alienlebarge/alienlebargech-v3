@@ -24,8 +24,8 @@ Actuellement en train de développer un site Typo3 chez Infomaniak, je me rend c
 
 <!--more-->(Bien entendu, cet article est destiné à évoluer 8) )
 <h2>ImageMagik</h2>
-La gestion et traitement des images est un grand atout de Typo3. Celui-ci utilise par défaut ImageMagik. Malheureusement <a title="FAQ qui explique pourquoi ImageMagik n'est pas disponible" href="http://www.infomaniak.ch/support/faq/faq_home.php?&amp;faq=322">non disponible</a>, il faudra se tourner vers la libraire GD 2.
-Pour ce faire, il vous suffit d'installer l'extension <a title="L'extension sur le site Typo3.org" href="http://typo3.org/extensions/repository/view/jb_gd_resize/current/">JD_GB_Resize</a>.
+La gestion et traitement des images est un grand atout de Typo3. Celui-ci utilise par défaut ImageMagik. Malheureusement <a title="FAQ qui explique pourquoi ImageMagik n'est pas disponible" href="https://www.infomaniak.ch/support/faq/faq_home.php?&amp;faq=322">non disponible</a>, il faudra se tourner vers la libraire GD 2.
+Pour ce faire, il vous suffit d'installer l'extension <a title="L'extension sur le site Typo3.org" href="https://typo3.org/extensions/repository/view/jb_gd_resize/current/">JD_GB_Resize</a>.
 
 <em>Je n'ai pas encore testé les images transparentes. A ce qu'il parait, il y a quelques problèmes à ce niveau. Dès que j'ai effectuer quelques essais, je vous en parle.</em>
 <h2>Curl</h2>

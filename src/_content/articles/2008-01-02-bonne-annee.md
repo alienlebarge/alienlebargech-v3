@@ -10,8 +10,8 @@ published: true
 meta:
   tmac_last_id: ''
 ---
- <img src="http://farm3.static.flickr.com/2243/2157887222_a79d873dea.jpg" alt="Surprise !" />
-<em><a href="http://www.flickr.com/photos/alienlebarge/2157887222/" title="photo sharing">Surprise !</a></em>
+ <img src="https://farm3.static.flickr.com/2243/2157887222_a79d873dea.jpg" alt="Surprise !" />
+<em><a href="https://www.flickr.com/photos/alienlebarge/2157887222/" title="photo sharing">Surprise !</a></em>
 
 J'ai failli oublier le petit rituel.
 

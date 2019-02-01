@@ -28,7 +28,7 @@ meta:
   hide_post_title: default
   tmac_last_id: '256453733284712448'
 ---
-On continue <a href="http://www.clicclac.ch/2011/09/03/skaftafell/">nos pérégrinations islandaises</a>.
+On continue <a href="https://www.clicclac.ch/2011/09/03/skaftafell/">nos pérégrinations islandaises</a>.
 
 <!--more-->
 

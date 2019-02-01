@@ -11,11 +11,11 @@ published: true
 meta:
   _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Podcast";}}
   cocomment_trackall: ''
-  enclosure: "http://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_005.mp3\r\n30389616\r\naudio/mpeg"
+  enclosure: "https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_005.mp3\r\n30389616\r\naudio/mpeg"
   _utw_tags_: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Podcast";}}
   _edit_last: '1'
   tweetbackscheck: '1234473930'
-  shorturls: a:7:{s:9:"permalink";s:56:"http://www.alienlebarge.ch/2007/07/03/alb-broadcast-005/";s:7:"tinyurl";s:25:"http://tinyurl.com/cxnjht";s:4:"isgd";s:17:"http://is.gd/ikd6";s:5:"bitly";s:18:"http://bit.ly/dj7G";s:5:"snipr";s:22:"http://snipr.com/b9x5h";s:5:"snurl";s:22:"http://snurl.com/b9x5h";s:7:"snipurl";s:24:"http://snipurl.com/b9x5h";}
+  shorturls: a:7:{s:9:"permalink";s:56:"https://www.alienlebarge.ch/2007/07/03/alb-broadcast-005/";s:7:"tinyurl";s:25:"https://tinyurl.com/cxnjht";s:4:"isgd";s:17:"https://is.gd/ikd6";s:5:"bitly";s:18:"https://bit.ly/dj7G";s:5:"snipr";s:22:"https://snipr.com/b9x5h";s:5:"snurl";s:22:"https://snurl.com/b9x5h";s:7:"snipurl";s:24:"https://snipurl.com/b9x5h";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -24,11 +24,11 @@ meta:
 J'ai souvent changé d'avis dans ma sélection pour finalement arrêter mon choix sur des titres apparentés (même très éloigné) au disco et à la pop. Kid Koala ouvre le bal avec ses mixtures vinylesques qui il faut bien le dire font un peu figure d'ovni dans ce "mix".
 Bonne écoute...
 
-[dewplayer:http://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_005.mp3]
+[dewplayer:https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_005.mp3]
 
 <!--more-->
 
-<strong>Playliste alb broadcat #005</strong> - <a title="Télécharger alb broadcast #005" href="http://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_005.mp3">à emporter ici</a>
+<strong>Playliste alb broadcat #005</strong> - <a title="Télécharger alb broadcast #005" href="https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_005.mp3">à emporter ici</a>
 
 Kid Koala - More Dance Music
 Hey Willpower - Hundredaire

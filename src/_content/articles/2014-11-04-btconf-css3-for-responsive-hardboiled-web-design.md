@@ -3,7 +3,7 @@
 title:       "Beyond Tellerrand: CSS3 For Responsive Hardboiled Web Design"
 description: "My sketchnote about Andrew Clark workshop"
 date:        2014-11-04 22:14:34
-image:       http://markosun.files.wordpress.com/2013/07/apes6.jpg
+image:       https://markosun.files.wordpress.com/2013/07/apes6.jpg
 tags:
  - btconf
  - conference
@@ -11,7 +11,7 @@ tags:
  - css
 ---
 
-[Andrew Clarke](http://www.twitter.com/malarkey) is running [Stuff & Nonsense](http://stuffandnonsense.co.uk) an agency which likes apes. He demonstrated us how we can use new CSS3 techniques to build websites. We talk a lot about flexbox, how does the alignments work and the way we can implement them.
+[Andrew Clarke](https://www.twitter.com/malarkey) is running [Stuff & Nonsense](https://stuffandnonsense.co.uk) an agency which likes apes. He demonstrated us how we can use new CSS3 techniques to build websites. We talk a lot about flexbox, how does the alignments work and the way we can implement them.
 
 I definitely have to dive in this subject.   
 

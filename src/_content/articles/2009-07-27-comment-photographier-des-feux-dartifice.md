@@ -24,6 +24,6 @@ C'est bientôt la fête national. Vous savez, le truc avec les lampions et les a
 
 Vous connaissez certainement ce cas où lorsque vous regardez vos impôts communaux s'élever dans le ciel, vous décider de les prendre en photos. En général c'est assez loupé. Et bien voici quelques articles qui vont certainement vous aider à garder cette belle bleue ho pis cette belle rouge ... whouuuaaa ... en souvenir
 <ul>
-	<li><a href="http://www.the-digital-picture.com/Photography-Tips/Fireworks.aspx">Fireworks Photography Tips</a></li>
-	<li><a href="http://digital-photography-school.com/how-to-photograph-fireworks">How to Photograph Fireworks Displays</a></li>
+	<li><a href="https://www.the-digital-picture.com/Photography-Tips/Fireworks.aspx">Fireworks Photography Tips</a></li>
+	<li><a href="https://digital-photography-school.com/how-to-photograph-fireworks">How to Photograph Fireworks Displays</a></li>
 </ul>

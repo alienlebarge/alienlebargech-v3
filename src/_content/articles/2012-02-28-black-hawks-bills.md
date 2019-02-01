@@ -32,4 +32,4 @@ Quart de final face à Black Hawks. Bills s'envole vers la demi-final de la coup
 
 [gallery link="file" order="DESC" columns="4" orderby="rand"]
 
-Comme pour <a href="http://www.alienlebarge.ch/2012/02/21/bbc-bills/">les précédentes photos</a>, étant sur la glace, je remercie L. Cottier pour les prises de vue.
+Comme pour <a href="https://www.alienlebarge.ch/2012/02/21/bbc-bills/">les précédentes photos</a>, étant sur la glace, je remercie L. Cottier pour les prises de vue.

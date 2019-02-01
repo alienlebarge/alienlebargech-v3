@@ -12,14 +12,14 @@ meta:
   enclosure: "https://dlgjp9x71cipk.cloudfront.net/2007/06/app_01.mp3\r\n1564276\r\naudio/mpeg"
   _edit_last: '1'
   tweetbackscheck: '1234583890'
-  shorturls: a:7:{s:9:"permalink";s:52:"http://www.alienlebarge.ch/2007/06/01/apparat-walls/";s:7:"tinyurl";s:25:"http://tinyurl.com/bav63n";s:4:"isgd";s:17:"http://is.gd/j8Uv";s:5:"bitly";s:18:"http://bit.ly/YNUQ";s:5:"snipr";s:22:"http://snipr.com/bojl5";s:5:"snurl";s:22:"http://snurl.com/bojl5";s:7:"snipurl";s:24:"http://snipurl.com/bojl5";}
+  shorturls: a:7:{s:9:"permalink";s:52:"https://www.alienlebarge.ch/2007/06/01/apparat-walls/";s:7:"tinyurl";s:25:"https://tinyurl.com/bav63n";s:4:"isgd";s:17:"https://is.gd/j8Uv";s:5:"bitly";s:18:"https://bit.ly/YNUQ";s:5:"snipr";s:22:"https://snipr.com/bojl5";s:5:"snurl";s:22:"https://snurl.com/bojl5";s:7:"snipurl";s:24:"https://snipurl.com/bojl5";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/06/apparat.png" alt="Apparat" />
 
-Le Berlinois <a title="Le site d'Apparat" href="http://www.apparat.net/">Apparat</a> vient de sortir son nouvel album sur son label <a title="Le site de shitkatapult" href="http://www.shitkatapult.com/">Shitkatapult</a>.
+Le Berlinois <a title="Le site d'Apparat" href="https://www.apparat.net/">Apparat</a> vient de sortir son nouvel album sur son label <a title="Le site de shitkatapult" href="https://www.shitkatapult.com/">Shitkatapult</a>.
 
 Il ne sagit de loin pas d'un album "dancefloor" comme on avait l'habitude avec ses productions sur le label Bpitch Control. Avec Walls, il met en avant des mélodies travaillées et profondes qui nous font voyager. On sent ses productions de plus en plus recherchées au fil des années. Cet opus à des aires d'usine métallurgique avec une piscine à boule à l'intérieur. En effet, les sons y sont très métalliques, mais trituré avec sa folie ou génie habituel. Ce qui nous donne un  ensemble très aérien et léger à souhait.
 Après ses premiers essais de chant sur sa collaboration avec Ellen Alien sur "Orchestra Of Bubbles", il s'y est sérieusement mis. Et ça le fait.

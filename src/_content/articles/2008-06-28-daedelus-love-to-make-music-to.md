@@ -14,7 +14,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234442293'
-  shorturls: a:7:{s:9:"permalink";s:69:"http://www.alienlebarge.ch/2008/06/28/daedelus-love-to-make-music-to/";s:7:"tinyurl";s:25:"http://tinyurl.com/cnaf53";s:4:"isgd";s:17:"http://is.gd/ikdY";s:5:"bitly";s:18:"http://bit.ly/y6Gu";s:5:"snipr";s:22:"http://snipr.com/b9x9l";s:5:"snurl";s:22:"http://snurl.com/b9x9l";s:7:"snipurl";s:24:"http://snipurl.com/b9x9l";}
+  shorturls: a:7:{s:9:"permalink";s:69:"https://www.alienlebarge.ch/2008/06/28/daedelus-love-to-make-music-to/";s:7:"tinyurl";s:25:"https://tinyurl.com/cnaf53";s:4:"isgd";s:17:"https://is.gd/ikdY";s:5:"bitly";s:18:"https://bit.ly/y6Gu";s:5:"snipr";s:22:"https://snipr.com/b9x9l";s:5:"snurl";s:22:"https://snurl.com/b9x9l";s:7:"snipurl";s:24:"https://snipurl.com/b9x9l";}
   twittercomments: a:1:{i:1187367317;s:7:"retweet";}
   tweetcount: '1'
   tmac_last_id: ''
@@ -25,12 +25,12 @@ Daedelus, l'homme aux plus belles rouflaquettes de la côte ouest des États-Uni
 
 <!--more-->
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/kRJ2YvRv3N4&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/kRJ2YvRv3N4&amp;hl=en"></embed></object>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="https://www.youtube.com/v/kRJ2YvRv3N4&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="344" src="https://www.youtube.com/v/kRJ2YvRv3N4&amp;hl=en"></embed></object>
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/lCylb7E0EXY&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/lCylb7E0EXY&amp;hl=en"></embed></object>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="https://www.youtube.com/v/lCylb7E0EXY&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="344" src="https://www.youtube.com/v/lCylb7E0EXY&amp;hl=en"></embed></object>
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/EbjBHkKiS4c&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/EbjBHkKiS4c&amp;hl=en"></embed></object>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="https://www.youtube.com/v/EbjBHkKiS4c&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="344" src="https://www.youtube.com/v/EbjBHkKiS4c&amp;hl=en"></embed></object>
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/bjZwlCbUU8M&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/bjZwlCbUU8M&amp;hl=en"></embed></object>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="https://www.youtube.com/v/bjZwlCbUU8M&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="344" src="https://www.youtube.com/v/bjZwlCbUU8M&amp;hl=en"></embed></object>
 
-<a title="Daedelus sur Youtube" href="http://youtube.com/results?search_query=daedelus&amp;search_type=&amp;aq=f">et bien plus encore ...</a>
+<a title="Daedelus sur Youtube" href="https://youtube.com/results?search_query=daedelus&amp;search_type=&amp;aq=f">et bien plus encore ...</a>

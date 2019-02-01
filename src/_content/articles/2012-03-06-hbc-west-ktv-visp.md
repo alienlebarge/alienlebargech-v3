@@ -27,6 +27,6 @@ meta:
   hide_post_image: default
   tmac_last_id: '256453628511002624'
 ---
-Après une journée de <a title="Broomball Cup" href="http://www.alienlebarge.ch/2012/03/06/broomball-cup/">Broom</a>', un petit tour à la salle de Marcolet pour immortaliser la rencontre face à Viège.<!--more-->
+Après une journée de <a title="Broomball Cup" href="https://www.alienlebarge.ch/2012/03/06/broomball-cup/">Broom</a>', un petit tour à la salle de Marcolet pour immortaliser la rencontre face à Viège.<!--more-->
 
 [gallery link="file" order="DESC" columns="4" orderby="rand"]

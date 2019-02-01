@@ -12,7 +12,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234544656'
-  shorturls: a:7:{s:9:"permalink";s:65:"http://www.alienlebarge.ch/2008/06/05/la-petite-famille-de-bemol/";s:7:"tinyurl";s:25:"http://tinyurl.com/benycn";s:4:"isgd";s:17:"http://is.gd/iATk";s:5:"bitly";s:18:"http://bit.ly/zSE1";s:5:"snipr";s:22:"http://snipr.com/bem6w";s:5:"snurl";s:22:"http://snurl.com/bem6w";s:7:"snipurl";s:24:"http://snipurl.com/bem6w";}
+  shorturls: a:7:{s:9:"permalink";s:65:"https://www.alienlebarge.ch/2008/06/05/la-petite-famille-de-bemol/";s:7:"tinyurl";s:25:"https://tinyurl.com/benycn";s:4:"isgd";s:17:"https://is.gd/iATk";s:5:"bitly";s:18:"https://bit.ly/zSE1";s:5:"snipr";s:22:"https://snipr.com/bem6w";s:5:"snurl";s:22:"https://snurl.com/bem6w";s:7:"snipurl";s:24:"https://snipurl.com/bem6w";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''

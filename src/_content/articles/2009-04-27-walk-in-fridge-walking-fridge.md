@@ -24,6 +24,6 @@ Les deux vid&eacute;os sont &agrave; regarder une apr&egrave;s l'autre.
 
 <!--more-->
 
-<object width="560" height="340" data="http://www.youtube.com/v/yIutgtzwhAc&amp;hl=fr&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/yIutgtzwhAc&amp;hl=fr&amp;fs=1" /><param name="allowfullscreen" value="true" /></object>
+<object width="560" height="340" data="https://www.youtube.com/v/yIutgtzwhAc&amp;hl=fr&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="https://www.youtube.com/v/yIutgtzwhAc&amp;hl=fr&amp;fs=1" /><param name="allowfullscreen" value="true" /></object>
 
-<object width="560" height="340" data="http://www.youtube.com/v/mOvoO6eQDms&amp;hl=fr&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/mOvoO6eQDms&amp;hl=fr&amp;fs=1" /><param name="allowfullscreen" value="true" /></object>
+<object width="560" height="340" data="https://www.youtube.com/v/mOvoO6eQDms&amp;hl=fr&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="https://www.youtube.com/v/mOvoO6eQDms&amp;hl=fr&amp;fs=1" /><param name="allowfullscreen" value="true" /></object>

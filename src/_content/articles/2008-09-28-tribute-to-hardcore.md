@@ -15,7 +15,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234449999'
-  shorturls: a:7:{s:9:"permalink";s:58:"http://www.alienlebarge.ch/2008/09/28/tribute-to-hardcore/";s:7:"tinyurl";s:25:"http://tinyurl.com/cw7on2";s:4:"isgd";s:17:"http://is.gd/ikfq";s:5:"bitly";s:18:"http://bit.ly/YENt";s:5:"snipr";s:22:"http://snipr.com/b9xio";s:5:"snurl";s:22:"http://snurl.com/b9xio";s:7:"snipurl";s:24:"http://snipurl.com/b9xio";}
+  shorturls: a:7:{s:9:"permalink";s:58:"https://www.alienlebarge.ch/2008/09/28/tribute-to-hardcore/";s:7:"tinyurl";s:25:"https://tinyurl.com/cw7on2";s:4:"isgd";s:17:"https://is.gd/ikfq";s:5:"bitly";s:18:"https://bit.ly/YENt";s:5:"snipr";s:22:"https://snipr.com/b9xio";s:5:"snurl";s:22:"https://snurl.com/b9xio";s:7:"snipurl";s:24:"https://snipurl.com/b9xio";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -32,6 +32,6 @@ Tout à fait, cet article n’a aucune autre utilité que de se dire : « c’é
 
 <em>Oui, il y a un éclairage rouge au local. C'est le pourquoi du ton des photos...</em>
 
-Je vous ai mis les artistes et noms de chaque disque. De plus si vous cliquez sur l'image, vous trouverez le lien <a title="DiscoGS" href="http://www.discogs.com">DiscoGS</a> pour chaque EP.
+Je vous ai mis les artistes et noms de chaque disque. De plus si vous cliquez sur l'image, vous trouverez le lien <a title="DiscoGS" href="https://www.discogs.com">DiscoGS</a> pour chaque EP.
 
 [gallery]

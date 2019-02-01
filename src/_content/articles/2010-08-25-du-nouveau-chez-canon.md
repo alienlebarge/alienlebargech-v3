@@ -27,11 +27,11 @@ Canon vient d'annoncer une ribambelle de nouveauté à son catalogue. Préparez-
 
 <!--more-->
 <ul>
-	<li>un nouveau boitier : <a title="Déscription du 60D" href="http://www.canonrumors.com/2010/08/canon-announces-eos-60d/">60D</a></li>
-	<li>un zoom destiné aux voyageurs (ou bourlingueurs) exigeants : <a title="Déscription du 70-300 f/4-5.6L IS" href="http://www.canonrumors.com/2010/08/canon-announces-70-300-f4-5-6l-is/">70-300 f/4-5.6L IS</a></li>
-	<li>un objectif pour ceux qui aime les grands grans angles : <a title="Description du 8-15 f/4L Fisheye Zoom" href="http://www.canonrumors.com/2010/08/canon-announced-8-15-f4l-fisheye-zoom/">8-15 f/4L Fisheye Zoom</a></li>
-	<li>deux objectif pour les amateurs de photographie animalière (de petits oiseaux très très loin) : <a title="Déscriptif de ces deux objectifs" href="http://www.canonrumors.com/2010/08/canon-announces-new-300-f2-8l-is-400-f2-8l-is/">300 f/2.8L IS et 400 f/2.8L IS</a></li>
-	<li>deux nouvel version de ses "extenders" : <a title="Déscriptifs des extenders" href="http://www.canonrumors.com/2010/08/canon-announces-1-4x-iii-2-0x-iii/">1.4x III et 2.0x III</a></li>
+	<li>un nouveau boitier : <a title="Déscription du 60D" href="https://www.canonrumors.com/2010/08/canon-announces-eos-60d/">60D</a></li>
+	<li>un zoom destiné aux voyageurs (ou bourlingueurs) exigeants : <a title="Déscription du 70-300 f/4-5.6L IS" href="https://www.canonrumors.com/2010/08/canon-announces-70-300-f4-5-6l-is/">70-300 f/4-5.6L IS</a></li>
+	<li>un objectif pour ceux qui aime les grands grans angles : <a title="Description du 8-15 f/4L Fisheye Zoom" href="https://www.canonrumors.com/2010/08/canon-announced-8-15-f4l-fisheye-zoom/">8-15 f/4L Fisheye Zoom</a></li>
+	<li>deux objectif pour les amateurs de photographie animalière (de petits oiseaux très très loin) : <a title="Déscriptif de ces deux objectifs" href="https://www.canonrumors.com/2010/08/canon-announces-new-300-f2-8l-is-400-f2-8l-is/">300 f/2.8L IS et 400 f/2.8L IS</a></li>
+	<li>deux nouvel version de ses "extenders" : <a title="Déscriptifs des extenders" href="https://www.canonrumors.com/2010/08/canon-announces-1-4x-iii-2-0x-iii/">1.4x III et 2.0x III</a></li>
 </ul>
 [caption id="attachment_2425" align="alignnone" width="500" caption="Canon EOS 60D"]<a href="https://dlgjp9x71cipk.cloudfront.net/2010/08/60D.jpg"><img class="size-medium wp-image-2425" title="Canon EOS 60D" src="https://dlgjp9x71cipk.cloudfront.net/2010/08/60D-500x159.jpg" alt="Canon EOS 60D" width="500" height="159" /></a>[/caption]
 

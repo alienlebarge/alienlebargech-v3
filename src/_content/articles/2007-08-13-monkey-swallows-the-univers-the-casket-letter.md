@@ -9,7 +9,7 @@ published: true
 meta:
   _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Critique";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}}
   tweetbackscheck: '1234026778'
-  shorturls: a:7:{s:9:"permalink";s:84:"http://www.alienlebarge.ch/2007/08/13/monkey-swallows-the-univers-the-casket-letter/";s:7:"tinyurl";s:25:"http://tinyurl.com/b5s3hk";s:4:"isgd";s:17:"http://is.gd/iyCb";s:5:"bitly";s:18:"http://bit.ly/Tlvn";s:5:"snipr";s:22:"http://snipr.com/bdrps";s:5:"snurl";s:22:"http://snurl.com/bdrps";s:7:"snipurl";s:24:"http://snipurl.com/bdrps";}
+  shorturls: a:7:{s:9:"permalink";s:84:"https://www.alienlebarge.ch/2007/08/13/monkey-swallows-the-univers-the-casket-letter/";s:7:"tinyurl";s:25:"https://tinyurl.com/b5s3hk";s:4:"isgd";s:17:"https://is.gd/iyCb";s:5:"bitly";s:18:"https://bit.ly/Tlvn";s:5:"snipr";s:22:"https://snipr.com/bdrps";s:5:"snurl";s:22:"https://snurl.com/bdrps";s:7:"snipurl";s:24:"https://snipurl.com/bdrps";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -24,7 +24,7 @@ Cela dit, je vous déconseille d’écouter ce disque en boucle si vous êtes da
 
 Ouais je sais, je fais des posts un peu bizarres, mais je n’ai rien trouvé de mieux pour décrire l'ambiance que dégage cet album.
 
-Plus d'infos sur <a href="http://www.mstu.co.uk/" title="Le site des singes machin trucs">leur site</a>
+Plus d'infos sur <a href="https://www.mstu.co.uk/" title="Le site des singes machin trucs">leur site</a>
 
 [youtube L040DEFXZ9U]
 

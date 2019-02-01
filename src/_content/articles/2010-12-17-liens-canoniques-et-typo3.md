@@ -32,9 +32,9 @@ Pour palier à ce problème, les principaux moteurs de recherche ont proposé d'
 <!--more-->
 
 Le principe est de permettre au webmaster d'indiquer pour chaque page de son site quelle est l'URL canonique, c'est-à-dire l'URL officielle de la page.
-Le site WebRankInfo propose <a title="Article sur les lien canoniques sur le site WebRankInfo" href="http://www.webrankinfo.com/dossiers/techniques/url-canonique">un article à ce sujet</a>.
+Le site WebRankInfo propose <a title="Article sur les lien canoniques sur le site WebRankInfo" href="https://www.webrankinfo.com/dossiers/techniques/url-canonique">un article à ce sujet</a>.
 <h3>Et dans Typo3 ?</h3>
-L'extension <a title="L'extension Realurl sur le site Typo3.org" href="http://typo3.org/extensions/repository/view/realurl/current/">realurl</a> sur Typo3 permet de transformer  des URLs techniques de type <em>www.monsite.com/index.php?id=100</em> en URL accessibles ("human readable") de type <em>www.monsite.com/macategorie/mapage</em>.
+L'extension <a title="L'extension Realurl sur le site Typo3.org" href="https://typo3.org/extensions/repository/view/realurl/current/">realurl</a> sur Typo3 permet de transformer  des URLs techniques de type <em>www.monsite.com/index.php?id=100</em> en URL accessibles ("human readable") de type <em>www.monsite.com/macategorie/mapage</em>.
 
 Une fois realurl installé, toute la navigation doit se faire avec des URLs accessibles. Mais voilà, il peut arriver qu'un URL technique traine par ci par là. De ce fait, si une page peut être visitée via un URL accessible et un URL technique, elle sera indexée deux fois.
 

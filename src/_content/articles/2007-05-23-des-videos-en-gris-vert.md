@@ -10,7 +10,7 @@ published: true
 meta:
   _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Vidéo";}}
   tweetbackscheck: '1233885081'
-  shorturls: a:7:{s:9:"permalink";s:62:"http://www.alienlebarge.ch/2007/05/23/des-videos-en-gris-vert/";s:7:"tinyurl";s:25:"http://tinyurl.com/cl7qsm";s:4:"isgd";s:17:"http://is.gd/iyPk";s:5:"bitly";s:19:"http://bit.ly/11J70";s:5:"snipr";s:22:"http://snipr.com/bdutx";s:5:"snurl";s:22:"http://snurl.com/bdutx";s:7:"snipurl";s:24:"http://snipurl.com/bdutx";}
+  shorturls: a:7:{s:9:"permalink";s:62:"https://www.alienlebarge.ch/2007/05/23/des-videos-en-gris-vert/";s:7:"tinyurl";s:25:"https://tinyurl.com/cl7qsm";s:4:"isgd";s:17:"https://is.gd/iyPk";s:5:"bitly";s:19:"https://bit.ly/11J70";s:5:"snipr";s:22:"https://snipr.com/bdutx";s:5:"snurl";s:22:"https://snurl.com/bdutx";s:7:"snipurl";s:24:"https://snipurl.com/bdutx";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -23,7 +23,7 @@ Je me baladais sur le site de l'armée suisse (afin de vérifier mes dates de co
 
 Vous saurez que maintenant ils font des petits reportages comme à l'école sur ce qu'ils font la journée, où ils dorment et comment ils dépensent l'argent du contribuable.
 
-La vidéo la plus "intéressante " selon moi est bien sûr <a href="http://www.armee.vbs.admin.ch/internet/armee/de/home/infbr5/bilder_video/video.Par.0007.DownloadFile.tmp/02_artabt32_2006.wmv" title="Vidéo de l'artillerie">celle qui présente le groupe d'artillerie</a>. C'est tout en <strike>allemand</strike> staubirne, mais bon. On peut voir pas mal de trucs.
+La vidéo la plus "intéressante " selon moi est bien sûr <a href="https://www.armee.vbs.admin.ch/internet/armee/de/home/infbr5/bilder_video/video.Par.0007.DownloadFile.tmp/02_artabt32_2006.wmv" title="Vidéo de l'artillerie">celle qui présente le groupe d'artillerie</a>. C'est tout en <strike>allemand</strike> staubirne, mais bon. On peut voir pas mal de trucs.
 <ul>
 	<li>La belle et enjouée piste des chars de Bière</li>
 	<li>Que la coiffe de casque est interdite dans cette troupe</li>
@@ -33,7 +33,7 @@ La vidéo la plus "intéressante " selon moi est bien sûr <a href="http://www.a
 </ul>
 Heureusement qu'ils ne filment pas les soirées dans les abris PC.
 
-Cela dit, il y a d'<a href="http://www.armee.vbs.admin.ch/internet/armee/de/home/infbr5/bilder_video/video.html" title="Les autres vidéos de l'armée">autres vidéos</a> (oui julien, il y en a une de fusillers mécanisés).
+Cela dit, il y a d'<a href="https://www.armee.vbs.admin.ch/internet/armee/de/home/infbr5/bilder_video/video.html" title="Les autres vidéos de l'armée">autres vidéos</a> (oui julien, il y en a une de fusillers mécanisés).
 
 A quand une vidéo sur Fabrice en cours de répét qui nous fait visiter tous les bistrots de Genève ?
 ;)

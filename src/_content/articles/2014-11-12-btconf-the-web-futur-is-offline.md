@@ -30,18 +30,18 @@ Here's my sketchnote of the talk:
 <figure>
   <iframe src="//player.vimeo.com/video/113522359?color=9c191e" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <figcaption>
-    <p><a href="http://vimeo.com/113522359">John Allsopp – The Web's future is offline – beyond tellerrand Berlin 2014</a> from <a href="http://vimeo.com/beyondtellerrand">beyond tellerrand</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    <p><a href="https://vimeo.com/113522359">John Allsopp – The Web's future is offline – beyond tellerrand Berlin 2014</a> from <a href="https://vimeo.com/beyondtellerrand">beyond tellerrand</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   </figcaption>
 </figure>
 
-[Here](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf), you can find the draft of John Allsopp's book "Offline First"
+[Here](https://www.webdirections.org/offlineworkshop/ibooksDraft.pdf), you can find the draft of John Allsopp's book "Offline First"
 
 ## Tweets
 
 Some tweet about the talk:
 
-<blockquote class="twitter-tweet" lang="fr"><p><a href="https://twitter.com/johnallsopp">@johnallsopp</a> i think this could be the future and i love it!!! <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="https://twitter.com/hashtag/offlinefirst?src=hash">#offlinefirst</a> <a href="http://t.co/haVKNkhFRq">pic.twitter.com/haVKNkhFRq</a></p>&mdash; Matthias H. Lick (@mhlick) <a href="https://twitter.com/mhlick/status/530023989658521600">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="fr"><p><a href="https://twitter.com/johnallsopp">@johnallsopp</a> i think this could be the future and i love it!!! <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="https://twitter.com/hashtag/offlinefirst?src=hash">#offlinefirst</a> <a href="https://t.co/haVKNkhFRq">pic.twitter.com/haVKNkhFRq</a></p>&mdash; Matthias H. Lick (@mhlick) <a href="https://twitter.com/mhlick/status/530023989658521600">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" lang="fr"><p>.<a href="https://twitter.com/johnallsopp">@johnallsopp</a> giving the definition of “douchebag” <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> +<a href="https://twitter.com/jaffathecake">@jaffathecake</a> <a href="http://t.co/vlktYwgUYm">pic.twitter.com/vlktYwgUYm</a></p>&mdash; Gunnar Bittersmann (@g16n) <a href="https://twitter.com/g16n/status/530025043271888896">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="fr"><p>.<a href="https://twitter.com/johnallsopp">@johnallsopp</a> giving the definition of “douchebag” <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> +<a href="https://twitter.com/jaffathecake">@jaffathecake</a> <a href="https://t.co/vlktYwgUYm">pic.twitter.com/vlktYwgUYm</a></p>&mdash; Gunnar Bittersmann (@g16n) <a href="https://twitter.com/g16n/status/530025043271888896">5 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="fr"><p>OH “responsive web design or as I call it: web design” —<a href="https://twitter.com/johnallsopp">@johnallsopp</a> Yes, this. <a href="https://twitter.com/hashtag/btconf?src=hash">#btconf</a> <a href="https://twitter.com/hashtag/rwd?src=hash">#rwd</a></p>&mdash; Gunnar Bittersmann (@g16n) <a href="https://twitter.com/g16n/status/530307801210683392">6 Novembre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

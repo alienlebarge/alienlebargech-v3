@@ -12,7 +12,7 @@ published: true
 meta:
   _edit_last: '1'
   tweetbackscheck: '1234550130'
-  shorturls: a:7:{s:9:"permalink";s:68:"http://www.alienlebarge.ch/2008/06/08/midnight-juggernauts-dystopia/";s:7:"tinyurl";s:25:"http://tinyurl.com/dgo564";s:4:"isgd";s:17:"http://is.gd/ikdr";s:5:"bitly";s:20:"http://bit.ly/2AKipk";s:5:"snipr";s:22:"http://snipr.com/b9x7i";s:5:"snurl";s:22:"http://snurl.com/b9x7i";s:7:"snipurl";s:24:"http://snipurl.com/b9x7i";}
+  shorturls: a:7:{s:9:"permalink";s:68:"https://www.alienlebarge.ch/2008/06/08/midnight-juggernauts-dystopia/";s:7:"tinyurl";s:25:"https://tinyurl.com/dgo564";s:4:"isgd";s:17:"https://is.gd/ikdr";s:5:"bitly";s:20:"https://bit.ly/2AKipk";s:5:"snipr";s:22:"https://snipr.com/b9x7i";s:5:"snurl";s:22:"https://snurl.com/b9x7i";s:7:"snipurl";s:24:"https://snipurl.com/b9x7i";}
   twittercomments: a:0:{}
   tweetcount: '0'
   tmac_last_id: ''
@@ -23,4 +23,4 @@ J'avais le titre "Into The Galaxy" qui me trottait dans la tête depuis un momen
 
 <!--more-->
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/J6SKNEYvZvQ&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/J6SKNEYvZvQ&amp;hl=en"></embed></object> 
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="https://www.youtube.com/v/J6SKNEYvZvQ&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="344" src="https://www.youtube.com/v/J6SKNEYvZvQ&amp;hl=en"></embed></object> 
