@@ -1,26 +1,36 @@
 <header class="c-banner">
-    <nav class="o-container" aria-label="Navigation">
-        <h2 class="u-visually-hidden">Navigation</h2>
-        <ul class="c-navigation">
-            <li class="c-navigation__logo"><a href="{{ "/" | url }}">alienlebarge</a></li>
-            {%- if navigation.primary -%}
-            <li class="c-navigation__primary"><span class="u-visually-hidden">Primary navigation</span>
+    <div class="o-container">
+        <nav class="c-navigation" aria-label="Navigation">
+            <h2 class="u-visually-hidden">Navigation</h2>
+            <div class="c-navigation__title">
+                <a class="c-navigation__link" href="{{ "/" | url }}" rel="home">
+                    <span class="u-visually-hidden">Homepage of </span>alienlebarge
+                </a>
+            </div>
+            {%- if (navigation.primary) or (navigation.secondary) -%}
+            <div class="c-navigation__pages">
+                {%- if navigation.primary -%}
+                <h2 class="u-visually-hidden">Primary Pages</h2>
                 <ul class="o-list-inline">
                     {%- for item in navigation.primary -%}
-                    <li class="o-list-inline__item"><a href="{{ item.url }}">{{ item.label }}</a></li>
+                    <li class="o-list-inline__item">
+                        <a class="c-navigation__link" href="{{ item.url }}">{{ item.label }}</a>
+                    </li>
                     {%- endfor -%}
                 </ul>
-            </li>
-            {%- endif -%}
-            {%- if navigation.secondary -%}
-            <li class="c-navigation__secondary"><span class="u-visually-hidden">Secondary secondary</span>
+                {%- endif -%}
+                {%- if navigation.secondary -%}
+                <h2 class="u-visually-hidden">Secondary Pages</h2>
                 <ul class="o-list-inline">
                     {%- for item in navigation.secondary -%}
-                    <li class="o-list-inline__item"><a href="{{ item.url }}">{{ item.label }}</a></li>
+                    <li class="o-list-inline__item">
+                        <a class="c-navigation__link" href="{{ item.url }}">{{ item.label }}</a>
+                    </li>
                     {%- endfor -%}
                 </ul>
-            </li>
+                {%- endif -%}
+            </div>
             {%- endif -%}
-        </ul>
-    </nav>
+        </nav>
+    </div>
 </header>
