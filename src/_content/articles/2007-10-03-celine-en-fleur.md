@@ -7,7 +7,6 @@ tags:
 - Photographie
 - Vacances
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234591935'

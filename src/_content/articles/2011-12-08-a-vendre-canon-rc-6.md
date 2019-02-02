@@ -9,7 +9,6 @@ tags:
 - Télécommande
 - Vente
 status: publish
-type: post
 published: true
 meta:
   unlink_post_title: default

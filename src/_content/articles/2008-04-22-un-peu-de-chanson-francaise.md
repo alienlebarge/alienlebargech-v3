@@ -5,7 +5,6 @@ categories:
 tags:
 - Musique
 status: publish
-type: post
 published: true
 meta:
   enclosure: "https://dlgjp9x71cipk.cloudfront.net/2008/04/musiquefrancaise.mp3\r\n6\r\naudio/mpeg"

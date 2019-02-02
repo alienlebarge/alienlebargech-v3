@@ -10,7 +10,6 @@ tags:
 - Photographie
 - Vigne
 status: publish
-type: post
 published: true
 meta:
   lightbox_link: ''

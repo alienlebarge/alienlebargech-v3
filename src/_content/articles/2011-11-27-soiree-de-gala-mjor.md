@@ -10,7 +10,6 @@ tags:
 - Photographie
 - Soirée
 status: publish
-type: post
 published: true
 meta:
   hide_post_title: default

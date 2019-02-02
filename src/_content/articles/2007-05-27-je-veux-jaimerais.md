@@ -4,7 +4,6 @@ categories:
 - Jeux
 tags: []
 status: publish
-type: post
 published: true
 meta:
   _utw_tags_0: a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Football";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"Jeux";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"Vidéo";}i:3;O:8:"stdClass":1:{s:3:"tag";s:3:"Wii";}}

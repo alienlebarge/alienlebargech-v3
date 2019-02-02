@@ -6,7 +6,6 @@ tags:
 - Musique
 - Podcast
 status: publish
-type: post
 published: true
 meta:
   _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Podcast";}}

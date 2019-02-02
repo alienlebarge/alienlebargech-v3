@@ -7,7 +7,6 @@ tags:
 - iPod Touch
 - Webclip
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234258736'

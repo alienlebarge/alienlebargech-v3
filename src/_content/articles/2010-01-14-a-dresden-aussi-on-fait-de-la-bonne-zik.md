@@ -6,7 +6,6 @@ tags:
 - Musique
 - The Hundred In The Hands
 status: publish
-type: post
 published: true
 meta:
   _edit_last: '1'

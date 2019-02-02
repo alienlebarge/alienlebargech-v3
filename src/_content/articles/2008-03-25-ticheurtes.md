@@ -7,7 +7,6 @@ tags:
 - Mode
 - T-shirts
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234472396'

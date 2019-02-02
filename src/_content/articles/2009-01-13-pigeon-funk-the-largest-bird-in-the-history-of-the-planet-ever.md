@@ -11,7 +11,6 @@ tags:
 - Pigeon Funk
 - The Largest Bird In The History Of The Planet... Ever!
 status: publish
-type: post
 published: true
 meta:
   _edit_last: '1'

@@ -7,7 +7,6 @@ tags:
 - Flickr
 - Photographie
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234592564'

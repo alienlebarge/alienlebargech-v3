@@ -4,7 +4,6 @@ categories:
 - Musique
 tags: []
 status: publish
-type: post
 published: true
 meta:
   _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Flickr";}i:1;O:8:"stdClass":1:{s:3:"tag";s:9:"Interface";}i:2;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}}

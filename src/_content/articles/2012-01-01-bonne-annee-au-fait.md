@@ -7,7 +7,6 @@ tags:
 - Nouvel An
 - Voeux
 status: publish
-type: post
 published: true
 meta:
   hide_post_meta: default

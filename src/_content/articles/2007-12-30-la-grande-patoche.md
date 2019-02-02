@@ -6,7 +6,6 @@ tags:
 - Lac
 - Promenade
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234513638'

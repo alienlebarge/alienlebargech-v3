@@ -10,7 +10,6 @@ tags:
 - HBC West
 - HV Herzogenbuchsee
 status: publish
-type: post
 published: true
 meta:
   unlink_post_title: default

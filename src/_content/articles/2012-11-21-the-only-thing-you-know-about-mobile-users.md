@@ -9,7 +9,6 @@ tags:
 - Screen
 - Size
 status: publish
-type: post
 published: true
 meta:
   _wp_old_slug: '6277'

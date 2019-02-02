@@ -8,7 +8,6 @@ tags:
 - Hip-Hop
 - Musique
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234461214'

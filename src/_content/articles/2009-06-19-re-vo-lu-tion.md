@@ -7,7 +7,6 @@ tags:
 - Design
 - Le site
 status: publish
-type: post
 published: true
 meta:
   aktt_notify_twitter: 'no'

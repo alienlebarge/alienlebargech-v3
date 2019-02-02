@@ -12,7 +12,6 @@ tags:
 - Svartifoss
 - Voyage
 status: publish
-type: post
 published: true
 meta:
   unlink_post_title: default

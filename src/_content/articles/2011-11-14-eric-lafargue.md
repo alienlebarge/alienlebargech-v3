@@ -9,7 +9,6 @@ tags:
 - Reportage
 - TSR
 status: publish
-type: post
 published: true
 meta:
   hide_post_date: default

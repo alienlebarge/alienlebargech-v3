@@ -7,7 +7,6 @@ tags:
 - Atari Teenage Riot
 - Musique
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234234857'

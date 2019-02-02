@@ -6,7 +6,6 @@ tags:
 - Lausanne
 - Transport
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234528977'

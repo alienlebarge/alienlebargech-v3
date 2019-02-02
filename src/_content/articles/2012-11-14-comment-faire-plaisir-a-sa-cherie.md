@@ -7,7 +7,6 @@ tags:
 - Flickr
 - Instagram
 status: pending
-type: post
 published: false
 meta: {}
 ---

@@ -10,7 +10,6 @@ tags:
 - Logiciel
 - Mac
 status: publish
-type: post
 published: true
 meta:
   _oembed_18ce48cf4fef017a1a519e9a87f8c8a4: <iframe src="https://player.vimeo.com/video/25588286"

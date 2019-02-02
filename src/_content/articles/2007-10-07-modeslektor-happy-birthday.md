@@ -8,7 +8,6 @@ tags:
 - Modeselektor
 - Musique
 status: publish
-type: post
 published: true
 meta:
   _wp_old_slug: modeslektor-happy-birtday

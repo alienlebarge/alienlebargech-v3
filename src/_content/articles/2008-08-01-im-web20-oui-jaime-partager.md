@@ -13,7 +13,6 @@ tags:
 - Web
 - Web2.0
 status: publish
-type: post
 published: true
 meta:
   _edit_last: '1'

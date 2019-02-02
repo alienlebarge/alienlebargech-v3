@@ -7,7 +7,6 @@ tags:
 - SMS
 - Téléphonie
 status: publish
-type: post
 published: true
 meta:
   _edit_last: '1'

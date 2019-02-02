@@ -10,7 +10,6 @@ tags:
 - Photographie
 - Piscine
 status: publish
-type: post
 published: true
 meta:
   layout: default

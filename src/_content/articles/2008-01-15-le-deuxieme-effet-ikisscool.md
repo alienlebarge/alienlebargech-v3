@@ -6,7 +6,6 @@ tags:
 - iPod
 - iPod Touch
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234523312'

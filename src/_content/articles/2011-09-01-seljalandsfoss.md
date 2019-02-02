@@ -11,7 +11,6 @@ tags:
 - Seljalandsfoss
 - Voyage
 status: publish
-type: post
 published: true
 meta:
   layout: default

@@ -8,7 +8,6 @@ tags:
 - Gorges
 - Photographie
 status: publish
-type: post
 published: true
 meta:
   aktt_notify_twitter: 'no'

@@ -6,7 +6,6 @@ tags:
 - Buzz
 - Politique
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234596063'

@@ -10,7 +10,6 @@ tags:
 - Orbe
 - Photographie
 status: publish
-type: post
 published: true
 meta:
   lightbox_link: https://dlgjp9x71cipk.cloudfront.net/2011/11/6216838082_47d1d8cc36_b.jpg

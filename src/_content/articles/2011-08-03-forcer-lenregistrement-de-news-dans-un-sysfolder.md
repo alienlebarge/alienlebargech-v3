@@ -7,7 +7,6 @@ tags:
 - tt_news
 - Typo3
 status: publish
-type: post
 published: true
 meta:
   _edit_last: '1'

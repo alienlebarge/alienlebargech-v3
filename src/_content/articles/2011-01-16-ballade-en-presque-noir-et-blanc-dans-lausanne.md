@@ -13,7 +13,6 @@ tags:
 - Rue
 - Street
 status: publish
-type: post
 published: true
 meta:
   _edit_last: '1'

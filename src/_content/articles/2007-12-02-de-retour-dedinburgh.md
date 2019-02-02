@@ -9,7 +9,6 @@ tags:
 - Flickr
 - Voyage
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234592641'

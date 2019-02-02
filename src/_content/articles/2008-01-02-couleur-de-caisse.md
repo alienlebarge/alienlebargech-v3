@@ -6,7 +6,6 @@ tags:
 - Couleur
 - Voiture
 status: publish
-type: post
 published: true
 meta:
   tmac_last_id: ''

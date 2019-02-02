@@ -12,7 +12,6 @@ tags:
 - Photographie
 - USY Yverdon
 status: publish
-type: post
 published: true
 meta:
   hide_post_date: default

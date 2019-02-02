@@ -12,7 +12,6 @@ tags:
 - Gymnastique
 - Photographie
 status: publish
-type: post
 published: true
 meta:
   ratings_users: '0'

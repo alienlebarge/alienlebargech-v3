@@ -6,7 +6,6 @@ tags:
 - La Maison Tellier
 - Musique
 status: publish
-type: post
 published: true
 meta:
   video_url: https://youtu.be/Xwcc5OnKng4

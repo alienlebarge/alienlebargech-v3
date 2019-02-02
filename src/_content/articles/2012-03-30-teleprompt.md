@@ -4,7 +4,6 @@ categories:
 - Vidéo
 tags: []
 status: publish
-type: post
 published: true
 meta:
   layout: default

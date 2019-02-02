@@ -6,7 +6,6 @@ tags:
 - Internet
 - Téléphonie
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1233978902'

@@ -9,7 +9,6 @@ tags:
 - Randonnée
 - Vallée de Joux
 status: publish
-type: post
 published: true
 coordinates: 6.322417,46.66906
 ---

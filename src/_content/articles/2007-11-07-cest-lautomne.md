@@ -7,7 +7,6 @@ tags:
 - Flickr
 - Photographie
 status: publish
-type: post
 published: true
 meta:
   _wp_old_slug: cest-lautomne-2

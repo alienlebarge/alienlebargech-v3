@@ -9,7 +9,6 @@ tags:
 - Infomaniak
 - Typo3
 status: publish
-type: post
 published: true
 meta:
   _edit_last: '1'

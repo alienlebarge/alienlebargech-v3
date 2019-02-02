@@ -16,7 +16,6 @@ tags:
 - Typo3
 - URL
 status: publish
-type: post
 published: true
 meta:
   _edit_last: '1'

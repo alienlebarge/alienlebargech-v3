@@ -10,7 +10,6 @@ tags:
 - Plaxo
 - Synchronisation
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234594849'

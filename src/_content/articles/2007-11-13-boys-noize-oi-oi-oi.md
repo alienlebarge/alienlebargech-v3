@@ -6,7 +6,6 @@ tags:
 - Boys Noize
 - Musique
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1233952007'

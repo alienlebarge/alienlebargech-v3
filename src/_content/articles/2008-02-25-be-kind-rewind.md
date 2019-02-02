@@ -5,7 +5,6 @@ categories:
 tags:
 - Cinéma
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234595823'

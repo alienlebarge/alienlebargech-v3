@@ -5,7 +5,6 @@ categories:
 - Non classé
 tags: []
 status: publish
-type: post
 published: true
 meta:
   tmac_last_id: '256453582939889664'

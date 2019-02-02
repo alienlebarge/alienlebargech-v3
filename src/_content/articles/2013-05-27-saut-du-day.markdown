@@ -12,7 +12,6 @@ tags:
 - Saut du Day
 - Vallorbe
 status: publish
-type: post
 published: true
 coordinates: 6.407948,46.718826
 markers:

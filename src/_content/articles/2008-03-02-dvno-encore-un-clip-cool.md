@@ -7,7 +7,6 @@ tags:
 - Justice
 - Musique
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234429277'

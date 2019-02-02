@@ -6,7 +6,6 @@ tags:
 - Coralie Clément
 - Musique
 status: publish
-type: post
 published: true
 meta:
   hide_post_date: default

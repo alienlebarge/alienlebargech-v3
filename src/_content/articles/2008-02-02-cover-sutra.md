@@ -6,7 +6,6 @@ tags:
 - Logiciel
 - Musique
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234329272'

@@ -6,7 +6,6 @@ categories:
 tags:
 - Armée
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234178647'

@@ -7,7 +7,6 @@ tags:
 - Musique
 - Podcast
 status: publish
-type: post
 published: true
 meta:
   enclosure: "https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_007.mp3\r\n14474157\r\naudio/mpeg"

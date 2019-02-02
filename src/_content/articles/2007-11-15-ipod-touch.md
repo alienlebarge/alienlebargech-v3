@@ -8,7 +8,6 @@ tags:
 - iPod Touch
 - Musique
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234355836'

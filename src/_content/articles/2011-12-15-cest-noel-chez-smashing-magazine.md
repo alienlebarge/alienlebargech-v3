@@ -12,7 +12,6 @@ tags:
 - Ressource
 - Smashing Magazine
 status: publish
-type: post
 published: true
 meta:
   _edit_last: '1'

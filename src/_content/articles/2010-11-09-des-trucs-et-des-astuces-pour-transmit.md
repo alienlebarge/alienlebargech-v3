@@ -11,7 +11,6 @@ tags:
 - Transmit
 - Trucs
 status: publish
-type: post
 published: true
 meta:
   ratings_average: '0'

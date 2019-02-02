@@ -12,7 +12,6 @@ tags:
 - PSG Lyss
 - Sport
 status: publish
-type: post
 published: true
 meta:
   lightbox_link: ''

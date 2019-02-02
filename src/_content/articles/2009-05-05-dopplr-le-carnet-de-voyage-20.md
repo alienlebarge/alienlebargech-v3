@@ -9,7 +9,6 @@ tags:
 - Web
 - Web2.0
 status: publish
-type: post
 published: true
 meta:
   aktt_notify_twitter: 'no'

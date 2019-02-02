@@ -3,7 +3,6 @@ title: Google fait le buzz
 categories: []
 tags: []
 status: draft
-type: post
 published: false
 meta:
   _edit_last: '1'

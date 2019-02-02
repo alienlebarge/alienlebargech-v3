@@ -9,7 +9,6 @@ tags:
 - Infomaniak
 - Typo3
 status: publish
-type: post
 published: true
 meta:
   _wp_old_slug: typo3-chez-infomaniak-2

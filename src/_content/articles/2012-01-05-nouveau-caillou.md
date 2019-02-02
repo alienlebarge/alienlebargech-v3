@@ -9,7 +9,6 @@ tags:
 - Objectif
 - Photographie
 status: publish
-type: post
 published: true
 meta:
   _thumbnail_id: '4818'

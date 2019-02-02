@@ -7,7 +7,6 @@ tags:
 - Football
 - Humour
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234597894'

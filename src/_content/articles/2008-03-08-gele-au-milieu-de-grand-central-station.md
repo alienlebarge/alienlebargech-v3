@@ -5,7 +5,6 @@ categories:
 tags:
 - Improvisation
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234226254'

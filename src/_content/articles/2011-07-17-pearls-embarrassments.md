@@ -7,7 +7,6 @@ tags:
 - Musique
 - Siriusmo
 status: publish
-type: post
 published: true
 meta:
   _oembed_d3d74e07d5c5d3685eabf5a22e302306: <object width="670" height="402"><param

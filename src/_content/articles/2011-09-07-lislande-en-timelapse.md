@@ -7,7 +7,6 @@ tags:
 - Timelapse
 - Vidéo
 status: publish
-type: post
 published: true
 meta:
   layout: default

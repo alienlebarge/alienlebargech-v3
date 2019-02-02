@@ -4,7 +4,6 @@ categories:
 - Technologie
 tags: []
 status: publish
-type: post
 published: true
 meta:
   _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Géoinformation";}i:1;O:8:"stdClass":1:{s:3:"tag";s:8:"Internet";}i:2;O:8:"stdClass":1:{s:3:"tag";s:11:"Technologie";}}

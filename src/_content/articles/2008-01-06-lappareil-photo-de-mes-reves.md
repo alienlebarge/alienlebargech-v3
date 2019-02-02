@@ -7,7 +7,6 @@ tags:
 - Leica
 - Photographie
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234233284'

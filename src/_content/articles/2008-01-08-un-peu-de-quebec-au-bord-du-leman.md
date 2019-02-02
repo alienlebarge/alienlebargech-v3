@@ -11,7 +11,6 @@ tags:
 - Québec
 - Tricot Machine
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234462038'

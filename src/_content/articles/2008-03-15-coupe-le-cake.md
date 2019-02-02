@@ -8,7 +8,6 @@ tags:
 - Iam
 - Musique
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234460334'

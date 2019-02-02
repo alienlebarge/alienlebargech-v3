@@ -5,7 +5,6 @@ categories:
 - Médias
 tags: []
 status: publish
-type: post
 published: true
 meta:
   _wp_old_slug: twitter-vs-pownce

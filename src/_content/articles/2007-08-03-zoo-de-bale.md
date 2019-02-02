@@ -6,7 +6,6 @@ categories:
 - Photographie
 tags: []
 status: publish
-type: post
 published: true
 meta:
   cocomment_trackall: ''

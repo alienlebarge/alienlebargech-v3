@@ -9,7 +9,6 @@ tags:
 - Musique
 - Warp Records
 status: publish
-type: post
 published: true
 meta:
   aktt_notify_twitter: 'no'

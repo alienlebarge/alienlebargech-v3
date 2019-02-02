@@ -7,7 +7,6 @@ tags:
 - Le site
 - Web
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234517156'

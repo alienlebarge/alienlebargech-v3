@@ -6,7 +6,6 @@ tags:
 - Humour
 - Vidéo
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234357427'

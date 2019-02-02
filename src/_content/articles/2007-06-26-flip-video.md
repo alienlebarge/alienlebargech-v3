@@ -7,7 +7,6 @@ tags:
 - Flip
 - Vidéo
 status: publish
-type: post
 published: true
 meta:
   _utw_tags_0: a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:4:"Geek";}i:1;O:8:"stdClass":1:{s:3:"tag";s:9:"Matériel";}i:2;O:8:"stdClass":1:{s:3:"tag";s:11:"Technologie";}i:3;O:8:"stdClass":1:{s:3:"tag";s:6:"Vidéo";}}

@@ -8,7 +8,6 @@ tags:
 - Live
 - Musique
 status: publish
-type: post
 published: true
 meta:
   tweetbackscheck: '1234194374'

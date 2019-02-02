@@ -8,7 +8,6 @@ tags:
 - DRC Music
 - Musique
 status: publish
-type: post
 published: true
 meta:
   soy_vid_url: https://youtu.be/a2nZ4zOJ_Ig

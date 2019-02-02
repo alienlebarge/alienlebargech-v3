@@ -8,7 +8,6 @@ tags:
 - Ninja Tune
 - Trip-Hop
 status: publish
-type: post
 published: true
 meta:
   _edit_last: '1'

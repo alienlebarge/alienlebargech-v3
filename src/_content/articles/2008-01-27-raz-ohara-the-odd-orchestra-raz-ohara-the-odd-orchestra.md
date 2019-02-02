@@ -7,7 +7,6 @@ tags:
 - Musique
 - Raz Ohara
 status: publish
-type: post
 published: true
 meta:
   enclosure: "https://dlgjp9x71cipk.cloudfront.net/2008/01/zimu.mp3\r\n3279219\r\naudio/mpeg"

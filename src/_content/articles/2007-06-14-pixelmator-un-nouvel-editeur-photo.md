@@ -4,7 +4,6 @@ categories:
 - Logiciel
 tags: []
 status: publish
-type: post
 published: true
 meta:
   _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"Informatique";}i:1;O:8:"stdClass":1:{s:3:"tag";s:8:"Logiciel";}i:2;O:8:"stdClass":1:{s:3:"tag";s:3:"Mac";}}

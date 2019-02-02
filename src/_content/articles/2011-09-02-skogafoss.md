@@ -12,7 +12,6 @@ tags:
 - Skógafoss
 - Voyage
 status: publish
-type: post
 published: true
 meta:
   hide_post_image: default

@@ -9,7 +9,6 @@ tags:
 - Digitapéro
 - Programmation
 status: publish
-type: post
 published: true
 meta:
   _utw_tags_0: a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"CakePHP";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"digit.apéro";}i:2;O:8:"stdClass":1:{s:3:"tag";s:13:"Programmation";}i:3;O:8:"stdClass":1:{s:3:"tag";s:6:"Projet";}i:4;O:8:"stdClass":1:{s:3:"tag";s:3:"SQL";}}

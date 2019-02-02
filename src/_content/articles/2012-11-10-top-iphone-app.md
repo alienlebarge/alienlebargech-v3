@@ -13,7 +13,6 @@ tags:
 - Taskpaper
 - Tweetbot
 status: publish
-type: post
 published: true
 meta:
   _wp_old_slug: top-iphone-app-2

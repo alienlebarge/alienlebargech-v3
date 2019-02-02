@@ -6,7 +6,6 @@ tags:
 - Emploi
 - Personnel
 status: publish
-type: post
 published: true
 meta:
   enclosure: "https://dlgjp9x71cipk.cloudfront.net/2008/02/musiquedepart.mp3\r\n1343584\r\naudio/mpeg\r\n"

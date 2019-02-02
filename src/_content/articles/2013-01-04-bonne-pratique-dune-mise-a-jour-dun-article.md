@@ -13,7 +13,6 @@ tags:
 - Mise à jour
 - Update
 status: publish
-type: post
 published: true
 meta:
   _wpas_done_all: '1'

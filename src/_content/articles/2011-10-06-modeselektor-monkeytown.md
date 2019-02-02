@@ -8,7 +8,6 @@ tags:
 - Monkeytown
 - Musique
 status: publish
-type: post
 published: true
 meta:
   soy_post_style: Normal

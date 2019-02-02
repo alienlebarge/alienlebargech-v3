@@ -10,7 +10,6 @@ tags:
 - Loeche
 - Randonnée
 status: publish
-type: post
 published: true
 coordinates: 7.638888,46.385995
 ---

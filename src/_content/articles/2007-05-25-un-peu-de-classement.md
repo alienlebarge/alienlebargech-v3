@@ -4,7 +4,6 @@ categories:
 - Personnel
 tags: []
 status: publish
-type: post
 published: true
 meta:
   _utw_tags_0: a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Cinema";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"Jeux";}i:2;O:8:"stdClass":1:{s:3:"tag";s:5:"Livre";}i:3;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}i:4;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}}

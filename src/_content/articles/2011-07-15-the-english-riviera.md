@@ -7,7 +7,6 @@ tags:
 - Metronomy
 - Musique
 status: publish
-type: post
 published: true
 meta:
   _oembed_ecfd90f93a5492e6611e6a4e530d967e: <object width="670" height="402"><param

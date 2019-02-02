@@ -6,7 +6,6 @@ categories:
 - Photographie
 tags: []
 status: publish
-type: post
 published: true
 meta:
   tmac_last_id: '256453585695555584'
