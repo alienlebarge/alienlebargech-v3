@@ -10,4 +10,4 @@ permalink: notes/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber
 {{ list.listItems(pagination.items) }}
 
 {% import 'pagination.njk' as transverse %}
-{{ transverse.paginate(pagination, label='Bookmarks') }}
+{{ transverse.paginate(pagination, label='Notes') }}
