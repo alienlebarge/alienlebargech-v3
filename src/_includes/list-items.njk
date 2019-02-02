@@ -1,31 +1,5 @@
 {% macro listItems(items) %}
-<ul>
-    {%- for item in items -%}
-    <li>
-        <article>
-            {%- if item.data.title -%}
-            <header>
-                <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
-            </header>
-            {%- endif -%}
-
-            {%- if item.data.image -%}
-            <figure>
-                <img src="{{ item.data.image }}">
-            </figure>
-            {%- endif -%}
-
-            {%- if item.data.summary -%}
-            <p>{{ item.data.summary }}</p>
-            {%- endif -%}
-
-            {%- if item.data.date -%}
-            <footer>
-                <p><time datetime="{{ item.data.date | date }}">{{ item.data.date | date("DD MMMM YYYY") }}</time></p>
-            </footer>
-            {%- endif -%}
-        </article>
-    </li>
-    {%- endfor -%}
-</ul>
+{%- for item in items -%}
+{%- include 'item/' + item.data.type + '.njk' -%}
+{%- endfor -%}
 {% endmacro %}
