@@ -1,5 +1,10 @@
 <footer>
-    <a href="{{ item.url | url }}">
-        <time datetime="{{ item.data.date | date }}">{{ item.data.date | date("DD MMMM YYYY, HH:mm") }}</time>
-    </a>
+    <dl>
+        <dt class="u-visually-hidden">Published on</dt>
+        <dd>
+        <a href="{{ item.url | url }}">
+            <time datetime="{{ item.data.date | date }}">{{ item.data.date | date("DD MMMM YYYY, HH:mm") }}</time>
+        </a>
+        </dd>
+    </dl>
 </footer>
