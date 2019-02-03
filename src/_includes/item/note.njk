@@ -3,12 +3,6 @@
         {{ item.templateContent | safe }}
     </div>
     {%- if item.data.date -%}
-    <footer>
-        <p>
-        <a href="{{ item.url | url }}">
-            <time datetime="{{ item.data.date | date }}">{{ item.data.date | date("DD MMMM YYYY, HH:mm") }}</time>
-        </a>
-        </p>
-    </footer>
+    {%-include 'footer.njk' -%}
     {%- endif -%}
 </article>
