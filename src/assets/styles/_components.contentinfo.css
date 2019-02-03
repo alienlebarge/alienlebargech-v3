@@ -1,8 +1,8 @@
 /* ==========================================================================
-   #FOOTER
+   #CONTENTINFO
    ========================================================================== */
 
-.c-footer {
+.c-contentinfo {
     font-size: var(--font-size-reference);
     color: var(--color-neutral-dark);
 
