@@ -2,7 +2,7 @@
     <div class="o-prose">
         {{ item.templateContent | safe }}
     </div>
-    {%- if item.data.date -%}
+
     <footer>
         <p>
         <a href="{{ item.url | url }}">
@@ -10,5 +10,4 @@
         </a>
         </p>
     </footer>
-    {%- endif -%}
 </article>

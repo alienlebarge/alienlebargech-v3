@@ -1,0 +1,9 @@
+{% macro footer(item) %}
+<footer>
+    <p>
+    <a href="{{ item.url | url }}">
+        <time datetime="{{ item.data | date }}">{{ item.date | date("DD MMMM YYYY, HH:mm") }}</time>
+    </a>
+    </p>
+</footer>
+{% endmacro %}
