@@ -1,10 +1,13 @@
 {% macro footer(item) %}
 <footer>
-    <p>
-    <a href="{{ item.url | url }}">
-        {# TODO: use src/_data/dates.json to format the date. #}
-        <time datetime="{{ item.data | date }}">{{ item.date | date("D MMMM YYYY, HH:mm") }}</time>
-    </a>
-    </p>
+    <dl>
+        <dt>Published on</dt>
+        <dd>
+        <a href="{{ item.url | url }}">
+            {# TODO: use src/_data/dates.json to format the date. #}
+            <time datetime="{{ item.data | date }}">{{ item.date | date("D MMMM YYYY, HH:mm") }}</time>
+        </a>
+        </dd>
+    </dl>
 </footer>
 {% endmacro %}

@@ -2,12 +2,6 @@
     <div class="o-prose">
         {{ item.templateContent | safe }}
     </div>
-
-    <footer>
-        <p>
-        <a href="{{ item.url | url }}">
-            <time datetime="{{ item.data.date | date }}">{{ item.data.date | date("DD MMMM YYYY, HH:mm") }}</time>
-        </a>
-        </p>
-    </footer>
+    {% import 'footer.njk' as footer %}
+    {{ footer.footer(item) }}
 </article>
