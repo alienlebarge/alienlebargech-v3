@@ -1,0 +1,7 @@
+{
+  "iso": "YYYY-MM-DDTHH:mm:ssZ",
+  "date_short": "DD MMM YYYY",
+  "date_long": "D MMMM YYYY",
+  "datetime_full": "D MMMM YYYY, HH:mm",
+  "time": "HH:mm"
+}
