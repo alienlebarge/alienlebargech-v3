@@ -5,7 +5,7 @@ permalink: /styleguide/index.html
 hidden: true
 ---
 
-Le contenu de cette page concerne le scope `.0-prose`.
+This page present the style you will have in the `o-prose` object scope.
 
 ---
 
