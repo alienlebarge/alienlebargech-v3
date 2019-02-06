@@ -2,6 +2,7 @@
 title: Hi, I'm Cédric–
 summary: a swiss front end engineer based in Lausanne with a love for electronic music, mountains and playing soccer with friends.
 permalink: /index.html
+type: homepage
 ---
 
 Since 2004 I make website and help organizations to ship powerful products.
