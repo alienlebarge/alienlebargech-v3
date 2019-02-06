@@ -1,3 +1,4 @@
+{% set title %}Note: {{ item.date | date("DD MMMM YYYY, HH:mm") }}{% endset %}
 {% extends 'layouts/base.njk' %}
 {% block main %}
     {% include 'content.njk' %}
