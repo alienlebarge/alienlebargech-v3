@@ -17,7 +17,7 @@
     font-family: var(--font-family-lede, var(--font-family-display));
     line-height: var(--line-height-lede, var(--line-height-tight));
     color: var(--color-neutral-darker);
-    font-variation-settings: "wght" var(--font-weight-lede, 400);
+    font-variation-settings: "wght" var(--font-weight-lede, 450);
     hanging-punctuation: first;
 }
 
