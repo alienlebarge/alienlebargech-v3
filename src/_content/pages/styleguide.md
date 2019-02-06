@@ -5,6 +5,12 @@ permalink: /styleguide/index.html
 hidden: true
 ---
 
+Le contenu de cette page concerne le scope `.0-prose`.
+
+---
+
+## Typographie
+
 # Heading level 1
 
 Here's the style a basic `h1` will get.
@@ -28,6 +34,11 @@ Here's the style a basic `h5` will get.
 ###### Heading level 6
 
 Here's the style a basic `h1` will get.
+
+<p class="u-lede">The is lede the introductory section of a news story that is intended to entice the reader to read the full story.</p>
+<p class="u-body">The body text or body copy is the text forming the main content of a book, magazine, web page, or any other printed or digital work.</p>
+<p class="u-caption">A caption is  a title, short explanation, or description accompanying an illustration or a photograph.</p>
+<p class="u-reference">Reference is a relation between objects in which one object designates, or acts as a means by which to connect to or link to, another object.</p>
 
 ---
 
@@ -71,10 +82,6 @@ Here's the style a basic `h1` will get.
 </div>
 
 ---
-
-<div class="o-prose">
-
-Le contenu de cette page concerne le scope `.0-prose`.
 
 ## Second-level heading
 
@@ -324,4 +331,3 @@ If you use these elements, you must use every element. They should appear in thi
 *[HTML]: HyperText Markup Language
 *[BBC]: British Broadcasting Corportation
 *[Staffs.]: Staffordshire
-</div>

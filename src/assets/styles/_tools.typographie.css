@@ -48,6 +48,27 @@
     letter-spacing: .125em;
 }
 
+%body {
+  --flow-space: var(--line-height-body);
+  --line-height-body: var(--line-height-loose);
+  font-size: var(--font-size-body);
+  font-variant: oldstyle-nums;
+  hanging-punctuation: first;
+  hyphens: auto;
+  line-height: var(--line-height-body);
+  word-spacing: var(--word-spacing);
+}
+
+%reference {
+  --flow-space: calc(var(--line-height-reference) / 2);
+  --line-height-reference: var(--line-height-tight);
+  font-size: var(--font-size-reference);
+  font-variant: oldstyle-nums;
+  hanging-punctuation: first;
+  hyphens: auto;
+  line-height: var(--line-height-reference);
+  word-spacing: var(--word-spacing);
+}
 
 %caption {
   --flow-space: calc(var(--line-height-caption) / 3);
