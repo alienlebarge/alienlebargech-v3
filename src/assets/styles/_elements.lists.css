@@ -6,8 +6,8 @@
  * All lists
  */
 :--list {
-    margin-inline-start: var(--flow-inset, 0);
     list-style-position: inside;
+    margin-inline-start: var(--flow-inset, 0);
 }
 
 

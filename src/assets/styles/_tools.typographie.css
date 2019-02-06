@@ -49,33 +49,33 @@
 }
 
 %body {
-  --flow-space: var(--line-height-body);
-  --line-height-body: var(--line-height-loose);
-  font-size: var(--font-size-body);
-  font-variant: oldstyle-nums;
-  hanging-punctuation: first;
-  hyphens: auto;
-  line-height: var(--line-height-body);
-  word-spacing: var(--word-spacing);
+    --flow-space: var(--line-height-body);
+    --line-height-body: var(--line-height-loose);
+    font-size: var(--font-size-body);
+    font-variant: oldstyle-nums;
+    line-height: var(--line-height-body);
+    hanging-punctuation: first;
+    hyphens: auto;
+    word-spacing: var(--word-spacing);
 }
 
 %reference {
-  --flow-space: calc(var(--line-height-reference) / 2);
-  --line-height-reference: var(--line-height-tight);
-  font-size: var(--font-size-reference);
-  font-variant: oldstyle-nums;
-  hanging-punctuation: first;
-  hyphens: auto;
-  line-height: var(--line-height-reference);
-  word-spacing: var(--word-spacing);
+    --flow-space: calc(var(--line-height-reference) / 2);
+    --line-height-reference: var(--line-height-tight);
+    font-size: var(--font-size-reference);
+    font-variant: oldstyle-nums;
+    line-height: var(--line-height-reference);
+    hanging-punctuation: first;
+    hyphens: auto;
+    word-spacing: var(--word-spacing);
 }
 
 %caption {
-  --flow-space: calc(var(--line-height-caption) / 3);
-  --line-height-caption: var(--line-height-tight);
-  color: var(--color-neutral-dark);
-  font-size: var(--font-size-caption);
-  line-height: var(--line-height-caption);
+    --flow-space: calc(var(--line-height-caption) / 3);
+    --line-height-caption: var(--line-height-tight);
+    font-size: var(--font-size-caption);
+    line-height: var(--line-height-caption);
+    color: var(--color-neutral-dark);
 }
 
 /* -------------------------------------
