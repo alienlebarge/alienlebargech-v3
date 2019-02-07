@@ -19,6 +19,7 @@
     color: var(--color-neutral-darker);
     font-variation-settings: "wght" var(--font-weight-lede, 450);
     hanging-punctuation: first;
+    letter-spacing: 0.02em;
 }
 
 %heading {
