@@ -1,10 +1,13 @@
-<footer>
+{% macro footer(item) %}
+<footer class="c-footer">
     <dl>
         <dt class="u-visually-hidden">Published on</dt>
         <dd>
         <a href="{{ item.url | url }}">
-            <time datetime="{{ item.data.date | date }}">{{ item.data.date | date("DD MMMM YYYY, HH:mm") }}</time>
+            {# TODO: use src/_data/dates.json to format the date. #}
+            <time datetime="{{ item.data | date }}">{{ item.date | date("D MMMM YYYY, HH:mm") }}</time>
         </a>
         </dd>
     </dl>
 </footer>
+{% endmacro %}

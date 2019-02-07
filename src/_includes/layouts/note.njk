@@ -1,7 +1,7 @@
+{% set title %}Note: {{ item.date | date(dates.datetime_full) }}{% endset %}
 {% extends 'layouts/base.njk' %}
 {% block main %}
-    {% include 'header.njk' %}
-    <h1>coucou</h1>
     {% include 'content.njk' %}
-    {% include 'footer.njk' %}
+    {% import 'footer.njk' as footer %}
+    {{ footer.footer(page) }}
 {% endblock %}

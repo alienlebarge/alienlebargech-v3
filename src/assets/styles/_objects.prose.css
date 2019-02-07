@@ -6,10 +6,6 @@
  * Prose is a scope for linear text.
  */
 
-.o-prose {
-    --flow-inset: 1.5em;
-}
-
 .o-prose p {
     line-height: var(--line-height-loose);
     hyphenate-limit-chars: 6 3 2;
@@ -30,4 +26,12 @@
 .o-prose * + h3,
 .o-prose * + h4 {
     margin-block-start: var(--space-block-medium);
+}
+
+.o-prose :--list :--list {
+    --flow-inset: 1.5em;
+}
+
+.o-prose blockquote {
+    --flow-inset: 1.5em;
 }

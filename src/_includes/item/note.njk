@@ -2,5 +2,6 @@
     <div class="o-prose">
         {{ item.templateContent | safe }}
     </div>
-    {%- include 'footer.njk' -%}
+    {% import 'footer.njk' as footer %}
+    {{ footer.footer(item) }}
 </article>

@@ -16,7 +16,7 @@
 
         <link rel="stylesheet" href="{{ "/assets/styles/style.css" | url }}">
 
-        <title>{{ title }}</title>
+        <title>{% if type != "homepage" and title %}{{ title }} - {% endif %}{{ app.title }}</title>
     </head>
     <body class="c-page">
         {% include 'banner.njk' %}

@@ -6,13 +6,10 @@
  * All lists
  */
 :--list {
-    margin-left: 0;
     list-style-position: inside;
+    margin-inline-start: var(--flow-inset, 0);
 }
 
-:--list :--list {
-    margin-left: var(--space-block-small);
-}
 
 
 
@@ -24,9 +21,5 @@ dt {
 }
 
 dd {
-    margin-left: var(--space-block-small);
-}
-
-dd + dt {
-    margin-top: var(--space-block-xsmall);
+    margin-inline-start: var(--flow-inset, 0);
 }
