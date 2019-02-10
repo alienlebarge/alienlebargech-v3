@@ -1,6 +1,7 @@
 {% set title %}Note: {{ item.date | date(dates.datetime_full) }}{% endset %}
 {% extends 'layouts/base.njk' %}
 {% block main %}
+    {% include 'header.njk' %}
     {% include 'content.njk' %}
     {% import 'footer.njk' as footer %}
     {{ footer.footer(page) }}
