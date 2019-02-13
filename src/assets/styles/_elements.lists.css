@@ -17,9 +17,13 @@
  * Definition list
  */
 dt {
-    font-weight: 500;
+    font-weight: 800;
 }
 
 dd {
     margin-inline-start: var(--flow-inset, 0);
+}
+
+dd + dt {
+  margin-block-start: calc(var(--flow-space, 0) / 2);
 }
