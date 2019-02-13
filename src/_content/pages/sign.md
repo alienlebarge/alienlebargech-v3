@@ -1,5 +1,5 @@
 ---
-title: Signature
+title: Message signature
 permalink: /sign/index.html
 hidden: true
 ---
@@ -45,14 +45,33 @@ Utilisation
 
 ## English
 
-### Style
+Here is how I communicate and when can you expect an answer from me. {.u-lede}
 
-### Communication medium
+### Style {.u-visually-hidden}
+
+Responding to messages takes a lot of time, it can become problematic for people who receive a lot of them.
+My messages are treated as SMS text messages. They are short and direct. They are composed of a very small number of sentences.
+
+### Communication medium {.u-visually-hidden}
+
+Below are listed the means of communication that I use and the response time that you can expect.
+If a means of communication does not appear in the list, it is because I do not use it actively.
 
 #### E-mail
 
+Response time
+: within a week
+
 #### Text message
+
+Response time
+: within a week
 
 #### Phone
 
-#### Style
+Response time
+: immediate
+
+When to use
+: for urgent need
+
