@@ -1,33 +1,58 @@
 ---
 title: Signature
-summary: Comment je communique et quand attendre une réponse de ma part
 permalink: /sign/index.html
 hidden: true
 ---
 
-Ci dessous, les moyens de communication que j'utilise et le délais de réponse que vous pouvez espérez.
+[[toc]]
 
-Dans la liste ne figure que les moyens que je relève.
+<div lang="fr">
 
+## Français
 
-## Courriel
+Voici comment je communique et quand est-ce que vous pouvez attendre une réponse de ma part. {.u-lede}
+
+### Style {.u-visually-hidden}
+
+Répondre aux messages prend beaucoup de temps, cela peut devenir problématique pour les personnes qui en reçoivent beaucoup.
+Mes messages sont traités comme des messages text SMS. Ils sont courts et directs. Ils sont composés d'un nombre très restreint de phrases.
+
+### Moyen de communication {.u-visually-hidden}
+
+Ci-dessous sont listés les moyens de communication que j'utilise et le délai de réponse que vous pouvez espérez.
+Si un moyen de communication ne figure pas dans la liste, c'est que je ne l'utilise pas activement.
+
+#### Courriel
 
 Temps de réponse
 : dans la semaine
 
-## SMS
+#### SMS
 
 Temps de réponse
 : dans la semaine
-## Téléphone
+
+#### Téléphone
 
 Temps de réponse
 : direct
+
 Utilisation
 : pour les demandes urgentes
 
-## Style
 
-Répondre aux courriels prend beaucoup de temps, ce qui entraîne un débordement continu de la boîte de réception pour ceux qui en reçoivent beaucoup.
+</div>
 
-Mes messages sont traité comme des messages text SMS. Ils sont court et direct.  Comme il est trop difficile de compter les charactères, ils sont composé d'un nombre très restreint de phrases.
+## English
+
+### Style
+
+### Communication medium
+
+#### E-mail
+
+#### Text message
+
+#### Phone
+
+#### Style
