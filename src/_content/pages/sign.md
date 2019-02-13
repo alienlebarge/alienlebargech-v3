@@ -54,8 +54,8 @@ My messages are treated as SMS text messages. They are short and direct. They ar
 
 ### Communication medium {.u-visually-hidden}
 
-Below are listed the means of communication that I use and the response time that you can expect.
-If a means of communication does not appear in the list, it is because I do not use it actively.
+Below are listed the ways of communicate that I use and the response time that you can expect.
+If a medium does not appear in the list, it is because I do not use it actively.
 
 #### E-mail
 
