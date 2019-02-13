@@ -2,6 +2,22 @@
    #TYPOGRAPHIE
    ========================================================================== */
 
+.u-title {
+    @extend %title;
+}
+
+.u-heading {
+    @extend %heading;
+}
+
+.u-subhead {
+    @extend %subhead;
+}
+
+.u-overline {
+    @extend %overline;
+}
+
 .u-lede {
     @extend %lede;
 }

@@ -6,27 +6,31 @@
  * Sections - https://w3c.github.io/html/sections.html
  */
 
+
+/* -------------------------------------
+   #HTML
+   ------------------------------------- */
+
 /**
- * Simple page-level setup.
- *
- * 1. Set the default `font-size` and `line-height` for the entire project,
- *    sourced from our default variables.
- * 2. Force scrollbars to always be visible to prevent awkward ‘jumps’ when
+ * 1. Force scrollbars to always be visible to prevent awkward ‘jumps’ when
  *    navigating between pages that do/do not have enough content to produce
  *    scrollbars naturally.
- * 3. Ensure the page always fills at least the entire height of the viewport.
- * 5.  Prevent font size adjustment on orientation change in iOS.
+ * 2.  Prevent font size adjustment on orientation change in iOS.
  */
 
 html {
     block-size: 100vh;
-    overflow-y: scroll; /* [2] */
+    overflow-y: scroll; /* [1] */
     scroll-behavior: smooth;
     text-rendering: optimizeLegibility;
-    text-size-adjust: 100%; /* [5] */
+    text-size-adjust: 100%; /* [2] */
 }
 
 
+
+/* -------------------------------------
+   #SELECTION
+   ------------------------------------- */
 
 ::selection {
     background-color: var(--color-highlight);
@@ -34,14 +38,28 @@ html {
 
 
 
+/* -------------------------------------
+   #FOCUS
+   ------------------------------------- */
+
 :focus {
     outline-color: var(--color-focus);
 }
 
 
 
+/* -------------------------------------
+   #BODY
+   ------------------------------------- */
+
+/**
+ * 1. Set the default `font-size` and `line-height` for the entire project,
+ *    sourced from our default variables.
+ * 2. Ensure the page always fills at least the entire height of the viewport.
+ */
+
 body {
-    min-block-size: 100vh; /* [3] */
+    min-block-size: 100vh; /* [2] */
     font-size: var(--font-size-body); /* [1] */
     font-family: var(--font-family-serif);
     line-height: var(--line-height-tight); /* [1] */
@@ -50,4 +68,17 @@ body {
     background: var(--color-offset);
 
     @extend %type-feature-body;
+}
+
+
+
+/* -------------------------------------
+   #HEADINGS
+   ------------------------------------- */
+
+--heading {
+    break-after: avoid;
+    font-size: inherit;
+    font-weight: inherit;
+    margin: 0 0 var(--flow-space, 0) 0;
 }

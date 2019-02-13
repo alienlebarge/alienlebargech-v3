@@ -24,6 +24,20 @@
     max-inline-size: var(--line-measure);
 }
 
+.o-prose h2 {
+    @extend %heading;
+}
+
+.o-prose h3 {
+    @extend %subhead;
+}
+
+.o-prose h4,
+.o-prose h5,
+.o-prose h6 {
+    @extend %overline;
+}
+
 .o-prose * + h2 {
     margin-block-start: var(--space-block-large);
 }
