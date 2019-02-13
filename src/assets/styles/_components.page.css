@@ -11,6 +11,7 @@
 .c-page {
     display: flex;
     min-height: 100vh;
+    flex-direction: column;
 }
 
 .c-page__main {

@@ -1,6 +1,10 @@
 /* ==========================================================================
- * #PAGE
- * ========================================================================== */
+   #SECTIONS
+   ========================================================================== */
+
+/**
+ * Sections - https://w3c.github.io/html/sections.html
+ */
 
 /**
  * Simple page-level setup.
@@ -11,27 +15,39 @@
  *    navigating between pages that do/do not have enough content to produce
  *    scrollbars naturally.
  * 3. Ensure the page always fills at least the entire height of the viewport.
- * 4. Make the footer stick at the bottom. There's a margin-top: auto in the
- *    footer
+ * 5.  Prevent font size adjustment on orientation change in iOS.
  */
 
 html {
+    block-size: 100vh;
     overflow-y: scroll; /* [2] */
     scroll-behavior: smooth;
     text-rendering: optimizeLegibility;
-    text-size-adjust: 100%;
+    text-size-adjust: 100%; /* [5] */
 }
 
-body {
-    min-height: 100vh; /* [3] */
 
+
+::selection {
+    background-color: var(--color-highlight);
+}
+
+
+
+:focus {
+    outline-color: var(--color-focus);
+}
+
+
+
+body {
+    min-block-size: 100vh; /* [3] */
     font-size: var(--font-size-body); /* [1] */
     font-family: var(--font-family-serif);
     line-height: var(--line-height-tight); /* [1] */
     color: var(--color-text);
 
     background: var(--color-offset);
-    flex-direction: column; /* [4] */
 
     @extend %type-feature-body;
 }
