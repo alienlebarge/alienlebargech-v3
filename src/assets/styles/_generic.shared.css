@@ -27,6 +27,7 @@ ul,
 figure,
 hr,
 table,
-fieldset {
-    margin-bottom: var(--space-block-small);
+fieldset,
+legend {
+    margin-block-end: var(--flow-space, 0);
 }
