@@ -102,3 +102,14 @@ samp {
     padding: var(--inset-small-squished);
 }
 
+
+
+
+
+/* -------------------------------------
+   #MARK
+   ------------------------------------- */
+
+mark {
+    background-color: var(--color-highlight);
+}
