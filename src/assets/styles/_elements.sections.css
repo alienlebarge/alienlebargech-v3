@@ -82,5 +82,4 @@ body {
     break-after: avoid;
     font-size: inherit;
     font-weight: inherit;
-    margin: 0 0 var(--flow-space, 0) 0;
 }
