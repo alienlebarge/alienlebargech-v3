@@ -78,7 +78,7 @@ body {
    #HEADINGS
    ------------------------------------- */
 
---heading {
+:--heading {
     break-after: avoid;
     font-size: inherit;
     font-weight: inherit;
