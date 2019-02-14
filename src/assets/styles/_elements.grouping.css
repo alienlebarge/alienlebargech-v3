@@ -54,6 +54,6 @@ dd {
 }
 
 dd + dt {
-  margin-block-start: calc(var(--flow-space, 0) / 2);
+    margin-block-start: calc(var(--flow-space, 0) / 2);
 }
 

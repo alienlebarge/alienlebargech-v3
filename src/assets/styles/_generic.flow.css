@@ -42,6 +42,6 @@ legend {
    #HORIZONTAL FLOW
    ------------------------------------- */
 
-:-list {
+:--list {
     margin-line-start: var(--flow-inset, 0);
 }

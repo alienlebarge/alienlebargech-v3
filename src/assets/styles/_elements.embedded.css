@@ -21,11 +21,11 @@
  */
 
 img {
-    max-inline-size: 100%; /* [1] */
 
     font-style: italic; /* [2] */
-    vertical-align: middle; /* [3] */
     break-inside: avoid;
+    max-inline-size: 100%; /* [1] */
+    vertical-align: middle; /* [3] */
 }
 
 
@@ -51,7 +51,7 @@ img[height] {
 embed,
 object {
     display: block;
-    page-break-inside: avoid;
     block-size: auto;
     max-inline-size: 100%;
+    page-break-inside: avoid;
 }

@@ -54,20 +54,21 @@ a[aria-current] {
  */
 
 abbr {
-    font-variant-ligatures: common-ligatures, contextual; /* [1] */
-    font-variant-numeric: oldstyle-nums, proportional-nums; /* [1] */
-    font-variant-caps: all-small-caps; /* [1] */
-    font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum",
-        "smcp", "c2sc"; /* [1] */
     font-kerning: normal; /* [1] */
     text-transform: uppercase; /* [1] [2] */
+    font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum",
+        "smcp", "c2sc"; /* [1] */
+    font-variant-caps: all-small-caps; /* [1] */
+    font-variant-ligatures: common-ligatures, contextual; /* [1] */
+    font-variant-numeric: oldstyle-nums, proportional-nums; /* [1] */
 }
 
 @media (hover: none) {
+
     abbr::after {
-        content: " ("attr(title)")"; /* [3] */
         font-size: var(--font-size-reference); /* [3] */
         text-transform: none;
+        content: " ("attr(title)")"; /* [3] */
         font-variant-caps: initial;
     }
 }

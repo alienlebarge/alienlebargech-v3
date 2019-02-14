@@ -13,24 +13,24 @@ table {
 }
 
 tr {
-  break-inside: avoid;
+    break-inside: avoid;
 }
 
 td,
 th {
-  text-align: start;
-  vertical-align: top;
+    text-align: start;
+    vertical-align: top;
 }
 
 thead th {
-  font-weight: 800;
+    font-weight: 800;
 }
 
 tbody th {
-  font-weight: normal;
+    font-weight: normal;
 }
 
 caption {
-  caption-side: bottom;
-  text-align: start;
+    text-align: start;
+    caption-side: bottom;
 }

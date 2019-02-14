@@ -17,9 +17,9 @@
     font-family: var(--font-family-lede, var(--font-family-display));
     line-height: var(--line-height-lede, var(--line-height-tight));
     color: var(--color-neutral-darker);
+    letter-spacing: .02em;
     font-variation-settings: "wght" var(--font-weight-lede, 450);
     hanging-punctuation: first;
-    letter-spacing: 0.02em;
 }
 
 %heading {

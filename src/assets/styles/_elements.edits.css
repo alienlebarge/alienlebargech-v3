@@ -13,7 +13,7 @@
    ------------------------------------- */
 
 del {
-  background-color: var(--color-delete);
+    background-color: var(--color-delete);
 }
 
 
@@ -25,5 +25,5 @@ del {
    ------------------------------------- */
 
 ins {
-  background-color: var(--color-insert);
+    background-color: var(--color-insert);
 }

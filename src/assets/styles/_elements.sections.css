@@ -61,13 +61,13 @@ html {
  */
 
 body {
-    min-block-size: 100vh; /* [2] */
     font-size: var(--font-size-body); /* [1] */
     font-family: var(--font-family-serif);
     line-height: var(--line-height-tight); /* [1] */
     color: var(--color-text);
 
     background: var(--color-offset);
+    min-block-size: 100vh; /* [2] */
 
     @extend %type-feature-body;
 }
@@ -79,7 +79,7 @@ body {
    ------------------------------------- */
 
 :--heading {
-    break-after: avoid;
     font-size: inherit;
     font-weight: inherit;
+    break-after: avoid;
 }
