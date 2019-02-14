@@ -21,7 +21,7 @@
  */
 
 img {
-    max-inline-size:: 100%; /* [1] */
+    max-inline-size: 100%; /* [1] */
 
     font-style: italic; /* [2] */
     vertical-align: middle; /* [3] */
