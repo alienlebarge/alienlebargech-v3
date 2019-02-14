@@ -1,5 +1,5 @@
 /* ==========================================================================
- * #TABLES
+ * #TABULAR-DATA
  * ========================================================================== */
 
 /**
@@ -10,4 +10,27 @@ table {
     width: 100%; /* [1] */
 
     @extend %type-features-data;
+}
+
+tr {
+  break-inside: avoid;
+}
+
+td,
+th {
+  text-align: start;
+  vertical-align: top;
+}
+
+thead th {
+  font-weight: 800;
+}
+
+tbody th {
+  font-weight: normal;
+}
+
+caption {
+  caption-side: bottom;
+  text-align: start;
 }
