@@ -1,0 +1,104 @@
+/* ==========================================================================
+   #TEXT
+   ========================================================================== */
+
+/**
+ * Text-level sementics
+ *
+ * https://w3c.github.io/html/textlevel-semantics.html
+ */
+
+/* ==========================================================================
+   #A
+   ========================================================================== */
+
+a {
+    color: var(--anchor-color, inherit);
+    text-decoration: var(--anchor-decoration, none);
+    text-decoration-skip-ink: auto;
+}
+
+a:hover {
+    color: var(--color-accent);
+    text-decoration-color: var(--color-accent);
+}
+
+/**
+ * Instead of using a `class="is-current"`, there is an accessible way of doing
+ * it.
+ * https://tink.uk/using-the-aria-current-attribute/
+ */
+
+a[aria-current] {
+    font-weight: 800;
+}
+
+
+
+
+
+/* -------------------------------------
+   #ABBR
+   ------------------------------------- */
+
+/**
+ * Better abbr
+ *
+ * 1. Make <abbr> more readable.
+ *    see https://practice.typekit.com/lesson/caring-about-opentype-features/
+ * 2. Safari iOs doesn't support font-feature so we use text-transform to
+ *    make the texte uppercase. http://caniuse.com/#search=font-feature
+ * 3. Display title attribute value if the device's primary input does not
+ *    have hover
+ * 4. Do not show title in small-caps
+ */
+
+abbr {
+    font-variant-ligatures: common-ligatures, contextual; /* [1] */
+    font-variant-numeric: oldstyle-nums, proportional-nums; /* [1] */
+    font-variant-caps: all-small-caps; /* [1] */
+    font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum",
+        "smcp", "c2sc"; /* [1] */
+    font-kerning: normal; /* [1] */
+    text-transform: uppercase; /* [1] [2] */
+}
+
+@media (hover: none) {
+    abbr::after {
+        content: " ("attr(title)")"; /* [3] */
+        font-size: var(--font-size-reference); /* [3] */
+        text-transform: none;
+        font-variant-caps: initial;
+    }
+}
+
+
+
+
+
+/* -------------------------------------
+   #CODE
+   ------------------------------------- */
+
+code,
+samp,
+var {
+    font-family: var(--font-family-monospace);
+    hanging-punctuation: none;
+}
+
+code,
+samp {
+    font-size: var(--font-size-default);
+}
+
+:not(pre) > code {
+    background-color: var(--color-offset);
+    padding: var(--inset-small-squished);
+}
+
+samp {
+    border: var(--border-width-thin) solid var(--color-offset);
+    padding: var(--inset-small-squished);
+}
+
