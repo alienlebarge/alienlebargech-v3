@@ -7,7 +7,7 @@
  */
 
 .o-prose {
-    --flow-space: 1.5em;
+    --flow-space: var(--space-block-medium);
     --flow-inset: 1.5em;
 }
 
@@ -26,16 +26,22 @@
 
 .o-prose h2 {
     @extend %heading;
+
+    margin-block-end: var(--space-block-small);
 }
 
 .o-prose h3 {
     @extend %subhead;
+
+    margin-block-end: var(--space-block-xsmall);
 }
 
 .o-prose h4,
 .o-prose h5,
 .o-prose h6 {
     @extend %overline;
+
+    margin-block-end: 0;
 }
 
 .o-prose * + h2 {
