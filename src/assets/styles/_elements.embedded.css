@@ -1,0 +1,57 @@
+/* ==========================================================================
+   #EMBEDED
+   ========================================================================== */
+
+/**
+ * Embedded content
+ *
+ * https://w3c.github.io/html/semantics-embedded-content.html
+ */
+
+/* -------------------------------------
+   #IMG
+   ------------------------------------- */
+
+/**
+ * 1. Fluid images for responsive purposes.
+ * 2. Offset `alt` text from surrounding copy.
+ * 3. Setting `vertical-align` removes the whitespace that appears under `img`
+ *    elements when they are dropped into a page as-is. Safer alternative to
+ *    using `display: block;`.
+ */
+
+img {
+    max-inline-size:: 100%; /* [1] */
+
+    font-style: italic; /* [2] */
+    vertical-align: middle; /* [3] */
+    break-inside: avoid;
+}
+
+
+
+/**
+  * If a `width` and/or `height` attribute has been explicitly defined, let’s
+  * not make the image fluid.
+  */
+
+img[width],
+img[height] {
+    max-inline-size: none;
+}
+
+
+
+
+
+/* -------------------------------------
+   #EMBED & #OBJECT
+   ------------------------------------- */
+
+embed,
+object {
+    display: block;
+    page-break-inside: avoid;
+    block-size: auto;
+    max-inline-size: 100%;
+}
