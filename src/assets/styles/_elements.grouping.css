@@ -1,0 +1,59 @@
+/* ==========================================================================
+   #GROUPING
+   ========================================================================== */
+
+/**
+ * Grouping content
+ *
+ * https://w3c.github.io/html/grouping-content.html
+ */
+
+/* -------------------------------------
+   #PRE
+   ------------------------------------- */
+
+pre {
+    display: block;
+
+    background-color: var(--color-offset);
+    padding: var(--inset);
+    overflow-x: scroll;
+}
+
+
+
+
+
+/* -------------------------------------
+   #BLOCKQUOTE
+   ------------------------------------- */
+
+blockquote {
+    border-inline-start: var(--border-width-thickest) solid var(--color-rule);
+    padding-inline-start: var(--flow-inset);
+}
+
+
+
+
+
+/* -------------------------------------
+   #LISTS
+   ------------------------------------- */
+
+li {
+    display: var(--list-display, block);
+}
+
+dt {
+    font-weight: 800;
+}
+
+dd {
+    margin-inline-start: var(--flow-inset, 0);
+}
+
+dd + dt {
+  margin-block-start: calc(var(--flow-space, 0) / 2);
+}
+

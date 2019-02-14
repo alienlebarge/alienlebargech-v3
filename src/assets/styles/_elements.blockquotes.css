@@ -1,8 +1,0 @@
-/* ==========================================================================
-   #BLOCKQUOTES
-   ========================================================================== */
-
-blockquote {
-    border-inline-start: var(--border-width-thickest) solid var(--color-rule);
-    padding-inline-start: var(--flow-inset);
-}
