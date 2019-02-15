@@ -327,6 +327,17 @@ If you use these elements, you must use every element. They should appear in thi
 | Vanilla              | 1 tbsp     | 2 tbsp    |
 | Light Cream          | 1 quart    | 2 quart   |
 
+## Interactive elements
+
+### Details and summaries
+
+The `details` element creates a disclosure widget in which information is visible only when the widget is toggled into an "open" state. A summary or label can be provided using the `<summary>` element.
+
+<details>
+    <summary>Details</summary>
+    Something small enough to escape casual notice.
+</details>
+
 *[ASCII]: American Standard Code for Information Interchange
 *[HTML]: HyperText Markup Language
 *[BBC]: British Broadcasting Corportation

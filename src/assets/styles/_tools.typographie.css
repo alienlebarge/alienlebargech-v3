@@ -123,3 +123,19 @@
     font-variant-ligatures: common-ligatures contextual;
     font-variant-position: sub;
 }
+
+
+
+
+/* -------------------------------------
+   #VISUAL EFFECTS
+   ------------------------------------- */
+
+%text-decoration {
+    text-decoration-color: var(--color-link-underline);
+}
+
+%text-decoration:hover {
+    color: var(--color-accent);
+    text-decoration-color: var(--color-accent);
+}
