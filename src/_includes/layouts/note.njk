@@ -1,4 +1,5 @@
 {% set title %}Note: {{ item.date | date(dates.datetime_full) }}{% endset %}
+{% set type = type %}
 {% extends 'layouts/base.njk' %}
 {% block main %}
     {% include 'header.njk' %}

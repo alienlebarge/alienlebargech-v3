@@ -22,7 +22,8 @@
     </head>
     <body class="c-page">
         {% include 'banner.njk' %}
-        <main class="c-main c-page__main">
+        <main class="c-main c-page__main"
+              {% if type %}data-type="{{ type }}"{% endif %}>
             <div class="o-container">
                 {% block main %}
                     {{ layoutContent | safe }}
