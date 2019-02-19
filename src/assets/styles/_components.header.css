@@ -2,6 +2,10 @@
    #HEADER
    ========================================================================== */
 
+[data-type="note"] .c-header {
+    @extend %visually-hidden;
+}
+
 .c-header {
     margin-block-end: var(--space-block-large);
 }
