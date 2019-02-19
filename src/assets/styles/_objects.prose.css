@@ -10,6 +10,7 @@
     --flow-space: var(--space-block-medium);
     --flow-inset: 1.5em;
     font-size: var(--font-size-body);
+    font-weight: var(--font-weight-body, inherit);
 }
 
 
