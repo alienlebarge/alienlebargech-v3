@@ -9,7 +9,9 @@
 .o-prose {
     --flow-space: var(--space-block-medium);
     --flow-inset: 1.5em;
+    font-size: var(--font-size-body);
 }
+
 
 .o-prose p {
     line-height: var(--line-height-loose);
