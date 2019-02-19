@@ -23,10 +23,10 @@ permalink: feed.xml
             <id>{{ app.url }}{{ item.url }}</id>
             <title>{{ item.data.title }}</title>
             <updated>{{ item.data.date | date(dates.iso) }}</updated>
+            <content type="html">
+                {{ item.templateContent }}
+            </content>
         </entry>
-        <content type="html">
-            {{ item.templateContent }}
-        </content>
     {% endif %}
     {%- endfor %}
 </feed>
