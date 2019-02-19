@@ -11,5 +11,5 @@
  */
 
 * + .c-footer {
-    margin-block-start: var(--space-block-xsmall);
+    margin-block-start: var(--space-block-small);
 }
