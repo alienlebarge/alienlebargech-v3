@@ -1,0 +1,15 @@
+/* ==========================================================================
+   #FOOTER
+   ========================================================================== */
+
+.c-footer {
+    @extend %caption;
+}
+
+/**
+ * Add margin if there's something before
+ */
+
+* + .c-footer {
+    margin-block-start: var(--space-block-xsmall);
+}

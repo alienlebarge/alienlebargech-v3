@@ -1,0 +1,17 @@
+/* ==========================================================================
+   #ITEM
+   ========================================================================== */
+
+.c-item {
+    padding-block-end: var(--flow-space);
+}
+
+/**
+ * Add line only if there's something after
+ */
+.c-item + * {
+    border-bottom-color: var(--color-alpha-highest);
+    border-bottom-style: solid;
+    border-bottom-width: var(--border-width-thin);
+    margin-block-end: var(--flow-space);
+}
