@@ -1,0 +1,32 @@
+---
+permalink: feed.xml
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>{{ app.url }}{{ page.url }}</id>
+    <title>{{ app.title }}</title>
+    <subtitle>{{ app.description }}</subtitle>
+    <updated>{{ date | date(dates.iso) }}</updated>
+    <author>
+        <name>{{ app.author.name }}</name>
+        <email>{{ app.author.email }}</email>
+        <uri>{{ app.author.url }}</uri>
+    </author>
+    <link rel="self" href="{{ app.url }}{{ page.url }}" type="application/atom+xml"/>
+    <link rel="alternate" href="{{ app.url }}" type="text/html"/>
+    <link rel="hub" href="http://pubsubhubbub.superfeedr.com/"/>
+    <icon>{{ app.url }}{{ app.icon }}</icon>
+    <rights>&#169; {{ date | date("YYYY") }} {{ app.author.name }}. Content Creative Commons licensed unless otherwise stated.</rights>
+    {%- for item in collections.post %}
+    {% if loop.index < 25 %}
+        <entry>
+            <id>{{ app.url }}{{ item.url }}</id>
+            <title>{{ item.data.title }}</title>
+            <updated>{{ item.data.date | date(dates.iso) }}</updated>
+        </entry>
+        <content type="html">
+            {{ item.templateContent }}
+        </content>
+    {% endif %}
+    {%- endfor %}
+</feed>
