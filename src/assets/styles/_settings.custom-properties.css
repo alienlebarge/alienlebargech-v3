@@ -45,6 +45,7 @@
     --font-size-reference: calc(.875rem + .25vmin);
     --font-size-caption: calc(.85rem + .125vmin);
     --font-size-default: 1rem;
+    --font-weight-lede: 500;
     --line-height-solid: 1em;
     --line-height-tight: calc(1.25em + .25vw);
     --line-height-loose: calc(1.4em + .25vw);
