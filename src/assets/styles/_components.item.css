@@ -3,15 +3,15 @@
    ========================================================================== */
 
 .c-item {
-    padding-block-end: var(--flow-space);
+    padding-block-start: var(--space-block-xsmall);
 }
 
 /**
  * Add line only if there's something after
  */
-.c-item + * {
-    border-bottom-color: var(--color-alpha-highest);
-    border-bottom-style: solid;
-    border-bottom-width: var(--border-width-thin);
-    margin-block-end: var(--flow-space);
+* + .c-item {
+    border-top-color: var(--color-alpha-highest);
+    border-top-style: solid;
+    border-top-width: var(--border-width-thin);
+    margin-block-end: var(--space-block-large);
 }
