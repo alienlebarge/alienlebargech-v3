@@ -1,7 +1,7 @@
 {
   "title": "",
   "layout": "layouts/note.njk",
-  "permalink": "notes/{{ page.date | date: '%Y-%m-%d-%H-%M-%S' }}.html",
+  "permalink": "notes/{{ page.fileSlug }}.html",
   "tags": ["post", "note"],
   "type": "note"
 }
