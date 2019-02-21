@@ -18,7 +18,7 @@ permalink: /feed.json
         {%- for item in collections.post -%}
         {
             "id": "{{ app.url }}{{ item.url }}",
-            "content_text": {{- item.templateContent | dump | safe -}},
+            "content_html": {{- item.templateContent | dump | safe -}},
             "url": "{{ app.url }}{{ item.url }}",
             "date_published": "{{ item.data.date | date(dates.iso) }}"
         }
