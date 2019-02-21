@@ -9,3 +9,8 @@
     background-color: var(--color-neutral-lightest);
     padding-block: var(--space-block-small);
 }
+
+.c-contentinfo svg {
+    height: var(--font-size-body);
+    width: var(--font-size-body);
+}
