@@ -3,6 +3,8 @@
    ========================================================================== */
 
 .c-item {
+    @extend %reference;
+
     padding-block-start: var(--space-block-xsmall);
 }
 

@@ -1,7 +1,5 @@
-<article class="c-item c-item--inline" style="--flow-space: 1.5em;">
-    <div class="o-prose">
+<article class="c-item c-item--inline">
         {{ item.templateContent | safe }}
-    </div>
     {% import 'footer.njk' as footer %}
     {{ footer.footer(item) }}
 </article>
