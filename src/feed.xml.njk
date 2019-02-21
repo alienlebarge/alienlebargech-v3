@@ -21,7 +21,7 @@ permalink: feed.xml
     {% if loop.index < 25 %}
         <entry>
             <id>{{ app.url }}{{ item.url }}</id>
-            <title>{{ item.data.title }}</title>
+            {% if item.data.title %}<title>{{ item.data.title }}</title>{% endif %}
             <updated>{{ item.data.date | date(dates.iso) }}</updated>
             <content type="html">
                 {{ item.templateContent }}
