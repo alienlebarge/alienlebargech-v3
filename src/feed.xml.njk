@@ -23,6 +23,7 @@ permalink: feed.xml
             <id>{{ app.url }}{{ item.url }}</id>
             {% if item.data.title %}<title>{{ item.data.title }}</title>{% endif %}
             <updated>{{ item.data.date | date(dates.iso) }}</updated>
+            <link href="{{ app.url }}{{ item.url }}" rel="alternate" type="text/html"/>
             <content type="html">
                 {{ item.templateContent }}
             </content>
