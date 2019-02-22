@@ -1,5 +1,5 @@
 {% macro listItems(items) %}
-{%- for item in items -%}
+{%- for item in items | reverse -%}
 {%- include 'item/' + item.data.type + '.njk' -%}
 {%- endfor -%}
 {% endmacro %}
