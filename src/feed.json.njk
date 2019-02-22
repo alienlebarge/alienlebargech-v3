@@ -15,7 +15,7 @@ permalink: /feed.json
         "avatar": "{{ app.author.avatar }}"
     },
     "items": [
-        {%- for item in collections.post -%}
+        {%- for item in collections.post | reverse -%}
         {
             "id": "{{ app.url }}{{ item.url }}",
             "content_html": {{- item.templateContent | dump | safe -}},
