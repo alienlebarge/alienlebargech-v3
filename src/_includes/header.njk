@@ -1,7 +1,7 @@
-<header class="c-header">
+<header class="c-header{% if vocab %} | p-name{% endif %}">
     <h1 class="c-header__title">{{ title }}</h1>
     {% if summary -%}
-    <div class="c-header__summary">
+        <div class="c-header__summary{% if vocab %} | p-summary{% endif %}">
         <p>{{ summary }}
     </div>
     {%- endif %}

@@ -22,7 +22,7 @@
     </head>
     <body class="c-page">
         {% include 'banner.njk' %}
-        <main class="c-main c-page__main"
+        <main class="c-main c-page__main{% if vocab %} |{% for root in vocab %} h-{{ root }}{% endfor %}{% endif %}"
               {% if type %}data-type="{{ type }}"{% endif %}>
             <div class="o-container">
                 {% block main %}

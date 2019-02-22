@@ -3,9 +3,9 @@
     <dl>
         <dt class="u-visually-hidden">Published on</dt>
         <dd>
-        <a href="{{ item.url | url }}">
+        <a{% if vocab %} class="u-url"{% endif %} href="{{ item.url | url }}">
             {# TODO: use src/_data/dates.json to format the date. #}
-            <time datetime="{{ item.data | date }}">{{ item.date | date("D MMMM YYYY, HH:mm") }}</time>
+            <time{% if vocab %} class="dt-published"{% endif %} datetime="{{ item.data | date }}">{{ item.date | date("D MMMM YYYY, HH:mm") }}</time>
         </a>
         </dd>
     </dl>
