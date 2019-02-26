@@ -23,11 +23,11 @@ hidden: true
 
 Take a look at [the styleguide](/styleguide) to make sure everythings looks great
 
-- [ ] Style `figures`
+- [ ] Style [figures](/styleguide#figures)
 - [ ] Style task-list
 - [ ] Style forms
 - [ ] Style navigation
-- [ ] Style lists
+- [ ] Style [unordered lists](/styleguide#unordered-list) and [ordered lists](/styleguide#ordered-list)
     - [ ] Remove indent of the first level of the lists
 - [ ] Style underline
     - [ ] Underline is invisible on iOS
@@ -46,3 +46,20 @@ The success criteria regarding the [WCAG 2.1](https://www.w3.org/TR/WCAG21/) is 
 
 - [ ] Make a favicon
 - [ ] Make an app icon
+
+## Ressources
+
+In case, you are asking yourself what I used to build this website here is a list of the ressources.
+
+TypeFace
+: [Roslindale Beta Text and Roslindal Beta Variable Display](https://djr.com/roslindale/)
+
+Editor
+: Vim
+
+Site generator
+: [eleventy](https://11ty.io)
+
+Icons
+: [Font Awesome](https://fontawesome.com/)
+
