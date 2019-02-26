@@ -1,3 +1,3 @@
-<div class="c-content o-prose{% if vocab %} | e-content{% endif %}">
+<div class="c-content o-prose{% if vocab %} | e-content{% if type == "note" %} p-name{% endif %}{% endif %}">
     {{ content | safe }}
 </div>

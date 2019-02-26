@@ -1,4 +1,4 @@
-<header class="c-header{% if vocab %} | p-name{% endif %}">
+<header class="c-header{% if vocab and type != "note" %} | p-name{% endif %}">
     <h1 class="c-header__title">{{ title }}</h1>
     {% if summary -%}
         <div class="c-header__summary{% if vocab %} | p-summary{% endif %}">
