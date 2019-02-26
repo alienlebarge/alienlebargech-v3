@@ -2,10 +2,10 @@
     <dl>
         <dt class="u-visually-hidden">Published on</dt>
         <dd>
-        <a{% if vocab %} class="u-url"{% endif %} href="{{ item.url | url }}">
-            <time class="dt-published"
-                  datetime="{{ date | date(dates.iso) }}">{{ date | date(dates.datetime_full) }}</time>
-        </a>
+            <a{% if vocab %} class="u-url"{% endif %} href="{{ page.url | url }}">
+                <time class="dt-published"
+                      datetime="{{ date | date(dates.iso) }}">{{ date | date(dates.datetime_full) }}</time>
+            </a>
         </dd>
     </dl>
 </footer>
