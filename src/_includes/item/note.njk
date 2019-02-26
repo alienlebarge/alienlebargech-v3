@@ -1,5 +1,14 @@
 <article class="c-item c-item--inline">
-        {{ item.templateContent | safe }}
-    {% import 'footer.njk' as footer %}
-    {{ footer.footer(item) }}
+    {{ item.templateContent | safe }}
+    <footer class="c-item__footer">
+        <dl>
+            <dt class="u-visually-hidden">Published on</dt>
+            <dd>
+                <a{% if vocab %} class="u-url"{% endif %} href="{{ item.url | url }}">
+                    {# TODO: use src/_data/dates.json to format the date. #}
+                    <time datetime="{{ item.date | date }}">{{ item.date | date("D MMMM YYYY, HH:mm") }}</time>
+                </a>
+            </dd>
+        </dl>
+    </footer>
 </article>

@@ -3,6 +3,5 @@
 {% block main %}
     {% include 'header.njk' %}
     {% include 'content.njk' %}
-    {% import 'footer.njk' as footer %}
-    {{ footer.footer(page) }}
+    {% include 'footer.njk' %}
 {% endblock %}
