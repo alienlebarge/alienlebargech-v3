@@ -1,0 +1,66 @@
+/* ==========================================================================
+   #CHECKBOX
+   ========================================================================== */
+
+/**
+ * 1. `markdown-it-checkbox` package have some problems whene there is a link in
+ *    the `label`. It put it outside. This code is here to fix that.
+ *    https://github.com/mcecot/markdown-it-checkbox/issues/3
+ */
+
+.c-checkbox {
+    position: relative;
+
+    display: inline-block; /* [1] */
+    margin-inline-end: .1em; /* [1] */
+}
+
+/**
+ * Hide default checkbox
+ */
+.c-checkbox input[type="checkbox"] {
+    width: 1.2em;
+    height: 1.2em;
+    opacity: 0;
+}
+
+/**
+ * Draw a box to be used as the checkbox
+ */
+.c-checkbox input[type="checkbox"] + label::before {
+    position: absolute;
+    top: .1em;
+    left: 0;
+
+    width: 1em;
+    height: 1em;
+
+    border: var(--border-width-thick) solid currentColor;
+    content: "";
+}
+
+/**
+ * Place a check  mark in the box if the input is checked
+ */
+.c-checkbox input[type="checkbox"]:checked + label::after {
+    position: absolute;
+    top: .5em;
+    left: .22em;
+
+    width: .7em;
+    height: .2em;
+
+    border: solid;
+    border-width: 0 0 var(--border-width-thick) var(--border-width-thick);
+    content: "";
+    transform: rotate(-45deg);
+}
+
+/**
+ * Style label
+ *
+ * 1. Add some margin between the label and the input
+ */
+.c-checkbox label {
+    padding-inline-start: calc(var(--flow-inset)/4);
+}
