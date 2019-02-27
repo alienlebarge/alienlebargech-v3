@@ -24,7 +24,6 @@ hidden: true
 Take a look at [the styleguide](/styleguide) to make sure everythings looks great
 
 - [ ] Style [figures](/styleguide#figures)
-- [x] Style task-list
 - [ ] Style forms
 - [ ] Style navigation
 - [ ] Style [unordered lists](/styleguide#unordered-list) and [ordered lists](/styleguide#ordered-list)
