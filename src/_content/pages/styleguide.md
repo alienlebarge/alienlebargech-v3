@@ -338,6 +338,26 @@ The `details` element creates a disclosure widget in which information is visibl
     Something small enough to escape casual notice.
 </details>
 
+## Form
+
+### Checkbox
+
+<form>
+<div class="c-checkbox">
+    <input class="c-checkbox__input" type="checkbox" id="form-checkbox-exemple-1" />
+    <label class="c-checkbox__label" for="form-checkbox-exemple-1">Click me</label>
+</div>
+<div class="c-checkbox">
+    <input class="c-checkbox__input" type="checkbox" id="form-checkbox-exemple-2" checked />
+    <label class="c-checkbox__label" for="form-checkbox-exemple-2">Checked</label>
+</div>
+<div class="c-checkbox">
+    <input class="c-checkbox__input" type="checkbox" id="form-checkbox-exemple-3" disabled />
+    <label class="c-checkbox__label" for="form-checkbox-exemple-3">Disabled</label>
+</div>
+</form>
+
+
 *[ASCII]: American Standard Code for Information Interchange
 *[HTML]: HyperText Markup Language
 *[BBC]: British Broadcasting Corportation

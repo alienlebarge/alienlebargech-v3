@@ -1,0 +1,64 @@
+/* ==========================================================================
+   #CHECKBOX
+   ========================================================================== */
+
+.c-checkbox {
+    position: relative;
+
+    display: flex;
+    margin-block-end: var(--space-block-xsmall);
+}
+
+/**
+ * Hide default checkbox
+ */
+.c-checkbox__input {
+    width: var(--line-height-tight);
+    height: var(--line-height-tight);
+    opacity: 0;
+}
+
+/**
+ * Draw a box to be used as the checkbox
+ */
+.c-checkbox__input + .c-checkbox__label::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 1em;
+    height: 1em;
+
+    border: var(--border-width-thick) solid currentColor;
+    content: "";
+}
+
+/**
+ * Place a check mark in the box if the input is checked
+ */
+.c-checkbox__input:checked + .c-checkbox__label::after {
+    position: absolute;
+    top: .4em;
+    left: .22em;
+
+    width: .7em;
+    height: .2em;
+
+    border: solid;
+    border-width: 0 0 var(--border-width-thick) var(--border-width-thick);
+    content: "";
+    transform: rotate(-45deg);
+}
+
+/**
+ * Style label
+ *
+ * 1. Add some margin between the label and the input
+ */
+.c-checkbox__label {
+    cursor: pointer;
+}
+
+.c-checkbox__input:disabled + .c-checkbox__label {
+    color: var(--color-alpha-high);
+}
