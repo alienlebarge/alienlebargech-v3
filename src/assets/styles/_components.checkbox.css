@@ -2,17 +2,8 @@
    #CHECKBOX
    ========================================================================== */
 
-/**
- * 1. `markdown-it-checkbox` package have some problems whene there is a link in
- *    the `label`. It put it outside. This code is here to fix that.
- *    https://github.com/mcecot/markdown-it-checkbox/issues/3
- */
-
 .c-checkbox {
     position: relative;
-
-    display: inline-block; /* [1] */
-    margin-inline-end: .1em; /* [1] */
 }
 
 /**
