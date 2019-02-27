@@ -34,7 +34,7 @@
 }
 
 /**
- * Place a check  mark in the box if the input is checked
+ * Place a check mark in the box if the input is checked
  */
 .c-checkbox__input:checked + .c-checkbox__label::after {
     position: absolute;
