@@ -23,6 +23,7 @@ hidden: true
 
 Take a look at [the styleguide](/styleguide) to make sure everythings looks great
 
+- Add color accent
 - Style [figures](/styleguide#figures)
 - Style forms
     - <del>Style [checkboxes](/styleguide#checkbox)</del>
@@ -35,6 +36,7 @@ Take a look at [the styleguide](/styleguide) to make sure everythings looks grea
     - <del datetime="2019-02-27 13:15:21">Remove indent of the first level of the lists</del>
 - Style underline
     - Underline is invisible on iOS
+- Dark mode
 
 ## Accessibility
 
