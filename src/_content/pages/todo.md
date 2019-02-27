@@ -53,7 +53,7 @@ The success criteria regarding the [WCAG 2.1](https://www.w3.org/TR/WCAG21/) is 
 
 ## Ressources
 
-In case, you are asking yourself what I used to build this website here is a list of the ressources.
+In case, you are asking yourself what I used to build this website, here is a list of the ressources.
 
 TypeFaces
 : [Roslindale Beta Text and Roslindale Beta Variable Display](https://djr.com/roslindale/)
