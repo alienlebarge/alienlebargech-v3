@@ -11,6 +11,6 @@
 }
 
 .c-contentinfo svg {
-    height: var(--font-size-body);
     width: var(--font-size-body);
+    height: var(--font-size-body);
 }
