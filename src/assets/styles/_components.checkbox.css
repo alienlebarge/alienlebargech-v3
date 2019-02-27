@@ -4,23 +4,25 @@
 
 .c-checkbox {
     position: relative;
+    display: flex;
+    margin-block-end: var(--space-block-xsmall);
 }
 
 /**
  * Hide default checkbox
  */
-.c-checkbox input[type="checkbox"] {
-    width: 1.2em;
-    height: 1.2em;
+.c-checkbox__input {
+    width: var(--line-height-tight);
+    height: var(--line-height-tight);
     opacity: 0;
 }
 
 /**
  * Draw a box to be used as the checkbox
  */
-.c-checkbox input[type="checkbox"] + label::before {
+.c-checkbox__input + .c-checkbox__label::before {
     position: absolute;
-    top: .1em;
+    top: 0;
     left: 0;
 
     width: 1em;
@@ -33,9 +35,9 @@
 /**
  * Place a check  mark in the box if the input is checked
  */
-.c-checkbox input[type="checkbox"]:checked + label::after {
+.c-checkbox__input:checked + .c-checkbox__label::after {
     position: absolute;
-    top: .5em;
+    top: .4em;
     left: .22em;
 
     width: .7em;
@@ -52,6 +54,10 @@
  *
  * 1. Add some margin between the label and the input
  */
-.c-checkbox label {
-    padding-inline-start: calc(var(--flow-inset)/4);
+.c-checkbox__label {
+    cursor: pointer;
+}
+
+.c-checkbox__input:disabled + .c-checkbox__label {
+    color: var(--color-alpha-high);
 }

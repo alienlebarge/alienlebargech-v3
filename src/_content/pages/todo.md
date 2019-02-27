@@ -25,6 +25,7 @@ Take a look at [the styleguide](/styleguide) to make sure everythings looks grea
 
 - [ ] Style [figures](/styleguide#figures)
 - [ ] Style forms
+    - [x] Style [checkboxes](/styleguide#checkbox)
 - [ ] Style navigation
 - [ ] Style [unordered lists](/styleguide#unordered-list) and [ordered lists](/styleguide#ordered-list)
     - [ ] Remove indent of the first level of the lists
