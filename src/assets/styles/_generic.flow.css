@@ -43,5 +43,6 @@ legend {
    ------------------------------------- */
 
 :--list {
-    margin-line-start: var(--flow-inset, 0);
+    margin: 0 0 var(--flow-space, 0) 0;
+    padding: 0;
 }

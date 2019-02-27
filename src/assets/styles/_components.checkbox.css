@@ -4,6 +4,7 @@
 
 .c-checkbox {
     position: relative;
+
     display: flex;
     margin-block-end: var(--space-block-xsmall);
 }
