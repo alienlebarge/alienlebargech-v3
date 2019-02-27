@@ -52,7 +52,7 @@ The success criteria regarding the [WCAG 2.1](https://www.w3.org/TR/WCAG21/) is 
 In case, you are asking yourself what I used to build this website here is a list of the ressources.
 
 TypeFace
-: [Roslindale Beta Text and Roslindal Beta Variable Display](https://djr.com/roslindale/)
+: [Roslindale Beta Text and Roslindale Beta Variable Display](https://djr.com/roslindale/) & [Arnold](https://www.futurefonts.xyz/rudiger/arnold)
 
 Editor
 : Vim
