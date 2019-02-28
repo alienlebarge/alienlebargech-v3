@@ -31,12 +31,34 @@ Take a look at [the styleguide](/styleguide) to make sure everythings looks grea
     - Style text inputs
     - Style textarea
     - Style buttons
-- Style navigation
 - Style [unordered lists](/styleguide#unordered-list) and [ordered lists](/styleguide#ordered-list)
     - <del datetime="2019-02-27 13:15:21">Remove indent of the first level of the lists</del>
 - Style underline
     - Underline is invisible on iOS
-- Dark mode
+
+## Pages
+
+- <del>Homepage</del>
+- Contact
+- Articles detail
+- Articles
+- Notes
+- Notes detail
+- etc.
+
+## Components
+
+- Style navigation
+- Style pagination
+
+## Dark mode
+
+- Style dark mode
+
+## Webmention
+
+- <del>Add Webmention endpoint</del>
+- Enable Webmention
 
 ## Accessibility
 
