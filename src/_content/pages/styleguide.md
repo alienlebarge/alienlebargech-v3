@@ -172,6 +172,7 @@ Here is another term.
 ### Figures
 
 <img src="https://res.cloudinary.com/alienlebarge/image/fetch/https://alienlebarge.ch/assets/images/Icon.png">
+<img src="https://alienlebarge.imgix.net/assets/images/Icon.png">
 
 ## Text-level semantics
 
