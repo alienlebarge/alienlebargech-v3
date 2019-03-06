@@ -7,7 +7,7 @@
  */
 
 .o-prose {
-    --flow-space: var(--space-block-medium);
+    --flow-space: var(--line-height-loose);
     --flow-inset: 1.5em;
     --list-display: list-item;
     --anchor-decoration: underline;
