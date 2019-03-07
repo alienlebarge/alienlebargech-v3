@@ -47,6 +47,7 @@ Date
 
 Organisation
 : MJOR
+
 Période
 : De juillet 2010 à juillet 2013 
 
