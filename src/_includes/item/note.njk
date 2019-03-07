@@ -1,5 +1,5 @@
 <article class="c-item c-item--inline | h-entry" data-type="note">
-    <div class="o-prose | e-content p-name">
+    <div class="c-item__main o-prose | e-content p-name">
         {{ item.templateContent | safe }}
     </div>
     <footer class="c-item__footer">
@@ -8,8 +8,11 @@
             <dd>
                 <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
                     {# TODO: use src/_data/dates.json to format the date. #}
-                    <time class="dt-published"
-                          datetime="{{ item.date | date }}">{{ item.date | date("D MMMM YYYY, HH:mm") }}</time>
+                    <time class="dt-published c-item__date"
+                          datetime="{{ item.date | date }}">
+                        <span>{{ item.date | date("D MMMM YYYY") }}</span>
+                        <span>{{ item.date | date("HH:mm") }}</span>
+                    </time>
                 </a>
             </dd>
         </dl>

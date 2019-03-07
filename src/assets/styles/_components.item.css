@@ -4,7 +4,12 @@
 
 .c-item {
     @extend %reference;
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    max-width: var(--line-measure);
 
+    margin-inline: calc(-1 * var(--space-inline));
     padding-block-start: var(--space-block-xsmall);
 }
 
@@ -18,6 +23,31 @@
     margin-block-end: var(--space-block-large);
 }
 
-.c-item__footer {
-    @extend %caption;
+.c-item__main {
+    margin-inline: var(--space-inline);
+
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 16em;
 }
+
+.c-item__footer {
+    --anchor-decoration: none;
+
+    @extend %caption;
+
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+
+    margin-inline: var(--space-inline);
+}
+
+
+@media (--from-small-viewport) {
+    .c-item__date {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
