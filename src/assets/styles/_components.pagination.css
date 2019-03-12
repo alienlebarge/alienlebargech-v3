@@ -1,0 +1,19 @@
+/* ==========================================================================
+   #PAGINATION
+   ========================================================================== */
+
+.c-pagination {
+    border-top-color: var(--color-alpha-highest);
+    border-top-style: solid;
+    border-top-width: var(--border-width-thin);
+    margin-block-end: var(--space-block-large);
+}
+
+.c-pagination__link {
+    display: flex;
+    padding-block-start: var(--space-block-xsmall);
+    flex-direction: column;
+}
+.c-pagination__caption {
+    @extend %reference;
+}

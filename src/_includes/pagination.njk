@@ -1,19 +1,31 @@
 {% macro paginate(pagination, label="Undefined") %}
 {# Check if there's more than one page. Unless, we do not need a pagination. #}
 {%- if pagination.hrefs.length > 1 -%}
-<nav aria-label="Pagination">
-  <h2>Pagination</h2>
+<nav class="c-pagination" aria-label="Pagination">
+  <h2 class="u-visually-hidden">Pagination</h2>
   <ul>
     {# Check if we are on the last page #}
     {%- if pagination.nextPageHref -%}
     <li>
-      <a href="{{ pagination.nextPageHref }}" rel="next"><span>Older {{ label }}</span> <span>(Page {{ pagination.pageNumber + 2 }} of {{ pagination.hrefs.length }})</span></a>
+        <a href="{{ pagination.nextPageHref }}"
+           rel="next"
+           class="c-pagination__link">
+            <span>Older {{ label | lower }}</span>
+            <span class="u-visually-hidden">:</span>
+            <span class="c-pagination__caption">Page {{ pagination.pageNumber + 2 }} of {{ pagination.hrefs.length }}</span>
+        </a>
     </li>
     {%- endif -%}
     {# Check if we are on the first page #}
     {%- if pagination.previousPageHref -%}
     <li>
-      <a href="{{ pagination.previousPageHref }}" rel="prev"><span>Newer {{ label }}</span> <span>(Page {{ pagination.pageNumber }} of {{ pagination.hrefs.length }})</span></a>
+        <a href="{{ pagination.previousPageHref }}"
+           rel="prev"
+           class="c-pagination__link">
+            <span>Newer {{ label | lower }}</span>
+            <span class="u-visually-hidden">:</span>
+            <span class="c-pagination__caption">Page {{ pagination.pageNumber }} of {{ pagination.hrefs.length }}</span>
+        </a>
     </li>
     {%- endif -%}
   </ul>
