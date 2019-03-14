@@ -5,7 +5,6 @@
 .c-item {
     @extend %reference;
     display: flex;
-    max-width: var(--line-measure);
     align-items: baseline;
     flex-wrap: wrap;
 

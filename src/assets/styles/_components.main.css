@@ -2,14 +2,24 @@
    #MAIN
    ========================================================================== */
 
+/**
+ * 1. Make the container take the available vertical space
+ */
 .c-main {
     --anchor-decoration: underline var(--color-link-underline);
+    display: flex; /* [1] */
 
     background: linear-gradient(
-        90deg,
-        var(--color-background) 0,
-        var(--color-background) calc(50vw + var(--container-inline-size) / 2),
-        transparent 0,
-        transparent);
-    padding-block: var(--space-block-medium);
+    90deg,
+    var(--color-background),
+    var(--color-background) 50vw,
+    transparent 0,
+    transparent);
+}
+
+.c-main__container {
+    flex: 1; /* [1] */
+
+    background: var(--color-background);
+    padding-block: var(--grid-column-gap);
 }
