@@ -6,7 +6,5 @@
     color: var(--color-neutral-dark);
 
     background-color: var(--color-neutral-lightest);
-    border-top: var(--border-width-thickest) solid var(--color-accent);
-    padding-block-end: 4vw;
-    padding-block-start: calc(4vw + var(--border-width-thickest));
+    padding-block: 4vw;
 }
