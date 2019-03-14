@@ -4,13 +4,13 @@
 
 :root {
     /* Neutral palette */
-    --color-neutral: hsla(228, 8%, 64%, 1);
-    --color-neutral-darkest: color-mod(var(--color-neutral) l(16%));
-    --color-neutral-darker: color-mod(var(--color-neutral) l(32%));
-    --color-neutral-dark: color-mod(var(--color-neutral) l(40%));
-    --color-neutral-light: color-mod(var(--color-neutral) l(80%));
-    --color-neutral-lighter: color-mod(var(--color-neutral) s(7%) l(88%));
-    --color-neutral-lightest: color-mod(var(--color-neutral) s(2%) l(96%));
+    --color-neutral-darkest: hsla(209, 15%, 25%, 1);
+    --color-neutral-darker: hsla(207, 12%, 37%, 1);
+    --color-neutral-dark: hsla(207, 10%, 48%, 1);
+    --color-neutral: hsla(208, 12%, 58%, 1);
+    --color-neutral-light: hsla(209, 12%, 67%, 1);
+    --color-neutral-lighter: hsla(210, 16%, 80%, 1);
+    --color-neutral-lightest: hsla(208, 21%, 95%, 1);
 
     /* Alpha palette */
     --color-alpha-highest: color-mod(var(--color-neutral-darkest) a(.1));
