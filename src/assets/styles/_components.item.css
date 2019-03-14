@@ -5,9 +5,9 @@
 .c-item {
     @extend %reference;
     display: flex;
+    max-width: var(--line-measure);
     align-items: baseline;
     flex-wrap: wrap;
-    max-width: var(--line-measure);
 
     margin-inline: calc(-1 * var(--space-inline));
     padding-block-start: var(--space-block-xsmall);
@@ -24,11 +24,11 @@
 }
 
 .c-item__main {
-    margin-inline: var(--space-inline);
 
     flex-grow: 1;
     flex-shrink: 1;
     flex-basis: 16em;
+    margin-inline: var(--space-inline);
 }
 
 .c-item__footer {
@@ -45,6 +45,7 @@
 
 
 @media (--from-small-viewport) {
+
     .c-item__date {
         display: flex;
         flex-direction: column;

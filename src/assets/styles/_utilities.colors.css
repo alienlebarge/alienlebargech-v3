@@ -2,6 +2,155 @@
    #UTILITIES-COLORS
    ========================================================================== */
 
+/* -------------------------------------
+   #COLOR
+   ------------------------------------- */
+
+/**
+ * Neutral
+ */
+.u-color-neutral {
+    color: var(--color-neutral);
+}
+
+.u-color-neutral-darkest {
+    color: var(--color-neutral-darkest);
+}
+
+.u-color-neutral-darker {
+    color: var(--color-neutral-darker);
+}
+
+.u-color-neutral-dark {
+    color: var(--color-neutral-dark);
+}
+
+.u-color-neutral-light {
+    color: var(--color-neutral-light);
+}
+
+.u-color-neutral-lighter {
+    color: var(--color-neutral-lighter);
+}
+
+.u-color-neutral-lightest {
+    color: var(--color-neutral-lightest);
+}
+
+
+
+/**
+ * Alpha
+ */
+.u-color-alpha-highest {
+    color: var(--color-alpha-highest);
+}
+
+.u-color-alpha-high {
+    color: var(--color-alpha-high);
+}
+
+.u-color-alpha-low {
+    color: var(--color-alpha-low);
+}
+
+.u-color-alpha-lowest {
+    color: var(--color-alpha-lowest);
+}
+
+
+
+/**
+ * Primary
+ */
+.u-color-primary {
+    color: var(--color-primary);
+}
+
+.u-color-primary-darkest {
+    color: var(--color-primary-darkest);
+}
+
+.u-color-primary-darker {
+    color: var(--color-primary-darker);
+}
+
+.u-color-primary-dark {
+    color: var(--color-primary-dark);
+}
+
+.u-color-primary-light {
+    color: var(--color-primary-light);
+}
+
+.u-color-primary-lighter {
+    color: var(--color-primary-lighter);
+}
+
+.u-color-primary-lightest {
+    color: var(--color-primary-lightest);
+}
+
+
+
+/**
+ * Assignments
+ */
+.u-color-accent {
+    color: var(--color-accent);
+}
+
+.u-color {
+    color: var(--color);
+}
+
+.u-color-text {
+    color: var(--color-text);
+}
+
+.u-color-link {
+    color: var(--color-link);
+}
+
+.u-color-link-underline {
+    color: var(--color-link-underline);
+}
+
+.u-color-rule {
+    color: var(--color-rule);
+}
+
+.u-color-offset {
+    color: var(--color-offset);
+}
+
+.u-color-delete {
+    color: var(--color-delete);
+}
+
+.u-color-highlight {
+    color: var(--color-highlight);
+}
+
+.u-color-insert {
+    color: var(--color-insert);
+}
+
+.u-color-focus {
+    color: var(--color-accent);
+}
+
+
+
+
+
+/* -------------------------------------
+   #BACKGROUNDS
+   ------------------------------------- */
+
+/**
+ * Neutral
+ */
 .u-background-neutral {
     background-color: var(--color-neutral);
 }
@@ -32,6 +181,9 @@
 
 
 
+/**
+ * Alpha
+ */
 .u-background-alpha-highest {
     background-color: var(--color-alpha-highest);
 }
@@ -50,6 +202,42 @@
 
 
 
+/**
+ * Primary
+ */
+.u-background-primary {
+    background-color: var(--color-primary);
+}
+
+.u-background-primary-darkest {
+    background-color: var(--color-primary-darkest);
+}
+
+.u-background-primary-darker {
+    background-color: var(--color-primary-darker);
+}
+
+.u-background-primary-dark {
+    background-color: var(--color-primary-dark);
+}
+
+.u-background-primary-light {
+    background-color: var(--color-primary-light);
+}
+
+.u-background-primary-lighter {
+    background-color: var(--color-primary-lighter);
+}
+
+.u-background-primary-lightest {
+    background-color: var(--color-primary-lightest);
+}
+
+
+
+/**
+ * Assignments
+ */
 .u-background-accent {
     background-color: var(--color-accent);
 }

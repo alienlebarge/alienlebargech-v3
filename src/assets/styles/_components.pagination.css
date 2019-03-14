@@ -11,9 +11,10 @@
 
 .c-pagination__link {
     display: flex;
-    padding-block-start: var(--space-block-xsmall);
     flex-direction: column;
+    padding-block-start: var(--space-block-xsmall);
 }
+
 .c-pagination__caption {
     @extend %reference;
 }

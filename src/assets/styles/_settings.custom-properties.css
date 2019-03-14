@@ -18,8 +18,17 @@
     --color-alpha-low: color-mod(var(--color-neutral-darkest) a(.75));
     --color-alpha-lowest: color-mod(var(--color-neutral-darkest) a(.9));
 
+    /* Primary */
+    --color-primary-darkest: hsla(168, 85%, 22%, 1);
+    --color-primary-darker: hsla(161, 83%, 30%, 1);
+    --color-primary-dark: hsla(161, 79%, 40%, 1);
+    --color-primary: hsla(160, 79%, 48%, 1);
+    --color-primary-light: hsla(162, 80%, 63%, 1);
+    --color-primary-lighter: hsla(163, 83%, 76%, 1);
+    --color-primary-lightest: hsla(165, 85%, 90%, 1);
+
     /* Colour assignments */
-    --color-accent: var(--color-accent-light);
+    --color-accent: var(--color-primary-light);
     --color-background: hsla(0, 0%, 100%, 1);
     --color-text: var(--color-neutral-darkest);
     --color-link: var(--color-accent);

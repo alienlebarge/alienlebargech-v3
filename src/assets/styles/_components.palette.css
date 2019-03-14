@@ -1,0 +1,31 @@
+/* ==========================================================================
+   #PALETTE
+   ========================================================================== */
+
+.c-palette {
+    display: flex;
+
+    margin: 0 calc(var(--space-inline, 0) * -1);
+    flex-wrap: wrap;
+}
+
+.c-palette__item {
+    display: block;
+    max-width: var(--space-block-xlarge);
+    margin-block-end: var(--flow-space);
+    margin-inline: var(--space-inline, 0);
+
+    @extend %caption;
+}
+
+.c-palette__item::before {
+    display: block;
+    width: var(--space-block-xlarge);
+    height: var(--space-block-xlarge);
+
+    background: currentcolor;
+    border-radius: var(--border-radius-small);
+    box-shadow: 0 2px 0 hsla(0, 0%, 100%, .15),
+                inset 0 2px 2px hsla(0, 0%, 0%, .1);
+    content: "";
+}

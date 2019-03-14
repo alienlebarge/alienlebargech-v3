@@ -46,40 +46,52 @@ Here's the style a basic `h1` will get.
 
 ### Neutral
 
-<div class="o-grid">
-    <div class="o-box u-background-neutral">Neutral</div>
-    <div class="o-box u-background-neutral-darkest">Neutral darker</div>
-    <div class="o-box u-background-neutral-darker">Neutral darkest</div>
-    <div class="o-box u-background-neutral-dark">Neutral dark</div>
-    <div class="o-box u-background-neutral-light">Neutral light</div>
-    <div class="o-box u-background-neutral-lighter">Neutral lighter</div>
-    <div class="o-box u-background-neutral-lightest">Neutral lightest</div>
-</div>
+<ul class="c-palette">
+    <li class="c-palette__item u-color-neutral-darkest">Darkest</li>
+    <li class="c-palette__item u-color-neutral-darker">Darker</li>
+    <li class="c-palette__item u-color-neutral-dark">Dark</li>
+    <li class="c-palette__item u-color-neutral">Normal</li>
+    <li class="c-palette__item u-color-neutral-light">Light</li>
+    <li class="c-palette__item u-color-neutral-lighter">Lighter</li>
+    <li class="c-palette__item u-color-neutral-lightest">Lightest</li>
+</ul>
 
 ### Alpha
 
-<div class="o-grid">
-    <div class="o-box u-background-alpha-highest">Alpha high</div>
-    <div class="o-box u-background-alpha-high">Alpha high</div>
-    <div class="o-box u-background-alpha-low">Alpha low</div>
-    <div class="o-box u-background-alpha-lowest">Alpha lowest</div>
-</div>
+<ul class="c-palette">
+    <li class="c-palette__item u-color-alpha-highest">Alpha high</li>
+    <li class="c-palette__item u-color-alpha-high">Alpha high</li>
+    <li class="c-palette__item u-color-alpha-low">Alpha low</li>
+    <li class="c-palette__item u-color-alpha-lowest">Alpha lowest</li>
+</ul>
 
-### Assignement
+### Primary
 
-<div class="o-grid">
-    <div class="o-box u-background-accent">Accent</div>
-    <div class="o-box u-background-background">Background</div>
-    <div class="o-box u-background-text">Text</div>
-    <div class="o-box u-background-link">Link</div>
-    <div class="o-box u-background-link-underline">Link underline</div>
-    <div class="o-box u-background-rule">Rule</div>
-    <div class="o-box u-background-offset">Offset</div>
-    <div class="o-box u-background-delete">Delete</div>
-    <div class="o-box u-background-highlight">Highlight</div>
-    <div class="o-box u-background-insert">Insert</div>
-    <div class="o-box u-background-focus">Focus</div>
-</div>
+<ul class="c-palette">
+    <li class="c-palette__item u-color-primary-darkest">Darkest</li>
+    <li class="c-palette__item u-color-primary-darker">Darker</li>
+    <li class="c-palette__item u-color-primary-dark">Dark</li>
+    <li class="c-palette__item u-color-primary">Normal</li>
+    <li class="c-palette__item u-color-primary-light">Light</li>
+    <li class="c-palette__item u-color-primary-lighter">Lighter</li>
+    <li class="c-palette__item u-color-primary-lightest">Lightest</li>
+</ul>
+
+### Assignements
+
+<ul class="c-palette">
+    <li class="c-palette__item u-color-accent">Accent</li>
+    <li class="c-palette__item u-color-background">Background</li>
+    <li class="c-palette__item u-color-text">Text</li>
+    <li class="c-palette__item u-color-link">Link</li>
+    <li class="c-palette__item u-color-link-underline">Link underline</li>
+    <li class="c-palette__item u-color-rule">Rule</li>
+    <li class="c-palette__item u-color-offset">Offset</li>
+    <li class="c-palette__item u-color-delete">Delete</li>
+    <li class="c-palette__item u-color-highlight">Highlight</li>
+    <li class="c-palette__item u-color-insert">Insert</li>
+    <li class="c-palette__item u-color-focus">Focus</li>
+</ul>
 
 ---
 
