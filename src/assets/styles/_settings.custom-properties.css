@@ -28,7 +28,7 @@
     --color-primary-lightest: hsla(165, 85%, 90%, 1);
 
     /* Colour assignments */
-    --color-accent: var(--color-primary-light);
+    --color-accent: var(--color-primary);
     --color-background: hsla(0, 0%, 100%, 1);
     --color-text: var(--color-neutral-darkest);
     --color-link: var(--color-accent);
