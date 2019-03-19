@@ -41,9 +41,7 @@
     margin-block-end: var(--space-block-xsmall);
 }
 
-.o-prose h4,
-.o-prose h5,
-.o-prose h6 {
+.o-prose :matches(h4, h5, h6) {
     @extend %overline;
 
     margin-block-end: 0;
@@ -53,8 +51,7 @@
     margin-block-start: var(--space-block-large);
 }
 
-.o-prose * + h3,
-.o-prose * + h4 {
+.o-prose * + :matches(h3, h4) {
     margin-block-start: var(--space-block-medium);
 }
 
