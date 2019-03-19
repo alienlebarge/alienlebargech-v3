@@ -16,7 +16,6 @@
 
     grid-template-rows: auto 1fr auto;
 
-    margin-inline: calc(-1 * var(--space-inline));
     padding-block-start: var(--space-block-xsmall);
 }
 
@@ -24,7 +23,7 @@
 
     .c-item {
         grid-template-areas: "footer header image"
-                            "footer main image";
+                             "footer main image";
         grid-template-columns: auto 1fr auto;
         grid-template-rows: auto 1fr;
     }
@@ -40,10 +39,15 @@
     margin-block-end: var(--space-block-large);
 }
 
+.c-item__header {
+    @extend %subhead;
+
+    grid-area: header;
+}
+
 .c-item__main {
 
     grid-area: main;
-    margin-inline: var(--space-inline);
 }
 
 .c-item__footer {
@@ -52,8 +56,7 @@
     @extend %caption;
 
     grid-area: footer;
-
-    margin-inline: var(--space-inline);
+    min-width: 6rem;
 }
 
 
