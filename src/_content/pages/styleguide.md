@@ -183,9 +183,7 @@ Here is another term.
 
 ### Figures
 
-<img src="https://res.cloudinary.com/alienlebarge/image/fetch/https://alienlebarge.ch/assets/images/Icon.png">
-<img src="https://alienlebarge.imgix.net/assets/images/Icon.png">
-<img src="https://alienlebarge.imgix.net/assets%2Fimages%2FIcon.png">
+![alternative text](https://res.cloudinary.com/alienlebarge/image/fetch/https://alienlebarge.ch/assets/images/Icon.png "figcaption")
 
 ## Text-level semantics
 
