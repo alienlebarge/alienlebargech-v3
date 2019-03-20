@@ -26,6 +26,12 @@
     max-inline-size: var(--line-measure);
 }
 
+
+
+/* -------------------------------------
+   #HEADINGS
+   ------------------------------------- */
+
 .o-prose h2 {
     @extend %heading;
 
@@ -52,13 +58,27 @@
     margin-block-start: var(--space-block-medium);
 }
 
-/**
- * Lists
- */
+
+
+/* -------------------------------------
+   #LISTS
+   ------------------------------------- */
 .o-prose :--list {
     padding-inline-start: 0;
 }
 
 .o-prose :--list :--list {
     padding-inline-start: var(--flow-inset);
+}
+
+
+
+/* -------------------------------------
+   #EMBED
+   ------------------------------------- */
+
+.o-prose figcaption {
+    @extend %caption;
+    margin-block-end: var(--flow-space);
+    padding-block-start: var(--space-block-small);
 }
