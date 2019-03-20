@@ -5,9 +5,15 @@
     </header>
     {%- endif -%}
 
-    {%- if item.data.summary -%}
+    {%- if item.data.summary or item.data.description -%}
     <div class="c-item__main o-prose | e-content p-summary">
-        <p>{{ item.data.summary }}</p>
+        <p>
+        {%- if item.data.summary -%}
+        {{ item.data.summary }}
+        {%- elif item.data.description -%}
+        {{ item.data.description }}
+        {%- endif -%}
+        </p>
     </div>
     {%- endif -%}
 
