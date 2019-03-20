@@ -23,9 +23,6 @@
     hyphenate-limite-lines: 2;
     hyphenate-limite-zone: 8%;
     hyphens: auto;
-}
-
-.o-prose * {
     max-inline-size: var(--line-measure);
 }
 
