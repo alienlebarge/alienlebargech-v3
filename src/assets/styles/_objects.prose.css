@@ -15,6 +15,14 @@
     font-weight: var(--font-weight-body, inherit);
 }
 
+/**
+ * Images are not included because because they are fluid by default
+ * (`max-width: 100%;`). This is defined in the element style. And we do not
+ * want to override it.
+ */
+.o-prose *:not(img) {
+    max-inline-size: var(--line-measure);
+}
 
 .o-prose p {
     line-height: var(--line-height-loose);
@@ -23,7 +31,6 @@
     hyphenate-limite-lines: 2;
     hyphenate-limite-zone: 8%;
     hyphens: auto;
-    max-inline-size: var(--line-measure);
 }
 
 
