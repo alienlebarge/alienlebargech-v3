@@ -3,8 +3,8 @@
    ========================================================================== */
 
 .c-banner {
-    color: var(--color-neutral-dark);
+    color: var(--color-neutral-darker);
 
-    background-color: var(--color-neutral-lightest);
+    background-color: var(--color-neutral-lighter);
     padding-block: 4vw;
 }
