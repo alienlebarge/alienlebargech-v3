@@ -31,7 +31,7 @@
     font-weight: var(--font-weight-heading, 600);
     font-family: var(--font-family-heading, var(--font-family-display));
     line-height: var(--line-height-heading, var(--line-height-tight));
-    font-variation-settings: "wght" var(--font-weight-title, 600);
+    font-variation-settings: "wght" var(--font-weight-heading, 600);
     hanging-punctuation: first;
 }
 
@@ -40,7 +40,7 @@
     font-weight: var(--font-weight-subhead, 600);
     font-family: var(--font-family-subhead, var(--font-family-display));
     line-height: var(--line-height-subhead, var(--line-height-tight));
-    font-variation-settings: "wght" var(--font-weight-title, 600);
+    font-variation-settings: "wght" var(--font-weight-subhead, 600);
     hanging-punctuation: first;
 }
 
