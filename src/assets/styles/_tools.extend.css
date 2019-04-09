@@ -37,10 +37,10 @@
 
 %subhead {
     font-size: var(--font-size-subhead);
-    font-weight: var(--font-weight-subhead, 450);
+    font-weight: var(--font-weight-subhead, 600);
     font-family: var(--font-family-subhead, var(--font-family-display));
     line-height: var(--line-height-subhead, var(--line-height-tight));
-    font-variation-settings: "wght" var(--font-weight-title, 450);
+    font-variation-settings: "wght" var(--font-weight-title, 600);
     hanging-punctuation: first;
 }
 
