@@ -13,8 +13,15 @@
     display: flex;
     flex-direction: column;
     padding-block-start: var(--space-block-xsmall);
+    margin-block-end: var(--space-block-small);
 }
 
 .c-pagination__caption {
     @extend %reference;
+}
+
+.c-pagination svg {
+    max-height: var(--font-size-body);
+    max-width: var(--font-size-body);
+    margin-bottom: calc(var(--line-height-tight) - 1em);
 }
