@@ -59,7 +59,6 @@
     grid-area: footer;
 }
 
-
 @media (--from-small-viewport) {
 
     .c-item__date {
