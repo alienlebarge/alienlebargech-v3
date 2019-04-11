@@ -53,7 +53,10 @@ dd {
     margin-inline-start: var(--flow-inset, 0);
 }
 
-dd + dt {
+/**
+ * 1. `dt` are sometimes visually hidden. This rules force consistency
+ */
+dd + dt,
+dd + dt.u-visually-hidden + dd { /* [1] */
     margin-block-start: calc(var(--flow-space, 0) / 2);
 }
-
