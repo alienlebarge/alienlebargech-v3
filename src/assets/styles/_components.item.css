@@ -54,7 +54,7 @@
     --anchor-decoration: none;
 
     @extend %caption;
-    min-width: 6rem;
+    min-width: 9rem;
 
     grid-area: footer;
 }
