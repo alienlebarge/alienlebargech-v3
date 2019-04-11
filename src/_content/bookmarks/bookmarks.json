@@ -3,5 +3,5 @@
   "permalink": "bookmarks/{{ page.date | date: '%Y/%m' }}/{{ page.fileSlug }}.html",
   "type": "bookmark",
   "tags": ["post", "bookmark"],
-  "vocab": "entry"
+  "vocab": ["entry"]
 }
