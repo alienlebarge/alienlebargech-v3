@@ -4,4 +4,6 @@
 
 .c-footer {
     @extend %caption;
+
+    margin-block-end: var(--space-block-medium);
 }
