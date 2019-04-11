@@ -42,21 +42,24 @@
 .c-item__header {
     @extend %subhead;
 
+    --anchor-decoration: underline var(--color-link-underline);
     grid-area: header;
 }
 
 .c-item__main {
-
     grid-area: main;
 }
 
 .c-item__footer {
-    --anchor-decoration: none;
 
     @extend %caption;
     min-width: 9rem;
 
     grid-area: footer;
+}
+
+.c-item__footer .u-bookmark-of {
+    --anchor-decoration: underline var(--color-link-underline);
 }
 
 @media (--from-small-viewport) {

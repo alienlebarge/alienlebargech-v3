@@ -6,7 +6,6 @@
  * 1. Make the container take the available vertical space
  */
 .c-main {
-    --anchor-decoration: underline var(--color-link-underline);
     display: flex; /* [1] */
 
     background: linear-gradient(

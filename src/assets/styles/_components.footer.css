@@ -7,3 +7,7 @@
 
     margin-block-end: var(--space-block-medium);
 }
+
+.c-footer .u-bookmark-of {
+    --anchor-decoration: underline var(--color-link-underline);
+}
