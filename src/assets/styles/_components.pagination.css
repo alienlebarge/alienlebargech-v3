@@ -12,8 +12,8 @@
 .c-pagination__link {
     display: flex;
     flex-direction: column;
-    padding-block-start: var(--space-block-xsmall);
     margin-block-end: var(--space-block-small);
+    padding-block-start: var(--space-block-xsmall);
 }
 
 .c-pagination__caption {
@@ -21,7 +21,8 @@
 }
 
 .c-pagination svg {
-    max-height: var(--font-size-body);
     max-width: var(--font-size-body);
+    max-height: var(--font-size-body);
+
     margin-bottom: calc(var(--line-height-tight) - 1em);
 }
