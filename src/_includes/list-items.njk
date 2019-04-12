@@ -1,9 +1,12 @@
 {% macro listItems(items) %}
 {%- for item in items -%}
+
 {# For the bookmarks, we pass the url to the item #}
 {% if item.data.type == "bookmark" %}
     {% set bookmarkUrl = item.data.url %}
 {% endif %}
+
 {%- include 'item/' + item.data.type + '.njk' -%}
+
 {%- endfor -%}
 {% endmacro %}
