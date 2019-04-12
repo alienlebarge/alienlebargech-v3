@@ -70,7 +70,7 @@ abbr {
     abbr::after {
         font-size: var(--font-size-reference); /* [3] */
         text-transform: none;
-        content: " ("attr(title)")"; /* [3] */
+        content: " ("attr(title) ")"; /* [3] */
         font-variant-caps: initial;
     }
 }

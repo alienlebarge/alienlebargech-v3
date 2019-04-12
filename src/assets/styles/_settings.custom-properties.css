@@ -118,6 +118,7 @@
  * Dark Mode
  */
 @media (prefers-color-scheme: dark) {
+
     :root {
         /* Neutral palette */
         --color-neutral-lightest: hsla(209, 15%, 25%, 1);
