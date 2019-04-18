@@ -1,7 +1,7 @@
 ---
-title: 
+title: Create Vinyl with Bandcamp
 date: 2019-04-18T19:45:41+02:00
-url: 
+url: https://bandcamp.com/vinyl
 tags:
 - music
 - vinyl
