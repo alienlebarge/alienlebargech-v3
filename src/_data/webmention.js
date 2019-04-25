@@ -4,7 +4,7 @@ const unionBy = require('lodash/unionBy')
 const metadata = require('./app.json')
 
 // Load .env variables with dotenv
-require('dotenv').config()
+// require('dotenv').config()
 
 // Configuration Parameters
 const CACHE_DIR = '_cache'
