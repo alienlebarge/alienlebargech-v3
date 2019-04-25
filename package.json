@@ -56,6 +56,7 @@
   },
   "devDependencies": {
     "@alienlebarge/stylelint-config": "^3.1.2",
+    "lodash": "^4.17.11",
     "node-fetch": "^2.3.0",
     "xo": "^0.24.0"
   },
