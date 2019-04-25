@@ -1,5 +1,6 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
+const HttpsProxyAgent = require('https-proxy-agent');
 const unionBy = require('lodash/unionBy');
 const metadata = require('./app.json');
 
@@ -10,6 +11,11 @@ const metadata = require('./app.json');
 const CACHE_DIR = '_cache';
 const API_ORIGIN = 'https://webmention.io/api/mentions.jf2';
 const TOKEN = process.env.WEBMENTION_IO_TOKEN;
+
+const proxyServer = process.env.http_proxy ||
+                    process.env.HTTP_PROXY ||
+                    process.env.https_proxy ||
+                    process.env.HTTPS_PROXY;
 
 async function fetchWebmentions(since) {
   const {domain} = metadata;
@@ -37,7 +43,16 @@ async function fetchWebmentions(since) {
     url += '&per-page=999';
   }
 
-  const response = await fetch(url);
+  let fetchOptions;
+  if (proxyServer) {
+    // If there is a proxy server set in env, set fetchOptions to use it
+    console.warn(
+      'Fetch data using proxy set in env variables: ' + proxyServer
+    );
+    fetchOptions = {agent: new HttpsProxyAgent(proxyServer)};
+  }
+
+  const response = await fetch(url, fetchOptions);
   if (response.ok) {
     const feed = await response.json();
     console.log(
