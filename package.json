@@ -52,6 +52,7 @@
     "postcss-extend-rule": "^2.0.0",
     "postcss-logical": "^3.0.0",
     "postcss-selector-matches": "^4.0.0",
+    "sanitize-html": "^1.20.0",
     "uslug": "^1.0.4"
   },
   "devDependencies": {
