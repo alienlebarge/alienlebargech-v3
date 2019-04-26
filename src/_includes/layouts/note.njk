@@ -1,7 +1,15 @@
 {% set title %}Note: {{ item.date | date(dates.datetime_full) }}{% endset %}
+
+{%- set webmentionUrl -%}{{ app.url }}{{ page.url | url }}{%- endset -%}
 {% extends 'layouts/base.njk' %}
 {% block main %}
     {% include 'header.njk' %}
     {% include 'footer.njk' %}
     {% include 'content.njk' %}
+    <h2>debug</h2>
+    <dl>
+        <dt>webmentionUrl</dd>
+        <dd>{{ webmentionUrl }}</dd>
+    </dl>
+    {% include 'webmentions-list.njk' %}
 {% endblock %}
