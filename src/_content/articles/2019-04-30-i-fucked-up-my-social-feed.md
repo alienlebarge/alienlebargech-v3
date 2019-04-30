@@ -10,7 +10,7 @@ tags:
  - rss
 ---
 
-Today, I've updated my RSS and JSON feed. This had some consequences.
+Last week, I've updated my RSS and JSON feed. This had some consequences.
 
 ## Situation
 
