@@ -18,11 +18,11 @@ permalink: feed.xml
     <icon>{{ app.url }}{{ app.icon }}</icon>
     <rights>&#169; {{ date | date("YYYY") }} {{ app.author.name }}. Content Creative Commons licensed unless otherwise stated.</rights>
     {%- for item in collections.post | reverse %}
-    {% if loop.index < 25 %}
+    {%- if loop.length - loop.revindex < app.feed_limit -%}
         <entry>
             <id>{{ app.url }}{{ item.url }}</id>
             {% if item.data.title %}<title>{{ item.data.title }}</title>{% endif %}
-            <updated>{{ item.data.date | date(dates.iso) }}</updated>
+            <updated>{{ item.date | date(dates.iso) }}</updated>
             <link href="{{ app.url }}{{ item.url }}" rel="alternate" type="text/html"/>
             <content type="html">
                 {{ item.templateContent }}

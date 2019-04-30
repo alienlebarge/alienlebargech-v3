@@ -10,5 +10,6 @@
     "url": "https://alienlebarge.ch",
     "email": "noreply@alienlebarge.ch",
     "avatar": "https://www.gravatar.com/avatar/35449a5b09a740b214e4147d8893aee9?s=512"
-  }
+  },
+  "feed_limit": 25
 }
