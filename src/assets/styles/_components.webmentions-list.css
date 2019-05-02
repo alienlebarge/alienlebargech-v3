@@ -1,0 +1,9 @@
+/* ==========================================================================
+   #C-WEBMENTIONS-LIST
+   ========================================================================== */
+
+.c-webmentions-list__heading {
+    @extend %overline;
+
+    margin-block-start: var(--space-block-medium);
+}
