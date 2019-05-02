@@ -1,0 +1,11 @@
+/* ==========================================================================
+   #U-IMAGES
+   ========================================================================== */
+
+.u-avatar {
+    border-radius: var(--border-radius-small);
+    max-height: var(--space-block-large);
+    max-width: var(--space-block-large);
+
+}
+
