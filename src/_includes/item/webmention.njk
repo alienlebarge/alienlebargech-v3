@@ -1,0 +1,45 @@
+<article class="c-item c-item--inline | h-cite" id="webmention-{{ webmention['wm-id'] }}">
+    <footer class="c-item__footer">
+        <dl>
+            <dt class="u-visually-hidden">Avatar</dt>
+            <dd>
+            {% if webmention.author.photo %}
+                <img class="u-photo" src="{{ webmention.author.photo }}" alt="{{ webmention.author.name }}">
+            {% else %}
+                <img class="" src="{{ '/img/webmention-avatar-default.svg' | url }}" alt="">
+            {% endif %}
+            </dd>
+
+            <dt class="u-visually-hidden">Name</dt>
+            <dd class="p-name">
+            {% if webmention.author.name %}
+                {{ webmention.author.name }}
+            {% else %}
+                Anonymous
+            {% endif %}
+            </dd>
+
+            {% if webmention.published %}
+                <dt class="u-visually-hidden">Published</dt>
+                <dd>
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.published }}">
+                    {{ webmention.published | date("D MMM YYYY")}}
+                </time>
+                </dd>
+            {% endif %}
+            <dt class="u-visually-hidden">Url</dt>
+            <dd>
+            <a class="p-author h-card u-url" href="{{ webmention.url }}" target="_blank" rel="noopener noreferrer">
+                {{ webmention.url | hostname }}
+            </a>
+            </dd>
+        </dl>
+    </footer>
+    <div class="c-item__main o-prose  | p-content">
+        {% if webmention.content.html %}
+            {{ webmention.content.html | safe }}
+        {% elif webmention.content.text %}
+            {{ webmention.content.text | safe }}
+        {% endif %}
+    </div>
+</article>

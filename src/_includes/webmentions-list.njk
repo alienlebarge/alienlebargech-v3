@@ -1,6 +1,12 @@
-<h2>Webmentions list</h2>
-{{ webmentionUrl }}
+{%- set absoluteUrl -%}{{ app.url }}{{ page.url | url }}{%- endset -%}
+{%- set mentions = webmentions.children | webmentions_for_url(absoluteUrl) -%}
 
-{{ webmentions.children }}
+{% if mentions | length %}
+    <section>
+        <h2 class="u-overline">Webmentions</h2>
 
-
+        {% for webmention in mentions | reverse %}
+            {% include 'item/webmention.njk' %}
+        {% endfor %}
+    </section>
+{% endif %}
