@@ -15,14 +15,19 @@ permalink: /feed.json
         "avatar": "{{ app.author.avatar }}"
     },
     "items": [
-        {%- for item in collections.post | reverse -%}
+    {%- for item in collections.post | reverse -%}
+        {%- if loop.length - loop.revindex < app.feed_limit -%}
         {
             "id": "{{ app.url }}{{ item.url }}",
+            "title": "{{ item.data.title }}",
+            {% if item.data.summary %}"summary": "{{ item.data.summary }}",{% endif %}
             "content_html": {{- item.templateContent | dump | safe -}},
             "url": "{{ app.url }}{{ item.url }}",
-            "date_published": "{{ item.data.date | date(dates.iso) }}"
+            {% if item.data.url %}"external_url": "{{ item.data.url }}",{% endif %}
+            "date_published": "{{ item.date | date(dates.iso) }}"
         }
-        {%- if not loop.last -%},{%- endif -%}
-        {%- endfor -%}
+        {%- if loop.length - loop.revindex0 < app.feed_limit -%},{%- endif %}
+        {%- endif -%}
+    {%- endfor -%}
     ]
 }
