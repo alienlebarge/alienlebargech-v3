@@ -52,7 +52,7 @@
 
 .c-item__footer {
     @extend %caption;
-    min-width: 9rem;
+    width: 9rem;
 
     grid-area: footer;
 }
