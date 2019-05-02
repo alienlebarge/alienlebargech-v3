@@ -1,12 +1,22 @@
 <article class="c-item c-item--inline | h-cite" id="webmention-{{ webmention['wm-id'] }}">
+    <div class="c-item__main o-prose | p-content">
+        <p>
+        {% if webmention.content.html %}
+            {{ webmention.content.html | safe }}
+        {% elif webmention.content.text %}
+            {{ webmention.content.text | safe }}
+        {% endif %}
+        </p>
+    </div>
+
     <footer class="c-item__footer">
         <dl>
             <dt class="u-visually-hidden">Avatar</dt>
             <dd>
             {% if webmention.author.photo %}
-                <img class="u-photo" src="{{ webmention.author.photo }}" alt="{{ webmention.author.name }}">
+                <img class="u-avatar | u-photo" src="{{ webmention.author.photo }}" alt="{{ webmention.author.name }}">
             {% else %}
-                <img class="" src="{{ '/img/webmention-avatar-default.svg' | url }}" alt="">
+                <img class="u-avatar" src="{{ '/img/webmention-avatar-default.svg' | url }}" alt="">
             {% endif %}
             </dd>
 
@@ -35,11 +45,4 @@
             </dd>
         </dl>
     </footer>
-    <div class="c-item__main o-prose  | p-content">
-        {% if webmention.content.html %}
-            {{ webmention.content.html | safe }}
-        {% elif webmention.content.text %}
-            {{ webmention.content.text | safe }}
-        {% endif %}
-    </div>
-</article>
+    </article>
