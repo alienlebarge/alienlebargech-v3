@@ -61,6 +61,10 @@
     --anchor-decoration: underline var(--color-link-underline);
 }
 
+.c-item__footer a {
+    word-break: break-word;
+}
+
 @media (--from-small-viewport) {
 
     .c-item__date {
