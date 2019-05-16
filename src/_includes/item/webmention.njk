@@ -11,10 +11,10 @@
 
     <footer class="c-item__footer">
         <dl>
-            <dt class="u-visually-hidden">Avatar</dt>
-            <dd>
+            <dt class="u-visually-hidden" aria-hidden="true">Avatar</dt>
+            <dd aria-hidden="true">
             {% if webmention.author.photo %}
-                <img class="u-avatar | u-photo" src="{{ webmention.author.photo }}" alt="{{ webmention.author.name }}">
+                <img class="u-avatar | u-photo" src="{{ webmention.author.photo }}">
             {% else %}
                 <img class="u-avatar" src="{{ '/img/webmention-avatar-default.svg' | url }}" alt="">
             {% endif %}
