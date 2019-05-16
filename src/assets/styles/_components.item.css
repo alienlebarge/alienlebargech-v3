@@ -52,9 +52,14 @@
 
 .c-item__footer {
     @extend %caption;
-    width: 9rem;
 
     grid-area: footer;
+}
+
+@media (--from-small-viewport) {
+    .c-item__footer {
+        width: 9rem;
+    }
 }
 
 .c-item__footer .u-bookmark-of {
