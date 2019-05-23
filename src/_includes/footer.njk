@@ -18,7 +18,6 @@
             <a{% if vocab %} class="u-url"{% endif %} href="{{ page.url | url }}">
                 <time class="dt-published"
                       datetime="{{ date | date(dates.iso) }}">{{ date | date(dates.datetime_full) }}</time>
-                <!-- {{ date.toString() | date(dates.datetime_full) }} -->
             </a>
         </dd>
         {%- endif %}
