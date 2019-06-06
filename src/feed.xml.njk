@@ -25,7 +25,7 @@ permalink: feed.xml
             <updated>{{ item.date | date(dates.iso) }}</updated>
             <link href="{{ app.url }}{{ item.url }}" rel="alternate" type="text/html"/>
             <content type="html">
-                {{ item.templateContent }}
+                {{ item.templateContent | strip_mentions }}
             </content>
         </entry>
     {% endif %}

@@ -21,7 +21,7 @@ permalink: /feed.json
             "id": "{{ app.url }}{{ item.url }}",
             "title": "{{ item.data.title }}",
             {% if item.data.summary %}"summary": "{{ item.data.summary }}",{% endif %}
-            "content_html": {{- item.templateContent | dump | safe -}},
+            "content_html": {{- item.templateContent | dump | strip_mentions | safe -}},
             "url": "{{ app.url }}{{ item.url }}",
             {% if item.data.url %}"external_url": "{{ item.data.url }}",{% endif %}
             "date_published": "{{ item.date | date(dates.iso) }}"
