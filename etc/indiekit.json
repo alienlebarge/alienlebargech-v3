@@ -15,7 +15,7 @@
     "path": {
       "template": "etc/indiekit/bookmark.njk",
       "post": "src/_content/bookmarks/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
-      "url": "bookmarks/{{ published | date('yyyy/MM/dd') }}/{{ slug }}"
+      "url": "bookmarks/{{ published | date('yyyy/MM') }}/{{ slug }}"
     }
   }, {
   "type": "note",
