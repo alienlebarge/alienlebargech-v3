@@ -18,6 +18,7 @@ permalink: /feed.json
     {%- for item in collections.post | reverse -%}
         {%- if loop.length - loop.revindex < app.feed_limit -%}
         {
+            "id": "{{ app.url }}{{ item.url }}",
             {% if item.data.title %}
                 "title": "{{ item.data.title }}",
             {% endif %}
