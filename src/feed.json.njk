@@ -18,21 +18,17 @@ permalink: /feed.json
     {%- for item in collections.post | reverse -%}
         {%- if loop.length - loop.revindex < app.feed_limit -%}
         {
-            "id": "{{ app.url }}{{ item.url }}",
-            {% if item.data.title -%}
+            {% if item.data.title %}
                 "title": "{{ item.data.title }}",
-            {% elif item.data.summary -%}
-                "title": "{{ item.data.summary }}",
-            {% else -%}
-                "title": "{{- item.templateContent | striptags(false) -}}",
-            {%- endif %}
+            {% endif %}
             {% if item.data.summary -%}
-            "summary": "{{ item.data.summary }}",
+                "summary": "{{ item.data.summary }}",
             {%- endif %}
             "content_html": {{- item.templateContent | dump | strip_mentions | safe -}},
+            "content_text": "{{- item.templateContent | striptags(false) -}}",
             "url": "{{ app.url }}{{ item.url }}",
             {% if item.data.url -%}
-            "external_url": "{{ item.data.url }}",
+                "external_url": "{{ item.data.url }}",
             {%- endif %}
             "date_published": "{{ item.date | date(dates.iso) }}"
         }
