@@ -6,4 +6,4 @@ tags:
 - Music
 - book
 ---
-&gt; This is a small booklet of drum machine patterns.
+> This is a small booklet of drum machine patterns.
