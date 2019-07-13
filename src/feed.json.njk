@@ -19,11 +19,27 @@ permalink: /feed.json
         {%- if loop.length - loop.revindex < app.feed_limit -%}
         {
             "id": "{{ app.url }}{{ item.url }}",
-            "title": "{{ item.data.title }}",
-            {% if item.data.summary %}"summary": "{{ item.data.summary }}",{% endif %}
-            "content_html": {{- item.templateContent | dump | strip_mentions | safe -}},
             "url": "{{ app.url }}{{ item.url }}",
-            {% if item.data.url %}"external_url": "{{ item.data.url }}",{% endif %}
+            {% if item.data.title -%}
+                "title": "{{ item.data.title }}",
+            {%- endif %}
+            {% if item.data.tags -%}
+                "tags": [
+                {%- for tag in item.data.tags -%}
+                    "{{ tag }}"
+                    {%- if not loop.last -%}
+                        ,
+                    {%- endif -%}
+                {%- endfor -%}
+                ],
+            {%- endif %}
+            {% if item.data.summary -%}
+                "summary": "{{ item.data.summary }}",
+            {%- endif %}
+            "content_html": {{- item.templateContent | dump | strip_mentions | safe -}},
+            {% if item.data.url -%}
+                "external_url": "{{ item.data.url }}",
+            {%- endif %}
             "date_published": "{{ item.date | date(dates.iso) }}"
         }
         {%- if loop.length - loop.revindex0 < app.feed_limit -%},{%- endif %}
