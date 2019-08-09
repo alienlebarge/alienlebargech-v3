@@ -6,5 +6,8 @@ categories:
 - {{ item }}
 {%- endfor %}
 {%- endif %}
+{%- if geo %}
+geo: {{ geo }}
+{% endif %-}
 ---
 {{ content | safe }}
