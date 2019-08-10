@@ -27,6 +27,7 @@
       "type": "note",
       "name": "Note",
       "path": {
+        "template": "etc/indiekit/note.njk",
         "post": "src/_content/notes/{{ published | date('yyyyMMddhhmmss') }}.md",
         "url": "notes/{{ published | date('yyyyMMddhhmmss') }}"
       }
