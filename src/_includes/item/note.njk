@@ -1,11 +1,12 @@
-<article class="c-item c-item--inline | h-entry" data-type="note">
-    <div class="c-item__main o-prose | e-content p-name">
-        {{ item.templateContent | safe }}
-    </div>
-    <footer class="c-item__footer">
-        <dl>
-            <dt class="u-visually-hidden">Published on</dt>
-            <dd>
+<article class="o-switcher | h-entry" data-type="note">
+    <div class="o-switcher__container">
+        <div class="o-switcher__item o-switcher__item--big c-item__main o-prose | e-content p-name">
+            {{ item.templateContent | safe }}
+        </div>
+        <footer class="o-switcher__item c-item__footer">
+            <dl>
+                <dt class="u-visually-hidden">Published on</dt>
+                <dd>
                 <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
                     {# TODO: use src/_data/dates.json to format the date. #}
                     <time class="dt-published c-item__date"
@@ -14,7 +15,8 @@
                         <span>{{ item.date | date("HH:mm") }}</span>
                     </time>
                 </a>
-            </dd>
-        </dl>
-    </footer>
+                </dd>
+            </dl>
+        </footer>
+    </div>
 </article>
