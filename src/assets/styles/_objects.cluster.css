@@ -1,0 +1,36 @@
+/* ==========================================================================
+   #CLUSTER
+   ========================================================================== */
+
+
+.o-cluster {
+  overflow: hidden;
+}
+
+.o-cluster--medium {
+  --space: var(--space-block-medium);
+}
+
+.o-cluster--small {
+  --space: var(--space-block-small);
+}
+
+.o-cluster__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  margin: calc(var(--space) / 2 * -1);
+}
+
+.o-cluster__container--space-between {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: calc(var(--space) / 2 * -1);
+}
+
+.o-cluster__item {
+  margin: calc(var(--space) / 2);
+}

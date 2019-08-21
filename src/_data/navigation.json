@@ -1,11 +1,9 @@
 {
-  "primary": [
+  "items": [
     {
       "label": "Articles",
       "url": "/articles/"
-    }
-  ],
-  "secondary": [
+    },
     {
       "label": "Notes",
       "url": "/notes/"
