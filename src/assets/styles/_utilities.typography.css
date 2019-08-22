@@ -42,6 +42,14 @@
     font-weight: 700 !important;
 }
 
+.u-font-family\:monospace {
+    font-family: var(--font-family-monospace) !important;
+}
+
+.u-font-style\:italic {
+    font-style: italic;
+}
+
 /* -------------------------------------
    #U-SUP
    ------------------------------------- */
