@@ -11,8 +11,8 @@
     display: flex;
 
     margin: calc((var(--s1) / 2) * -1);
-    flex-wrap: wrap;
     align-items: baseline;
+    flex-wrap: wrap;
 }
 
 .o-switcher__item {
