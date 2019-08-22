@@ -7,7 +7,7 @@
  */
 
 .o-prose {
-    --flow-space: var(--line-height-loose);
+    --space: var(--line-height-loose);
     --flow-inset: 1.5em;
     --list-display: list-item;
     --anchor-decoration: underline;
@@ -15,14 +15,74 @@
     font-weight: var(--font-weight-body, inherit);
 }
 
+/* -------------------------------------
+   #SPACES
+   ------------------------------------- */
+
 /**
- * Images are not included because because they are fluid by default
- * (`max-width: 100%;`). This is defined in the element style. And we do not
- * want to override it.
+ * Vertical space (flow direction)
  */
-.o-prose *:not(img) {
-    max-inline-size: var(--line-measure);
+
+.o-prose * {
+    margin-block-start: 0;
+    margin-block-end: 0;
 }
+
+.o-prose * + * {
+    margin-block-start: var(--space);
+}
+
+/**
+ * Exceptions
+ *
+ * 1. Space after h2
+ * 2. Space after h3
+ * 3. Space after h4, h5 and h6
+ * 4. Space between li
+ * 5. Space between an ul inside a li
+ */
+
+.o-prose h2 + * {
+    --space: var(--s-3); /* [1] */
+}
+
+.o-prose h3 + * {
+    --space: var(--s-4); /* [2] */
+}
+
+.o-prose :matches(h4, h5, h6) + * {
+    --space: 0; /* [3] */
+}
+
+.o-prose ul li {
+    --space: var(--s-3); /* [4] */
+}
+
+.o-prose li > ul {
+    margin-block-start: var(--space); /* [5] */
+}
+
+
+
+/**
+ * Horizontal space (writing direction)
+ *
+ *  1. Images are not included because because they are fluid by default
+ *     (`max-width: 100%;`). This is defined in the element style. And we do not
+ *     want to override it.
+ */
+
+.o-prose *:not(img) {
+    max-inline-size: var(--line-measure); /* [1] */
+}
+
+/* -------------------------------------
+   #STYLES
+   ------------------------------------- */
+
+/**
+ * Paragraphs
+ */
 
 .o-prose p {
     line-height: var(--line-height-loose);
@@ -35,41 +95,29 @@
 
 
 
-/* -------------------------------------
-   #HEADINGS
-   ------------------------------------- */
+/**
+ * Headings
+ */
 
 .o-prose h2 {
     @extend %heading;
-
-    margin-block-end: var(--s-2);
 }
 
 .o-prose h3 {
     @extend %subhead;
-
-    margin-block-end: var(--s-3);
 }
 
 .o-prose :matches(h4, h5, h6) {
     @extend %overline;
-
-    margin-block-end: var(--s-4);
-}
-
-.o-prose * + h2 {
-    margin-block-start: var(--s2);
-}
-
-.o-prose * + :matches(h3, h4) {
-    margin-block-start: var(--s0);
 }
 
 
 
-/* -------------------------------------
-   #LISTS
-   ------------------------------------- */
+
+/**
+ * Lists
+ */
+
 .o-prose :--list {
     padding-inline-start: 0;
 }
@@ -86,6 +134,4 @@
 
 .o-prose figcaption {
     @extend %caption;
-    margin-block-end: var(--flow-space);
-    padding-block-start: var(--s-2);
 }
