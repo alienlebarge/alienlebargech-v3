@@ -3,64 +3,26 @@
    ========================================================================== */
 
 .c-item {
-    @extend %reference;
-    display: grid;
-    align-items: baseline;
-    flex-wrap: wrap;
-
-    grid-column-gap: var(--space-inline);
-    grid-template-areas: "header image"
-                         "main image"
-                         "footer footer";
-    grid-template-columns: 1fr min-content;
-
-    grid-template-rows: auto 1fr auto;
-
-    padding-block-start: var(--s-4);
-}
-
-@media (--from-small-viewport) {
-
-    .c-item {
-        grid-template-areas: "footer header image"
-                             "footer main image";
-        grid-template-columns: auto 1fr auto;
-        grid-template-rows: auto 1fr;
-    }
 }
 
 /**
  * Add line only if there's something after
  */
-* + .c-item {
+.c-item + .c-item {
     border-top-color: var(--color-alpha-highest);
     border-top-style: solid;
     border-top-width: var(--border-width-thin);
-    margin-block-end: var(--s2);
+    padding-block-start: var(--s-2);
 }
 
 .c-item__header {
     @extend %subhead;
 
     --anchor-decoration: underline var(--color-link-underline);
-    grid-area: header;
-}
-
-.c-item__main {
-    grid-area: main;
 }
 
 .c-item__footer {
     @extend %caption;
-
-    grid-area: footer;
-}
-
-@media (--from-small-viewport) {
-
-    .c-item__footer {
-        width: 9rem;
-    }
 }
 
 .c-item__footer .u-bookmark-of {
@@ -69,13 +31,5 @@
 
 .c-item__footer a {
     word-break: break-word;
-}
-
-@media (--from-small-viewport) {
-
-    .c-item__date {
-        display: flex;
-        flex-direction: column;
-    }
 }
 

@@ -12,6 +12,7 @@
 
     margin: calc((var(--s1) / 2) * -1);
     flex-wrap: wrap;
+    align-items: baseline;
 }
 
 .o-switcher__item {
