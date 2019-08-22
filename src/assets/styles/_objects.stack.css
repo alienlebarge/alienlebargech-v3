@@ -9,6 +9,8 @@
  */
 .o-stack.o-stack--s-2 { --space: var(--s-2); /* [1] */ }
 
+.o-stack.o-stack--s-1 { --space: var(--s-1); /* [1] */ }
+
 .o-stack.o-stack--s0 { --space: var(--s0); /* [1] */ }
 
 .o-stack.o-stack--s1 { --space: var(--s1); /* [1] */ }
