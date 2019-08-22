@@ -1,6 +1,6 @@
 <article class="o-switcher | h-entry" data-type="note">
     <div class="o-switcher__container">
-        <div class="o-switcher__item o-switcher__item--big c-item__main o-prose | e-content p-name">
+        <div class="o-switcher__item o-switcher__item--big | e-content p-name">
             {{ item.templateContent | safe }}
         </div>
         <footer class="o-switcher__item c-item__footer">
@@ -9,7 +9,7 @@
                 <dd>
                 <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
                     {# TODO: use src/_data/dates.json to format the date. #}
-                    <time class="dt-published c-item__date"
+                    <time class="dt-published"
                           datetime="{{ item.date | date }}">
                         <span>{{ item.date | date("D MMM YYYY") }}</span>
                         <span>{{ item.date | date("HH:mm") }}</span>

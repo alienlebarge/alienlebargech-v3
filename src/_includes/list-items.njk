@@ -1,5 +1,7 @@
 {% macro listItems(items) %}
+<div class="o-stack">
 {%- for item in items -%}
 {%- include 'item/' + item.data.type + '.njk' -%}
 {%- endfor -%}
+</div>
 {% endmacro %}
