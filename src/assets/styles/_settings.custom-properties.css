@@ -40,24 +40,38 @@
     --color-insert: hsla(120, 100%, 80%, .5);
     --color-focus: var(--color-accent);
 
+    /* Sizing */
+    --ratio: 1.5;
+    --s-5: calc(var(--s-4) / var(--ratio));
+    --s-4: calc(var(--s-3) / var(--ratio));
+    --s-3: calc(var(--s-2) / var(--ratio));
+    --s-2: calc(var(--s-1) / var(--ratio));
+    --s-1: calc(var(--s0) / var(--ratio));
+    --s0: calc(1em + 0.333vw);
+    --s1: calc(var(--s0) * var(--ratio));
+    --s2: calc(var(--s1) * var(--ratio));
+    --s3: calc(var(--s2) * var(--ratio));
+    --s4: calc(var(--s3) * var(--ratio));
+    --s5: calc(var(--s4) * var(--ratio));
+
     /* Typography */
     --font-family-display: "UntitledSerifDisplay", serif;
     --font-family-serif: "UntitledSerif", serif;
     --font-family-sans: "Untitled", sans-serif;
     --font-family-system: system-ui;
     --font-family-monospace: "UntitledMono", monospace;
-    --font-size-title: calc(2.25rem + 2vmin);
-    --font-size-lede: calc(1.25rem + 1.25vmin);
-    --font-size-heading: calc(1.875em + .75vmin);
-    --font-size-subhead: calc(1.5em + .125vmin);
-    --font-size-body: calc(1rem + .375vmin);
-    --font-size-reference: calc(.875rem + .25vmin);
-    --font-size-caption: calc(.85rem + .125vmin);
-    --font-size-default: 1rem;
+    --font-size-title: var(--s3);
+    --font-size-lede: var(--s1);
+    --font-size-heading: var(--s2);
+    --font-size-subhead: var(--s1);
+    --font-size-body: var(--s0);
+    --font-size-reference: var(--s-1);
+    --font-size-caption: var(--s-1);
+    --font-size-default: 1em;
     --font-weight-lede: 500;
     --line-height-solid: 1em;
-    --line-height-tight: calc(1.25em + .25vw);
-    --line-height-loose: calc(1.4em + .25vw);
+    --line-height-tight: calc(var(--ratio) * 3 / 4);
+    --line-height-loose: var(--ratio);
     --line-measure: 55ch;
     --word-spacing: 0;
 
@@ -69,11 +83,11 @@
     --border-width-thickest: .5rem;
 
     /* Spacing > Block */
-    --space-block-xlarge: calc(2rem + 6vh);
-    --space-block-large: calc(1.5rem + 4.5vh);
-    --space-block-medium: calc(1rem + 3vh);
-    --space-block-small: calc(.5rem + 1.5vmin);
-    --space-block-xsmall: calc(.25rem + .5vh);
+    --space-block-xlarge: var(--s4);
+    --space-block-large: var(--s2);
+    --space-block-medium: var(--s0);
+    --space-block-small: var(--s-2);
+    --space-block-xsmall: var(--s-4);
 
     /* Spacing > Inline */
     --space-inline-small: .375rem;

@@ -31,7 +31,7 @@ hr,
 table,
 fieldset,
 legend {
-    margin: 0 0 var(--flow-space, 0) 0;
+    margin: 0 0 var(--s0, 0) 0;
 }
 
 
