@@ -70,8 +70,8 @@
     --font-size-default: 1em;
     --font-weight-lede: 500;
     --line-height-solid: 1em;
-    --line-height-tight: calc(var(--ratio) * 3 / 4);
-    --line-height-loose: var(--ratio);
+    --line-height-tight: calc(var(--ratio) * 3em / 4);
+    --line-height-loose: calc(var(--ratio) * 1em);
     --line-measure: 55ch;
     --word-spacing: 0;
 
