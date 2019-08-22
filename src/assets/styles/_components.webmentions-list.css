@@ -5,5 +5,5 @@
 .c-webmentions-list__heading {
     @extend %overline;
 
-    margin-block-start: var(--space-block-medium);
+    margin-block-start: var(--s0);
 }

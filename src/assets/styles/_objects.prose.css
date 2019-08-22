@@ -42,13 +42,13 @@
 .o-prose h2 {
     @extend %heading;
 
-    margin-block-end: var(--space-block-small);
+    margin-block-end: var(--s-2);
 }
 
 .o-prose h3 {
     @extend %subhead;
 
-    margin-block-end: var(--space-block-xsmall);
+    margin-block-end: var(--s-4);
 }
 
 .o-prose :matches(h4, h5, h6) {
@@ -58,11 +58,11 @@
 }
 
 .o-prose * + h2 {
-    margin-block-start: var(--space-block-large);
+    margin-block-start: var(--s2);
 }
 
 .o-prose * + :matches(h3, h4) {
-    margin-block-start: var(--space-block-medium);
+    margin-block-start: var(--s0);
 }
 
 
@@ -87,5 +87,5 @@
 .o-prose figcaption {
     @extend %caption;
     margin-block-end: var(--flow-space);
-    padding-block-start: var(--space-block-small);
+    padding-block-start: var(--s-2);
 }

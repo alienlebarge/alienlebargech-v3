@@ -4,7 +4,7 @@
 
 [data-type="note"] .c-content {
     --font-size-body: var(--font-size-lede);
-    --flow-space: var(--space-block-small);
+    --flow-space: var(--s-2);
     --font-weight-body: var(--font-weight-lede);
     font-family: var(--font-family-display);
     font-variation-settings: "wght" var(--font-weight-body);

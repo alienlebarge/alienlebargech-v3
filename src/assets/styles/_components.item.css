@@ -16,7 +16,7 @@
 
     grid-template-rows: auto 1fr auto;
 
-    padding-block-start: var(--space-block-xsmall);
+    padding-block-start: var(--s-4);
 }
 
 @media (--from-small-viewport) {
@@ -36,7 +36,7 @@
     border-top-color: var(--color-alpha-highest);
     border-top-style: solid;
     border-top-width: var(--border-width-thin);
-    margin-block-end: var(--space-block-large);
+    margin-block-end: var(--s2);
 }
 
 .c-item__header {

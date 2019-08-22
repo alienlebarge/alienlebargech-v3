@@ -6,7 +6,7 @@
     position: relative;
 
     display: flex;
-    margin-block-end: var(--space-block-xsmall);
+    margin-block-end: var(--s-4);
 }
 
 /**

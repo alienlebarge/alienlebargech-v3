@@ -7,7 +7,7 @@
     color: var(--color-neutral-dark);
 
     background-color: var(--color-neutral-lighter);
-    padding-block: var(--space-block-small);
+    padding-block: var(--s-2);
 }
 
 .c-contentinfo svg {

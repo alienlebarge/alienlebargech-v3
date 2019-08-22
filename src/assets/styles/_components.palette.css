@@ -11,7 +11,7 @@
 
 .c-palette__item {
     display: block;
-    max-width: var(--space-block-xlarge);
+    max-width: var(--s4);
     margin-block-end: var(--flow-space);
     margin-inline: var(--space-inline, 0);
 
@@ -20,8 +20,8 @@
 
 .c-palette__item::before {
     display: block;
-    width: var(--space-block-xlarge);
-    height: var(--space-block-xlarge);
+    width: var(--s4);
+    height: var(--s4);
 
     background: currentcolor;
     border-radius: var(--border-radius-small);

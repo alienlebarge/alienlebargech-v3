@@ -8,7 +8,7 @@
 
 .c-header {
     --anchor-decoration: underline var(--color-link-underline);
-    margin-block-end: var(--space-block-large);
+    margin-block-end: var(--s2);
 }
 
 .c-header__title,
