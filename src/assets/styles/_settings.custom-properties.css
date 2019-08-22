@@ -58,7 +58,7 @@
     --line-height-solid: 1em;
     --line-height-tight: calc(1.25em + .25vw);
     --line-height-loose: calc(1.4em + .25vw);
-    --line-measure: 42.5rem;
+    --line-measure: 55ch;
     --word-spacing: 0;
 
     /* Borders */
