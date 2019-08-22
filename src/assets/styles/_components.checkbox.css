@@ -57,6 +57,7 @@
  */
 .c-checkbox__label {
     cursor: pointer;
+    margin-inline-start: var(--s0) /* [1] */;
 }
 
 .c-checkbox__input:disabled + .c-checkbox__label {
