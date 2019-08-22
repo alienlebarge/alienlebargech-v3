@@ -8,17 +8,17 @@
 }
 
 .o-cluster--medium {
-    --space: var(--s0);
+    --cluster__space: var(--s0);
 }
 
 .o-cluster--small {
-    --space: var(--s-2);
+    --cluster__space: var(--s-2);
 }
 
 .o-cluster__container {
     display: flex;
 
-    margin: calc(var(--space) / 2 * -1);
+    margin: calc(var(--cluster__space) / 2 * -1);
     align-items: center;
     flex-wrap: wrap;
     justify-content: flex-start;
@@ -27,12 +27,12 @@
 .o-cluster__container--space-between {
     display: flex;
 
-    margin: calc(var(--space) / 2 * -1);
+    margin: calc(var(--cluster__space) / 2 * -1);
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
 .o-cluster__item {
-    margin: calc(var(--space) / 2);
+    margin: calc(var(--cluster__space) / 2);
 }
