@@ -8,17 +8,22 @@
  * 1. define different sizes
  */
 .o-stack.o-stack--s-2 { --space: var(--s-2); /* [1] */ }
+
 .o-stack.o-stack--s0 { --space: var(--s0); /* [1] */ }
+
 .o-stack.o-stack--s1 { --space: var(--s1); /* [1] */ }
+
 .o-stack.o-stack--s2 { --space: var(--s2); /* [1] */ }
+
 .o-stack.o-stack--s3 { --space: var(--s3); /* [1] */ }
+
 .o-stack.o-stack--s4 { --space: var(--s4); /* [1] */ }
 
 .o-stack > * {
-  margin-top: 0;
-  margin-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .o-stack > * + * {
-  margin-top: var(--space);
+    margin-top: var(--space);
 }

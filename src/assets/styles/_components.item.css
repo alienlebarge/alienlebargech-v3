@@ -57,6 +57,7 @@
 }
 
 @media (--from-small-viewport) {
+
     .c-item__footer {
         width: 9rem;
     }
