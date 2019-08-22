@@ -2,8 +2,12 @@
    #STACK
    ========================================================================== */
 
-.o-stack {
+.o-stack.o-stack--small {
   --space: var(--space-block-small);
+}
+
+.o-stack.o-stack--medium {
+  --space: var(--space-block-medium);
 }
 
 .o-stack > * {
