@@ -30,7 +30,7 @@
         {% include 'banner.njk' %}
         <main class="c-main c-page__main{% if vocab %} |{% for root in vocab %} h-{{ root }}{% endfor %}{% endif %}"
               {% if type %}data-type="{{ type }}"{% endif %}>
-            <div class="o-container c-main__container">
+            <div class="o-container c-main__container o-stack o-stack--s2">
                 {% block main %}
                     {{ layoutContent | safe }}
                 {% endblock %}
