@@ -6,14 +6,12 @@
     border-top-color: var(--color-alpha-highest);
     border-top-style: solid;
     border-top-width: var(--border-width-thin);
-    margin-block-end: var(--s2);
 }
 
 .c-pagination__link {
     display: flex;
     flex-direction: column;
-    margin-block-end: var(--s-2);
-    padding-block-start: var(--s-4);
+    padding-block-start: var(--space-block-xsmall);
 }
 
 .c-pagination__caption {

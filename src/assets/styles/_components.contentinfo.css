@@ -2,12 +2,14 @@
    #CONTENTINFO
    ========================================================================== */
 
+/**
+ * TODO: Check if this component need to be refactored
+ */
 .c-contentinfo {
     font-size: var(--font-size-reference);
     color: var(--color-neutral-dark);
 
     background-color: var(--color-neutral-lighter);
-    padding-block: var(--s-2);
 }
 
 .c-contentinfo svg {

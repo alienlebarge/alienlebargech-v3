@@ -3,10 +3,10 @@
 {%- if pagination.hrefs.length > 1 -%}
 <nav class="c-pagination" aria-label="Pagination">
   <h2 class="u-visually-hidden">Pagination</h2>
-  <ul>
+  <ul class="o-stack o-stack--s0">
     {# Check if we are on the last page #}
     {%- if pagination.nextPageHref -%}
-    <li>
+    <li class="o-stack__item">
         <a href="{{ pagination.nextPageHref }}"
            rel="next"
            class="c-pagination__link">
@@ -21,7 +21,7 @@
     {%- endif -%}
     {# Check if we are on the first page #}
     {%- if pagination.previousPageHref -%}
-    <li>
+    <li class="o-stack__item">
         <a href="{{ pagination.previousPageHref }}"
            rel="prev"
            class="c-pagination__link">
