@@ -1,8 +1,8 @@
-<header class="c-header{% if vocab and type != "note" %} | p-name{% endif %}">
-    <h1 class="c-header__title">{{ title }}</h1>
+<header class="o-prose {% if vocab and type != "note" %} | p-name{% endif %}">
+    <h1>{{ title }}</h1>
     {% if summary -%}
-        <div class="c-header__summary{% if vocab %} | p-summary{% endif %}">
-        <p>{{ summary }}
-    </div>
+        <p class="u-lede {% if vocab %} | p-summary{% endif %}">
+        {{ summary }}
+        </p>
     {%- endif %}
 </header>
