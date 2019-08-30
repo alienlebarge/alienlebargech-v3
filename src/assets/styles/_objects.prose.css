@@ -99,6 +99,10 @@
  * Headings
  */
 
+.o-prose h1 {
+    @extend %title;
+}
+
 .o-prose h2 {
     @extend %heading;
 }
