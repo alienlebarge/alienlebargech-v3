@@ -7,11 +7,24 @@
  *
  * 1. define different sizes
  */
+
+.o-stack > * {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/**
+ * Define spaces for each modifier
+ */
+.o-stack.o-stack--s-4 { --stack__space: var(--s-4); /* [1] */ }
+
+.o-stack.o-stack--s-3 { --stack__space: var(--s-3); /* [1] */ }
+
 .o-stack.o-stack--s-2 { --stack__space: var(--s-2); /* [1] */ }
 
 .o-stack.o-stack--s-1 { --stack__space: var(--s-1); /* [1] */ }
 
-.o-stack.o-stack--s0 { --stack__space: var(--s0); /* [1] */ }
+.o-stack { --stack__space: var(--s0); /* [1] */ }
 
 .o-stack.o-stack--s1 { --stack__space: var(--s1); /* [1] */ }
 
@@ -21,11 +34,8 @@
 
 .o-stack.o-stack--s4 { --stack__space: var(--s4); /* [1] */ }
 
-.o-stack > * {
-    margin-top: 0;
-    margin-bottom: 0;
-}
-
+/* set the space */
 .o-stack > * + * {
     margin-top: var(--stack__space);
 }
+
