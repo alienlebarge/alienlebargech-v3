@@ -36,6 +36,6 @@
 
 /* set the space */
 .o-stack > * + * {
-    margin-top: var(--stack__space);
+    margin-block-start: var(--stack__space);
 }
 
