@@ -75,6 +75,9 @@
     --line-measure: 55ch;
     --word-spacing: 0;
 
+    /* Container */
+    --measure: 70ch;
+
     /* Borders */
     --border-radius-xsmall: .125rem;
     --border-radius-small: .25rem;
