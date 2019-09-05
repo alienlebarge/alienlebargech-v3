@@ -41,13 +41,13 @@
     --color-focus: var(--color-accent);
 
     /* Sizing */
-    --ratio: 1.5;
+    --ratio: 1.4;
     --s-5: calc(var(--s-4) / var(--ratio));
     --s-4: calc(var(--s-3) / var(--ratio));
     --s-3: calc(var(--s-2) / var(--ratio));
     --s-2: calc(var(--s-1) / var(--ratio));
     --s-1: calc(var(--s0) / var(--ratio));
-    --s0: calc(1em + .333vw);
+    --s0: calc(1rem + .333vw);
     --s1: calc(var(--s0) * var(--ratio));
     --s2: calc(var(--s1) * var(--ratio));
     --s3: calc(var(--s2) * var(--ratio));
@@ -60,10 +60,10 @@
     --font-family-sans: "Untitled", sans-serif;
     --font-family-system: system-ui;
     --font-family-monospace: "UntitledMono", monospace;
-    --font-size-title: var(--s3);
-    --font-size-lede: var(--s1);
-    --font-size-heading: var(--s2);
-    --font-size-subhead: var(--s1);
+    --font-size-title: var(--s4);
+    --font-size-lede: var(--s2);
+    --font-size-heading: var(--s3);
+    --font-size-subhead: var(--s2);
     --font-size-body: var(--s0);
     --font-size-reference: var(--s-1);
     --font-size-caption: var(--s-1);
