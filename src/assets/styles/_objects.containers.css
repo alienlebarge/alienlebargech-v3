@@ -3,8 +3,8 @@
    ========================================================================== */
 
 .o-container {
+    width: 100%;
     box-sizing: content-box;
     margin-inline: auto;
     max-inline-size: var(--measure);
-    width: 100%;
 }
