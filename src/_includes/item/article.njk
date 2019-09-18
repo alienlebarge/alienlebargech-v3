@@ -1,4 +1,4 @@
-<article class="c-item c-item--inline | h-entry" data-type="articles">
+<article class="o-prose c-item c-item--inline | h-entry" data-type="articles">
     {%- if item.data.title -%}
     <header class="c-item__header">
         <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
@@ -6,7 +6,7 @@
     {%- endif -%}
 
     {%- if item.data.summary or item.data.description -%}
-    <div class="c-item__main o-prose | e-content p-summary">
+    <div class="c-item__main | e-content p-summary">
         <p>
         {%- if item.data.summary -%}
         {{ item.data.summary }}
