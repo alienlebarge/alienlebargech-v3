@@ -28,7 +28,7 @@
         </head>
     <body class="c-page">
         {% include 'banner.njk' %}
-        <main class="o-container o-box o-box--s1 o-stack o-stack--s2 c-main c-page__main{% if vocab %} |{% for root in vocab %} h-{{ root }}{% endfor %}{% endif %}"
+        <main class="o-container  o-box o-box--s1  o-stack o-stack--s4  c-main c-page__main{% if vocab %} |{% for root in vocab %} h-{{ root }}{% endfor %}{% endif %}"
               {% if type %}data-type="{{ type }}"{% endif %}>
             {% block main %}
                 {{ layoutContent | safe }}
