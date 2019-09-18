@@ -28,9 +28,13 @@ pre {
    #BLOCKQUOTE
    ------------------------------------- */
 
+/**
+ * 1. Override browser style
+ */
 blockquote {
     border-inline-start: var(--border-width-thickest) solid var(--color-rule);
     padding-inline-start: var(--flow-inset);
+    margin-inline-start: 0; /* [1] */
 }
 
 
