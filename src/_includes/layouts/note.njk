@@ -3,8 +3,8 @@
 {%- set webmentionUrl -%}{{ app.url }}{{ page.url | url }}{%- endset -%}
 {% extends 'layouts/base.njk' %}
 {% block main %}
-    {% include 'header.njk' %}
     {% include 'footer.njk' %}
+    {% include 'header.njk' %}
     {% include 'content.njk' %}
     {% include 'webmentions-list.njk' %}
 {% endblock %}
