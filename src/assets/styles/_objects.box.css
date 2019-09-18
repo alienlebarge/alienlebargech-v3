@@ -4,7 +4,13 @@
 
 .o-box {
     display: block;
+}
 
+.o-box--s0 {
     padding: var(--s0);
+}
+
+.o-box--s1 {
+    padding: var(--s1);
 }
 
