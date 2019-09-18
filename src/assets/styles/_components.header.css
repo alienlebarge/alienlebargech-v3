@@ -2,6 +2,10 @@
    #HEADER
    ========================================================================== */
 
+.c-header {
+    margin-block-start: var(--s2);
+}
+
 [data-type="note"] .c-header {
     @extend %visually-hidden;
 }
