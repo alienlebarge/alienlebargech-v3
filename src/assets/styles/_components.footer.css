@@ -4,8 +4,6 @@
 
 .c-footer {
     @extend %caption;
-
-    margin-block-end: var(--s0);
 }
 
 .c-footer .u-bookmark-of {
