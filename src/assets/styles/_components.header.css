@@ -5,21 +5,3 @@
 [data-type="note"] .c-header {
     @extend %visually-hidden;
 }
-
-.c-header {
-    --anchor-decoration: underline var(--color-link-underline);
-    margin-block-end: var(--s2);
-}
-
-.c-header__title,
-.c-header__summary {
-    max-width: var(--line-measure);
-}
-
-.c-header__title {
-    @extend %title;
-}
-
-.c-header__summary {
-    @extend %lede;
-}
