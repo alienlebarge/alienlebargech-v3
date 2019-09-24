@@ -61,15 +61,12 @@ html {
  */
 
 body {
-    font-size: var(--font-size-body); /* [1] */
-    font-family: var(--font-family-serif);
-    line-height: var(--line-height-tight); /* [1] */
+    @extend %body;
+    @extend %type-feature-body;
     color: var(--color-text);
 
     background: var(--color-offset);
     min-block-size: 100vh; /* [2] */
-
-    @extend %type-feature-body;
 }
 
 

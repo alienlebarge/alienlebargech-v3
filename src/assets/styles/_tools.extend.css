@@ -6,11 +6,15 @@
    #TYPOGRAPHIC
    ------------------------------------- */
 
+/**
+ * 1. Avoid adding more letter-spacing when on dark mode
+ */
 %title {
     font-size: var(--font-size-title);
     font-weight: var(--font-weight-title, 700);
     font-family: var(--font-family-title, var(--font-family-display));
     line-height: var(--line-height-title, var(--line-height-solid));
+    letter-spacing: 0; /* [1] */
     font-variation-settings: "wght" var(--font-weight-title, 700);
     hanging-punctuation: first;
 }
@@ -26,20 +30,28 @@
     hanging-punctuation: first;
 }
 
+/**
+ * 1. Avoid adding more letter-spacing when on dark mode
+ */
 %heading {
     font-size: var(--font-size-heading);
     font-weight: var(--font-weight-heading, 600);
     font-family: var(--font-family-heading, var(--font-family-display));
     line-height: var(--line-height-heading, var(--line-height-tight));
+    letter-spacing: 0; /* [1] */
     font-variation-settings: "wght" var(--font-weight-heading, 600);
     hanging-punctuation: first;
 }
 
+/**
+ * 1. Avoid adding more letter-spacing when on dark mode
+ */
 %subhead {
     font-size: var(--font-size-subhead);
     font-weight: var(--font-weight-subhead, 600);
     font-family: var(--font-family-subhead, var(--font-family-display));
     line-height: var(--line-height-subhead, var(--line-height-tight));
+    letter-spacing: 0; /* [1] */
     font-variation-settings: "wght" var(--font-weight-subhead, 600);
     hanging-punctuation: first;
 }
@@ -57,8 +69,10 @@
     --flow-space: var(--line-height-body);
     --line-height-body: var(--line-height-loose);
     font-size: var(--font-size-body);
+    font-family: var(--font-family-serif);
     font-variant: oldstyle-nums;
     line-height: var(--line-height-body);
+    letter-spacing: var(--letter-spacing-body);
     hanging-punctuation: first;
     hyphens: auto;
     word-spacing: var(--word-spacing);
@@ -69,6 +83,7 @@
     --line-height-reference: var(--line-height-tight);
     font-size: var(--font-size-reference);
     font-variant: oldstyle-nums;
+    letter-spacing: var(--letter-spacing-body);
     line-height: var(--line-height-reference);
     hanging-punctuation: first;
     hyphens: auto;
@@ -79,6 +94,7 @@
     --flow-space: calc(var(--line-height-caption) / 3);
     --line-height-caption: var(--line-height-tight);
     font-size: var(--font-size-caption);
+    letter-spacing: var(--letter-spacing-body);
     line-height: var(--line-height-caption);
     color: var(--color-neutral-dark);
 }
