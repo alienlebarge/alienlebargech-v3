@@ -21,7 +21,7 @@
  */
 
 html {
-    block-size: 100vw;
+    block-size: 100vh;
     overflow-y: scroll; /* [1] */
     scroll-behavior: smooth;
     text-rendering: optimizeLegibility;
