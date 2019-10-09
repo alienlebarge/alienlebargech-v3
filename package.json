@@ -33,7 +33,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.3",
     "autoprefixer": "^9.6.4",
     "cssnano": "^4.1.10",
-    "https-proxy-agent": "^2.2.2",
+    "https-proxy-agent": "^3.0.0",
     "markdown-it": "^8.4.2",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-anchor": "^5.2.4",
