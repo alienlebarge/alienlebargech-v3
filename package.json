@@ -50,7 +50,7 @@
     "postcss-custom-media": "^7.0.8",
     "postcss-custom-selectors": "^5.1.2",
     "postcss-easy-import": "^3.0.0",
-    "postcss-extend-rule": "^2.0.0",
+    "postcss-extend-rule": "^3.0.0",
     "postcss-logical": "^4.0.0",
     "postcss-selector-matches": "^4.0.0",
     "sanitize-html": "^1.20.1",
