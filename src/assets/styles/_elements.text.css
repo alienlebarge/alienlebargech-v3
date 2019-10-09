@@ -92,7 +92,7 @@ var {
 
 code,
 samp {
-    font-size: var(--font-size-default);
+    font-size: var(--font-size-reference);
 }
 
 :not(pre) > code {
