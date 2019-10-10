@@ -68,6 +68,7 @@
     --font-size-reference: var(--s-1);
     --font-size-caption: var(--s-1);
     --font-size-default: 1em;
+    --font-size-smaller: .8em;
     --font-weight-lede: 500;
     --letter-spacing-body: 0; /* change on dark mode */
     --line-height-solid: 1em;
