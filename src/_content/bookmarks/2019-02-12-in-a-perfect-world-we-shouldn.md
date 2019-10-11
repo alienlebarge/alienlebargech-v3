@@ -2,7 +2,7 @@
 title: Accessibility = innovation
 date: 2019-02-12T06:46:19+01:00
 slug: in-a-perfect-world-we-shouldn
-url: https://blog.prototypr.io/accessibility-innovation-20912107fc4e
+bookmarkOf: https://blog.prototypr.io/accessibility-innovation-20912107fc4e
 tags:
 - accessibility
 ---

@@ -1,7 +1,7 @@
 ---
 title: Why would a screen reader user have a braille display?
 date: 2019-06-18T09:45:34.932+00:00
-url: https://www.brucelawson.co.uk/2019/why-would-a-screen-reader-user-have-a-braille-display/
+bookmarkOf: https://www.brucelawson.co.uk/2019/why-would-a-screen-reader-user-have-a-braille-display/
 categories:
 - a11y
 ---

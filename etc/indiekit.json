@@ -15,6 +15,7 @@
   ],
   "post-types": {
     "bookmark": {
+      "template": "_micropub/templates/bookmark.njk",
       "post": {
         "path": "src/_content/bookmarks/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
         "url": "bookmarks/{{ published | date('yyyy/MM') }}/{{ slug }}"
