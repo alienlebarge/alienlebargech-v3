@@ -1,7 +1,7 @@
 ---
 title: HTML5 Accessibility
 date: 2019-04-24T08:07:50+02:00
-bookmarkOf: https://www.html5accessibility.com/
+url: https://www.html5accessibility.com/
 tags:
 - accessibility
 - html

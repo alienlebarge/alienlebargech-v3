@@ -1,7 +1,7 @@
 ---
 title: Render Snarky Comments in Comic Sans
 date: 2019-06-18T09:54:31.795+00:00
-bookmarkOf: https://www.zachleat.com/web/snarky/
+url: https://www.zachleat.com/web/snarky/
 categories:
 - webmention
 - comments

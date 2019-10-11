@@ -1,7 +1,7 @@
 ---
 title: When Kids Realize Their Whole Life Is Already Online
 date: 2019-03-01T21:48:08+01:00
-bookmarkOf: https://www.theatlantic.com/technology/archive/2019/02/when-kids-realize-their-whole-life-already-online/582916/
+url: https://www.theatlantic.com/technology/archive/2019/02/when-kids-realize-their-whole-life-already-online/582916/
 tags:
 - social media
 ---

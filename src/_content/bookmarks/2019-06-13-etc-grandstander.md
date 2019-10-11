@@ -1,7 +1,7 @@
 ---
 title: ETC Grandstander
 date: 2019-06-13T06:26:26.008+00:00
-bookmarkOf: https://www.etc.supply/fonts/grandstander/
+url: https://www.etc.supply/fonts/grandstander/
 categories:
 - font
 - handwritting
