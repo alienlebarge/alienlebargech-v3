@@ -16,7 +16,7 @@
   "post-types": {
     "bookmark": {
       "post": {
-        "path": ""src/_content/bookmarks/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "path": "src/_content/bookmarks/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
         "url": "bookmarks/{{ published | date('yyyy/MM') }}/{{ slug }}"
       }
     },
