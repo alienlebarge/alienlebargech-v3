@@ -25,7 +25,7 @@
         <link rel="stylesheet" href="{{ "/assets/styles/style.css" | url }}">
 
         <title>{% if type != "homepage" and title %}{{ title }} - {% endif %}{{ app.title }}</title>
-        </head>
+    </head>
     <body class="c-page">
         {% include 'banner.njk' %}
         <main class="o-container [ o-box o-box--s1 ] [ o-stack o-stack--s4 ] [ c-main c-page__main ]{% if vocab %} |{% for root in vocab %} h-{{ root }}{% endfor %}{% endif %}"
