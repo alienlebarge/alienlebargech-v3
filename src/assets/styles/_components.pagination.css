@@ -3,9 +3,6 @@
    ========================================================================== */
 
 .c-pagination {
-    border-top-color: var(--color-alpha-highest);
-    border-top-style: solid;
-    border-top-width: var(--border-width-thin);
 }
 
 .c-pagination__link {

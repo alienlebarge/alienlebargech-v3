@@ -1,0 +1,15 @@
+/* ==========================================================================
+   #SEPARTOR
+   ========================================================================== */
+
+.c-separator > * + * {
+    --separator-color: var(--color-alpha-highest);
+    --separator-style: solid;
+    --separator-border-width: var(--border-width-thin);
+    --separator-padding: var(--s-2);
+
+    border-top-color: var(--separator-color);
+    border-top-style: var(--separator-style);
+    border-top-width: var(--separator-border-width);
+    padding-block-start: var(--separator-padding);
+}

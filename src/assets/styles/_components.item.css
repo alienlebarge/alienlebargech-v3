@@ -5,16 +5,6 @@
 .c-item {
 }
 
-/**
- * Add line only if there's something after
- */
-.c-item + .c-item {
-    border-top-color: var(--color-alpha-highest);
-    border-top-style: solid;
-    border-top-width: var(--border-width-thin);
-    padding-block-start: var(--s-2);
-}
-
 .c-item__header {
     @extend %subhead;
 
