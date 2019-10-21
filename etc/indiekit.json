@@ -1,0 +1,30 @@
+{
+  "syndicate-to": [
+    {
+      "uid": "https://twitter.com/alienlebarge/",
+      "name": "@alienlebarge on Twitter"
+    },
+    {
+      "uid": "https://mastodon.alienlebarge.ch/@alienlebarge",
+      "name": "@alienlebarge on Mastodon"
+    },
+    {
+      "uid": "https://micro.blog/alienlebarge",
+      "name": "@alienlebarge on Micro.blog"
+    }
+  ],
+  "post-types": {
+    "bookmark": {
+      "post": {
+        "path": "src/_content/bookmarks/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "url": "bookmarks/{{ published | date('yyyy/MM') }}/{{ slug }}"
+      }
+    },
+    "note": {
+      "post": {
+        "path": "src/_content/notes/{{ published | date('yyyyMMddmmss') }}.md",
+        "url": "notes/{{ published | date('yyyyMMddmmss') }}"
+      }
+    }
+  }
+}
