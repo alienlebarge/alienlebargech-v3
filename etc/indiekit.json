@@ -21,6 +21,9 @@
       }
     },
     "note": {
+      "name": "Micro note",
+      "icon": ":memo:",
+      "template": "_micropub/templates/note.njk",
       "post": {
         "path": "src/_content/notes/{{ published | date('yyyyMMddmmss') }}.md",
         "url": "notes/{{ published | date('yyyyMMddmmss') }}"
