@@ -43,8 +43,8 @@
       "icon": ":triangular_flag_on_post:",
       "template": "etc/micropub/templates/checkin.njk",
       "post": {
-        "path": "src/_content/checkin/{{ published | date('yyyyMMddHHmmss') }}.md",
-        "url": "checkin/{{ published | date('yyyyMMddHHmmss') }}"
+        "path": "src/_content/checkins/{{ published | date('yyyyMMddHHmmss') }}.md",
+        "url": "checkins/{{ published | date('yyyyMMddHHmmss') }}"
       }
     }
  
