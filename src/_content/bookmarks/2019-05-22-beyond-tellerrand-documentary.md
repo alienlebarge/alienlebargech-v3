@@ -2,7 +2,7 @@
 title: Beyond Tellerrand - A Documentary
 date: 2019-05-22 08:46:49
 url: https://beyondtellerrand.com/blog/beyond-tellerrand-a-documentary
-tags:
+category:
 - conference
 - beyond tellerrand
 ---
