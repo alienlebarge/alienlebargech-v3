@@ -25,8 +25,8 @@
       "icon": ":memo:",
       "template": "etc/micropub/templates/note.njk",
       "post": {
-        "path": "src/_content/notes/{{ published | date('yyyyMMddmmss') }}.md",
-        "url": "notes/{{ published | date('yyyyMMddmmss') }}"
+        "path": "src/_content/notes/{{ published | date('yyyyMMddHHmmss') }}.md",
+        "url": "notes/{{ published | date('yyyyMMddHHmmss') }}"
       }
     }
   }
