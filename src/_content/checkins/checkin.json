@@ -1,0 +1,8 @@
+{
+  "title": "",
+  "layout": "layouts/checkin.njk",
+  "permalink": "checkins/{{ page.fileSlug }}/index.html",
+  "tags": [""],
+  "type": "checkin",
+  "vocab": [""]
+}
