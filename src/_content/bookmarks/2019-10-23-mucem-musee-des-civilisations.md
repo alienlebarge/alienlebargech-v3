@@ -6,5 +6,9 @@ category:
 - ui
 - a11y
 ---
-If you need arguments against scrolling texts.
-We do not want to wait to read the text. In addition, the text is repositioned at the beginning when we run the page.
+If you need arguments against scrolling texts, visit this website.
+- We have to wait to read the all the text
+- The text is repositioned at the beginning when we run the page
+- It gives you nausea
+
+I have only tested it on mobile during my vacations.
