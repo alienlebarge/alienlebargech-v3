@@ -83,8 +83,8 @@
     --line-height-reference: var(--line-height-tight);
     font-size: var(--font-size-reference);
     font-variant: oldstyle-nums;
-    letter-spacing: var(--letter-spacing-body);
     line-height: var(--line-height-reference);
+    letter-spacing: var(--letter-spacing-body);
     hanging-punctuation: first;
     hyphens: auto;
     word-spacing: var(--word-spacing);
@@ -94,9 +94,9 @@
     --flow-space: calc(var(--line-height-caption) / 3);
     --line-height-caption: var(--line-height-tight);
     font-size: var(--font-size-caption);
-    letter-spacing: var(--letter-spacing-body);
     line-height: var(--line-height-caption);
     color: var(--color-neutral-dark);
+    letter-spacing: var(--letter-spacing-body);
 }
 
 
