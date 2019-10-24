@@ -47,6 +47,5 @@
         "url": "checkins/{{ published | date('yyyyMMddHHmmss') }}"
       }
     }
- 
   }
 }
