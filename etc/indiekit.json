@@ -38,6 +38,18 @@
         "url": "bookmarks/{{ published | date('yyyy/MM') }}/{{slug}}/"
       }
     },
+    "photo": {
+      "name": "Photograph",
+      "icon": ":camera:",
+      "template": "etc/micropub/templates/photo.njk",
+      "post": {
+        "path": "src/_content/photos/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "url": "photos/{{ published | date('yyyy/MM') }}/{{ slug }}/"
+      },
+      "media": {
+        "path": "src/media/photos/{{ published | date('yyyy/MM') }}/{{ filename }}",
+      }
+    }
     "checkin": {
       "name": "Checkin",
       "icon": ":triangular_flag_on_post:",
