@@ -22,6 +22,7 @@
       },
       "media": {
         "path": "src/media/photos/{{ published | date('yyyy/MM') }}/{{ filename }}",
+        "url": "media/photos/{{ published | date('yyyy/MM') }}/{{ slug }}/"
       }
     },
     "bookmark": {
@@ -39,6 +40,7 @@
       },
       "media": {
         "path": "src/media/photos/{{ published | date('yyyy/MM') }}/{{ filename }}",
+        "url": "media/photos/{{ published | date('yyyy/MM') }}/{{ slug }}/"
       }
     }
     "checkin": {
