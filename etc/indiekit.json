@@ -19,6 +19,9 @@
       "post": {
         "path": "src/_content/notes/{{ published | date('yyyyMMddHHmmss') }}.md",
         "url": "notes/{{ published | date('yyyyMMddHHmmss') }}"
+      },
+      "media": {
+        "path": "src/media/photos/{{ published | date('yyyy/MM') }}/{{ filename }}",
       }
     },
     "bookmark": {
