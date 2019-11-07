@@ -11,8 +11,8 @@
  */
 %title {
     font-size: var(--font-size-title);
-    font-weight: var(--font-weight-title, 700);
-    font-family: var(--font-family-title, var(--font-family-display));
+    font-weight: var(--font-weight-title, 800);
+    font-family: var(--font-family-title, var(--font-family-sans));
     line-height: var(--line-height-title, var(--line-height-solid));
     letter-spacing: 0; /* [1] */
     font-variation-settings: "wght" var(--font-weight-title, 700);
@@ -21,8 +21,8 @@
 
 %lede {
     font-size: var(--font-size-lede);
-    font-weight: var(--font-weight-lede, 500);
-    font-family: var(--font-family-lede, var(--font-family-display));
+    font-weight: var(--font-weight-lede, 400);
+    font-family: var(--font-family-lede, var(--font-family-sans));
     line-height: var(--line-height-lede, var(--line-height-tight));
     color: var(--color-neutral-darker);
     letter-spacing: .02em;
@@ -35,8 +35,8 @@
  */
 %heading {
     font-size: var(--font-size-heading);
-    font-weight: var(--font-weight-heading, 600);
-    font-family: var(--font-family-heading, var(--font-family-display));
+    font-weight: var(--font-weight-heading, 500);
+    font-family: var(--font-family-heading, var(--font-family-sans));
     line-height: var(--line-height-heading, var(--line-height-tight));
     letter-spacing: 0; /* [1] */
     font-variation-settings: "wght" var(--font-weight-heading, 600);
@@ -48,8 +48,8 @@
  */
 %subhead {
     font-size: var(--font-size-subhead);
-    font-weight: var(--font-weight-subhead, 600);
-    font-family: var(--font-family-subhead, var(--font-family-display));
+    font-weight: var(--font-weight-subhead, 500);
+    font-family: var(--font-family-subhead, var(--font-family-sans));
     line-height: var(--line-height-subhead, var(--line-height-tight));
     letter-spacing: 0; /* [1] */
     font-variation-settings: "wght" var(--font-weight-subhead, 600);
@@ -69,7 +69,7 @@
     --flow-space: var(--line-height-body);
     --line-height-body: var(--line-height-loose);
     font-size: var(--font-size-body);
-    font-family: var(--font-family-serif);
+    font-family: var(--font-family-sans);
     font-variant: oldstyle-nums;
     line-height: var(--line-height-body);
     letter-spacing: var(--letter-spacing-body);

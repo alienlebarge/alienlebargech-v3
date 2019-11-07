@@ -42,6 +42,8 @@
 
     /* Sizing */
     --ratio: 1.4;
+
+    /* root sizing */
     --s-5: calc(var(--s-4) / var(--ratio));
     --s-4: calc(var(--s-3) / var(--ratio));
     --s-3: calc(var(--s-2) / var(--ratio));
@@ -53,6 +55,19 @@
     --s3: calc(var(--s2) * var(--ratio));
     --s4: calc(var(--s3) * var(--ratio));
     --s5: calc(var(--s4) * var(--ratio));
+
+    /* relative sizing */
+    --s-5r: calc(var(--s-4) / var(--ratio));
+    --s-4r: calc(var(--s-3) / var(--ratio));
+    --s-3r: calc(var(--s-2) / var(--ratio));
+    --s-2r: calc(var(--s-1) / var(--ratio));
+    --s-1r: calc(var(--s0) / var(--ratio));
+    --s0r: calc(1em + .333vw);
+    --s1r: calc(var(--s0) * var(--ratio));
+    --s2r: calc(var(--s1) * var(--ratio));
+    --s3r: calc(var(--s2) * var(--ratio));
+    --s4r: calc(var(--s3) * var(--ratio));
+    --s5r: calc(var(--s4) * var(--ratio));
 
     /* Typography */
     --font-family-display: "UntitledSerifDisplay", serif;
@@ -69,11 +84,10 @@
     --font-size-caption: var(--s-1);
     --font-size-default: 1em;
     --font-size-smaller: .8em;
-    --font-weight-lede: 500;
     --letter-spacing-body: 0; /* change on dark mode */
     --line-height-solid: 1em;
-    --line-height-tight: calc(var(--ratio) * 9em / 10);
-    --line-height-loose: calc(var(--ratio) * 1em);
+    --line-height-tight: var(--s0r);
+    --line-height-loose: var(--s1r);
     --line-measure: 55ch;
     --word-spacing: 0;
 
