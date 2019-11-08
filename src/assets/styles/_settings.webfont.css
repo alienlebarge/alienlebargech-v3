@@ -28,12 +28,6 @@
     src: url("../fonts/Untitled-Medium.woff2") format("woff2");
 }
 
-@font-face {
-    font-weight: 800;
-    font-family: Untitled;
-    font-display: swap;
-    src: url("../fonts/Untitled-Bold.woff2") format("woff2");
-}
 
 
 /* -------------------------------------

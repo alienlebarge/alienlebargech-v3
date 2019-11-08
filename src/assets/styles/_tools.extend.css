@@ -11,7 +11,7 @@
  */
 %title {
     font-size: var(--font-size-title);
-    font-weight: var(--font-weight-title, 800);
+    font-weight: var(--font-weight-title, 500);
     font-family: var(--font-family-title, var(--font-family-sans));
     line-height: var(--line-height-title, var(--line-height-solid));
     letter-spacing: 0; /* [1] */
