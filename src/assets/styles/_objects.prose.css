@@ -7,7 +7,7 @@
  */
 
 .o-prose {
-    --space: var(--line-height-loose);
+    --space: var(--s3);
     --flow-inset: 1.5em;
     --list-display: list-item;
     --anchor-decoration: underline;
@@ -43,11 +43,11 @@
  */
 
 .o-prose > h2 + * {
-    --space: var(--s-3); /* [1] */
+    --space: var(--s-1); /* [1] */
 }
 
 .o-prose > h3 + * {
-    --space: var(--s-4); /* [2] */
+    --space: var(--s-1); /* [2] */
 }
 
 .o-prose :matches(h4, h5, h6) + * {
@@ -60,6 +60,29 @@
 
 .o-prose > ul ul {
     margin-block-start: var(--space); /* [5] */
+}
+
+.o-prose > p + p {
+    --space: var(--s-1);
+}
+
+
+
+/**
+ * Blockquote
+ */
+
+.o-prose > blockquote > * {
+    margin-block-end: 0;
+    margin-block-start: 0;
+}
+
+.o-prose > blockquote > * + * {
+    margin-block-start: var(--space);
+}
+
+.o-prose > blockquote > p + p {
+    --space: var(--s-1);
 }
 
 
