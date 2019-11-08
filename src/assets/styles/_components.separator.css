@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .c-separator > * + * {
-    --separator-color: var(--color-alpha-highest);
+    --separator-color: var(--color-dark);
     --separator-style: solid;
     --separator-border-width: var(--border-width-thin);
     --separator-padding: var(--s-2);

@@ -24,7 +24,6 @@
     font-weight: var(--font-weight-lede, 400);
     font-family: var(--font-family-lede, var(--font-family-sans));
     line-height: var(--line-height-lede, var(--line-height-tight));
-    color: var(--color-neutral-darker);
     letter-spacing: .02em;
     font-variation-settings: "wght" var(--font-weight-lede, 500);
     hanging-punctuation: first;
@@ -60,7 +59,6 @@
     font-size: var(--font-size-caption);
     font-weight: 800;
     font-family: var(--font-family-overline, inherit);
-    color: var(--color-neutral-dark);
     text-transform: uppercase;
     letter-spacing: .125em;
 }
@@ -95,7 +93,6 @@
     --line-height-caption: var(--line-height-tight);
     font-size: var(--font-size-caption);
     line-height: var(--line-height-caption);
-    color: var(--color-neutral-dark);
     letter-spacing: var(--letter-spacing-body);
 }
 
@@ -153,12 +150,11 @@
    ------------------------------------- */
 
 %text-decoration {
-    text-decoration-color: var(--color-link-underline);
+    text-decoration-color: var(--color-dark);
 }
 
 %text-decoration:hover {
-    color: var(--color-accent);
-    text-decoration-color: var(--color-accent);
+    text-decoration: none;
 }
 
 

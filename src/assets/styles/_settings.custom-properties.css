@@ -3,42 +3,9 @@
  * ========================================================================== */
 
 :root {
-    /* Neutral palette */
-    --color-neutral-darkest: hsla(209, 15%, 25%, 1);
-    --color-neutral-darker: hsla(207, 12%, 37%, 1);
-    --color-neutral-dark: hsla(207, 10%, 48%, 1);
-    --color-neutral: hsla(208, 12%, 58%, 1);
-    --color-neutral-light: hsla(209, 12%, 70%, 1);
-    --color-neutral-lighter: hsla(210, 16%, 88%, 1);
-    --color-neutral-lightest: hsla(211, 20%, 97%, 1);
-
-    /* Alpha palette */
-    --color-alpha-highest: color-mod(var(--color-neutral-darkest) a(.1));
-    --color-alpha-high: color-mod(var(--color-neutral-darkest) a(.25));
-    --color-alpha-low: color-mod(var(--color-neutral-darkest) a(.75));
-    --color-alpha-lowest: color-mod(var(--color-neutral-darkest) a(.9));
-
-    /* Primary */
-    --color-primary-darkest: hsla(168, 85%, 22%, 1);
-    --color-primary-darker: hsla(161, 83%, 30%, 1);
-    --color-primary-dark: hsla(161, 79%, 40%, 1);
-    --color-primary: hsla(160, 79%, 48%, 1);
-    --color-primary-light: hsla(162, 80%, 63%, 1);
-    --color-primary-lighter: hsla(163, 83%, 76%, 1);
-    --color-primary-lightest: hsla(165, 85%, 90%, 1);
-
-    /* Colour assignments */
-    --color-accent: var(--color-primary);
-    --color-background: var(--color-neutral-lightest);
-    --color-text: var(--color-neutral-darkest);
-    --color-link: var(--color-accent);
-    --color-link-underline: var(--color-alpha-low);
-    --color-rule: var(--color-alpha-highest);
-    --color-offset: var(--color-neutral-lighter);
-    --color-delete: hsla(0, 100%, 80%, .5);
-    --color-highlight: hsla(60, 100%, 80%, .5);
-    --color-insert: hsla(120, 100%, 80%, .5);
-    --color-focus: var(--color-accent);
+    /* color */
+    --color-dark: hsla(208, 22%, 15%, 1);
+    --color-light: hsla(0, 0%, 87%, 1);
 
     /* Sizing */
     --ratio: 1.4;
@@ -146,31 +113,10 @@
 @media (prefers-color-scheme: dark) {
 
     :root {
-        /* Neutral palette */
-        --color-neutral-lightest: hsla(209, 15%, 25%, 1);
-        --color-neutral-lighter: hsla(207, 12%, 37%, 1);
-        --color-neutral-light: hsla(207, 10%, 48%, 1);
-        --color-neutral: hsla(208, 12%, 58%, 1);
-        --color-neutral-dark: hsla(209, 12%, 70%, 1);
-        --color-neutral-darker: hsla(210, 16%, 88%, 1);
-        --color-neutral-darkest: hsla(211, 20%, 97%, 1);
-
-        /* Alpha palette */
-        --color-alpha-highest: color-mod(var(--color-neutral-lightest) a(.1));
-        --color-alpha-high: color-mod(var(--color-neutral-lightest) a(.25));
-        --color-alpha-low: color-mod(var(--color-neutral-lightest) a(.75));
-        --color-alpha-lowest: color-mod(var(--color-neutral-lightest) a(.9));
-
-        /* Primary */
-        --color-primary-lightest: hsla(168, 85%, 22%, 1);
-        --color-primary-lighter: hsla(161, 83%, 30%, 1);
-        --color-primary-light: hsla(161, 79%, 40%, 1);
-        --color-primary: hsla(160, 79%, 48%, 1);
-        --color-primary-dark: hsla(162, 80%, 63%, 1);
-        --color-primary-darker: hsla(163, 83%, 76%, 1);
-        --color-primary-darkest: hsla(165, 85%, 90%, 1);
-
-        /* Typography */
+        --color-light: hsla(208, 22%, 15%, 1);
+        --color-dark: hsla(0, 0%, 87%, 1);
+      
+      /* Typography */
         --letter-spacing-body: .025em;
     }
 }

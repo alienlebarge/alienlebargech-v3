@@ -35,7 +35,8 @@ html {
    ------------------------------------- */
 
 ::selection {
-    background-color: var(--color-highlight);
+    color: var(--color-light);
+    background-color: var(--color-dark);
 }
 
 
@@ -45,7 +46,7 @@ html {
    ------------------------------------- */
 
 :focus {
-    outline-color: var(--color-focus);
+    outline-color: var(--color-dark);
 }
 
 
@@ -63,9 +64,9 @@ html {
 body {
     @extend %body;
     @extend %type-feature-body;
-    color: var(--color-text);
+    color: var(--color-dark);
 
-    background: var(--color-offset);
+    background: var(--color-light);
     min-block-size: 100vh; /* [2] */
 }
 

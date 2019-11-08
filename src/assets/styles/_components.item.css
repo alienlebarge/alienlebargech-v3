@@ -8,7 +8,7 @@
 .c-item__header {
     @extend %subhead;
 
-    --anchor-decoration: underline var(--color-link-underline);
+    --anchor-decoration: underline var(--color-dark);
 }
 
 .c-item__footer {
@@ -16,7 +16,7 @@
 }
 
 .c-item__footer .u-bookmark-of {
-    --anchor-decoration: underline var(--color-link-underline);
+    --anchor-decoration: underline var(--color-dark);
 }
 
 .c-item__footer a {

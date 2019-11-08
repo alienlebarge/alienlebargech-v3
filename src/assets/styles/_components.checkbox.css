@@ -61,5 +61,5 @@
 }
 
 .c-checkbox__input:disabled + .c-checkbox__label {
-    color: var(--color-alpha-high);
+    text-decoration: line-through;
 }

@@ -13,7 +13,7 @@
    ------------------------------------- */
 
 del {
-    background-color: var(--color-delete);
+  text-decoration: line-through;
 }
 
 
@@ -25,5 +25,5 @@ del {
    ------------------------------------- */
 
 ins {
-    background-color: var(--color-insert);
+/* Find something to visualise ins without color */
 }

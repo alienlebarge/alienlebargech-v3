@@ -7,5 +7,5 @@
 }
 
 .c-footer .u-bookmark-of {
-    --anchor-decoration: underline var(--color-link-underline);
+    --anchor-decoration: underline var(--color-dark);
 }

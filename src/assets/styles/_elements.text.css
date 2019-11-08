@@ -15,14 +15,13 @@
 a {
     color: var(--anchor-color, inherit);
     text-decoration: var(--anchor-decoration, none);
-    text-decoration-color: var(--color-link-underline);
+    text-decoration-color: var(--color-dark);
     text-decoration-skip-ink: auto;
     text-underline-position: under;
 }
 
 a:hover {
-    color: var(--color-accent);
-    text-decoration-color: var(--color-accent);
+    text-decoration: none;
 }
 
 /**
@@ -90,19 +89,20 @@ var {
     hanging-punctuation: none;
 }
 
-code,
-samp {
+code {
+    color: var(--color-light);
     font-size: var(--font-size-smaller);
 }
 
 :not(pre) > code {
-    background-color: var(--color-offset);
+    background-color: var(--color-dark);
     padding: var(--inset-small-squished);
 }
 
 samp {
-    border: var(--border-width-thin) solid var(--color-offset);
+    border: var(--border-width-thin) solid var(--color-dark);
     padding: var(--inset-small-squished);
+    font-size: var(--font-size-smaller);
 }
 
 
@@ -114,5 +114,6 @@ samp {
    ------------------------------------- */
 
 mark {
-    background-color: var(--color-highlight);
+    color: var(--color-light);
+    background-color: var(--color-dark);
 }
