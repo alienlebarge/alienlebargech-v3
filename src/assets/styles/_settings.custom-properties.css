@@ -7,8 +7,11 @@
     --color-dark: hsla(208, 22%, 15%, 1);
     --color-light: hsla(0, 0%, 87%, 1);
 
+    /* background */
+    --bg-dots: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='hsla(208, 22%, 15%, 1)' fill-opacity='1' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+
     /* Sizing */
-    --ratio: 1.4;
+    --ratio: 1.3;
 
     /* root sizing */
     --s-5: calc(var(--s-4) / var(--ratio));
@@ -24,17 +27,19 @@
     --s5: calc(var(--s4) * var(--ratio));
 
     /* relative sizing */
-    --s-5r: calc(var(--s-4) / var(--ratio));
-    --s-4r: calc(var(--s-3) / var(--ratio));
-    --s-3r: calc(var(--s-2) / var(--ratio));
-    --s-2r: calc(var(--s-1) / var(--ratio));
-    --s-1r: calc(var(--s0) / var(--ratio));
+    --s-6r: calc(var(--s-5r) / var(--ratio));
+    --s-5r: calc(var(--s-4r) / var(--ratio));
+    --s-4r: calc(var(--s-3r) / var(--ratio));
+    --s-3r: calc(var(--s-2r) / var(--ratio));
+    --s-2r: calc(var(--s-1r) / var(--ratio));
+    --s-1r: calc(var(--s0r) / var(--ratio));
     --s0r: calc(1em + .333vw);
-    --s1r: calc(var(--s0) * var(--ratio));
-    --s2r: calc(var(--s1) * var(--ratio));
-    --s3r: calc(var(--s2) * var(--ratio));
-    --s4r: calc(var(--s3) * var(--ratio));
-    --s5r: calc(var(--s4) * var(--ratio));
+    --s1r: calc(var(--s0r) * var(--ratio));
+    --s2r: calc(var(--s1r) * var(--ratio));
+    --s3r: calc(var(--s2r) * var(--ratio));
+    --s4r: calc(var(--s3r) * var(--ratio));
+    --s5r: calc(var(--s4r) * var(--ratio));
+    --s6r: calc(var(--s5r) * var(--ratio));
 
     /* Typography */
     --font-family-display: "UntitledSerifDisplay", serif;
@@ -113,11 +118,13 @@
 @media (prefers-color-scheme: dark) {
 
     :root {
-        --color-light: hsla(208, 22%, 15%, 1);
-        --color-dark: hsla(0, 0%, 87%, 1);
-      
+      --color-light: hsla(208, 22%, 15%, 1);
+      --color-dark: hsla(0, 0%, 87%, 1);
+
+      --bg-dots: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='hsla(0, 0%, 87%, 1)' fill-opacity='1' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+
       /* Typography */
-        --letter-spacing-body: .025em;
+      --letter-spacing-body: .025em;
     }
 }
 

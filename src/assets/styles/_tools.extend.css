@@ -13,7 +13,7 @@
     font-size: var(--font-size-title);
     font-weight: var(--font-weight-title, 500);
     font-family: var(--font-family-title, var(--font-family-sans));
-    line-height: var(--line-height-title, var(--line-height-solid));
+    line-height: var(--line-height-title, var(--line-height-tight));
     letter-spacing: 0; /* [1] */
     font-variation-settings: "wght" var(--font-weight-title, 700);
     hanging-punctuation: first;
