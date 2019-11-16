@@ -42,7 +42,7 @@
         "path": "src/media/photos/{{ filedate | date('X') }}.{{ fileext }}",
         "url": "media/photos/{{ filedate | date('X') }}.{{ fileext }}"
       }
-    }
+    },
     "checkin": {
       "template": "etc/micropub/templates/checkin.njk",
       "post": {
