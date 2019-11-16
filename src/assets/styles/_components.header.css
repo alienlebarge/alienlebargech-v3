@@ -7,12 +7,13 @@
 }
 
 .c-header {
-  background-image: var(--bg-dots);
+    background-image: var(--bg-dots);
 }
 
 .c-header__no-bg {
-  line-height: var(--line-height-loose);
-  background-color: var(--color-light);
-  padding: 0 var(--s-5r) var(--s-6r) var(--s-5r);
-  box-decoration-break: clone;
+    line-height: var(--line-height-loose);
+
+    background-color: var(--color-light);
+    padding: 0 var(--s-5r) var(--s-6r) var(--s-5r);
+    box-decoration-break: clone;
 }
