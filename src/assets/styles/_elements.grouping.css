@@ -9,6 +9,27 @@
  */
 
 /* -------------------------------------
+   #HR
+   ------------------------------------- */
+
+/**
+ * TODO: refine this component
+ * TODO: perhaps it will be usefull to have more sizes
+ */
+hr {
+    display: block;
+    inline-size: var(--s5);
+    height: var(--s-3);
+
+    text-align: left;
+
+    background-color: var(--color-dark);
+    border: none;
+    margin-inline-start: 0;
+}
+
+
+/* -------------------------------------
    #PRE
    ------------------------------------- */
 

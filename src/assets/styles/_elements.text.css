@@ -90,8 +90,8 @@ var {
 }
 
 code {
-    color: var(--color-light);
     font-size: var(--font-size-smaller);
+    color: var(--color-light);
 }
 
 :not(pre) > code {
@@ -100,9 +100,10 @@ code {
 }
 
 samp {
+    font-size: var(--font-size-smaller);
+
     border: var(--border-width-thin) solid var(--color-dark);
     padding: var(--inset-small-squished);
-    font-size: var(--font-size-smaller);
 }
 
 
@@ -115,5 +116,6 @@ samp {
 
 mark {
     color: var(--color-light);
+
     background-color: var(--color-dark);
 }

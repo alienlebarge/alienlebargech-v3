@@ -13,7 +13,7 @@
    ------------------------------------- */
 
 del {
-  text-decoration: line-through;
+    text-decoration: line-through;
 }
 
 
@@ -25,5 +25,5 @@ del {
    ------------------------------------- */
 
 ins {
-/* Find something to visualise ins without color */
+    /* Find something to visualise ins without color */
 }
