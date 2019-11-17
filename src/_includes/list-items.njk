@@ -1,7 +1,6 @@
 {% macro listItems(items) %}
-<div class="[ o-box o-box--s1 ] o-stack o-stack--s3">
+<div class="[ o-box o-box--s1 ] o-stack o-stack--s3 c-separator">
   {%- for item in items -%}
-  <hr>
   {%- include 'item/' + item.data.type + '.njk' -%}
   {%- endfor -%}
 </div>
