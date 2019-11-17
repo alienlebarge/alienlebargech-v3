@@ -12,6 +12,7 @@
 }
 
 .c-item__footer {
+    --anchor-decoration: none;
     @extend %caption;
 }
 

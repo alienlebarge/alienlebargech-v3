@@ -14,10 +14,9 @@
 
 a {
     color: var(--anchor-color, inherit);
-    text-decoration: var(--anchor-decoration, none);
+    text-decoration: var(--anchor-decoration, underline);
     text-decoration-color: var(--color-dark);
     text-decoration-skip-ink: auto;
-    text-underline-position: under;
 }
 
 a:hover {
