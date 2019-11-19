@@ -1,6 +1,13 @@
+{% set title %}Photo: {{ item.date | date(dates.datetime_full) }}{% endset %}
 {% extends 'layouts/base.njk' %}
 {% block main %}
     {% include 'footer.njk' %}
     {% include 'header.njk' %}
     {% include 'content.njk' %}
+
+    <div class="[ o-box o-box--s1 ] o-stack">
+    {%- for item in photo -%}
+    <img src="{{ item.url | url }}" alt="{{ item.alt }}" loading="lazy">
+    {%- endfor -%}
+    </div>
 {% endblock %}
