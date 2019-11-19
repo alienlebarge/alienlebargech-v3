@@ -86,8 +86,8 @@
     --inset-large-squished: calc(var(--inset-large) / 2) var(--inset-large);
 
     /* Grids */
-    --grid-column-gap: var(--s0);
-    --grid-row-gap: var(--s0);
+    --grid-gap: var(--s0);
+    --grid-content-width: 20em;
 
     /* Animation */
     --transition-short: .15s;

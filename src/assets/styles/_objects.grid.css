@@ -2,18 +2,22 @@
    #GRID
    ========================================================================== */
 
+/**
+ * This objects goes with a JavaScript. Take a look in the assets and
+ * https://absolutely.every-layout.dev/layouts/grid/
+ */
 .o-grid {
-    display: flex;
-
-    margin: calc(-1 * var(--grid-column-gap));
-    padding-bottom: var(--grid-row-gap);
-    flex-wrap: wrap;
+  display: grid;
+  grid-gap: var(--grid-gap);
+  grid-template-columns: 100%;
 }
 
-.o-grid > * {
-    --grid-item-width: var(--container-inline-inset);
+.o-grid.aboveMin {
+  grid-template-columns: repeat(auto-fill, minmax(var(--grid-content-width), 1fr));
+}
 
-    flex: 1 0 var(--grid-item-width);
-
-    margin: var(--grid-column-gap);
+@supports (width: min(var(--grid-content-width), 100%)) {
+  .o-grid {
+    grid-template-columns: repeat(auto-fit, minmax(min(var(--grid-content-width), 100%), 1fr));
+  }
 }
