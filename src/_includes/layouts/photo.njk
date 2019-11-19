@@ -6,8 +6,13 @@
     {% include 'content.njk' %}
 
     <div class="[ o-box o-box--s1 ] o-stack">
-    {%- for item in photo -%}
-    <img src="{{ item.url | url }}" alt="{{ item.alt }}" loading="lazy">
+        {%- for item in photo -%}
+        <figure>
+            <img src="{{ item.url | url }}" alt="{{ item.alt }}" loading="lazy">
+            {%- if item.caption -%}
+            <figcaption>{{ item.caption }}</figcaption>
+            {%- endif -%}
+        </figure>
     {%- endfor -%}
     </div>
 {% endblock %}
