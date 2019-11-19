@@ -1,0 +1,13 @@
+---
+title: Photos
+summary: View the world through my lense
+permalink: photos/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html
+pagination:
+    data: collections.photo
+    size: 10
+---
+{% import 'list-items.njk' as list %}
+{{ list.listItems(pagination.items) }}
+
+{% import 'pagination.njk' as transverse %}
+{{ transverse.paginate(pagination, label='photos') }}
