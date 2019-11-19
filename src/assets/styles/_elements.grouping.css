@@ -85,3 +85,18 @@ dd + dt,
 dd + dt.u-visually-hidden + dd { /* [1] */
     margin-block-start: calc(var(--flow-space, 0) / 2);
 }
+
+
+
+
+/* -------------------------------------
+   #FIGURES
+   ------------------------------------- */
+
+/**
+ * Reseting browser styles
+ */
+
+figure {
+    margin: 0;
+}
