@@ -1,6 +1,6 @@
 {
   "layout": "layouts/photo.njk",
-  "permalink": "{{ page.date | date: 'YYYY/MM' }}/{{ page.fileSlug }}.html",
+  "permalink": "photos/{{ page.date | date: 'YYYY/MM' }}/{{ page.fileSlug }}.html",
   "tags": ["post", "photo"],
   "type": "photo"
 }
