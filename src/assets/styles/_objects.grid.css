@@ -5,6 +5,8 @@
 /**
  * This objects goes with a JavaScript. Take a look in the assets and
  * https://absolutely.every-layout.dev/layouts/grid/
+ *
+ * TODO: find if we can replace the hardcoded content width inthe JS and CSS
  */
 .o-grid {
   display: grid;
