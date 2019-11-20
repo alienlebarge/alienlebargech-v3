@@ -6,6 +6,7 @@
     {% include 'content.njk' %}
 
     <div class="[ o-box o-box--s1 ] o-stack">
+        <h1>app.url: {{app.url}}</h1>
         {%- for item in photo -%}
         {# IndieKit includes app.url in image path #}
         {%- set src -%}{{ item.url | replace(app.url, "") }}{%- endset -%}
