@@ -7,8 +7,10 @@
 
     <div class="[ o-box o-box--s1 ] o-stack">
         {%- for item in photo -%}
+        {# IndieKit includes app.url in image path #}
+        {%- set src -%}{{ item.url | replace(app.url, "") }}{%- endset -%}
         <figure>
-            <img src="{{ item.url | url }}" alt="{{ item.alt }}" loading="lazy">
+            <img src="{{ src | url }}" alt="{{ item.alt }}" loading="lazy">
             {%- if item.caption -%}
             <figcaption>{{ item.caption }}</figcaption>
             {%- endif -%}
