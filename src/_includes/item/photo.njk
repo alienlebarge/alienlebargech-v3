@@ -1,7 +1,5 @@
 <article>
     <a href="{{ item.url | url }}">
-        <p>url: {{ item.data.photo[0].url }}</p>
-        <p>app.url: {{ app.url }}</p>
 
         {# Set vars for the image #}
         {%- set src = item.data.photo[0].url -%}
