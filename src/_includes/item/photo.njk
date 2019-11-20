@@ -1,5 +1,11 @@
 <article>
     <a href="{{ item.url | url }}">
-        <img src="{{ item.data.photo[0].url | url }}" alt="{{ item.data.photo[0].alt }}">
+        <p>url: {{ item.data.photo[0].url }}</p>
+        <p>app.url: {{ app.url }}</p>
+
+        {# Set vars for the image #}
+        {%- set src = item.data.photo[0].url -%}
+        {%- set alt = item.data.photo[0].alt -%}
+        {% include 'image.njk' %}
     </a>
 </article>

@@ -8,14 +8,18 @@
     <div class="[ o-box o-box--s1 ] o-stack">
         <h1>app.url: {{app.url}}</h1>
         {%- for item in photo -%}
-        {# IndieKit includes app.url in image path #}
-        {%- set src -%}{{ item.url | replace(app.url, "") }}{%- endset -%}
         <figure>
-            <img src="{{ src | url }}" alt="{{ item.alt }}" loading="lazy">
+
+            {# Set vars for the image #}
+            {%- set src = item.url -%}
+            {%- set alt = item.alt -%}
+            {% include 'image.njk' %}
+
             {%- if item.caption -%}
             <figcaption>{{ item.caption }}</figcaption>
             {%- endif -%}
+
         </figure>
-    {%- endfor -%}
+        {%- endfor -%}
     </div>
 {% endblock %}

@@ -1,0 +1,3 @@
+{# IndieKit includes app.url in image path #}
+{%- set src -%}{{ src | replace(app.url, "") }}{%- endset -%}
+<img src="{{ src | url }}" alt="{{ alt }}" loading="lazy">
