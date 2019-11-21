@@ -1,3 +1,10 @@
 {# IndieKit includes app.url in image path #}
 {%- set src -%}{{ src | replace(app.url, "") }}{%- endset -%}
-<img src="{{ src | url }}" alt="{{ alt }}" loading="lazy">
+
+{# Only use Cloudinary in production #}
+{%- if app.url != "" %}
+    {%- set base = "https://res.cloudinary.com/alienlebarge/image/fetch/" -%}
+    {%- set base -%}{{ base }}{{ app.url }}{%- endset -%}
+{%- endif -%}
+
+<img src="{{ base }}{{ src | url }}" alt="{{ alt }}" loading="lazy">
