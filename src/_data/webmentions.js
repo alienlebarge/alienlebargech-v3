@@ -2,7 +2,7 @@ const fs = require('fs');
 const fetch = require('node-fetch');
 const HttpsProxyAgent = require('https-proxy-agent');
 const unionBy = require('lodash/unionBy');
-const metadata = require('./app.js');
+const metadata = require('./app.json');
 
 // Load .env variables with dotenv
 // require('dotenv').config()

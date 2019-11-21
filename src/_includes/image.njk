@@ -2,16 +2,16 @@
 {# as app data are in JS, it will not work locally #}
 {%- set src -%}{{ src | replace(app.url, "") }}{%- endset -%}
 
-{# Only use Cloudinary in production and if there is needed transformations #}
-{%- if app.url | length %}
+{# Only use Cloudinary if there is needed transformations #}
+{%- if image_transformations -%}
 
     {%- set base = "https://res.cloudinary.com/alienlebarge/image/fetch/" -%}
 
     {# Put the app.url back. Cloudinary need it #}
     {%- set src -%}{{ app.url }}{{ src }}{%- endset -%}
     {%- set transformations -%}
-        {%- if image.ratio -%}ar_{{ image.ratio }},{%- endif -%}
-        {%- if image.width -%}w_{{ image.width }},{%- endif -%}c_fill,g_auto/
+        {%- if image_transformations.ratio -%}ar_{{ image_transformations.ratio }},{%- endif -%}
+        {%- if image_transformations.width -%}w_{{ image_transformations.width }},{%- endif -%}c_fill,g_auto/
     {%- endset -%}
 
 {%- endif -%}

@@ -10,7 +10,7 @@
 
 {% macro gridItems(items) %}
 
-{%- set image = {"width": 250, "ratio": 1} -%}
+{%- set image_transformations = {"width": 250, "ratio": 1} -%}
 <div class="[ o-box o-box--s1 ] o-grid" data-min="9rem">
     {%- for item in items -%}
     {%- include 'item/' + item.data.type + '.njk' -%}
