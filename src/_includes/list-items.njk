@@ -9,11 +9,12 @@
 
 
 {% macro gridItems(items) %}
-<div class="[ o-box o-box--s1 ] o-grid" data-min="20rem">
+<div class="[ o-box o-box--s1 ] o-grid" data-min="9rem">
   {%- for item in items -%}
   {%- include 'item/' + item.data.type + '.njk' -%}
   {%- endfor -%}
 </div>
 {% endmacro %}
 
+:w
 

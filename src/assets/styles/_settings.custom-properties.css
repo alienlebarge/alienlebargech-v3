@@ -87,7 +87,7 @@
 
     /* Grids */
     --grid-gap: var(--s0);
-    --grid-content-width: 20em;
+    --grid-content-width: 9rem;
 
     /* Animation */
     --transition-short: .15s;
