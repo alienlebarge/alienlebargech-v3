@@ -1,17 +1,20 @@
 {% macro listItems(items) %}
 <div class="[ o-box o-box--s1 ] o-stack o-stack--s3 c-separator">
-  {%- for item in items -%}
-  {%- include 'item/' + item.data.type + '.njk' -%}
-  {%- endfor -%}
+    {%- for item in items -%}
+    {%- include 'item/' + item.data.type + '.njk' -%}
+    {%- endfor -%}
 </div>
 {% endmacro %}
 
 
 
 {% macro gridItems(items) %}
+
+{%- set image = {"width": 250, "ratio": 1} -%}
+
 <div class="[ o-box o-box--s1 ] o-grid" data-min="9rem">
-  {%- for item in items -%}
-  {%- include 'item/' + item.data.type + '.njk' -%}
-  {%- endfor -%}
+    {%- for item in items -%}
+    {%- include 'item/' + item.data.type + '.njk' -%}
+    {%- endfor -%}
 </div>
 {% endmacro %}
