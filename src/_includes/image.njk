@@ -11,9 +11,20 @@
     {%- set src -%}{{ app.url }}{{ src }}{%- endset -%}
     {%- set transformations -%}
         {%- if image_transformations.ratio -%}ar_{{ image_transformations.ratio }},{%- endif -%}
-        {%- if image_transformations.width -%}w_{{ image_transformations.width }},{%- endif -%}c_fill,g_auto/
+        {#-{%- if image_transformations.width -%}w_{{ image_transformations.width }},{%- endif -%}-#}
+        c_fill,g_auto
+    {%- endset -%}
+
+    {%- set srcset -%}
+        {%- for width in srcsets.default.widths -%}
+            {{ base }}{{ transformations }},w_{{ width }}/{{ src | url }} {{ width }}w
+            {%- if not loop.last -%},{%- endif -%}
+        {%- endfor -%}
     {%- endset -%}
 
 {%- endif -%}
 
-<img src="{{ base }}{{ transformations }}{{ src | url }}" alt="{{ alt }}" loading="lazy">
+<img src="{{ base }}{{ transformations }}/{{ src | url }}"
+     {% if srcset %}srcset="{{ srcset }}" {%-endif -%}
+     alt="{{ alt }}"
+     loading="lazy">
