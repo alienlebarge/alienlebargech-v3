@@ -8,10 +8,10 @@
     <div class="[ o-box o-box--s1 ] o-stack">
         {%- for item in photo -%}
         <figure>
-
             {# Set vars for the image #}
             {%- set src = item.url -%}
             {%- set alt = item.alt -%}
+            {%- set image = {"width": 800} -%}
             {% include 'image.njk' %}
 
             {%- if item.caption -%}

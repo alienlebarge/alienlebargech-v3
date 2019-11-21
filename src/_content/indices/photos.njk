@@ -6,7 +6,7 @@ pagination:
     data: collections.photo
     size: 10
 ---
-{% import 'list-items.njk' as list %}
+{% import 'list-items.njk' as list with context %}
 {{ list.gridItems(pagination.items) }}
 
 {% import 'pagination.njk' as transverse %}

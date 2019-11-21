@@ -1,16 +1,19 @@
 {# IndieKit includes app.url in image path #}
-{%- set src -%}{{ src | replace("https://alienlebarge.ch", "") }}{%- endset -%}
-<p>app.url: {{ app.url }}</p>
-<p>app length: {{ app.url | length }}</p>
+{# as app data are in JS, it will not work locally #}
+{%- set src -%}{{ src | replace(app.url, "") }}{%- endset -%}
+
 {# Only use Cloudinary in production and if there is needed transformations #}
-{%- if app.url | length -%}
+{%- if app.url | length %}
+
     {%- set base = "https://res.cloudinary.com/alienlebarge/image/fetch/" -%}
+
     {# Put the app.url back. Cloudinary need it #}
-    {%- set base -%}{{ base }}{{ app.url }}{%- endset -%}
+    {%- set src -%}{{ app.url }}{{ src }}{%- endset -%}
     {%- set transformations -%}
         {%- if image.ratio -%}ar_{{ image.ratio }},{%- endif -%}
-        {%- if image.width -%}w_{{ image.width }},{%- endif -%}
-        c_fill,g_auto/
+        {%- if image.width -%}w_{{ image.width }},{%- endif -%}c_fill,g_auto/
     {%- endset -%}
+
 {%- endif -%}
+
 <img src="{{ base }}{{ transformations }}{{ src | url }}" alt="{{ alt }}" loading="lazy">
