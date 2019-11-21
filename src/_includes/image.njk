@@ -2,9 +2,8 @@
 {%- set src -%}{{ src | replace(app.url, "") }}{%- endset -%}
 
 {# Only use Cloudinary in production #}
-{%- if app.url != "" %}
+{%- if app.url | length %}
     {%- set base = "https://res.cloudinary.com/alienlebarge/image/fetch/" -%}
     {%- set base -%}{{ base }}{{ app.url }}{%- endset -%}
 {%- endif -%}
-
 <img src="{{ base }}{{ src | url }}" alt="{{ alt }}" loading="lazy">
