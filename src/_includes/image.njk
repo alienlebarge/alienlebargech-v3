@@ -2,7 +2,7 @@
 {%- set src -%}{{ src | replace("https://alienlebarge.ch", "") }}{%- endset -%}
 
 {# Only use Cloudinary in production and if there is needed transformations #}
-{%- if app.url | length and image | length %}
+{%- if app.url | length %}
     {%- set base = "https://res.cloudinary.com/alienlebarge/image/fetch/" -%}
     {# Put the app.url back. Cloudinary need it #}
     {%- set base -%}{{ base }}{{ app.url }}{%- endset -%}
