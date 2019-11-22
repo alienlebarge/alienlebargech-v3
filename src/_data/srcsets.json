@@ -6,8 +6,9 @@
   },
   "thumbnail": {
     "sizes": "20vw",
-    "width": 240,
-    "widths": [120, 240, 360, 540]
+    "width": 250,
+    "widths": [120, 240, 360, 540],
+    "ratio": 1
   }
 }
 

@@ -1,30 +1,58 @@
+{# set the preset to use for the image #}
+{%- if image_preset -%}
+  {%- set preset = image_preset -%}
+{%- else -%}
+  {%- set preset = "default" -%}
+{%- endif -%}
+
+{%- set settings = srcsets[preset] -%}
+{%- set sizes = settings.sizes -%}
+
+
+
+{# Build all we need for the src value of the image #}
+
 {# IndieKit includes app.url in image path #}
 {# as app data are in JS, it will not work locally #}
 {%- set src -%}{{ src | replace(app.url, "") }}{%- endset -%}
+{# Put the app.url back. Cloudinary need it
+   Certainly a good idea to remove those line. But let's keep them in the
+   meantime #}
+{%- set src -%}{{ app.url }}{{ src }}{%- endset -%}
 
-{# Only use Cloudinary if there is needed transformations #}
-{%- if image_transformations -%}
 
-    {%- set base = "https://res.cloudinary.com/alienlebarge/image/fetch/" -%}
 
-    {# Put the app.url back. Cloudinary need it #}
-    {%- set src -%}{{ app.url }}{{ src }}{%- endset -%}
-    {%- set transformations -%}
-        {%- if image_transformations.ratio -%}ar_{{ image_transformations.ratio }},{%- endif -%}
-        {#-{%- if image_transformations.width -%}w_{{ image_transformations.width }},{%- endif -%}-#}
-        c_fill,g_auto
-    {%- endset -%}
+{# the base url for Cloudinary to fetch the images #}
+{%- set base = "https://res.cloudinary.com/alienlebarge/image/fetch" -%}
 
-    {%- set srcset -%}
-        {%- for width in srcsets.default.widths -%}
-            {{ base }}{{ transformations }},w_{{ width }}/{{ src | url }} {{ width }}w
-            {%- if not loop.last -%},{%- endif -%}
-        {%- endfor -%}
-    {%- endset -%}
 
-{%- endif -%}
 
-<img src="{{ base }}{{ transformations }}/{{ src | url }}"
-     {% if srcset %}srcset="{{ srcset }}" {%-endif -%}
+{# set transformations #}
+{%- set transformations -%}
+    {%- if settings.ratio -%}
+        ar_{{ settings.ratio }},
+    {%- endif -%}
+    {%- if settings.width -%}
+        w_{{ settings.width }},
+    {%- endif -%}
+    c_fill,g_auto
+{%- endset -%}
+
+
+{# Put everything together to build the src #}
+{%- set src -%}{{ base }}/{{ transformations }}/{{ src | url }}{%- endset -%}
+
+
+{# set srcset #}
+{%- set srcset -%}
+    {%- for width in srcsets.default.widths -%}
+        {{ base }}{{ transformations }},w_{{ width }}/{{ src | url }} {{ width }}w
+        {%- if not loop.last -%},{%- endif -%}
+    {%- endfor -%}
+{%- endset -%}
+
+{# the HTML code #}
+<img src="{{ src }}"
+     {#{% if srcset %}srcset="{{ srcset }}" {%-endif -%}#}
      alt="{{ alt }}"
      loading="lazy">
