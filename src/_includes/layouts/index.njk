@@ -1,6 +1,8 @@
 {% extends 'layouts/base.njk' %}
 {% block main %}
-    {% include 'header.njk' %}
+    <div class="c-background">
+        {% include 'header.njk' %}
+    </div>
     {{ layoutContent | safe }}
 {% endblock %}
 

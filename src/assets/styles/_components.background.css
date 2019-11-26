@@ -1,0 +1,16 @@
+/* ==========================================================================
+   #BACKGROUNDS
+   ========================================================================== */
+
+.c-background {
+    background-image: var(--bg-dots);
+}
+
+.c-background__text {
+    background-color: var(--color-light);
+    padding: 0 var(--s-5) var(--s-5) var(--s-5);
+    box-decoration-break: clone;
+
+    line-height: var(--line-height-loose);
+}
+

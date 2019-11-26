@@ -155,6 +155,23 @@
 
 
 
+.o-prose dt {
+    font-weight: 800;
+}
+
+.o-prose dd {
+    margin-inline-start: var(--flow-inset, 0);
+}
+
+/**
+ * 1. `dt` are sometimes visually hidden. This rules force consistency
+ */
+.o-prose dd + .o-prose dt,
+.o-prose dd + .o-prose dt.u-visually-hidden + .o-prose dd { /* [1] */
+    margin-block-start: calc(var(--flow-space, 0) / 2);
+}
+
+
 /* -------------------------------------
    #EMBED
    ------------------------------------- */
