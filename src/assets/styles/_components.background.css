@@ -8,7 +8,7 @@
 
 .c-background__text {
     background-color: var(--color-light);
-    padding: 0 var(--s-5) var(--s-5) var(--s-5);
+    padding: 0 var(--s-2) var(--s-5) var(--s-2);
     box-decoration-break: clone;
 
     line-height: var(--line-height-loose);
