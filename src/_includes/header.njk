@@ -1,4 +1,4 @@
-<header class="[ o-stack o-stack--s1 ] o-prose c-headerx{% if vocab and type != "note" %} | p-name{% endif %}">
+<header class="[ o-stack o-stack--s1 ] o-prose{% if vocab and type != "note" %} | p-name{% endif %}">
     {# add `safe` to allow to have `<time>` tag for notes title #}
     <h1 class="u-title"><span class="c-background__text">{{ title | safe }}</span></h1>
     {% if summary -%}
