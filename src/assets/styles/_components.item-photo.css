@@ -11,13 +11,13 @@
 
 .c-item-photo__figcaption {
     position: absolute;
-    right: 0;
-    bottom: 0;
+    right: var(--s-2);
+    bottom: var(--s-2);
 
     color: var(--color-dark);
 
     background-color: var(--color-light);
-    padding: var(--s-5);
+    padding: var(--s-5) var(--s-3);
 
     @extend %reference;
 }
