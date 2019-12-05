@@ -1,9 +1,24 @@
-<article>
+<article class="c-item-photo">
     <a href="{{ item.url | url }}">
+        <figure class="c-item-photo__figure">
 
         {# Set vars for the image #}
         {%- set src = item.data.photo[0].url -%}
         {%- set alt = item.data.photo[0].alt -%}
         {% include 'image.njk' %}
+        {# Check if there is more image #}
+        {% if item.data.photo | length > 1 %}
+            <figcaption class="c-item-photo__figcaption">
+            {#- deal with the plural: one versus more photos -#}
+            {%- if item.data.photo | length == 2 -%}
+                {{- item.data.photo | length -1 -}}
+                <span class="u-visually-hidden"> more image to see</span>
+            {%- else -%}
+                {{- item.data.photo | length -1 -}}
+                <span class="u-visually-hidden"> more images to see</span>
+            {%- endif -%}
+            </figcaption>
+        {% endif %}
+        </figure>
     </a>
 </article>

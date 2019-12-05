@@ -1,0 +1,27 @@
+/* ==========================================================================
+   #ITEM-PHOTO
+   ========================================================================== */
+
+.c-item-photo {
+}
+
+.c-item-photo__figure {
+    position: relative;
+}
+
+.c-item-photo__figcaption {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+
+    color: var(--color-dark);
+
+    background-color: var(--color-light);
+    padding: var(--s-5);
+
+    @extend %reference;
+}
+
+.c-item-photo__figcaption:before {
+    content: "+";
+}
