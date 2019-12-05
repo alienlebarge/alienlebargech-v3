@@ -11,6 +11,10 @@
     {
       "label": "Bookmarks",
       "url": "/bookmarks/"
+    },
+    {
+      "label": "Photos",
+      "url": "/photos/"
     }
   ]
 }
