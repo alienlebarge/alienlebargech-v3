@@ -1,19 +1,17 @@
 /* ==========================================================================
-   #HEADER
+   #BACKGROUNDS
    ========================================================================== */
 
-[data-type="note"] .c-header {
-    @extend %visually-hidden;
-}
-
-.c-header {
+.c-background {
     background-image: var(--bg-dots);
 }
 
-.c-header__no-bg {
+.c-background__text {
+
     line-height: var(--line-height-loose);
 
     background-color: var(--color-light);
-    padding: 0 var(--s-5r) var(--s-6r) var(--s-5r);
+    padding: 0 var(--s-2) var(--s-5) var(--s-2);
     box-decoration-break: clone;
 }
+

@@ -1,8 +1,9 @@
-<header class="[ o-box o-box--s1 ] [ o-stack o-stack--s1 ] o-prose c-header{% if vocab and type != "note" %} | p-name{% endif %}">
-  <h1 class="u-title"><span class="c-header__no-bg">{{ title }}</span></h1>
+<header class="[ o-stack o-stack--s1 ] o-prose{% if vocab and type != "note" %} | p-name{% endif %}">
+    {# add `safe` to allow to have `<time>` tag for notes title #}
+    <h1 class="u-title"><span class="c-background__text">{{ title | safe }}</span></h1>
     {% if summary -%}
-        <p class="u-lede {% if vocab %} | p-summary{% endif %}">
-          <span class="c-header__no-bg">{{ summary }}</span>
+        <p class="u-lede{% if vocab %} | p-summary{% endif %}">
+            <span class="c-background__text">{{ summary }}</span>
         </p>
     {%- endif %}
 </header>

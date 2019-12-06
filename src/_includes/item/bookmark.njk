@@ -3,7 +3,7 @@
         {%- if item.data.title -%}
         <div class="o-switcher__item o-switcher__item--big">
         <header class="o-stack o-stack--s0 c-item__header">
-            <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
+            <h3><a href="{{ item.url | url }}">{{ item.data.title | safe }}</a></h3>
         </header>
         </div>
         {%- endif -%}

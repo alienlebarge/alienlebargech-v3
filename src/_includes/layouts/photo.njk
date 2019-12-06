@@ -1,8 +1,10 @@
 {% set title %}Photo: {{ item.date | date(dates.datetime_full) }}{% endset %}
 {% extends 'layouts/base.njk' %}
 {% block main %}
-    {% include 'footer.njk' %}
-    {% include 'header.njk' %}
+    <div class="[ o-box o-box--s1 ] [ o-stack o-stack--s4 ] c-background">
+        {% include 'header.njk' %}
+        {% include 'footer.njk' %}
+    </div>
     {% include 'content.njk' %}
 
     <div class="[ o-box o-box--s1 ] o-stack">
