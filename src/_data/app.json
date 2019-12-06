@@ -4,7 +4,8 @@
   "description": "The personnal website of Cédric Aellen",
   "url": "https://alienlebarge.ch",
   "domain": "alienlebarge.ch",
-  "icon": "/images/app.ico",
+  "icon": "/assets/images/app.png",
+  "favicon": "/assets/images/app.ico",
   "author": {
     "name": "Cédric Aellen",
     "url": "https://alienlebarge.ch",
