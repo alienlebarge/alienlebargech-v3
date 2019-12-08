@@ -35,7 +35,7 @@
 .o-stack.o-stack--s4 { --stack__space: var(--s4); /* [1] */ }
 
 /* set the space */
-.o-stack > * + * {
+.o-stack > *:not(.u-visually-hidden) + * {
     margin-block-start: var(--stack__space);
 }
 

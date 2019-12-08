@@ -4,10 +4,10 @@
 {% extends 'layouts/base.njk' %}
 {% block main %}
     <div class="[ o-box o-box--s1 ] [ o-stack o-stack--s4 ] c-background">
-        {% include 'header.njk' %}
-        {# Notes only have the date in the footer wich is allready displayed in
-        the title #}
-        {#{% include 'footer.njk' %}#}
+        <div class="u-visually-hidden">
+            {% include 'header.njk' %}
+        </div>
+        {% include 'footer.njk' %}
     </div>
     {% include 'content.njk' %}
     {% include 'webmentions-list.njk' %}
