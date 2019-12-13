@@ -90,12 +90,12 @@
 /**
  * Horizontal space (writing direction)
  *
- *  1. Images are not included because because they are fluid by default
- *     (`max-width: 100%;`). This is defined in the element style. And we do not
- *     want to override it.
+ *  1. Images (and figures) are not included because because they are fluid by
+ *     default (`max-width: 100%;`). This is defined in the element style. And
+ *     we do not want to override it.
  */
 
-.o-prose *:not(img) {
+.o-prose *:not(img):not(figure) {
     max-inline-size: var(--line-measure); /* [1] */
 }
 

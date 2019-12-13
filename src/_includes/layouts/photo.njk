@@ -1,4 +1,6 @@
 {% set title %}Photo: {{ date | date(dates.datetime_full) }}{% endset %}
+
+{%- set webmentionUrl -%}{{ app.url }}{{ page.url | url }}{%- endset -%}
 {% extends 'layouts/base.njk' %}
 {% block main %}
     <div class="[ o-box o-box--s1 ] [ o-stack o-stack--s4 ] c-background">
@@ -8,21 +10,5 @@
         {% include 'footer.njk' %}
     </div>
     {% include 'content.njk' %}
-
-    <div class="[ o-box o-box--s1 ] o-stack">
-        {%- for item in photo -%}
-        <figure>
-            {# Set vars for the image #}
-            {%- set src = item.url -%}
-            {%- set alt = item.alt -%}
-            {%- set image_transformations = {"width": 800} -%}
-            {% include 'image.njk' %}
-
-            {%- if item.caption -%}
-            <figcaption>{{ item.caption }}</figcaption>
-            {%- endif -%}
-
-        </figure>
-        {%- endfor -%}
-    </div>
+    {% include 'webmentions-list.njk' %}
 {% endblock %}

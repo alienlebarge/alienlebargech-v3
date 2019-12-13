@@ -1,3 +1,21 @@
 <div class="[ o-box o-box--s1 ] c-content o-prose{% if vocab %} | e-content{% if type == "note" %} p-name{% endif %}{% endif %}">
     {{ content | safe }}
+
+    {# add photo if there is any #}
+    {% if photo %}
+        {%- for item in photo -%}
+        <figure>
+            {# Set vars for the image #}
+            {%- set src = item.url -%}
+            {%- set alt = item.alt -%}
+            {%- set image_transformations = {"width": 800} -%}
+            {% include 'image.njk' %}
+
+            {%- if item.caption -%}
+            <figcaption>{{ item.caption }}</figcaption>
+            {%- endif -%}
+
+        </figure>
+        {%- endfor -%}
+    {% endif %}
 </div>
