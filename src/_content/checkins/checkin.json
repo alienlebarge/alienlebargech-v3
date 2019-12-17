@@ -1,6 +1,6 @@
 {
   "title": "",
-  "layout": "layouts/checkin.njk",
+  "layout": "checkin.njk",
   "permalink": "checkins/{{ page.fileSlug }}/index.html",
   "tags": [""],
   "type": "checkin",

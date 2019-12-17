@@ -1,7 +1,7 @@
 {% set title %}Checkin: {{ item.date | date(dates.datetime_full) }}{% endset %}
 
 {%- set webmentionUrl -%}{{ app.url }}{{ page.url | url }}{%- endset -%}
-{% extends 'layouts/base.njk' %}
+{% extends './base.njk' %}
 {% block main %}
     {% include 'footer.njk' %}
     {% include 'header.njk' %}

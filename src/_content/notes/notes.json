@@ -1,6 +1,6 @@
 {
   "title": "",
-  "layout": "layouts/note.njk",
+  "layout": "note.njk",
   "permalink": "notes/{{ page.fileSlug }}/index.html",
   "tags": ["post", "note"],
   "type": "note",

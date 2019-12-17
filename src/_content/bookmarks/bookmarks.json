@@ -1,5 +1,5 @@
 {
-  "layout": "layouts/bookmark.njk",
+  "layout": "bookmark.njk",
   "permalink": "bookmarks/{{ page.date | date: 'YYYY/MM' }}/{{ page.fileSlug }}/index.html",
   "type": "bookmark",
   "tags": ["post", "bookmark"],
