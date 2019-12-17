@@ -1,11 +1,10 @@
+{%- import 'image.njk' as image -%}
+
 <article class="c-item-photo">
     <a href="{{ item.url | url }}">
         <figure class="c-item-photo__figure">
+        {{ image.image(item.data.photo[0].url, item.data.photo[0].alt, settings=srcsets.grid) }}
 
-        {# Set vars for the image #}
-        {%- set src = item.data.photo[0].url -%}
-        {%- set alt = item.data.photo[0].alt -%}
-        {% include 'image.njk' %}
         {# Check if there is more image #}
         {% if item.data.photo | length > 1 %}
             <figcaption class="c-item-photo__figcaption">

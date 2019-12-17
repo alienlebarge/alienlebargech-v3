@@ -1,33 +1,13 @@
-{# set the preset to use for the image #}
-{%- if image_preset -%}
-  {%- set preset = image_preset -%}
-{%- else -%}
-  {%- set preset = "default" -%}
-{%- endif -%}
+{% macro image(src, alt, settings) %}
 
-{%- set settings = srcsets[preset] -%}
 {%- set sizes = settings.sizes -%}
 
-
-
-{# Build all we need for the src value of the image #}
-
-{# IndieKit includes app.url in image path #}
-{# as app data are in JS, it will not work locally #}
-{%- set src -%}{{ src | replace(app.url, "") }}{%- endset -%}
-{# Put the app.url back. Cloudinary need it
-   Certainly a good idea to remove those line. But let's keep them in the
-   meantime #}
-{%- set src -%}{{ app.url }}{{ src }}{%- endset -%}
-
-
-
-{# the base url for Cloudinary to fetch the images #}
+{# The base url for Cloudinary to fetch the images #}
 {%- set base = "https://res.cloudinary.com/alienlebarge/image/fetch" -%}
 
 
 
-{# set transformations #}
+{# set transformations with the default width #}
 {%- set transformations -%}
     {%- if settings.ratio -%}
         ar_{{ settings.ratio }},
@@ -39,21 +19,28 @@
 {%- endset -%}
 
 
-{# Put everything together to build the src #}
-{%- set src -%}{{ base }}/{{ transformations }}/{{ src | url }}{%- endset -%}
 
-
-{# set srcset #}
+{# set srcset without the default width#}
 {%- set srcset -%}
-    {%- for width in srcsets.default.widths -%}
-        {{ base }}{{ transformations }},w_{{ width }}/{{ src | url }} {{ width }}w
+    {%- for width in settings.widths -%}
+        {{ base }}/w_{{ width }},{%- if settings.ratio -%}ar_{{ settings.ratio }},{%- endif -%}c_fill,g_auto/{{ src | url }} {{ width }}w
         {%- if not loop.last -%},{%- endif -%}
     {%- endfor -%}
 {%- endset -%}
 
-{# the HTML code #}
+
+
+{# Put everything together to build the img src #}
+{%- set src -%}{{ base }}/{{ transformations }}/{{ src | url }}{%- endset -%}
+
+
+
+{# Output #}
 <img src="{{ src }}"
      class="u-photo"
-     {#{% if srcset %}srcset="{{ srcset }}" {%-endif -%}#}
+     srcset="{{ srcset }}"
+     sizes="{{ settings.sizes }}"
      alt="{{ alt }}"
      loading="lazy">
+
+{% endmacro %}

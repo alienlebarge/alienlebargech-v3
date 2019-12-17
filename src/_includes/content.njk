@@ -3,18 +3,13 @@
 
     {# add photo if there is any #}
     {% if photo %}
+        {%- import 'image.njk' as image -%}
         {%- for item in photo -%}
         <figure>
-            {# Set vars for the image #}
-            {%- set src = item.url -%}
-            {%- set alt = item.alt -%}
-            {%- set image_transformations = {"width": 800} -%}
-            {% include 'image.njk' %}
-
+            {{ image.image(item.url, item.alt, settings=srcsets.default) }}
             {%- if item.caption -%}
             <figcaption>{{ item.caption }}</figcaption>
             {%- endif -%}
-
         </figure>
         {%- endfor -%}
     {% endif %}
