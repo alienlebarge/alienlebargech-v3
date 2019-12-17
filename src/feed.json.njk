@@ -1,6 +1,7 @@
 ---
 permalink: /feed.json
 ---
+{%- import 'image.njk' as image -%}
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "{{ app.title }}",
@@ -36,7 +37,18 @@ permalink: /feed.json
             {% if item.data.summary -%}
                 "summary": "{{ item.data.summary }}",
             {%- endif %}
-            "content_html": {{- item.templateContent | strip_mentions | jsonify | safe -}} ,
+            "content_html":
+            {%- set content_html -%}
+                {#- Default content -#}
+                {{- item.templateContent | strip_mentions | safe -}}
+                {#- Photo defined in the front matter -#}
+                {% if item.data.photo -%}
+                    {%- for item in item.data.photo -%}
+                        {{ image.image(item.url, item.alt, settings=srcsets.default) }}
+                    {%- endfor -%}
+                {%- endif -%}
+            {%- endset -%}
+            {{ content_html | dump | safe }},
             {% if item.data.url -%}
                 "external_url": "{{ item.data.url }}",
             {%- endif %}

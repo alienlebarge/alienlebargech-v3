@@ -1,6 +1,7 @@
 ---
 permalink: feed.xml
 ---
+{%- import 'image.njk' as image -%}
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>{{ app.url }}{{ page.url }}</id>
@@ -24,9 +25,17 @@ permalink: feed.xml
             {% if item.data.title %}<title>{{ item.data.title }}</title>{% endif %}
             <updated>{{ item.date | date(dates.iso) }}</updated>
             <link href="{{ app.url }}{{ item.url }}" rel="alternate" type="text/html"/>
-            <content type="html">
-                {{ item.templateContent | strip_mentions }}
-            </content>
+            <content type="html"><![CDATA[
+            {%- set content_html -%}
+                {{- item.templateContent | strip_mentions | safe -}}
+                {%- if item.data.photo -%}
+                    {%- for item in item.data.photo -%}
+                        {{- image.image(item.url, item.alt, settings=srcsets.default) -}}
+                    {%- endfor -%}
+                {%- endif -%}
+            {%- endset -%}
+            {{- content_html | safe -}}
+            ]]></content>
         </entry>
     {% endif %}
     {%- endfor %}
