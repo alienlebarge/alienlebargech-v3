@@ -36,11 +36,11 @@ permalink: /feed.json
             {% if item.data.summary -%}
                 "summary": "{{ item.data.summary }}",
             {%- endif %}
-            "content_html": {{- item.templateContent | dump | strip_mentions | safe -}},
+                "content_html": {{- item.templateContent | dump | strip_mentions | safe -}},
             {% if item.data.url -%}
                 "external_url": "{{ item.data.url }}",
             {%- endif %}
-            "date_published": "{{ item.date | date(dates.iso) }}"
+                "date_published": "{{ item.date | date(dates.iso) }}"
         }
         {%- if loop.length - loop.revindex0 < app.feed_limit -%},{%- endif %}
         {%- endif -%}
