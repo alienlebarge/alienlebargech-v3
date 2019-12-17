@@ -36,7 +36,7 @@ permalink: /feed.json
             {% if item.data.summary -%}
                 "summary": "{{ item.data.summary }}",
             {%- endif %}
-                "content_html": {{- item.templateContent | dump | strip_mentions | safe -}},
+            "content_html": {{- item.templateContent | strip_mentions | jsonify | safe -}} ,
             {% if item.data.url -%}
                 "external_url": "{{ item.data.url }}",
             {%- endif %}
