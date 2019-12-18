@@ -22,7 +22,7 @@ permalink: /feed.json
             "id": "{{ app.url }}{{ item.url }}",
             "url": "{{ app.url }}{{ item.url }}",
             {% if item.data.title -%}
-                "title": "{{ item.data.title }}",
+                "title": "{{ item.data.title | safe }}",
             {%- endif %}
             {% if item.data.tags -%}
                 "tags": [

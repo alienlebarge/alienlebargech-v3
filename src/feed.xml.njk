@@ -18,7 +18,7 @@ permalink: feed.xml
     <link rel="hub" href="http://pubsubhubbub.superfeedr.com/"/>
     <icon>{{ app.url }}{{ app.icon }}</icon>
     <rights>&#169; {{ date | date("YYYY") }} {{ app.author.name }}. Content Creative Commons licensed unless otherwise stated.</rights>
-    {%- for item in collections.post | reverse %}
+    xxxxxx{% for item in collections.post | reverse -%}
     {%- if loop.length - loop.revindex < app.feed_limit -%}
         <entry>
             <id>{{ app.url }}{{ item.url }}</id>
