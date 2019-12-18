@@ -2,7 +2,7 @@
    #SEPARATOR
    ========================================================================== */
 
-.c-separator > * + *:before {
+.c-separator > * + *::before {
     display: block;
 
     border-top: var(--s-5) solid var(--color-dark);
