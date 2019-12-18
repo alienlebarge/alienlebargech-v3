@@ -25,6 +25,13 @@
         "url": "media/photos/{{ published | date('yyyy/MM') }}/{{ slug }}/"
       }
     },
+    "reply": {
+      "template": "etc/micropub/templates/reply.njk",
+      "post": {
+        "path": "src/_content/replies/{{ published | date('yyyy-MM-dd') }}-{{slug}}.md",
+        "url": "replies/{{ published | date(\'yyyy/MM/dd\') }}/{{slug}}/"
+      }
+    },
     "bookmark": {
       "template": "etc/micropub/templates/bookmark.njk",
       "post": {

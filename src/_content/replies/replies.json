@@ -1,0 +1,7 @@
+{
+  "title": "",
+  "layout": "reply",
+  "permalink": "replies/{{ page.date | date: 'YYYY/MM/dd' }}/{{ page.fileSlug }}.html",
+  "tags": ["post", "reply"],
+  "vocab": "entry",
+}
