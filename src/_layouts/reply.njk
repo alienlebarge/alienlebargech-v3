@@ -1,0 +1,14 @@
+{% set title %}Reply to: <a href="{{ inReplyTo }}">{{ inReplyTo }}</a>{% endset %}
+
+{%- set webmentionUrl -%}{{ app.url }}{{ page.url | url }}{%- endset -%}
+{% extends './base.njk' %}
+{% block main %}
+    <div class="[ o-box o-box--s1 ] [ o-stack o-stack--s4 ] c-background">
+        <div class="u-visually-hidden">
+            {% include 'header.njk' %}
+        </div>
+        {% include 'footer.njk' %}
+    </div>
+    {% include 'content.njk' %}
+    {% include 'webmentions-list.njk' %}
+{% endblock %}
