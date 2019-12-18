@@ -1,0 +1,13 @@
+---
+title: Replies
+summary: Responses to some other post
+permalink: bookmarks/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html
+pagination:
+    data: collections.reply
+    size: 20
+---
+{% import 'list-items.njk' as list %}
+{{ list.listItems(pagination.items) }}
+
+{% import 'pagination.njk' as transverse %}
+{{ transverse.paginate(pagination, label='Replies') }}
