@@ -37,7 +37,11 @@
         <link rel="apple-touch-icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_152/{{ app.url }}{{ app.icon | url }}" sizes="152x152">
         <link rel="apple-touch-icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_180/{{ app.url }}{{ app.icon | url }}" sizes="180x180">
 
-        <title>{% if type != "homepage" and title %}{{ title }} - {% endif %}{{ app.title }}</title>
+        <title>
+            {% if type != "homepage" and title -%}
+                {{ title | safe }} -
+            {% endif -%}{{- app.title | safe -}}
+        </title>
     </head>
     <body class="c-page">
         {% include 'banner.njk' %}
