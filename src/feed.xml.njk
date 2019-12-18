@@ -18,11 +18,11 @@ permalink: feed.xml
     <link rel="hub" href="http://pubsubhubbub.superfeedr.com/"/>
     <icon>{{ app.url }}{{ app.icon }}</icon>
     <rights>&#169; {{ date | date("YYYY") }} {{ app.author.name }}. Content Creative Commons licensed unless otherwise stated.</rights>
-    xxxxxx{% for item in collections.post | reverse -%}
+    {% for item in collections.post | reverse -%}
     {%- if loop.length - loop.revindex < app.feed_limit -%}
         <entry>
             <id>{{ app.url }}{{ item.url }}</id>
-            {% if item.data.title %}<title>{{ item.data.title }}</title>{% endif %}
+            {% if item.data.title %}<title>{{ item.data.title | safe }}</title>{% endif %}
             <updated>{{ item.date | date(dates.iso) }}</updated>
             <link href="{{ app.url }}{{ item.url }}" rel="alternate" type="text/html"/>
             <content type="html"><![CDATA[
