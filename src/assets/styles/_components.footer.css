@@ -9,3 +9,7 @@
 .c-footer .u-bookmark-of {
     --anchor-decoration: underline var(--color-dark);
 }
+
+.c-footer__svg {
+    height: calc(var(--font-size-caption) * .8);
+}
