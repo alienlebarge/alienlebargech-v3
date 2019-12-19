@@ -35,7 +35,12 @@
 .o-stack.o-stack--s4 { --stack__space: var(--s4); /* [1] */ }
 
 /* set the space */
-.o-stack > *:not(.u-visually-hidden) + * {
+.o-stack > * + * {
     margin-block-start: var(--stack__space);
+}
+
+/* Remove margin if the first element of the stack is hidden */
+.o-stack > .u-visually-hidden:first-child + * {
+    --stack__space: 0;
 }
 
