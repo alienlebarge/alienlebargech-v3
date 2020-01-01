@@ -39,7 +39,7 @@
 
         <title>
             {% if type != "homepage" and title -%}
-                {{ title | safe }} -
+                {{ title | striptags(true) | safe }} -
             {% endif -%}{{- app.title | safe -}}
         </title>
     </head>
