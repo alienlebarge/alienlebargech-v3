@@ -14,7 +14,7 @@ This module is a beast and I love it. I write this post to tell you how I use it
 - Do you use all eight channels ? 
 - Do you have special ninja tricks ?
 
-## Here how I mainly use it
+## How I use it (most of the time)
 
 I'm mainly interested in how you trigger it but I will give you some information how I modulate it too.
 
