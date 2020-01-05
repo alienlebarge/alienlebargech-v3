@@ -29,6 +29,8 @@ I tend to have a channel configuration like this:
 
 ### Triggering
 
+#### Current workflow
+
 Channels 1 to 3 are triggered with [Grids](https://mutable-instruments.net/modules/grids/).
 Because I do techno stuff, channel 1 is also triggered by a [Varigate 8+](https://malekkoheavyindustry.com/product/varigate-8/) to have a 4x4 beat. There's simple a [passive mult](https://4mscompany.com/p.php?p=962&c=11) between the Grids and the Varigate 8+. One of the two sequencers is muted depending on the type of beats I want.
 
