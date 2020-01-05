@@ -30,11 +30,11 @@ I tend to have a channel configuration like this:
 ### Triggering
 
 Channels 1 to 3 are triggered with [Grids](https://mutable-instruments.net/modules/grids/).
-Because I do techno stuff, channel 1 is triggered by a [Varigate 8+](https://malekkoheavyindustry.com/product/varigate-8/) to have a 4x4 beat. There's simple a [passive mult](https://4mscompany.com/p.php?p=962&c=11) between the Grids and the Varigate 8+. One of the two sequencers is muted depending on the type of beats I want.
+Because I do techno stuff, channel 1 is also triggered by a [Varigate 8+](https://malekkoheavyindustry.com/product/varigate-8/) to have a 4x4 beat. There's simple a [passive mult](https://4mscompany.com/p.php?p=962&c=11) between the Grids and the Varigate 8+. One of the two sequencers is muted depending on the type of beats I want.
 
 Channels 4 to 8 are triggered by the Varigate 8+. I edit them live during the performance.
 
-#### Future technic
+#### Future workflow
 
 I really like creating patterns by turning knobs like with Grids. It's ultra fast and 99% of the time, it sounds good.\
 Varigate 8+ is not so good for improvising. I find this not being ideal. Mistakes are easily done by pressing the wrong button and it's not so immediate. 
