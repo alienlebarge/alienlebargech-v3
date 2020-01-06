@@ -7,4 +7,4 @@ category:
 ---
 > A practical book for practitioners and non-practitioners alike interested in better service delivery, this book is the definitive new guide to designing services that work for users.
 
-I never heard that [Lou Downe](https://blog.louisedowne.com/) wrote a book. This is definitively on “to read” list.
+I never heard that [Lou Downe](https://blog.louisedowne.com/) wrote a book. This is definitively on my “to read” list.
