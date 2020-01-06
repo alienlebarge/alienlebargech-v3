@@ -51,7 +51,7 @@
 }
 
 .o-prose :matches(h4, h5, h6) + * {
-    --space: 0; /* [3] */
+    --space: var(--s-2); /* [3] */
 }
 
 .o-prose > ul li {
