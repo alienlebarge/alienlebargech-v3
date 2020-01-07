@@ -46,8 +46,8 @@
         "url": "photos/{{ published | date('yyyy/MM') }}/{{ slug }}/"
       },
       "media": {
-        "path": "src/media/photos/{{ filedate | date('X') }}.{{ fileext }}",
-        "url": "media/photos/{{ filedate | date('X') }}.{{ fileext }}"
+        "path": "src/media/photos/{{ filedate | date('yyyy/MM/dd') }}/{{ filename }}",
+        "url": "media/photos/{{ filedate | date('yyyy/MM/dd') }}/{{ filename }}"
       }
     },
     "checkin": {
