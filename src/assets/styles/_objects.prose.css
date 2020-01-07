@@ -39,7 +39,6 @@
  * 2. Space after h3
  * 3. Space after h4, h5 and h6
  * 4. Space between li
- * 5. Space between an ul inside a li
  */
 
 .o-prose > h2 + * {
@@ -54,12 +53,13 @@
     --space: var(--s-2); /* [3] */
 }
 
-.o-prose > ul li {
-    --space: var(--s-3); /* [4] */
+.o-prose li {
+    --space: var(--s-4); /* [4] */
 }
 
-.o-prose > ul ul {
-    margin-block-start: var(--space); /* [5] */
+.o-prose li + li,
+.o-prose li:first-child {
+    margin-block-start: var(--space); /* [4] */
 }
 
 .o-prose > p + p {
