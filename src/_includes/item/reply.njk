@@ -1,0 +1,30 @@
+<article class="o-switcher c-item | h-entry" data-type="note">
+    <div class="o-switcher__container o-stack o-stack--s-2">
+        <div class="o-switcher__item o-switcher__item--big o-stack o-prose | e-content p-name">
+            {{ item.templateContent | safe }}
+        </div>
+        <footer class="o-switcher__item c-item__footer o-stack o-stack--s-2">
+            <dl>
+                <dt class="u-visually-hidden">Published on</dt>
+                <dd>
+                <a class="o-cluster o-cluster--small u-url" rel="bookmark" href="{{ item.url | url }}">
+                    {# TODO: use src/_data/dates.json to format the date. #}
+                    <time class="o-cluster__container | dt-published"
+                          datetime="{{ item.date | date }}">
+                        <span class="o-cluster__item">{{ item.date | date("D MMM YYYY") }}</span>
+                        <span class="o-cluster__item">{{ item.date | date("HH:mm") }}</span>
+                    </time>
+                </a>
+                </dd>
+                {% if item.data.inReplyTo %}
+                <dt class="u-visually-hidden">In reply to</dt>
+                <dd>
+                <a class="u-in-reply-to" rel="external" href="{{ item.data.inReplyTo }}">
+                    {{ item.data.inReplyTo }}
+                </a>
+                </dd>
+                {% endif %}
+            </dl>
+        </footer>
+    </div>
+</article>
