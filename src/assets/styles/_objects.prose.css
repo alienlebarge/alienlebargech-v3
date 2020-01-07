@@ -58,7 +58,7 @@
 }
 
 .o-prose li + li,
-.o-prose li:first-child {
+.o-prose :--list > li:first-child {
     margin-block-start: var(--space); /* [4] */
 }
 
