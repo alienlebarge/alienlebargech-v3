@@ -44,54 +44,14 @@ Here's the style a basic `h1` will get.
 
 ## Colors
 
-### Neutral
+The colors are switching between light and dark depending on the color scheme.
 
-<ul class="c-palette">
-    <li class="c-palette__item u-color-neutral-darkest">Darkest</li>
-    <li class="c-palette__item u-color-neutral-darker">Darker</li>
-    <li class="c-palette__item u-color-neutral-dark">Dark</li>
-    <li class="c-palette__item u-color-neutral">Normal</li>
-    <li class="c-palette__item u-color-neutral-light">Light</li>
-    <li class="c-palette__item u-color-neutral-lighter">Lighter</li>
-    <li class="c-palette__item u-color-neutral-lightest">Lightest</li>
-</ul>
-
-### Alpha
-
-<ul class="c-palette">
-    <li class="c-palette__item u-color-alpha-highest">Alpha high</li>
-    <li class="c-palette__item u-color-alpha-high">Alpha high</li>
-    <li class="c-palette__item u-color-alpha-low">Alpha low</li>
-    <li class="c-palette__item u-color-alpha-lowest">Alpha lowest</li>
-</ul>
-
-### Primary
-
-<ul class="c-palette">
-    <li class="c-palette__item u-color-primary-darkest">Darkest</li>
-    <li class="c-palette__item u-color-primary-darker">Darker</li>
-    <li class="c-palette__item u-color-primary-dark">Dark</li>
-    <li class="c-palette__item u-color-primary">Normal</li>
-    <li class="c-palette__item u-color-primary-light">Light</li>
-    <li class="c-palette__item u-color-primary-lighter">Lighter</li>
-    <li class="c-palette__item u-color-primary-lightest">Lightest</li>
-</ul>
-
-### Assignements
-
-<ul class="c-palette">
-    <li class="c-palette__item u-color-accent">Accent</li>
-    <li class="c-palette__item u-color-background">Background</li>
-    <li class="c-palette__item u-color-text">Text</li>
-    <li class="c-palette__item u-color-link">Link</li>
-    <li class="c-palette__item u-color-link-underline">Link underline</li>
-    <li class="c-palette__item u-color-rule">Rule</li>
-    <li class="c-palette__item u-color-offset">Offset</li>
-    <li class="c-palette__item u-color-delete">Delete</li>
-    <li class="c-palette__item u-color-highlight">Highlight</li>
-    <li class="c-palette__item u-color-insert">Insert</li>
-    <li class="c-palette__item u-color-focus">Focus</li>
-</ul>
+<div class="o-cluster o-cluster--small">
+    <ul class="o-cluster__container">
+        <li class="o-cluster__item c-palette u-color-light">Light</li>
+        <li class="o-cluster__item c-palette u-color-dark">dark</li>
+    </ul>
+</div>
 
 ---
 

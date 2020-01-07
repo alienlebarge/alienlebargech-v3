@@ -3,22 +3,10 @@
    ========================================================================== */
 
 .c-palette {
-    display: flex;
-
-    margin: 0 calc(var(--space-inline, 0) * -1);
-    flex-wrap: wrap;
-}
-
-.c-palette__item {
     display: block;
-    max-width: var(--s4);
-    margin-block-end: var(--flow-space);
-    margin-inline: var(--space-inline, 0);
-
-    @extend %caption;
 }
 
-.c-palette__item::before {
+.c-palette::before {
     display: block;
     width: var(--s4);
     height: var(--s4);
