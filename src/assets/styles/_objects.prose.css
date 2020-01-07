@@ -143,14 +143,24 @@
 
 /**
  * Lists
+ *
+ * 1. On bigger screen, the bullet position is outside. Inside let you gain
+ *    horizontal space on mobile
  */
 
 .o-prose :--list {
     padding-inline-start: 0;
+    list-style-position: inside; /* [1] */
 }
 
 .o-prose :--list :--list {
     padding-inline-start: var(--flow-inset);
+}
+
+@media (--from-small-viewport) {
+    .o-prose :--list {
+        list-style-position: outside; /* [1] */
+    }
 }
 
 
