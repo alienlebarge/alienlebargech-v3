@@ -11,7 +11,7 @@
  */
 %title {
     font-size: var(--font-size-title);
-    font-weight: var(--font-weight-title, 500);
+    font-weight: var(--font-weight-title, 700);
     font-family: var(--font-family-title, var(--font-family-sans));
     line-height: var(--line-height-title, var(--line-height-tight));
     letter-spacing: 0; /* [1] */
@@ -21,7 +21,7 @@
 
 %lede {
     font-size: var(--font-size-lede);
-    font-weight: var(--font-weight-lede, 400);
+    font-weight: var(--font-weight-lede, 500);
     font-family: var(--font-family-lede, var(--font-family-sans));
     line-height: var(--line-height-lede, var(--line-height-tight));
     letter-spacing: .02em;
@@ -34,7 +34,7 @@
  */
 %heading {
     font-size: var(--font-size-heading);
-    font-weight: var(--font-weight-heading, 500);
+    font-weight: var(--font-weight-heading, 600);
     font-family: var(--font-family-heading, var(--font-family-sans));
     line-height: var(--line-height-heading, var(--line-height-tight));
     letter-spacing: 0; /* [1] */
@@ -47,7 +47,7 @@
  */
 %subhead {
     font-size: var(--font-size-subhead);
-    font-weight: var(--font-weight-subhead, 500);
+    font-weight: var(--font-weight-subhead, 600);
     font-family: var(--font-family-subhead, var(--font-family-sans));
     line-height: var(--line-height-subhead, var(--line-height-tight));
     letter-spacing: 0; /* [1] */
