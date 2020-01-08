@@ -2,7 +2,7 @@
 {%- set mentions = webmentions.children | webmentions_for_url(absoluteUrl) -%}
 
 {% if mentions | length %}
-    <section class="o-box o-box--s1 o-stack o-stack--s4">
+    <section class="c-container o-stack o-stack--s4">
         <header>
             <h2 class="u-overline">Webmentions</h2>
         </header>
