@@ -26,6 +26,7 @@ th {
 
 thead th {
     font-weight: 800;
+    font-variation-settings: "wght" 800;
 }
 
 tbody th {
