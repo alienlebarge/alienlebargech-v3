@@ -4,9 +4,25 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="robots" content="{% if hidden == true %}noindex{% else %}index{% endif %}, follow">
-        <meta property="og:title" content="{{ title }}">
+
+        <meta property="og:title" content="{% if title %}{{ title | striptags(true) | safe }}{% else %}{{ app.title }}{% endif %}">
         <meta property="og:url" content="{{ page.url }}">
-        {%- if summary %}<meta name="description" content="{{ summary }}">{%- endif %}
+        <meta property="og:description" content="{% if summary %}{{ summary | striptags(true) | safe }}{% else %}{{ app.description }}{% endif %}">
+        <meta name="description" content="{% if summary %}{{ summary | striptags(true) | safe }}{% else %}{{ app.description }}{% endif %}">
+        {% if image -%}
+            <meta property="og:image" content="https://res.cloudinary.com/alienlebarge/image/fetch/w_1200,h_630,c_fill,g_auto,q_auto,f_auto/{{ app.url }}{{ image }}">
+            <meta name="twitter:card" content="summary_large_image">
+        {%- elif photo %}
+            <meta property="og:image" content="https://res.cloudinary.com/alienlebarge/image/fetch/w_1200,h_630,c_fill,g_auto,q_auto,f_auto/{{ photo[0].url }}">
+            <meta name="twitter:card" content="summary_large_image">
+        {%- else %}
+            <meta property="og:image" content="{{ app.url }}{{ app.icon }}">
+            <meta name="twitter:card" content="summary">
+        {%- endif %}
+        <meta name="twitter:site" content="@alienlebarge">
+        <meta name="supported-color-schemes" content="light dark">
+
+        <link rel="dns-prefetch" href="https://res.cloudinary.com">
 
         <link rel="alternate" href="{{ './feed.xml' | url }}" type="application/atom+xml" title="RSS (Atom) Feed">
         <link rel="alternate" href="{{ './feed.json' | url }}" type="application/json" title="JSON Feed">
