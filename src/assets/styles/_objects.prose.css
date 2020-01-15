@@ -107,7 +107,7 @@
  * Paragraphs
  */
 
-.o-prose > p {
+.o-prose > p:not([class]) {
     line-height: var(--line-height-loose);
     hyphenate-limit-chars: 6 3 2;
     hyphenate-limit-last: always;

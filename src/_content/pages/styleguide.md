@@ -35,6 +35,10 @@ Here's the style a basic `h5` will get.
 
 Here's the style a basic `h1` will get.
 
+---
+
+## Utilities
+
 <p class="u-lede">The lede is the introductory section of a news story that is intended to entice the reader to read the full story.</p>
 <p class="u-body">The body text or body copy is the text forming the main content of a book, magazine, web page, or any other printed or digital work.</p>
 <p class="u-caption">A caption is  a title, short explanation, or description accompanying an illustration or a photograph.</p>
@@ -54,6 +58,8 @@ The colors are switching between light and dark depending on the color scheme.
 </div>
 
 ---
+
+## Prose
 
 ## Second-level heading
 
