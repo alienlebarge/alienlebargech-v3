@@ -4,8 +4,8 @@
 
 .c-container {
     display: block;
-    padding-inline: 5vw;
     padding-block: var(--s1);
+    padding-inline: 5vw;
 }
 
 .c-container--big {

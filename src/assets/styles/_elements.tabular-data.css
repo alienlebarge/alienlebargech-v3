@@ -21,8 +21,9 @@ tr {
 td,
 th {
     text-align: start;
-    vertical-align: top;
+
     padding: var(--s-4);
+    vertical-align: top;
 }
 
 tr + tr {

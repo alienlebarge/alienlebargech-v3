@@ -149,8 +149,8 @@
  */
 
 .o-prose :--list {
-    padding-inline-start: 0;
     list-style-position: inside; /* [1] */
+    padding-inline-start: 0;
 }
 
 .o-prose :--list :--list {
@@ -158,6 +158,7 @@
 }
 
 @media (--from-small-viewport) {
+
     .o-prose :--list {
         list-style-position: outside; /* [1] */
     }
