@@ -33,15 +33,15 @@ The first one was my fault. I haven't well measured the resistors and switched t
 
 #### Problem 2: Assembly guide wasn't clear enough
 When soldering the 10K and 100K resistors on the bottom parts, the assembly guide is not very clear which one goes where. I had to look at the [schematics](https://github.com/stziopa/kompas/tree/master/Schematics) to figure out what was the right position for the 10K and 100K. Here they are:
-    - R1: 100K
-    - R4: 100K
-    - R5: 100K
-    - R6: 100K
-    - R13: 100K
-    - R16: 100K
-    - R18: 10k
-    - R20: 10K
-    - R22: 10K
+- R1: 100K
+- R4: 100K
+- R5: 100K
+- R6: 100K
+- R13: 100K
+- R16: 100K
+- R18: 10k
+- R20: 10K
+- R22: 10K
 
 #### Problem 3: Missing parts
 The male headers were missing, so I have to order some. (And wait two days until I get them. It was looong.)
