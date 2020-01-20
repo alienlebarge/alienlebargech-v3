@@ -39,6 +39,7 @@
  * 2. Space after h3
  * 3. Space after h4, h5 and h6
  * 4. Space between li
+ * 5. Space between things inside a li. For exemople a `p`
  */
 
 .o-prose > h2 + * {
@@ -60,6 +61,11 @@
 .o-prose li + li,
 .o-prose :--list > li:first-child {
     margin-block-start: var(--space); /* [4] */
+}
+
+.o-prose li > * {
+    margin-block-end: 0; /* [5] */
+    margin-block-start:0; /* [5] */
 }
 
 .o-prose > p + p {
@@ -107,7 +113,7 @@
  * Paragraphs
  */
 
-.o-prose > p:not([class]) {
+.o-prose p:not([class]) {
     line-height: var(--line-height-loose);
     hyphenate-limit-chars: 6 3 2;
     hyphenate-limit-last: always;
