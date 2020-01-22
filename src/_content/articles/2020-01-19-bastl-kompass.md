@@ -58,6 +58,6 @@ Each channel as a different pattern generator algorithm:
 
 Each time you turn a channel's knobs or feed some CV, the corresponding pattern is generated.
 
-## Final though
+## Final thought
 
 Kompas is a great module and a easy build. After playing with it for some hours, it really feeds my needs.
