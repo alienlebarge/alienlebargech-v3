@@ -25,7 +25,7 @@ Channel one was triggered by the Varigate 8+ too using a mult. It helps to get a
 #### Channels 4 to 8
 
 The rest of the channels were triggered by a [Varigate 8+](https://malekkoheavyindustry.com/product/varigate-8/). 
-This solution was not ideal in a live situation. It's pretty hard to create new pattern on the fly using Varigate's slders.
+This solution was not ideal in a live situation. It's pretty hard to create new pattern on the fly using Varigate's sliders.
 
 ### Actual patch configuration
 
@@ -94,3 +94,5 @@ Each time you turn a channel's knobs or feed some CV, the corresponding pattern 
 ## Final thought
 
 Kompas is a great module and a easy build. After playing with it for some hours, it really feeds my needs.
+
+And, **I have a lot of fun** !
