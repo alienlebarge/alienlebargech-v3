@@ -1,0 +1,15 @@
+/* ==========================================================================
+   #LANGUAGES
+   ========================================================================== */
+
+/**
+ * This code is used by eleventy-plugin-syntaxhighlight
+ * Since we can't wrap the code, the CSS classes do not use standard BEMIT
+ * format.
+ *
+ * 1. Comments in italic.
+ */
+
+[class^="language-"] .comment {
+    font-style: italic; /* [1] */
+}
