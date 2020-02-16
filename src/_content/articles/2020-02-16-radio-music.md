@@ -1,6 +1,6 @@
 ---
 title: Choppe your samples with Radio Music
-summary: Use Radio music module to create chopped sample à la Montréal micro house
+summary: Use Radio music module to create music à la Montréal micro house
 date: 2020-02-16 20:43:40
 tags:
  - music
