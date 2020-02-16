@@ -5,4 +5,7 @@
         {% include 'footer.njk' %}
     </div>
     {% include 'content.njk' %}
+    {% if 'patreon' in tags %}
+        {% include 'patreon.njk' %}
+    {% endif %}
 {% endblock %}
