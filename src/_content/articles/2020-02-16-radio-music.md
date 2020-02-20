@@ -28,4 +28,8 @@ Pamela New Workout is great for this. I create a random CV which loops every fou
 - Hip-Hop acapellas works very well with this technique. You have an exemple in [my last jam at 19:00](https://www.patreon.com/posts/2020-01-31-jam-33624070).
 - Putting different kinds of samples on the same stations (audio files) are nice. I have a station contains only badass movie punch line. It results in a mix of great words like "motherf ... kill ... U gonna ... Sparta !!!"
 
+## Next step
+
+Apply the same technique but pass the output trough a VCA wich is controlled by the same trigger as the Radio Music's reset.
+
 I hope you will have fun.
