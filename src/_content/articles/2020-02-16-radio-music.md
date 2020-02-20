@@ -31,5 +31,6 @@ Pamela New Workout is great for this. I create a random CV which loops every fou
 ## Next step
 
 Apply the same technique but pass the output trough a VCA wich is controlled by the same trigger as the Radio Music's reset.
+Then why not use a VCF. Let's explore.
 
 I hope you will have fun.
