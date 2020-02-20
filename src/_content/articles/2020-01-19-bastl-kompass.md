@@ -6,6 +6,8 @@ tags:
  - music
  - modular
  - kompas
+category:
+- patreon
 ---
 
 A few days ago, [I built the Kompas module](https://alienlebarge.ch/photos/2020/01/ate9u.html). This is my feedback.

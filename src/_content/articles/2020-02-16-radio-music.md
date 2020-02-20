@@ -7,6 +7,8 @@ tags:
  - modular
  - "radio music"
  - patreon
+category:
+- patreon
 ---
 
 [Radio Music](https://musicthing.co.uk/pages/radio.html) is the first module I soldered myself and the first "sound generator" I had. It has a special place in my heart.
