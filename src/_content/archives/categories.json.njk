@@ -2,8 +2,11 @@
 permalink: /archives/categories.json
 ---
 [
-  "modular",
-  "music",
-  "personal",
-  "accessibility"
+{% for category in collections.category %}
+    {% if loop.last %}
+        "{{ category }}"
+    {% else %}
+        "{{ category }}",
+    {% endif %}
+{% endfor %}
 ]
