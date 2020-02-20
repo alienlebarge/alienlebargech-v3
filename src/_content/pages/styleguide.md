@@ -149,7 +149,7 @@ Here is another term.
 
 ### Figures
 
-![alternative text](https://res.cloudinary.com/alienlebarge/image/fetch/https://alienlebarge.ch/assets/images/Icon.png "figcaption")
+![alienlebarge's logo](https://res.cloudinary.com/alienlebarge/image/fetch/https://alienlebarge.ch/assets/images/app.png)
 
 ## Text-level semantics
 

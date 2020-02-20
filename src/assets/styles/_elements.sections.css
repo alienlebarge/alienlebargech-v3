@@ -47,7 +47,10 @@ html {
    ------------------------------------- */
 
 :focus {
+    display: inline-block;
     outline-color: var(--color-dark);
+    outline-style: dotted;
+    outline-width: var(--border-width-thick);
 }
 
 

@@ -5,4 +5,10 @@
         {% include 'footer.njk' %}
     </div>
     {% include 'content.njk' %}
+    {# check if there's the "patreon" tag #}
+    {% for tag in tags -%}
+        {% if tag === "patreon" %}
+            {% include 'patreon.njk' %}
+        {% endif %}
+    {%- endfor %}
 {% endblock %}
