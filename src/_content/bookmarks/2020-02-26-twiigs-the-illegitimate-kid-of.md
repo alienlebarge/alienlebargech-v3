@@ -5,4 +5,4 @@ bookmarkOf: https://michigansynthworks.com/collections/euromodules-test/products
 category:
 - eurorack
 ---
-After looking at [@mylarmelodies](https://twitter.com/mylarmelodies)'s [video about Switched Mults](https://www.patreon.com/posts/patreon-34337427), I made some research and discoverd the Twiigs. It's a quad bernoulli gate Now and I want it in my rack.
+After looking at [@mylarmelodies](https://twitter.com/mylarmelodies)'s [video about Switched Mults](https://www.patreon.com/posts/patreon-34337427), I made some research and discoverd the Twiigs. It's a quad bernoulli gate and I want it in my rack.
