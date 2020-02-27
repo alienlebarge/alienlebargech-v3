@@ -60,7 +60,7 @@
     --line-height-solid: 1em;
     --line-height-tight: var(--s0r);
     --line-height-loose: var(--s1r);
-    --line-measure: 55ch;
+    --line-measure: 60ch;
     --word-spacing: 0;
 
     /* Container */

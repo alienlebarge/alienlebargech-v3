@@ -6,6 +6,8 @@ tags:
  - music
  - modular
  - workflow
+category:
+- patreon
 ---
 
 Dear [Squid Salmple](https://busycircuits.com/alm022/) owners, I'm a happy owner of this octopus too and wonder how you trigger it .

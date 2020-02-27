@@ -6,8 +6,8 @@
     </div>
     {% include 'content.njk' %}
     {# check if there's the "patreon" tag #}
-    {% for tag in tags -%}
-        {% if tag === "patreon" %}
+    {% for categoryItem in category -%}
+        {% if categoryItem === "patreon" %}
             {% include 'patreon.njk' %}
         {% endif %}
     {%- endfor %}

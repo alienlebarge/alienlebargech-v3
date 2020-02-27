@@ -1,0 +1,12 @@
+---
+permalink: /archives/categories.json
+---
+[
+{%- for category in collections.category -%}
+    {%- if loop.last -%}
+        "{{- category -}}"
+    {%- else -%}
+        "{{- category -}}",
+    {%- endif -%}
+{%- endfor -%}
+]

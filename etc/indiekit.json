@@ -1,4 +1,7 @@
 {
+  "categories": {
+    "url": "https://alienlebarge.ch/archives/categories.json"
+  },
   "syndicate-to": [
     {
       "uid": "https://twitter.com/alienlebarge/",
