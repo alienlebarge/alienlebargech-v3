@@ -1,4 +1,5 @@
 ---
+date: 2012-08-02
 
 title: Le Kindle m'a réconcilié avec la lecture
 categories:

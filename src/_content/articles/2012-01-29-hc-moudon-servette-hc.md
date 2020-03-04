@@ -1,4 +1,5 @@
 ---
+date: 2012-01-29
 title: HC Moudon - Servette HC
 categories:
 - Clic clac

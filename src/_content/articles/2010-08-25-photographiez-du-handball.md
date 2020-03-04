@@ -1,4 +1,5 @@
 ---
+date: 2010-08-25
 
 title: Photographiez du handball
 categories:

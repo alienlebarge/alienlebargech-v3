@@ -1,4 +1,5 @@
 ---
+date: 2008-04-09
 title: Star War Kid
 categories:
 - Humour

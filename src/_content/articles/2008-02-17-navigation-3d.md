@@ -1,4 +1,5 @@
 ---
+date: 2008-02-17
 title: Navigation 3D
 categories:
 - Internet

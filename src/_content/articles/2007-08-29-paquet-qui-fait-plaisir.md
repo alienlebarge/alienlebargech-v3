@@ -1,4 +1,5 @@
 ---
+date: 2007-08-29
 title: Paquet qui fait plaisir
 categories:
 - Mode

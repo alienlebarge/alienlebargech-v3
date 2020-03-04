@@ -1,4 +1,5 @@
 ---
+date: 2008-06-10
 title: Parlons foot
 categories:
 - Sport

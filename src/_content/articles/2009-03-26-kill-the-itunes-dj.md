@@ -1,4 +1,5 @@
 ---
+date: 2009-03-26
 title: Kill the (iTunes) DJ
 categories:
 - Logiciel

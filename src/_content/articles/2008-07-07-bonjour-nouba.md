@@ -1,4 +1,5 @@
 ---
+date: 2008-07-07
 title: Bonjour Nouba
 categories:
 - Personnel

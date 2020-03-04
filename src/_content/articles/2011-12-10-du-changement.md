@@ -1,4 +1,5 @@
 ---
+date: 2011-12-10
 title: Du changement
 categories:
 - Le site

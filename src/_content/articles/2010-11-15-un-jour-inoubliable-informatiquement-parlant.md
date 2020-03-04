@@ -1,4 +1,5 @@
 ---
+date: 2010-11-15
 title: Un jour inoubliable (informatiquement parlant)
 categories:
 - Informatique

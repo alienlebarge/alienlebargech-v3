@@ -1,4 +1,5 @@
 ---
+date: 2008-03-15
 
 title: Ma synchronisation
 categories:

@@ -1,4 +1,5 @@
 ---
+date: 2012-11-05
 title: La Broye en automne
 categories:
 - Clic clac

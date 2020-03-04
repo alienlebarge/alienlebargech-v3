@@ -1,4 +1,5 @@
 ---
+date: 2011-04-05
 
 title: Pourquoi aller au Paléo ?
 categories:

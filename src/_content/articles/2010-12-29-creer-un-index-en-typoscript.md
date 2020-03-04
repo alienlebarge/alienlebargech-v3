@@ -1,4 +1,5 @@
 ---
+date: 2010-12-29
 
 title: Créer un index en Typoscript
 categories:

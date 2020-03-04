@@ -1,4 +1,5 @@
 ---
+date: 2008-08-01
 
 title: I'm web2.0 - Oui, j'aime partager
 categories:

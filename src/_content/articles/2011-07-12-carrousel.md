@@ -1,4 +1,5 @@
 ---
+date: 2011-07-12
 title: Carrousel
 categories:
 - Musique

@@ -1,4 +1,5 @@
 ---
+date: 2009-08-04
 title: 'A vendre : sac photo ! [Vendu]'
 categories:
 - Personnel

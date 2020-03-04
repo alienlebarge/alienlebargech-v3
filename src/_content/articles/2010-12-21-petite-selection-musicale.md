@@ -1,4 +1,5 @@
 ---
+date: 2010-12-21
 
 title: Petite sélection musicale
 categories:

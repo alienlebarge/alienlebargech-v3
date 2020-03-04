@@ -1,4 +1,5 @@
 ---
+date: 2010-07-07
 title: M comme Migros, M comme Mode
 categories:
 - Mode

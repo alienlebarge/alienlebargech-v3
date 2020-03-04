@@ -1,4 +1,5 @@
 ---
+date: 2010-06-05
 title: Jamie Lidell - Compass
 categories:
 - Musique

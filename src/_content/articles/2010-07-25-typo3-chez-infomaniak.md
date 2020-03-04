@@ -1,4 +1,5 @@
 ---
+date: 2010-07-25
 title: Typo3 chez Infomaniak
 categories:
 - Internet

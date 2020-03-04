@@ -1,4 +1,5 @@
 ---
+date: 2007-10-01
 title: Back on track
 categories:
 - Le site

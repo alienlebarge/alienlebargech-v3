@@ -1,4 +1,5 @@
 ---
+date: 2009-02-27
 title: In etesias veritas
 categories:
 - Design

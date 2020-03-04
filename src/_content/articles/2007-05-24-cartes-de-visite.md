@@ -1,4 +1,5 @@
 ---
+date: 2007-05-24
 title: Cartes de visite
 categories:
 - Personnel

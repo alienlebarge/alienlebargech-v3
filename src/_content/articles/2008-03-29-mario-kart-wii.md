@@ -1,4 +1,5 @@
 ---
+date: 2008-03-29
 title: Mario Kart Wii
 categories:
 - Jeux

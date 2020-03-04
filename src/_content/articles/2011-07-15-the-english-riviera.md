@@ -1,4 +1,5 @@
 ---
+date: 2011-07-15
 title: The English Riviera
 categories:
 - Musique

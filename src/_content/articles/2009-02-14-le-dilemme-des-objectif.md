@@ -1,4 +1,5 @@
 ---
+date: 2009-02-14
 title: Le dilemme des objectifs
 categories:
 - Photographie

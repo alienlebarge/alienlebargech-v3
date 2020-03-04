@@ -1,4 +1,5 @@
 ---
+date: 2011-07-14
 title: Mariage de E&amp;S
 categories:
 - Clic clac

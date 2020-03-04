@@ -1,4 +1,5 @@
 ---
+date: 2008-11-24
 title: Von Südenfed - Tromatic Reflexxions
 categories:
 - Musique

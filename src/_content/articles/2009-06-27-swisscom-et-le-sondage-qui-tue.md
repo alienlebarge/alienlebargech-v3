@@ -1,4 +1,5 @@
 ---
+date: 2009-06-27
 title: Swisscom et le sondage qui tue
 categories:
 - Non classé

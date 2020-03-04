@@ -1,4 +1,5 @@
 ---
+date: 2012-01-12
 title: Mr. Flibble
 categories:
 - Photographie

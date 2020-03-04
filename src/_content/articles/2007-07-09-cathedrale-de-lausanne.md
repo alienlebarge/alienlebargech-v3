@@ -1,4 +1,5 @@
 ---
+date: 2007-07-09
 title: Cathédrale de Lausanne (festival de la cité)
 categories:
 - Personnel

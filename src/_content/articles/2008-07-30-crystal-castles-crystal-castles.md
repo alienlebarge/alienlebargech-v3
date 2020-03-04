@@ -1,4 +1,5 @@
 ---
+date: 2008-07-30
 
 title: Crystal Castles - Crystal Castles
 categories:

@@ -1,4 +1,5 @@
 ---
+date: 2009-04-22
 title: La file d'attente (numérique) du Paléo
 categories:
 - Musique

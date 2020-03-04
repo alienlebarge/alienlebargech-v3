@@ -1,4 +1,5 @@
 ---
+date: 2011-06-30
 title: La montagne, ça vous gagne
 categories:
 - Clic clac

@@ -1,4 +1,5 @@
 ---
+date: 2007-10-04
 title: Les joies de la téléphonie
 categories:
 - Personnel

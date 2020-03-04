@@ -1,4 +1,5 @@
 ---
+date: 2008-12-17
 title: AppFresh pour mettre son ordi à jour
 categories:
 - Logiciel

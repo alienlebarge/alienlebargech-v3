@@ -1,4 +1,5 @@
 ---
+date: 2009-05-26
 title: Comment débouchonner avec un congélateur
 categories:
 - Personnel

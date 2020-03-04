@@ -1,4 +1,5 @@
 ---
+date: 2012-03-19
 title: Maple Leaf - Union
 categories:
 - Broomball

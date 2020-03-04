@@ -1,4 +1,5 @@
 ---
+date: 2008-12-19
 title: En fait, le père Noël est bien une légende n'habite pas à Chermignon
 categories:
 - Personnel

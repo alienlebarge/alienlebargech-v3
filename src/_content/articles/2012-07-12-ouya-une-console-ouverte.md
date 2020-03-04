@@ -1,4 +1,5 @@
 ---
+date: 2012-07-12
 title: Ouya, une console ouverte
 categories:
 - Jeux

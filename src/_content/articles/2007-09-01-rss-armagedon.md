@@ -1,4 +1,5 @@
 ---
+date: 2007-09-01
 title: RSS Armagedon
 categories:
 - Personnel

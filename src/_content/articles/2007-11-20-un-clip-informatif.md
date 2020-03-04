@@ -1,4 +1,5 @@
 ---
+date: 2007-11-20
 title: Un clip informatif
 categories:
 - Design

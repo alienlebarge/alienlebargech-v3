@@ -1,4 +1,5 @@
 ---
+date: 2009-06-13
 title: Pidgin, le pigeon violet
 categories:
 - Logiciel

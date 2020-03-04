@@ -1,4 +1,5 @@
 ---
+date: 2010-02-09
 
 title: Canon annonce le 550d
 categories:

@@ -1,4 +1,5 @@
 ---
+date: 2011-07-16
 title: Islandic horse
 categories:
 - Clic clac

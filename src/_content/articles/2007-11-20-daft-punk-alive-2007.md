@@ -1,4 +1,5 @@
 ---
+date: 2007-11-20
 title: Daft Punk - Alive 2007
 categories:
 - Musique

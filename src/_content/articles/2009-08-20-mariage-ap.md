@@ -1,4 +1,5 @@
 ---
+date: 2009-08-20
 title: Mariage A&amp;P
 categories:
 - Clic clac

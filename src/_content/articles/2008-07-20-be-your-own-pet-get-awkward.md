@@ -1,4 +1,5 @@
 ---
+date: 2008-07-20
 title: Be Your Own Pet - Get Awkward
 categories:
 - Musique

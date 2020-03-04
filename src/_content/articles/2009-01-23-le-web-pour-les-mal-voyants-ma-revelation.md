@@ -1,4 +1,5 @@
 ---
+date: 2009-01-23
 title: Le web pour les mal voyants ... ma révélation ?
 categories:
 - Informatique

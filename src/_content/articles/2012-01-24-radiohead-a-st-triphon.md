@@ -1,4 +1,5 @@
 ---
+date: 2012-01-24
 title: Radiohead à St-Triphon
 categories:
 - Musique

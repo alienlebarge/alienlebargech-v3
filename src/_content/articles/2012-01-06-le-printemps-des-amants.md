@@ -1,4 +1,5 @@
 ---
+date: 2012-01-06
 title: Le printemps des amants
 categories:
 - Musique

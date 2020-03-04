@@ -1,4 +1,5 @@
 ---
+date: 2009-12-29
 
 title: Générer une image contenant plusieurs lignes de texte
 categories:

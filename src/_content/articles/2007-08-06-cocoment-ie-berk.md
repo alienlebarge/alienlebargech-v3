@@ -1,4 +1,5 @@
 ---
+date: 2007-08-06
 title: cocoment + IE = berk!
 categories:
 - Le site

@@ -1,4 +1,5 @@
 ---
+date: 2007-11-15
 title: iPod Touch
 categories:
 - Matériel

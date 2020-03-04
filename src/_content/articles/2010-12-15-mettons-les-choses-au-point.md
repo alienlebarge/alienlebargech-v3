@@ -1,4 +1,5 @@
 ---
+date: 2010-12-15
 title: Mettons les choses au point
 categories:
 - Photographie

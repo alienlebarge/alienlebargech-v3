@@ -1,4 +1,5 @@
 ---
+date: 2007-06-21
 title: Soleil + Marcel
 categories:
 - Personnel

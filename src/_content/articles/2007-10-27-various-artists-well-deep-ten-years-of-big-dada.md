@@ -1,4 +1,5 @@
 ---
+date: 2007-10-27
 title: 'Various Artists - Well Deep: Ten Years Of Big Dada'
 categories:
 - Musique

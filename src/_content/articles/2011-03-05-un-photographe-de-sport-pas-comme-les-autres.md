@@ -1,4 +1,5 @@
 ---
+date: 2011-03-05
 
 title: Un photographe de sport pas comme les autres
 categories:

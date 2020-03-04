@@ -1,4 +1,5 @@
 ---
+date: 2012-11-21
 title: The only thing you know about mobile users
 categories:
 - Internet

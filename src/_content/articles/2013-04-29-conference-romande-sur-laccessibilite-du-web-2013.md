@@ -1,4 +1,5 @@
 ---
+date: 2013-04-29
 title: Conférence Romande sur l'Accessibilité du Web 2013
 categories:
 - Internet

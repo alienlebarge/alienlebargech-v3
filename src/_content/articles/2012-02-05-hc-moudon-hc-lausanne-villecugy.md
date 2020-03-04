@@ -1,4 +1,5 @@
 ---
+date: 2012-02-05
 title: HC Moudon - HC Lausanne-Ville/Cugy
 categories:
 - Clic clac

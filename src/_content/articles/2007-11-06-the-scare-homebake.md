@@ -1,4 +1,5 @@
 ---
+date: 2007-11-06
 title: Concerts à la dernière
 categories:
 - Bastringue

@@ -1,4 +1,5 @@
 ---
+date: 2007-07-27
 title: Le ver de l'espace
 categories:
 - Humour

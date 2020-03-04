@@ -1,4 +1,5 @@
 ---
+date: 2011-01-05
 
 title: Quelques trucs pour faire l'HTML5 avec Typo3
 categories:

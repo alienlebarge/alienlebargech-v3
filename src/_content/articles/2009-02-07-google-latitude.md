@@ -1,4 +1,5 @@
 ---
+date: 2009-02-07
 title: Google Latitude
 categories:
 - Internet

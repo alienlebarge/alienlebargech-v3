@@ -1,4 +1,5 @@
 ---
+date: 2008-05-03
 title: Le grand week-end
 categories:
 - Personnel

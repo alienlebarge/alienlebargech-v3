@@ -1,4 +1,5 @@
 ---
+date: 2009-06-26
 title: Safari en mode Debug
 categories:
 - Informatique

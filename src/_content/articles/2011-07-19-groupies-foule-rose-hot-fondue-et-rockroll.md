@@ -1,4 +1,5 @@
 ---
+date: 2011-07-19
 title: Groupies, foule, rosé, hot-fondue et rock&amp;roll
 categories:
 - Photographie

@@ -1,4 +1,5 @@
 ---
+date: 2008-02-25
 title: Be Kind Rewind
 categories:
 - Cinéma

@@ -1,4 +1,5 @@
 ---
+date: 2008-01-17
 title: Le tram de retour à Lausanne
 categories:
 - Transport

@@ -1,4 +1,5 @@
 ---
+date: 2008-06-24
 title: Bonnani Bémol
 categories:
 - Personnel

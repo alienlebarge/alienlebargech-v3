@@ -1,4 +1,5 @@
 ---
+date: 2007-05-25
 title: Un peu de classement
 categories:
 - Personnel

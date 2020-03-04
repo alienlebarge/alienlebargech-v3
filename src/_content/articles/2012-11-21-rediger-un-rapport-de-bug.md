@@ -1,4 +1,5 @@
 ---
+date: 2012-11-21
 title: Rédiger un rapport de bug
 categories:
 - Informatique

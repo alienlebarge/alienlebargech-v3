@@ -1,4 +1,5 @@
 ---
+date: 2011-01-16
 title: Ballade en presque noir et blanc dans Lausanne
 categories:
 - Clic clac

@@ -1,4 +1,5 @@
 ---
+date: 2012-08-07
 title: Jungfraujoch
 categories:
 - Clic clac

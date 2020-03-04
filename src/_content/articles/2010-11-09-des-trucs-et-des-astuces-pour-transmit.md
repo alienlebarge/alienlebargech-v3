@@ -1,4 +1,5 @@
 ---
+date: 2010-11-09
 title: Des trucs et des astuces pour Transmit
 categories:
 - Informatique

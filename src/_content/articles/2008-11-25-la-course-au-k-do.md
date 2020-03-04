@@ -1,4 +1,5 @@
 ---
+date: 2008-11-25
 title: La course au K-do
 categories:
 - Personnel

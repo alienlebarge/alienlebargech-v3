@@ -1,4 +1,5 @@
 ---
+date: 2011-11-14
 title: Eric Lafargue
 categories:
 - Clic clac

@@ -1,4 +1,5 @@
 ---
+date: 2009-09-02
 title: The Flaming dude
 categories:
 - Photographie

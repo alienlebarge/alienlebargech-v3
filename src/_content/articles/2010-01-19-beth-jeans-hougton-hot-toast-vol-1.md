@@ -1,4 +1,5 @@
 ---
+date: 2010-01-19
 title: Beth Jeans Hougton - Hot Toast Vol. 1
 categories:
 - Musique

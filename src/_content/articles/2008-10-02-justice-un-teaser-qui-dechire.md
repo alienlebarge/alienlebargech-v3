@@ -1,4 +1,5 @@
 ---
+date: 2008-10-02
 title: Justice, un teaser qui déchire
 categories:
 - Musique

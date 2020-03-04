@@ -1,4 +1,5 @@
 ---
+date: 2007-11-13
 title: 25 photos prisent au bon moment
 categories:
 - Photographie

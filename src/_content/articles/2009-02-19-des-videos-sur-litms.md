@@ -1,4 +1,5 @@
 ---
+date: 2009-02-19
 title: Des vidéos sur l'ITMS, ça mérite un quiz
 categories:
 - Musique

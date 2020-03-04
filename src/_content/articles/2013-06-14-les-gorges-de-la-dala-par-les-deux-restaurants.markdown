@@ -1,4 +1,5 @@
 ---
+date: 2013-06-14
 layout: post
 title: Les Gorges de la Dala par les deux restaurants
 categories:

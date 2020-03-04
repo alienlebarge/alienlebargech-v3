@@ -1,4 +1,5 @@
 ---
+date: 2009-04-11
 title: Encore de la musique à l'érable
 categories:
 - Musique

@@ -1,4 +1,5 @@
 ---
+date: 2010-12-17
 
 title: Liens canoniques et Typo3
 categories:

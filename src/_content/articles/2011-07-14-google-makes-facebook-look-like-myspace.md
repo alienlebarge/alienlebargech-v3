@@ -1,4 +1,5 @@
 ---
+date: 2011-07-14
 title: Google+ makes Facebook look like MySpace.
 categories:
 - Informatique

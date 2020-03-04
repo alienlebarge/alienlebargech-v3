@@ -1,4 +1,5 @@
 ---
+date: 2010-05-30
 title: Flickr, recevoir les nouveaux éléments de vos contacts
 categories:
 - Photographie

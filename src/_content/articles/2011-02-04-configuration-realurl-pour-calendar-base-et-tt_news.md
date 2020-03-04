@@ -1,4 +1,5 @@
 ---
+date: 2011-02-04
 
 title: Configuration Realurl pour Calendar Base (et tt_news)
 categories:

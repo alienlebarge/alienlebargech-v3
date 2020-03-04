@@ -1,4 +1,5 @@
 ---
+date: 2007-09-17
 title: Tu tires ou tu pointes !?
 categories:
 - Personnel

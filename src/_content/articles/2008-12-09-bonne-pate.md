@@ -1,4 +1,5 @@
 ---
+date: 2008-12-09
 title: Bonne pâte
 categories:
 - Cuisine

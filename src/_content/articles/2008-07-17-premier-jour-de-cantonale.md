@@ -1,4 +1,5 @@
 ---
+date: 2008-07-17
 title: Premier jour de Cantonale
 categories:
 - Bastringue

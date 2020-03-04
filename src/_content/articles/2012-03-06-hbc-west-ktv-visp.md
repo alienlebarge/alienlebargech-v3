@@ -1,4 +1,5 @@
 ---
+date: 2012-03-06
 title: HBC West - KTV Visp
 categories:
 - Clic clac

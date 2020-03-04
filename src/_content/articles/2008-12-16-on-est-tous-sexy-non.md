@@ -1,4 +1,5 @@
 ---
+date: 2008-12-16
 title: On est tous sexy ! non ?
 categories:
 - Humour

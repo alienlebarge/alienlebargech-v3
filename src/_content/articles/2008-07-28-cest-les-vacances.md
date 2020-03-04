@@ -1,4 +1,5 @@
 ---
+date: 2008-07-28
 title: C'est les vacances ...
 categories:
 - Personnel

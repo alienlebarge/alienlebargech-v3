@@ -1,4 +1,5 @@
 ---
+date: 2011-09-14
 title: Jökulsárlón
 categories:
 - Portfolio

@@ -1,4 +1,5 @@
 ---
+date: 2008-01-09
 
 title: Flickodèche
 categories:

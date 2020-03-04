@@ -1,4 +1,5 @@
 ---
+date: 2009-04-04
 title: Photo miam miam
 categories:
 - Photographie

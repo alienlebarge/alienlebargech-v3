@@ -1,4 +1,5 @@
 ---
+date: 2012-08-02
 title: Hunger Games
 categories:
 - Livre

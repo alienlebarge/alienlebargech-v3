@@ -1,4 +1,5 @@
 ---
+date: 2007-05-31
 
 title: Interagir avec les doigts
 categories:

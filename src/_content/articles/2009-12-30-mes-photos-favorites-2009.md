@@ -1,4 +1,5 @@
 ---
+date: 2009-12-30
 
 title: Mes photos favorites 2009
 categories:

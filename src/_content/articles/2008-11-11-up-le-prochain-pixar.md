@@ -1,4 +1,5 @@
 ---
+date: 2008-11-11
 title: Up, le prochain Pixar
 categories:
 - Cinéma

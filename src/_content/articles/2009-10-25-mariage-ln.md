@@ -1,4 +1,5 @@
 ---
+date: 2009-10-25
 title: Mariage L&amp;N
 categories:
 - Clic clac

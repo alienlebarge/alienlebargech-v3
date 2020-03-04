@@ -1,4 +1,5 @@
 ---
+date: 2008-11-08
 title: Fettes Brot + Modeselektor = Bettina
 categories:
 - Musique

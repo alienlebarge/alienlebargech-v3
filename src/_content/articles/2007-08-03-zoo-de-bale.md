@@ -1,4 +1,5 @@
 ---
+date: 2007-08-03
 title: Zoo de Bâle
 categories:
 - Galerie

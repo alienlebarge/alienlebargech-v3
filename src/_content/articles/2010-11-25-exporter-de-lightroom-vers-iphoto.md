@@ -1,4 +1,5 @@
 ---
+date: 2010-11-25
 
 title: Exporter de Lightroom vers iPhoto
 categories:

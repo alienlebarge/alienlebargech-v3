@@ -1,4 +1,5 @@
 ---
+date: 2012-03-06
 title: Lightroom 4 en version finale
 categories:
 - Clic clac

@@ -1,4 +1,5 @@
 ---
+date: 2011-09-04
 title: MJOR Féminine AB - FC Terre-Sainte
 categories:
 - Clic clac

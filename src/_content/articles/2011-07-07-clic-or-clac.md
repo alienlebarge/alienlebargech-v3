@@ -1,4 +1,5 @@
 ---
+date: 2011-07-07
 title: Clic or clac ?
 categories:
 - Clic clac

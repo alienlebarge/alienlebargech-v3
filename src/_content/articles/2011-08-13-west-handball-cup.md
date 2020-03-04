@@ -1,4 +1,5 @@
 ---
+date: 2011-08-13
 title: West Handball Cup
 categories:
 - Clic clac

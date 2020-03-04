@@ -1,4 +1,5 @@
 ---
+date: 2013-06-03
 layout: post
 title: Excursions web - Mai 2013
 categories:

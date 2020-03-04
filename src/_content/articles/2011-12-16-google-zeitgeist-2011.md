@@ -1,4 +1,5 @@
 ---
+date: 2011-12-16
 title: Google Zeitgeist 2011
 categories:
 - Internet

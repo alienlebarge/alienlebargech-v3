@@ -1,4 +1,5 @@
 ---
+date: 2008-03-29
 title: Remi Gaillard
 categories:
 - Humour

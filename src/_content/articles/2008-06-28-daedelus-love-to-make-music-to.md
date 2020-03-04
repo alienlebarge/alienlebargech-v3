@@ -1,4 +1,5 @@
 ---
+date: 2008-06-28
 title: Daedelus - Love To Make Music To
 categories:
 - Musique

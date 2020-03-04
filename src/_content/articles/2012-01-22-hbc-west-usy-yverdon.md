@@ -1,4 +1,5 @@
 ---
+date: 2012-01-22
 title: HBC West - USY Yverdon
 categories:
 - Clic clac

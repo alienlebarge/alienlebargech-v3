@@ -1,4 +1,5 @@
 ---
+date: 2008-04-03
 title: La drague à 5 ans
 categories:
 - Humour

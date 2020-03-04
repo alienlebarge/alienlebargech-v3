@@ -1,4 +1,5 @@
 ---
+date: 2010-05-27
 title: Coupe du monde = grosse pub Nike
 categories:
 - Publicité

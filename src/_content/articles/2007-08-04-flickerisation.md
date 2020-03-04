@@ -1,4 +1,5 @@
 ---
+date: 2007-08-04
 title: Flickerisation
 categories:
 - Galerie

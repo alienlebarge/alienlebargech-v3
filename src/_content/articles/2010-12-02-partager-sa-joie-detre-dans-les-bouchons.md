@@ -1,4 +1,5 @@
 ---
+date: 2010-12-02
 
 title: Partager sa joie d'être dans les bouchons
 categories:

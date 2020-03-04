@@ -1,4 +1,5 @@
 ---
+date: 2011-01-06
 title: Twitter en mode Delorean
 categories:
 - Internet

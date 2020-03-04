@@ -1,4 +1,5 @@
 ---
+date: 2008-11-29
 title: Faites plaisir à votre chat pour Noël
 categories:
 - Humour

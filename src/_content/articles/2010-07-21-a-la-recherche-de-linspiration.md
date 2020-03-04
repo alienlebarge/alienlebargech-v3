@@ -1,4 +1,5 @@
 ---
+date: 2010-07-21
 title: A la recherche de l'inspiration
 categories:
 - Projet

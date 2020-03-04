@@ -1,4 +1,5 @@
 ---
+date: 2010-11-11
 
 title: Swisscom TV vs. AppleTV
 categories:

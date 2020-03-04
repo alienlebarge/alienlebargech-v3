@@ -1,4 +1,5 @@
 ---
+date: 2010-07-09
 title: Des habits de princesse
 categories:
 - Mode

@@ -1,4 +1,5 @@
 ---
+date: 2008-06-12
 title: Un remix de fou
 categories:
 - Musique

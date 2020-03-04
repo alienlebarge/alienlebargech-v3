@@ -1,4 +1,5 @@
 ---
+date: 2011-12-29
 title: Zelda Solarus
 categories:
 - Jeux

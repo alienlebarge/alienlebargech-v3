@@ -1,4 +1,5 @@
 ---
+date: 2009-04-03
 title: Montreux Jazz, demandez le programme !
 categories:
 - Musique

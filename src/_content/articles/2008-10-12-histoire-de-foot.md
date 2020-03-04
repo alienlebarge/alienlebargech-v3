@@ -1,4 +1,5 @@
 ---
+date: 2008-10-12
 title: Histoire de foot
 categories:
 - Sport

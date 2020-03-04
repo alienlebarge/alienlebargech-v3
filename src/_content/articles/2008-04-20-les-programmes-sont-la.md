@@ -1,4 +1,5 @@
 ---
+date: 2008-04-20
 title: Les programmes sont là
 categories:
 - Musique

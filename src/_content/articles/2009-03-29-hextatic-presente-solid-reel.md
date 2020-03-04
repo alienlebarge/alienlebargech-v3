@@ -1,4 +1,5 @@
 ---
+date: 2009-03-29
 title: Hextatic présente Solid Reel
 categories:
 - Musique

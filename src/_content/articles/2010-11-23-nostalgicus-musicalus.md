@@ -1,4 +1,5 @@
 ---
+date: 2010-11-23
 title: Nostalgicus musicalus
 categories:
 - Musique

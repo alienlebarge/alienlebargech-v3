@@ -1,4 +1,5 @@
 ---
+date: 2012-09-28
 title: Autographer, l'appareil qui prend des photos à ta place
 categories:
 - Clic clac

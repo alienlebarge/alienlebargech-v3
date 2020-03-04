@@ -1,4 +1,5 @@
 ---
+date: 2007-08-01
 title: Microbloging, Twitter vs. Pownce
 categories:
 - Internet

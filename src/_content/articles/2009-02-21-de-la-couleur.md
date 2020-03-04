@@ -1,4 +1,5 @@
 ---
+date: 2009-02-21
 title: De la couleur !
 categories:
 - Design

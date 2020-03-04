@@ -1,4 +1,5 @@
 ---
+date: 2008-05-23
 title: Modeselektor ce week-end
 categories:
 - Musique

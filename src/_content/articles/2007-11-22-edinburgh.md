@@ -1,4 +1,5 @@
 ---
+date: 2007-11-22
 title: Edinburgh
 categories:
 - Personnel

@@ -1,4 +1,5 @@
 ---
+date: 2007-08-18
 title: Bienvenue sur Flickr ! (en vaudois)
 categories:
 - Humour

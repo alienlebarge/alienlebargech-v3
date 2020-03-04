@@ -1,4 +1,5 @@
 ---
+date: 2008-11-29
 title: Colisse ! Je veux goûter ça
 categories:
 - Cuisine

@@ -1,4 +1,5 @@
 ---
+date: 2011-07-02
 title: Thinking of popcorn
 categories:
 - Clic clac

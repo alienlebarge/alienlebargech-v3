@@ -1,4 +1,5 @@
 ---
+date: 2007-10-19
 title: Une semaine de faite
 categories:
 - Personnel

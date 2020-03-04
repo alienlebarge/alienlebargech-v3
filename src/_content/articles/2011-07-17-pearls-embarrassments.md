@@ -1,4 +1,5 @@
 ---
+date: 2011-07-17
 title: Pearls & Embarrassments
 categories:
 - Musique

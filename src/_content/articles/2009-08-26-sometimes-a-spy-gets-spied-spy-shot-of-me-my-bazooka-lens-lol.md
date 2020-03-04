@@ -1,4 +1,5 @@
 ---
+date: 2009-08-26
 
 title: Comment procéder pour acheter un objectif
 categories:

@@ -1,4 +1,5 @@
 ---
+date: 2013-06-27
 layout: post
 title:  "Hello Jekyll"
 date:   2013-06-27 07:19:00

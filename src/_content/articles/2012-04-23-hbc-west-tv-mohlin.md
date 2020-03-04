@@ -1,4 +1,5 @@
 ---
+date: 2012-04-23
 title: HBC West - TV Möhlin
 categories:
 - Clic clac

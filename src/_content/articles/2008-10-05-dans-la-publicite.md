@@ -1,4 +1,5 @@
 ---
+date: 2008-10-05
 title: Dans la publicité
 categories:
 - Publicité

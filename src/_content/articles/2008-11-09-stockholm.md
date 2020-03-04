@@ -1,4 +1,5 @@
 ---
+date: 2008-11-09
 title: Stockholm
 categories:
 - Voyage

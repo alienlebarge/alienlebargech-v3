@@ -1,4 +1,5 @@
 ---
+date: 2008-09-27
 title: Une histoire de tram
 categories:
 - Transport

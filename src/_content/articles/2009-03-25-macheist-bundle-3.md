@@ -1,4 +1,5 @@
 ---
+date: 2009-03-25
 title: MacHeist Bundle 3
 categories:
 - Informatique

@@ -1,4 +1,5 @@
 ---
+date: 2008-09-28
 title: Tribute to hardcore
 categories:
 - DJ

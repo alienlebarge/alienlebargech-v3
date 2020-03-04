@@ -1,4 +1,5 @@
 ---
+date: 2008-11-27
 title: Quelques liens pour sauver vos journées
 categories:
 - Humour

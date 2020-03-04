@@ -1,4 +1,5 @@
 ---
+date: 2007-06-01
 title: 'La musique : machine à remonter dans le temps'
 categories:
 - Musique

@@ -1,4 +1,5 @@
 ---
+date: 2007-05-21
 title: Les Auges et Bretonnières
 categories:
 - Galerie

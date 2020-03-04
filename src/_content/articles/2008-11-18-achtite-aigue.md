@@ -1,4 +1,5 @@
 ---
+date: 2008-11-18
 title: Achtite aiguë
 categories:
 - Mode

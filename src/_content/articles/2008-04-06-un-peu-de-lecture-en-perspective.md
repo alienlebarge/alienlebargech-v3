@@ -1,4 +1,5 @@
 ---
+date: 2008-04-06
 title: Un peu de lecture en perspective
 categories:
 - Géographie

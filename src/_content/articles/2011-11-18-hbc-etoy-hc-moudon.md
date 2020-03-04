@@ -1,4 +1,5 @@
 ---
+date: 2011-11-18
 title: HBC Etoy - HC Moudon
 categories:
 - Clic clac

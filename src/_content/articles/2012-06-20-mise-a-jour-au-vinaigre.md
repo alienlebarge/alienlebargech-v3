@@ -1,4 +1,5 @@
 ---
+date: 2012-06-20
 title: Mise à jour au vinaigre
 categories:
 - Le site

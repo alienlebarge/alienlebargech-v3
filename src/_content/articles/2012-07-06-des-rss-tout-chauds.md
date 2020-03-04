@@ -1,4 +1,5 @@
 ---
+date: 2012-07-06
 title: Des RSS tout chauds
 categories:
 - Internet

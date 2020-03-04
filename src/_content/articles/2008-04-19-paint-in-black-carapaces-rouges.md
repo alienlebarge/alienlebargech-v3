@@ -1,4 +1,5 @@
 ---
+date: 2008-04-19
 title: Paint in black & Carapaces rouges
 categories:
 - Jeux

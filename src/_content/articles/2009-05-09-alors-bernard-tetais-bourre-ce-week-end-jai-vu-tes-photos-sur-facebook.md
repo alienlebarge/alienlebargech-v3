@@ -1,4 +1,5 @@
 ---
+date: 2009-05-09
 title: Alors Bernard, t'étais bourré ce week-end ? J'ai vu tes photos sur Facebook
   !
 categories:

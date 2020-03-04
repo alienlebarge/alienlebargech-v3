@@ -1,4 +1,5 @@
 ---
+date: 2009-11-28
 title: Le prix de la vrai vie
 categories:
 - Photographie
