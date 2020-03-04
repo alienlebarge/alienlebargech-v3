@@ -1,4 +1,5 @@
 ---
+date: 2007-08-02
 title: Photos de Lignerolle
 categories:
 - Bastringue

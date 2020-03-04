@@ -1,4 +1,5 @@
 ---
+date: 2007-06-14
 title: Le Sonar a sortie ses compils
 categories:
 - Musique

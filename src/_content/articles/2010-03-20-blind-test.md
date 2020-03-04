@@ -1,4 +1,5 @@
 ---
+date: 2010-03-20
 title: Blind test
 categories:
 - Jeux

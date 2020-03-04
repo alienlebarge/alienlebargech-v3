@@ -1,4 +1,5 @@
 ---
+date: 2007-12-11
 
 title: Parlons foot
 categories:

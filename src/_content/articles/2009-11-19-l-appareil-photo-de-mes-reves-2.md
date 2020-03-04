@@ -1,4 +1,5 @@
 ---
+date: 2009-11-19
 title: L’appareil photo de mes rêves 2
 categories:
 - Photographie

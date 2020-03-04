@@ -1,4 +1,5 @@
 ---
+date: 2012-06-06
 title: Le chargement du paresseux
 categories:
 - Internet

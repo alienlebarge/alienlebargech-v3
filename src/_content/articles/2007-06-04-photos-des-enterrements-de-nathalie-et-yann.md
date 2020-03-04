@@ -1,4 +1,5 @@
 ---
+date: 2007-06-04
 title: Photos des enterrements de Nathalie et Yann
 categories:
 - Galerie
