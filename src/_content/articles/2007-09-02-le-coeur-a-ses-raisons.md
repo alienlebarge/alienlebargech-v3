@@ -1,5 +1,4 @@
 ---
-date: 2007-09-02
 title: Le coeur a ses raisons
 categories:
 - Humour

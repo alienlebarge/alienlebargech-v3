@@ -1,5 +1,4 @@
 ---
-date: 2011-08-14
 title: HBC West - HV Herzogenbuchsee
 categories:
 - Clic clac

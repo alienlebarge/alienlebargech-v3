@@ -1,5 +1,4 @@
 ---
-date: 2011-01-14
 title: Rien à déclarer
 categories:
 - Cinéma

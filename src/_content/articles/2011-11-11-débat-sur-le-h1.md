@@ -1,5 +1,4 @@
 ---
-date: 2011-11-11
 title: Débat sur le h1
 categories:
 - Non classé

@@ -1,5 +1,4 @@
 ---
-date: 2010-11-09
 title: La liaison est rétablie
 categories:
 - Personnel

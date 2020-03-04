@@ -1,5 +1,4 @@
 ---
-date: 2008-12-18
 title: Un jeu plein de petites baballes
 categories:
 - Jeux

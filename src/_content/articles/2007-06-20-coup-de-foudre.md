@@ -1,5 +1,4 @@
 ---
-date: 2007-06-20
 title: Coup de foudre
 categories:
 - Nature

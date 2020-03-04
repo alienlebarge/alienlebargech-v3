@@ -1,5 +1,4 @@
 ---
-date: 2011-12-15
 
 title: C'est Noël chez Smashing Magazine
 categories:

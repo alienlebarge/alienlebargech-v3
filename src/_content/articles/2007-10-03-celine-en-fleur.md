@@ -1,5 +1,4 @@
 ---
-date: 2007-10-03
 title: Céline en fleur
 categories:
 - Photographie

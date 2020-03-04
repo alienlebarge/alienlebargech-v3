@@ -1,5 +1,4 @@
 ---
-date: 2007-08-12
 title: Web Trend Map 2007 Version 2.0
 categories:
 - Internet

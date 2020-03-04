@@ -1,5 +1,4 @@
 ---
-date: 2009-08-11
 title: Modifier le contenu de la balise "title" dans Typo3
 categories:
 - Programmation

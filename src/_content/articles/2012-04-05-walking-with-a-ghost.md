@@ -1,5 +1,4 @@
 ---
-date: 2012-04-05
 title: Walking with a Ghost
 categories:
 - Musique

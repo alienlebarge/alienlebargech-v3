@@ -1,5 +1,4 @@
 ---
-date: 2008-07-31
 title: 'alb broadcast #008'
 categories:
 - Musique

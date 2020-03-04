@@ -1,5 +1,4 @@
 ---
-date: 2007-05-21
 title: Ça bosse dur mais ça avance pas beaucoup
 categories:
 - Programmation

@@ -1,5 +1,4 @@
 ---
-date: 2011-12-09
 title: Pointe à la Renommée
 categories:
 - Clic clac

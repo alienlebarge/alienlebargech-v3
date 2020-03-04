@@ -1,5 +1,4 @@
 ---
-date: 2012-03-02
 title: Photographier en soirée
 categories:
 - Clic clac

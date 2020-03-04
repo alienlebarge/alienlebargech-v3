@@ -1,5 +1,4 @@
 ---
-date: 2010-04-15
 title: Sauver le vinyle
 categories:
 - Musique

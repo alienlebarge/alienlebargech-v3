@@ -1,5 +1,4 @@
 ---
-date: 2008-05-06
 title: Bémol va être papa
 categories:
 - Personnel

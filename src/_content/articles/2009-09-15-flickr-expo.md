@@ -1,5 +1,4 @@
 ---
-date: 2009-09-15
 title: Flickr Expo
 categories:
 - Internet

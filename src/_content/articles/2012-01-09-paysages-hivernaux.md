@@ -1,5 +1,4 @@
 ---
-date: 2012-01-09
 title: Paysages hivernaux
 categories:
 - Clic clac

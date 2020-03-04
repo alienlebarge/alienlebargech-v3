@@ -1,5 +1,4 @@
 ---
-date: 2011-08-18
 title: Revenge of The Nerd
 categories:
 - Musique

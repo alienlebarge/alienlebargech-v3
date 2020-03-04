@@ -1,5 +1,4 @@
 ---
-date: 2008-11-03
 title: Huoratron ça fait mal
 categories:
 - Musique

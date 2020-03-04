@@ -1,5 +1,4 @@
 ---
-date: 2011-12-08
 title: To build a home
 categories:
 - Non classé

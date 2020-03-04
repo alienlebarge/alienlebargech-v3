@@ -1,5 +1,4 @@
 ---
-date: 2009-08-19
 title: Photos du mariage d'Annick et Pyv, merci !
 categories:
 - Personnel

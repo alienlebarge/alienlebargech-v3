@@ -1,5 +1,4 @@
 ---
-date: 2012-01-04
 title: Chase Jarvis avec un appareil Lego
 categories:
 - Clic clac

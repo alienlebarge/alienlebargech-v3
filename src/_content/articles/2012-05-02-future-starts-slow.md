@@ -1,5 +1,4 @@
 ---
-date: 2012-05-02
 title: Future Starts Slow
 categories:
 - Musique

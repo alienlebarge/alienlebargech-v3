@@ -1,5 +1,4 @@
 ---
-date: 2011-10-27
 title: Pixelmator 2 est là
 categories:
 - Logiciel

@@ -1,5 +1,4 @@
 ---
-date: 2013-01-22
 title: Chambéry Savoie Handball - Kadetten Schaffhausen Handball
 categories:
 - Clic clac

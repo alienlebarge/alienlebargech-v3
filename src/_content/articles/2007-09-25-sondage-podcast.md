@@ -1,5 +1,4 @@
 ---
-date: 2007-09-25
 title: Sondage podcast
 categories:
 - Podcast news

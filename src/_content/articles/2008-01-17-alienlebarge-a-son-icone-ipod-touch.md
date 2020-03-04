@@ -1,5 +1,4 @@
 ---
-date: 2008-01-17
 title: alienlebarge a son icône iPod Touch
 categories:
 - Internet

@@ -1,5 +1,4 @@
 ---
-date: 2009-01-13
 title: Pigeon Funk - The Largest Bird In The History Of The Planet... Ever!
 categories:
 - Musique

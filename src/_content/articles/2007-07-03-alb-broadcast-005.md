@@ -1,5 +1,4 @@
 ---
-date: 2007-07-03
 title: 'alb broadcast #005'
 categories:
 - Podcast

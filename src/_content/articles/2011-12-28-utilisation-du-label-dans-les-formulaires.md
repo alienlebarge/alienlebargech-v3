@@ -1,5 +1,4 @@
 ---
-date: 2011-12-28
 
 title: Utilisation du label dans les formulaires
 categories:

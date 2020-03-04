@@ -1,5 +1,4 @@
 ---
-date: 2012-08-03
 title: L'actualité web ne se réédite pas
 categories:
 - Non classé
