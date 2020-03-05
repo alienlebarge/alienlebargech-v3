@@ -70,6 +70,7 @@ body {
     color: var(--color-dark);
 
     background: var(--color-light);
+    margin: 0;
     min-block-size: 100vh; /* [2] */
 }
 
