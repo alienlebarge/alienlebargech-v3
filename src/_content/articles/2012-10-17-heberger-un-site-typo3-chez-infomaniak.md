@@ -1,4 +1,5 @@
 ---
+date: 2012-10-17
 
 title: Héberger un site TYPO3 chez Infomaniak
 categories:

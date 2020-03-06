@@ -1,4 +1,5 @@
 ---
+date: 2008-01-14
 title: Chauffez les valises
 categories:
 - Voyage

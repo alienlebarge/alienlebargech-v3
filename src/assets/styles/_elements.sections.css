@@ -17,11 +17,14 @@
  * 1. Force scrollbars to always be visible to prevent awkward ‘jumps’ when
  *    navigating between pages that do/do not have enough content to produce
  *    scrollbars naturally.
- * 2.  Prevent font size adjustment on orientation change in iOS.
+ * 2. Prevent font size adjustment on orientation change in iOS.
+ * 3. More sensible default box-sizing:
+ *    css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice
  */
 
 html {
     block-size: 100vh;
+    box-sizing: border-box; /* [3] */
     overflow-y: scroll; /* [1] */
     scroll-behavior: smooth;
     text-rendering: optimizeLegibility;
@@ -47,7 +50,6 @@ html {
    ------------------------------------- */
 
 :focus {
-    display: inline-block;
     outline-color: var(--color-dark);
     outline-style: dotted;
     outline-width: var(--border-width-thick);
@@ -71,6 +73,7 @@ body {
     color: var(--color-dark);
 
     background: var(--color-light);
+    margin: 0;
     min-block-size: 100vh; /* [2] */
 }
 

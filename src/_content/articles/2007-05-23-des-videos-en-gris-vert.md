@@ -1,4 +1,5 @@
 ---
+date: 2007-05-23
 
 title: Des vidéos en gris-vert
 categories:

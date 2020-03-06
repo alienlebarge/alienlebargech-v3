@@ -1,4 +1,5 @@
 ---
+date: 2010-11-23
 title: La traditionnelle photo d'équipe
 categories:
 - Photographie

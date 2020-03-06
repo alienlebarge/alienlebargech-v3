@@ -1,4 +1,5 @@
 ---
+date: 2009-02-26
 title: Chat où tu veux, quand tu veux
 categories:
 - Internet

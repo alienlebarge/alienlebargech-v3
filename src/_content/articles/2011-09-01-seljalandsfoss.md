@@ -1,4 +1,5 @@
 ---
+date: 2011-09-01
 title: Seljalandsfoss
 categories:
 - Photographie

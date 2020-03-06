@@ -1,4 +1,5 @@
 ---
+date: 2012-01-16
 title: HC Moudon - HC La Chaux-de-Fonds
 categories:
 - Clic clac

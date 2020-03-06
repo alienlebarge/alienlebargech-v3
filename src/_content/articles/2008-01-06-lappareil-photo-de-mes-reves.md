@@ -1,4 +1,5 @@
 ---
+date: 2008-01-06
 title: L'appareil photo de mes rêves
 categories:
 - Personnel

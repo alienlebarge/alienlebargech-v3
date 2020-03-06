@@ -1,4 +1,5 @@
 ---
+date: 2008-06-08
 title: Midnight Juggernauts - Dystopia
 categories:
 - Musique

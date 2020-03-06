@@ -1,4 +1,5 @@
 ---
+date: 2008-12-21
 title: Do you poken ?
 categories:
 - Informatique

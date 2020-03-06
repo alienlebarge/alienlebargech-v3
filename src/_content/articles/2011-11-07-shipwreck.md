@@ -1,4 +1,5 @@
 ---
+date: 2011-11-07
 title: Shipwreck
 categories:
 - Musique

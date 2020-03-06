@@ -1,4 +1,5 @@
 ---
+date: 2007-07-03
 title: C'est presque les vancances
 categories:
 - Personnel

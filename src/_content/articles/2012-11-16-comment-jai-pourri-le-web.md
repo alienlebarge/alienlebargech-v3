@@ -1,4 +1,5 @@
 ---
+date: 2012-11-16
 title: Comment j'ai pourri le web
 categories:
 - Internet

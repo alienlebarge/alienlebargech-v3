@@ -1,4 +1,5 @@
 ---
+date: 2008-01-02
 title: Couleur de caisse
 categories:
 - Personnel

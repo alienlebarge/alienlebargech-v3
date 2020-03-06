@@ -1,4 +1,5 @@
 ---
+date: 2012-08-21
 title: Fon, un wifi mondial
 categories:
 - Internet

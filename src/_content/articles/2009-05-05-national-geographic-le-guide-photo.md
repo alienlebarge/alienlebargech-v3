@@ -1,4 +1,5 @@
 ---
+date: 2009-05-05
 title: National Geographic, le guide photo
 categories:
 - Photographie

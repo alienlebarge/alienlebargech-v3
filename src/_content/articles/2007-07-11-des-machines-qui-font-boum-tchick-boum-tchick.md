@@ -1,4 +1,5 @@
 ---
+date: 2007-07-11
 title: Des machines qui font boum-tchick-boum-tchick
 categories:
 - Musique

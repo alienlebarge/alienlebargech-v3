@@ -1,4 +1,5 @@
 ---
+date: 2008-05-06
 title: Coup de coeur musicaux du moment
 categories:
 - Musique

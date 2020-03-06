@@ -1,4 +1,5 @@
 ---
+date: 2011-12-14
 title: L'icône social
 categories:
 - Design

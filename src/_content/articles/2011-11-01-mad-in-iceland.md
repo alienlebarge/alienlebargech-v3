@@ -1,4 +1,5 @@
 ---
+date: 2011-11-01
 title: Mad in Iceland
 categories:
 - Vidéo

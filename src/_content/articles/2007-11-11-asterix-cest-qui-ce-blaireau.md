@@ -1,4 +1,5 @@
 ---
+date: 2007-11-11
 title: Astérix, c'est qui ce blaireau ?
 categories:
 - Cinéma

@@ -1,4 +1,5 @@
 ---
+date: 2010-06-24
 title: Flickr change son design
 categories:
 - Internet

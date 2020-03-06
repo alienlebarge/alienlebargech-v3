@@ -1,4 +1,5 @@
 ---
+date: 2008-10-15
 title: Un peu de productivité
 categories:
 - Personnel

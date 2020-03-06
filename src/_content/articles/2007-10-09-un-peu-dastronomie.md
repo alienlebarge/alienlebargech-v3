@@ -1,4 +1,5 @@
 ---
+date: 2007-10-09
 title: Un peu d'astronomie
 categories:
 - Non classé

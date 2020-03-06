@@ -1,4 +1,5 @@
 ---
+date: 2011-01-14
 title: Avant et après
 categories:
 - Photographie

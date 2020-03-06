@@ -1,4 +1,5 @@
 ---
+date: 2012-02-28
 title: Black Hawks - Bills
 categories:
 - Broomball

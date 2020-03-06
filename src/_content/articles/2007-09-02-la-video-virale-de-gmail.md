@@ -1,4 +1,5 @@
 ---
+date: 2007-09-02
 title: La vidéo virale de Gmail
 categories:
 - Publicité

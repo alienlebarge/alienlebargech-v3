@@ -1,4 +1,5 @@
 ---
+date: 2008-10-14
 title: Nike by David Fincher
 categories:
 - Publicité

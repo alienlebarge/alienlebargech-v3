@@ -1,4 +1,5 @@
 ---
+date: 2011-08-04
 title: Jerks aux Digitales
 categories:
 - Musique

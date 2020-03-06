@@ -1,4 +1,5 @@
 ---
+date: 2008-07-09
 title: iPod Touch (à vendre peut-être) vendu
 categories:
 - Matériel

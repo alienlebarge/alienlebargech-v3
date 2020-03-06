@@ -1,4 +1,5 @@
 ---
+date: 2011-09-03
 title: Skaftafell
 categories:
 - Clic clac

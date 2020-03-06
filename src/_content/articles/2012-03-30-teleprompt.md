@@ -1,4 +1,5 @@
 ---
+date: 2012-03-30
 title: Téléprompt
 categories:
 - Vidéo

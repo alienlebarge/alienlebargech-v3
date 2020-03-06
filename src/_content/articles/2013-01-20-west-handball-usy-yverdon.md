@@ -1,4 +1,5 @@
 ---
+date: 2013-01-20
 title: West Handball - USY Yverdon
 categories:
 - Clic clac

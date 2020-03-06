@@ -1,4 +1,5 @@
 ---
+date: 2007-12-24
 title: Joyeux Noël
 categories:
 - Personnel

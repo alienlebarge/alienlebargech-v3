@@ -1,4 +1,5 @@
 ---
+date: 2008-06-05
 title: La petite famille de Bémol
 categories:
 - Personnel

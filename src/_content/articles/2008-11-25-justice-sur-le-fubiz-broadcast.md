@@ -1,4 +1,5 @@
 ---
+date: 2008-11-25
 title: Justice sur le Fubiz broadcast
 categories:
 - Musique

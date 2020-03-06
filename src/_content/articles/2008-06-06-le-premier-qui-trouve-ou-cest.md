@@ -1,4 +1,5 @@
 ---
+date: 2008-06-06
 title: Le premier qui trouve où c'est ...
 categories:
 - Jeux

@@ -1,4 +1,5 @@
 ---
+date: 2008-01-25
 title: De retour du pays de la frite
 categories:
 - Personnel

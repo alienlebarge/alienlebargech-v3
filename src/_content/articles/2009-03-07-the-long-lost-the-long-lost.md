@@ -1,4 +1,5 @@
 ---
+date: 2009-03-07
 title: The Long Lost - The Long Lost
 categories:
 - Musique

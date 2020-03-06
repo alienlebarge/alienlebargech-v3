@@ -1,4 +1,5 @@
 ---
+date: 2007-06-11
 title: Le petit magasin rose
 categories:
 - DJ

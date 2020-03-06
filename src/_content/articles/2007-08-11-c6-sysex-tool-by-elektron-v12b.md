@@ -1,4 +1,5 @@
 ---
+date: 2007-08-11
 title: Après-midi Sysex
 categories:
 - Musique

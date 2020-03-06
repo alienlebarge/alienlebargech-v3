@@ -1,4 +1,5 @@
 ---
+date: 2008-01-27
 title: Raz Ohara & The Odd Orchestra - Raz Ohara & The Odd Orchestra
 categories:
 - Musique

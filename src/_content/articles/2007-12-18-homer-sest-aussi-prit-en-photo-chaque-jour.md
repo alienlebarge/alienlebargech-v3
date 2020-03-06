@@ -1,4 +1,5 @@
 ---
+date: 2007-12-18
 title: Homer s'est aussi prit en photo chaque jour
 categories:
 - Humour

@@ -1,4 +1,5 @@
 ---
+date: 2013-07-07
 layout: post
 title: Appartement à louer à Orbe
 categories:

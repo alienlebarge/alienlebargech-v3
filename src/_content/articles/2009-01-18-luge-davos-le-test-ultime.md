@@ -1,4 +1,5 @@
 ---
+date: 2009-01-18
 
 title: Luge Davos, le test ultime
 categories:

@@ -1,4 +1,5 @@
 ---
+date: 2012-10-11
 
 title: TaskPaper
 categories:

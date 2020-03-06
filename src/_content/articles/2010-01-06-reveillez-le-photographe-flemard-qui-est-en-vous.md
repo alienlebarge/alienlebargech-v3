@@ -1,4 +1,5 @@
 ---
+date: 2010-01-06
 
 title: Reveillez le photographe flémard qui est en vous
 categories:

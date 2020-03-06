@@ -1,4 +1,5 @@
 ---
+date: 2012-02-07
 title: West HBC - TV Solothurn
 categories:
 - Clic clac

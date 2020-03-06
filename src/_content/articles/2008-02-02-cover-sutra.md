@@ -1,4 +1,5 @@
 ---
+date: 2008-02-02
 title: Cover Sutra
 categories:
 - Logiciel

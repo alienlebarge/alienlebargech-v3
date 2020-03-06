@@ -1,4 +1,5 @@
 ---
+date: 2012-12-26
 title: Afficher les fichiers cachés dans le Finder (mise à jour)
 categories:
 - Programmation

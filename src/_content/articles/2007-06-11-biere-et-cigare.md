@@ -1,4 +1,5 @@
 ---
+date: 2007-06-11
 title: Bière et Cigare
 categories:
 - Divers

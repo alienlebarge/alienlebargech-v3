@@ -1,4 +1,5 @@
 ---
+date: 2010-01-14
 title: A Dresden aussi on fait de la bonne zik
 categories:
 - Musique

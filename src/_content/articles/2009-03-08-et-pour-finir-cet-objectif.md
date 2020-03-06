@@ -1,4 +1,5 @@
 ---
+date: 2009-03-08
 title: Et pour finir cet objectif ?
 categories:
 - Photographie

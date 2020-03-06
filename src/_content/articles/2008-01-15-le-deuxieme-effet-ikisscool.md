@@ -1,4 +1,5 @@
 ---
+date: 2008-01-15
 title: Le deuxième effet iKisscool
 categories:
 - Logiciel

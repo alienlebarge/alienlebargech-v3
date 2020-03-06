@@ -1,4 +1,5 @@
 ---
+date: 2007-06-14
 title: Pixelmator, un nouvel éditeur photo
 categories:
 - Logiciel

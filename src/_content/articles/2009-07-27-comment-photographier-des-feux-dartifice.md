@@ -1,4 +1,5 @@
 ---
+date: 2009-07-27
 title: Comment photographier des feux d'artifice
 categories:
 - Photographie

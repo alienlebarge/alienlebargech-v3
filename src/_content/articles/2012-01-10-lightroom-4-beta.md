@@ -1,4 +1,5 @@
 ---
+date: 2012-01-10
 title: Lightroom 4 Beta
 categories:
 - Logiciel

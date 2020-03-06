@@ -1,4 +1,5 @@
 ---
+date: 2013-01-04
 
 title: Bonne pratique d'une mise à jour d'un article
 categories:

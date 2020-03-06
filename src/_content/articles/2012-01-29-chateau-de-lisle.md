@@ -1,4 +1,5 @@
 ---
+date: 2012-01-29
 title: Château de l'Isle
 categories:
 - Clic clac

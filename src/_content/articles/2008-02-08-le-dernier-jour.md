@@ -1,4 +1,5 @@
 ---
+date: 2008-02-08
 title: Le dernier jour
 categories:
 - Personnel

@@ -1,4 +1,5 @@
 ---
+date: 2011-12-05
 title: Le gardien du vignoble
 categories:
 - Clic clac

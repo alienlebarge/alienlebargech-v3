@@ -1,4 +1,5 @@
 ---
+date: 2008-12-10
 title: Wordpress 2.7 ça déménage
 categories:
 - Internet

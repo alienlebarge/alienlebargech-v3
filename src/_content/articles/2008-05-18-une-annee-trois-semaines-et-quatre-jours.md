@@ -1,4 +1,5 @@
 ---
+date: 2008-05-18
 title: Une année, trois semaines et quatre jours
 categories:
 - Personnel

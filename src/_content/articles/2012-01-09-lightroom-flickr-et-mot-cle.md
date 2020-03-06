@@ -1,4 +1,5 @@
 ---
+date: 2012-01-09
 title: Lightroom, Flickr et mot-clé
 categories:
 - Clic clac

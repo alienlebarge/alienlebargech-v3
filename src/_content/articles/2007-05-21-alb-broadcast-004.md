@@ -1,4 +1,5 @@
 ---
+date: 2007-05-21
 title: 'alb broadcast #004'
 categories:
 - Podcast

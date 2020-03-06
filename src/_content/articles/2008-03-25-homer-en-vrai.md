@@ -1,4 +1,5 @@
 ---
+date: 2008-03-25
 title: Homer en vrai
 categories:
 - Design

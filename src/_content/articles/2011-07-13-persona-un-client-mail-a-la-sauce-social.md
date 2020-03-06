@@ -1,4 +1,5 @@
 ---
+date: 2011-07-13
 title: Persona, un client mail à la sauce social
 categories:
 - Informatique

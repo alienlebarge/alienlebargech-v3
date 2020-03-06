@@ -1,4 +1,5 @@
 ---
+date: 2011-12-27
 title: Lu.ma Cinch
 categories:
 - Clic clac

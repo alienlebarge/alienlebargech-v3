@@ -1,4 +1,5 @@
 ---
+date: 2008-11-09
 title: Problème de MIDI entre la MD et la TM-1
 categories:
 - Musique

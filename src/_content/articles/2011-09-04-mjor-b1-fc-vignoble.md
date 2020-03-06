@@ -1,4 +1,5 @@
 ---
+date: 2011-09-04
 title: MJOR B1 - FC Vignoble
 categories:
 - Clic clac

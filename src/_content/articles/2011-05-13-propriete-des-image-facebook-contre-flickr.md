@@ -1,4 +1,5 @@
 ---
+date: 2011-05-13
 title: 'Propriété des image : Facebook contre Flickr'
 categories:
 - Internet

@@ -1,4 +1,5 @@
 ---
+date: 2011-08-03
 title: Forcer l'enregistrement de news dans un sysfolder
 categories:
 - Typo3

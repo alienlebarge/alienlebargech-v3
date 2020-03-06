@@ -1,4 +1,5 @@
 ---
+date: 2008-12-14
 title: Première journée de ski ...
 categories:
 - Personnel

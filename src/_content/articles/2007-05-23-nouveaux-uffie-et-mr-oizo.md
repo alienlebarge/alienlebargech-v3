@@ -1,4 +1,5 @@
 ---
+date: 2007-05-23
 title: Nouveaux Uffie et Mr. Oizo
 categories:
 - Musique

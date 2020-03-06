@@ -1,4 +1,5 @@
 ---
+date: 2007-08-30
 title: Les Tikis c'est finit
 categories:
 - Personnel

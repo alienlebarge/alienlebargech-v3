@@ -1,4 +1,5 @@
 ---
+date: 2008-03-11
 title: Ninja Tune sort LA compilation à avoir
 categories:
 - Musique

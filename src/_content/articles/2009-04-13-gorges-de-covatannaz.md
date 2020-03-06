@@ -1,4 +1,5 @@
 ---
+date: 2009-04-13
 title: Gorges de Covatannaz
 categories:
 - Photographie

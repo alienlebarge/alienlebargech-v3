@@ -1,4 +1,5 @@
 ---
+date: 2011-08-17
 title: Stateless
 categories:
 - Musique

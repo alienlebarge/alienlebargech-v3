@@ -1,4 +1,5 @@
 ---
+date: 2010-07-27
 title: Vivement vendredi ... ou pas
 categories:
 - Personnel

@@ -1,4 +1,5 @@
 ---
+date: 2011-05-10
 title: Un sac dans le sac
 categories:
 - Photographie

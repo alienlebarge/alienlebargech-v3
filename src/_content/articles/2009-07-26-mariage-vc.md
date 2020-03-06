@@ -1,4 +1,5 @@
 ---
+date: 2009-07-26
 title: Mariage V&amp;C
 categories:
 - Clic clac

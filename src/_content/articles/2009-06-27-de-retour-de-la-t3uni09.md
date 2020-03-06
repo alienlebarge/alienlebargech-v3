@@ -1,4 +1,5 @@
 ---
+date: 2009-06-27
 title: De retour de la T3UNI09
 categories:
 - Informatique

@@ -1,4 +1,5 @@
 ---
+date: 2011-11-20
 title: HBC West - HV Herzogenbuchsee
 categories:
 - Handball

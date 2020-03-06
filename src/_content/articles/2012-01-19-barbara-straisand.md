@@ -1,4 +1,5 @@
 ---
+date: 2012-01-19
 title: Barbara Straisand
 categories:
 - Musique

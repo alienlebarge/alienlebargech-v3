@@ -1,4 +1,5 @@
 ---
+date: 2008-06-28
 
 title: Avez-vous déjà vu ... ?
 categories:

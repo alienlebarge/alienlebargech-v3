@@ -1,4 +1,5 @@
 ---
+date: 2007-06-26
 title: Wii Transfert
 categories:
 - Logiciel

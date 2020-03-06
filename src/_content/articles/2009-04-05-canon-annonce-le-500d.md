@@ -1,4 +1,5 @@
 ---
+date: 2009-04-05
 title: Canon annonce le 500d
 categories:
 - Photographie

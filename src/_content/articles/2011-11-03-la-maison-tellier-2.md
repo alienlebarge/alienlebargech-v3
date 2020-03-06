@@ -1,4 +1,5 @@
 ---
+date: 2011-11-03
 title: La Maison Tellier
 categories:
 - Musique

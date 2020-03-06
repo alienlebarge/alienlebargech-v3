@@ -1,4 +1,5 @@
 ---
+date: 2008-12-19
 title: 'Organisation de nouvel-an : les points essentiels'
 categories:
 - Bastringue

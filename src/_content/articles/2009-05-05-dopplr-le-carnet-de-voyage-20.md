@@ -1,4 +1,5 @@
 ---
+date: 2009-05-05
 title: Dopplr, le carnet de voyage 2.0
 categories:
 - Internet

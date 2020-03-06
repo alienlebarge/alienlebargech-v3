@@ -1,4 +1,5 @@
 ---
+date: 2008-03-02
 title: DVNO, encore un clip cool
 categories:
 - Musique

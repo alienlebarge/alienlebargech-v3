@@ -1,4 +1,5 @@
 ---
+date: 2012-10-12
 title: Cache-cache Chrome
 categories:
 - Informatique

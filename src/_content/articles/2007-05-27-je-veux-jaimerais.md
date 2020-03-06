@@ -1,4 +1,5 @@
 ---
+date: 2007-05-27
 title: Je veux J'aimerais
 categories:
 - Jeux

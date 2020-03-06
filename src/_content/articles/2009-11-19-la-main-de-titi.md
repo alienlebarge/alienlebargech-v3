@@ -1,4 +1,5 @@
 ---
+date: 2009-11-19
 title: La main de Titi
 categories:
 - Sport

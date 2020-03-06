@@ -1,4 +1,5 @@
 ---
+date: 2007-12-19
 title: Il y a des jours comme ça ...
 categories:
 - Personnel

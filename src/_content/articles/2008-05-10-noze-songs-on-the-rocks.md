@@ -1,4 +1,5 @@
 ---
+date: 2008-05-10
 title: Nôze - Songs On The Rocks
 categories:
 - Musique

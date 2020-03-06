@@ -1,4 +1,5 @@
 ---
+date: 2010-07-01
 title: Déménagement ... de serveur
 categories:
 - Le site

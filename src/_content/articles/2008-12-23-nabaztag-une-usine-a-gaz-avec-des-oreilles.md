@@ -1,4 +1,5 @@
 ---
+date: 2008-12-23
 
 title: Nabaztag, une usine à gaz avec des oreilles ?
 categories:

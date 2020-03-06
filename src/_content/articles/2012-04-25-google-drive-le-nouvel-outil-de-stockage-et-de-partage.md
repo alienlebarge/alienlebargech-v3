@@ -1,4 +1,5 @@
 ---
+date: 2012-04-25
 
 title: Google Drive, le nouvel outil de stockage et de partage
 categories:

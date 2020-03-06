@@ -1,4 +1,5 @@
 ---
+date: 2008-01-28
 title: Alec Empire - The Golden Foretaste of Heaven
 categories:
 - Musique

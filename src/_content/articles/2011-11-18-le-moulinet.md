@@ -1,4 +1,5 @@
 ---
+date: 2011-11-18
 title: Le moulinet
 categories:
 - Clic clac

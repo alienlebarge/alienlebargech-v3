@@ -1,4 +1,5 @@
 ---
+date: 2008-03-08
 title: Gelé au milieu de Grand Central Station
 categories:
 - Publicité

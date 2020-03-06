@@ -1,4 +1,5 @@
 ---
+date: 2011-10-06
 title: Kinshasa One Two
 categories:
 - Musique

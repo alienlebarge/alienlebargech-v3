@@ -1,4 +1,5 @@
 ---
+date: 2011-05-09
 title: Le gris neutre qui file
 categories:
 - Clic clac

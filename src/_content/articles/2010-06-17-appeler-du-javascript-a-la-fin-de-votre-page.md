@@ -1,4 +1,5 @@
 ---
+date: 2010-06-17
 
 title: Appeler du JavaScript à la fin de votre page
 categories:

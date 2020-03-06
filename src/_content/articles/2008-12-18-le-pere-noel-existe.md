@@ -1,4 +1,5 @@
 ---
+date: 2008-12-18
 title: Le père Noël existe !
 categories:
 - Personnel

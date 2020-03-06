@@ -1,4 +1,5 @@
 ---
+date: 2008-05-04
 title: Encore une découverte (pour moi)
 categories:
 - Musique

@@ -1,4 +1,5 @@
 ---
+date: 2008-12-28
 title: Vie de merde
 categories:
 - Humour

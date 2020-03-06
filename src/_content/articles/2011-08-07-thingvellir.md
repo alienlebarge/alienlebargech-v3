@@ -1,4 +1,5 @@
 ---
+date: 2011-08-07
 title: Þingvellir
 categories:
 - Clic clac

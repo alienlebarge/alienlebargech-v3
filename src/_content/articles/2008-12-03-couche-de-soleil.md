@@ -1,4 +1,5 @@
 ---
+date: 2008-12-03
 title: Couché de soleil
 categories:
 - Nature

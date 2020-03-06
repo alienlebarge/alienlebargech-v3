@@ -1,4 +1,5 @@
 ---
+date: 2011-12-12
 title: The Brandt Brauer Frick Ensemble feat. Emika - Pretend (live at Concertgebouw
   Brugge)
 categories:

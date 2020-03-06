@@ -1,4 +1,5 @@
 ---
+date: 2011-02-17
 title: Guitare & Jack Strap
 categories:
 - Musique

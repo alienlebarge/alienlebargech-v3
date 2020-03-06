@@ -1,4 +1,5 @@
 ---
+date: 2010-07-27
 title: Les bonnes pratiques du lien hypertexte
 categories:
 - Internet

@@ -1,4 +1,5 @@
 ---
+date: 2011-09-16
 title: Des maisons de viking
 categories:
 - Portfolio

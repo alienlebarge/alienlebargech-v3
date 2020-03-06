@@ -1,4 +1,5 @@
 ---
+date: 2007-05-19
 title: L'église de Bretonnières la nuit
 categories:
 - Photographie

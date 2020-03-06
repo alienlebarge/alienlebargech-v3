@@ -1,4 +1,5 @@
 ---
+date: 2011-07-09
 title: Gala Gymnaestrada
 categories:
 - Clic clac

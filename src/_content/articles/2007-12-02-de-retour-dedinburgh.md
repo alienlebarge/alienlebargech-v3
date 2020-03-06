@@ -1,4 +1,5 @@
 ---
+date: 2007-12-02
 
 title: De retour d'Edinburgh
 categories:

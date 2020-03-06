@@ -1,4 +1,5 @@
 ---
+date: 2008-05-12
 title: Cinco De Mayo Carnival
 categories:
 - Photographie

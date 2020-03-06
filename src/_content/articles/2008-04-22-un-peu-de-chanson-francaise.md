@@ -1,4 +1,5 @@
 ---
+date: 2008-04-22
 title: Un peu de chanson française
 categories:
 - Musique

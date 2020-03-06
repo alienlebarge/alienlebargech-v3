@@ -1,4 +1,5 @@
 ---
+date: 2012-06-26
 title: TYPO3 versus Drupal
 categories:
 - Non classé

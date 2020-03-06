@@ -1,4 +1,5 @@
 ---
+date: 2012-03-26
 title: Echallens - Malapaluz par le sentier du Talent
 categories:
 - Ballade

@@ -1,4 +1,5 @@
 ---
+date: 2009-07-18
 title: La Roux - La Roux
 categories:
 - Musique

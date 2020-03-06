@@ -1,4 +1,5 @@
 ---
+date: 2009-05-12
 title: Hudson Mohawke - Polyfolk Dance
 categories:
 - Musique

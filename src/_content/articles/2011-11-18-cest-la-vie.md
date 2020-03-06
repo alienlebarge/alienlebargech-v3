@@ -1,4 +1,5 @@
 ---
+date: 2011-11-18
 title: C'est la vie
 categories:
 - Musique

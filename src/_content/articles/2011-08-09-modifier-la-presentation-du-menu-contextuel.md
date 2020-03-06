@@ -1,4 +1,5 @@
 ---
+date: 2011-08-09
 
 title: Modifier la présentation du menu contextuel
 categories:

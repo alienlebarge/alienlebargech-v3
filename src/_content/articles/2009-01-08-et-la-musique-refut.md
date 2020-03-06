@@ -1,4 +1,5 @@
 ---
+date: 2009-01-08
 title: Et la musique (re)fut
 categories:
 - Musique

@@ -1,4 +1,5 @@
 ---
+date: 2007-05-17
 title: Opération réussit
 categories:
 - Personnel

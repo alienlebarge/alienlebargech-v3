@@ -1,4 +1,5 @@
 ---
+date: 2007-11-07
 title: C'est l'automne
 categories:
 - Photographie

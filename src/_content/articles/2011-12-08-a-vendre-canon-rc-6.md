@@ -1,4 +1,5 @@
 ---
+date: 2011-12-08
 title: 'A vendre : Canon RC-6'
 categories:
 - Matériel

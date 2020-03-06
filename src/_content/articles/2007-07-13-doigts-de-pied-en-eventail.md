@@ -1,4 +1,5 @@
 ---
+date: 2007-07-13
 title: Doigts de pied en éventail
 categories:
 - Personnel

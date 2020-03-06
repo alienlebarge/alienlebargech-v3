@@ -1,4 +1,5 @@
 ---
+date: 2011-06-28
 title: La gymnastique
 categories:
 - Clic clac

@@ -1,4 +1,5 @@
 ---
+date: 2008-08-10
 title: Dans une semaine c'est repartie
 categories:
 - Personnel

@@ -1,4 +1,5 @@
 ---
+date: 2009-04-25
 
 title: Au Paléo, on va voir ...
 categories:

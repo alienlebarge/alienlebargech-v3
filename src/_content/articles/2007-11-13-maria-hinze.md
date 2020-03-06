@@ -1,4 +1,5 @@
 ---
+date: 2007-11-13
 title: Maria Hinze
 categories:
 - Design

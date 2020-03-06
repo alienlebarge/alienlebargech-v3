@@ -1,4 +1,5 @@
 ---
+date: 2011-11-27
 title: Soirée de Gala MJOR
 categories:
 - Divers

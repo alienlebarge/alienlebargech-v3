@@ -1,4 +1,5 @@
 ---
+date: 2007-10-07
 title: Modeslektor - Happy Birthday !
 categories:
 - Musique

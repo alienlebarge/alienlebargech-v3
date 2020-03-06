@@ -1,4 +1,5 @@
 ---
+date: 2009-03-24
 title: Spéculation sur les comptes twitter
 categories:
 - Internet

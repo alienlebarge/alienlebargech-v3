@@ -1,4 +1,5 @@
 ---
+date: 2010-03-16
 title: Chat roulette et un piano = des vidéos bien marrantes
 categories:
 - Humour

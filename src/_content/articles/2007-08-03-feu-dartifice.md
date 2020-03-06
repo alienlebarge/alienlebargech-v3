@@ -1,4 +1,5 @@
 ---
+date: 2007-08-03
 title: Feu d'artifice
 categories:
 - Bastringue

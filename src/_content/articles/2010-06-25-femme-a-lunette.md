@@ -1,4 +1,5 @@
 ---
+date: 2010-06-25
 title: Femme à lunette
 categories:
 - Publicité

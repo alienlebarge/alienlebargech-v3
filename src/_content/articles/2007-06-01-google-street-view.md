@@ -1,4 +1,5 @@
 ---
+date: 2007-06-01
 title: Google Street View
 categories:
 - Technologie

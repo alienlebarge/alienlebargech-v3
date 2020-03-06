@@ -1,4 +1,5 @@
 ---
+date: 2009-10-20
 title: C'est mort par ici
 categories:
 - Personnel

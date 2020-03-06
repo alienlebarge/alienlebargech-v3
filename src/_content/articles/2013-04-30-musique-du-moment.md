@@ -1,4 +1,5 @@
 ---
+date: 2013-04-30
 title: Musique du moment
 categories:
 - Musique

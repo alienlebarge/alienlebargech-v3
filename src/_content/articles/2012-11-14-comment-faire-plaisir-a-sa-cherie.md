@@ -1,4 +1,5 @@
 ---
+date: 2012-11-14
 title: Comment faire plaisir à sa chérie
 categories:
 - Clic clac

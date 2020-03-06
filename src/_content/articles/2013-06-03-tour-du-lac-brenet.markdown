@@ -1,4 +1,5 @@
 ---
+date: 2013-06-03
 layout: post
 title: Tour du Lac Brenet
 categories:

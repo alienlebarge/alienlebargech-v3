@@ -1,4 +1,5 @@
 ---
+date: 2011-11-03
 title: Amorçage de système, schéma bleu et consort
 categories:
 - Design

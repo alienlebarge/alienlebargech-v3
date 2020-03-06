@@ -1,4 +1,5 @@
 ---
+date: 2008-03-02
 title: Newsfire est gratos
 categories:
 - Logiciel

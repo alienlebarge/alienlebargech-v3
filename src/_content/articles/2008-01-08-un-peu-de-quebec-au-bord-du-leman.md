@@ -1,4 +1,5 @@
 ---
+date: 2008-01-08
 
 title: Un peu de Québec au bord du Léman
 categories:

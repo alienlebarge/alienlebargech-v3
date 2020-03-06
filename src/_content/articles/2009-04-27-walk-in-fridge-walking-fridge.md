@@ -1,4 +1,5 @@
 ---
+date: 2009-04-27
 title: Walk in fridge, walking fridge
 categories:
 - Humour

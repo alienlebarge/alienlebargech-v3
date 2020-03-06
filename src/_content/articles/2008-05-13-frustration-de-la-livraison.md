@@ -1,4 +1,5 @@
 ---
+date: 2008-05-13
 title: Frustration de la livraison
 categories:
 - Personnel

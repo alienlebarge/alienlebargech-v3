@@ -1,4 +1,5 @@
 ---
+date: 2012-12-07
 
 title: Test flash de Twitterrific
 categories:

@@ -1,4 +1,5 @@
 ---
+date: 2007-06-05
 title: Mauvaise soudure
 categories:
 - Personnel

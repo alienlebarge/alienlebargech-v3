@@ -1,4 +1,5 @@
 ---
+date: 2009-11-26
 title: The Bloody Beetroots - Ramborama
 categories:
 - Musique

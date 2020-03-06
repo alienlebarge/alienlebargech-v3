@@ -1,4 +1,5 @@
 ---
+date: 2011-09-02
 title: Skógafoss
 categories:
 - Clic clac

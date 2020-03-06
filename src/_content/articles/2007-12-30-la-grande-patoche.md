@@ -1,4 +1,5 @@
 ---
+date: 2007-12-30
 title: La grande patoche
 categories:
 - Personnel

@@ -1,4 +1,5 @@
 ---
+date: 2011-12-11
 title: HBC West - PSG Lyss
 categories:
 - Handball

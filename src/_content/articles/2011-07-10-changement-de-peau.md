@@ -1,4 +1,5 @@
 ---
+date: 2011-07-10
 title: Changement de peau
 categories:
 - Le site

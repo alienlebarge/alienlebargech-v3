@@ -1,4 +1,5 @@
 ---
+date: 2007-09-06
 title: Azpirator
 categories:
 - DJ

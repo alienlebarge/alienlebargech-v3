@@ -1,4 +1,5 @@
 ---
+date: 2011-08-22
 title: Des regards se croisent
 categories:
 - Clic clac

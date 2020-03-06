@@ -1,4 +1,5 @@
 ---
+date: 2010-01-14
 title: Bulkr ou l'outil qui manquait à Flickr
 categories:
 - Logiciel

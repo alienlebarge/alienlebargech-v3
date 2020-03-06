@@ -1,4 +1,5 @@
 ---
+date: 2008-01-30
 title: Femme // air bag
 categories:
 - Humour

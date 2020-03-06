@@ -1,4 +1,5 @@
 ---
+date: 2009-11-11
 title: Tag-toi dans Flickr
 categories:
 - Internet

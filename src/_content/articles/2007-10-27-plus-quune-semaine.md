@@ -1,4 +1,5 @@
 ---
+date: 2007-10-27
 
 title: Plus qu'une semaine
 categories:

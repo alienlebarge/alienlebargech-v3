@@ -1,4 +1,5 @@
 ---
+date: 2007-06-24
 title: Vidéo de présentation de l'iPhone
 categories:
 - Technologie

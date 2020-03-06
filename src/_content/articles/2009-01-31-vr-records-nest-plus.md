@@ -1,4 +1,5 @@
 ---
+date: 2009-01-31
 title: VR-records n'est plus
 categories:
 - Musique

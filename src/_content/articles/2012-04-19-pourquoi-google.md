@@ -1,4 +1,5 @@
 ---
+date: 2012-04-19
 title: Pourquoi Google+
 categories:
 - Internet
