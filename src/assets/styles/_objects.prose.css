@@ -9,7 +9,6 @@
 .o-prose {
     --space: var(--s3);
     --flow-inset: 1.5em;
-    --list-display: list-item;
     --anchor-decoration: underline;
     font-size: var(--font-size-body);
     font-weight: var(--font-weight-body, inherit);
@@ -153,6 +152,10 @@
  * 1. On bigger screen, the bullet position is outside. Inside let you gain
  *    horizontal space on mobile
  */
+
+.o-prose ul:not([class]) {
+    --list-display: list-item;
+}
 
 .o-prose :--list {
     list-style-position: inside; /* [1] */
