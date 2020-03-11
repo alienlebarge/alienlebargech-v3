@@ -15,6 +15,10 @@
     {
       "label": "Photos",
       "url": "/photos/"
+    },
+    {
+      "label": "Music",
+      "url": "/music/"
     }
   ]
 }
