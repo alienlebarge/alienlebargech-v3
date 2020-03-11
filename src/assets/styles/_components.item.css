@@ -8,7 +8,7 @@
 .c-item__header {
     @extend %subhead;
 
-    --anchor-decoration: underline var(--color-dark);
+    --anchor-decoration: underline;
 }
 
 .c-item__footer {
