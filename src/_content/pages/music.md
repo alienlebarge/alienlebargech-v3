@@ -32,3 +32,7 @@ Some of the places where I have played:
 - Causetek, Lausanne
 - Citrons Masqués, Yverdon-les-Bains
 - Free parties, Lausanne area
+
+## Become a Patreon
+
+If you like what I do and want to support my work, consider joining my crew on [Patreon](https://www.patreon.com/bePatron?u=10910199).
