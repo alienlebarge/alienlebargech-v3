@@ -25,13 +25,15 @@
 }
 
 .c-form__input {
+    width: 100%;
+
+    font-style: italic;
+    font-family: var(--font-family-monospace);
+    color: var(--color-dark);
+
     background-color: var(--color-light);
     border: var(--border-width-thick) solid var(--color-dark);
-    color: var(--color-dark);
     padding: var(--form-input-padding);
-    width: 100%;
-    font-family: var(--font-family-monospace);
-    font-style: italic;
 }
 
 textarea.c-form__input {
@@ -44,14 +46,16 @@ textarea.c-form__input {
  * 1. When button is clicked, the border of it is always visible
  */
 .c-form__button {
-    padding: var(--form-input-padding);
-    background: var(--color-dark);
     color: var(--color-light);
+
+    background: var(--color-dark);
     border: var(--border-width-thick) solid var(--color-dark); /* [1] */
+    padding: var(--form-input-padding);
     cursor: pointer;
 }
 
 .c-form__button:active {
     color: var(--color-dark);
+
     background: var(--color-light);
 }
