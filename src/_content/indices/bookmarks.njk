@@ -7,7 +7,7 @@ pagination:
     size: 20
 ---
 {% import 'list-items.njk' as list %}
-{{ list.listItems(pagination.items) }}
+{{ list.listItems(pagination.items, "[ c-container c-container--big ] c-separator") }}
 
 {% import 'pagination.njk' as transverse %}
 {{ transverse.paginate(pagination, label='Bookmarks') }}

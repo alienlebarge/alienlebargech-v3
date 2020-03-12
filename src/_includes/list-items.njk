@@ -1,9 +1,11 @@
-{% macro listItems(items) %}
-<div class="[ c-container c-container--big ] o-stack o-stack--s3 c-separator">
+{% macro listItems(items, modifier) %}
+<ul class="{% if modifier %}{{ modifier }} {% endif %}o-stack o-stack--s3">
     {%- for item in items -%}
-    {%- include 'item/' + item.data.type + '.njk' -%}
+    <li>
+        {%- include 'item/' + item.data.type + '.njk' -%}
+    </li>
     {%- endfor -%}
-</div>
+</ul>
 {% endmacro %}
 
 
@@ -11,11 +13,13 @@
 {% macro gridItems(items) %}
 
 {%- set image_preset = "thumbnail" -%}
-<div class="[ c-container c-container--big ]">
+<ul class="[ c-container c-container--big ]">
     <div class="o-grid" data-min="9rem">
         {%- for item in items -%}
+        <li>
         {%- include 'item/' + item.data.type + '.njk' -%}
+        </li>
         {%- endfor -%}
     </div>
-</div>
+</ul>
 {% endmacro %}

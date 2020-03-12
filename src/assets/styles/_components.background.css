@@ -2,6 +2,9 @@
    #BACKGROUNDS
    ========================================================================== */
 
+/**
+ * 1. Make padding consistent even with multiple lines
+ */
 .c-background {
     background-image: var(--bg-dots);
 }
@@ -13,5 +16,8 @@
     background-color: var(--color-light);
     padding: 0 var(--s-2) var(--s-5) var(--s-2);
     box-decoration-break: clone;
+    /* stylelint-disable property-no-vendor-prefix */
+    -webkit-box-decoration-break: clone; /* [1] */
+    /* stylelint-enable */
 }
 
