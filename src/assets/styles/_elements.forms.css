@@ -14,6 +14,7 @@
 /**
  * 1. Change the font styles in all browsers.
  * 2. Remove the margin in Firefox and Safari.
+ * 3. Reset rounded corners on Safari iOS
  */
 
 button,
@@ -26,6 +27,7 @@ textarea {
     line-height: 1.15; /* 1 */
 
     margin: 0; /* 2 */
+    border-radius: 0; /* [3] */
 }
 
 /**
