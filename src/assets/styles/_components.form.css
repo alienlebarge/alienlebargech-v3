@@ -1,0 +1,61 @@
+/* ==========================================================================
+   #FORMS
+   ========================================================================== */
+
+.c-form {
+    --form-input-padding: var(--s-2);
+}
+
+.c-form > *,
+.c-form__field > * {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.c-form > * + * {
+    margin-top: var(--s2);
+}
+
+.c-form__field > * + * {
+    margin-top: var(--s-4);
+}
+
+.c-form__label {
+    display: block;
+}
+
+.c-form__input {
+    width: 100%;
+
+    font-style: italic;
+    font-family: var(--font-family-monospace);
+    color: var(--color-dark);
+
+    background-color: var(--color-light);
+    border: var(--border-width-thick) solid var(--color-dark);
+    padding: var(--form-input-padding);
+}
+
+textarea.c-form__input {
+    height: 12em;
+}
+
+/**
+ * Button
+ *
+ * 1. When button is clicked, the border of it is always visible
+ */
+.c-form__button {
+    color: var(--color-light);
+
+    background: var(--color-dark);
+    border: var(--border-width-thick) solid var(--color-dark); /* [1] */
+    padding: var(--form-input-padding);
+    cursor: pointer;
+}
+
+.c-form__button:active {
+    color: var(--color-dark);
+
+    background: var(--color-light);
+}
