@@ -5,21 +5,19 @@ hidden: true
 templateEngineOverride: md,njk
 ---
 
-<form name="contact" method="POST" data-netlify="true" class="[ o-stack ]">
-  <p class="[ o-stack o-stack--s-1 ]">
-    <label for="name">Your Name</label>
-    <input id="name" type="text" name="name" required aria-required="true">
+<form name="contact" method="POST" data-netlify="true" class="[ o-stack ] c-form">
+  <p class="c-form__field">
+    <label class="c-form__label" for="name">Your Name</label>
+    <input class="c-form__input "id="name" type="text" name="name" autocomplete="name" required aria-required="true">
   </p>
-  <p>
-    <label>Your Email</label>
-    <input type="email" name="email" required aria-required="true">
+  <p class="c-form__field">
+    <label class="c-form__label" for="email">Your Email</label>
+    <input class="c-form__input" type="email" name="email" autocomplete="email" required aria-required="true">
   </p>
-  <p>
-    <label for="message">Message</label>
-    <textarea id="message" name="message" required aria-required="true"></textarea>
+  <p class="c-form__field">
+    <label class="c-form__label" for="message">Message</label>
+    <textarea class="c-form__input" id="message" name="message" row="10" cols="20" required aria-required="true"></textarea>
   </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
+  <button class="c-form__button" type="submit">Send</button>
 </form>
 
