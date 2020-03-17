@@ -1,5 +1,6 @@
 ---
 title: Contact
+summary: Maybe you have a question you think I might be abble to answer. Get in touch using the form below.
 permalink: /contact/index.html
 hidden: true
 templateEngineOverride: md,njk
