@@ -1,5 +1,5 @@
 {
-  "items": [
+  "primary": [
     {
       "label": "Articles",
       "url": "/articles/"
