@@ -20,5 +20,11 @@
       "label": "Music",
       "url": "/music/"
     }
+  ],
+  "secondary": [
+    {
+      "label": "Contact",
+      "url": "/contact/"
+    }
   ]
 }
