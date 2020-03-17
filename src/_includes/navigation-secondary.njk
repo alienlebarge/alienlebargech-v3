@@ -1,0 +1,13 @@
+{%- if navigation.secondary -%}
+<nav class="o-cluster__item [ o-cluster o-cluster--small ]" aria-label="Secondary navigation">
+    <h2 class="u-visually-hidden">Secondary navigation</h2>
+    <ul class="o-cluster__container">
+        {%- for item in navigation.secondary -%}
+        <li class="o-cluster__item">
+            <a href="{{ item.url }}">{{ item.label }}</a>
+        </li>
+        {%- endfor -%}
+
+    </ul>
+</nav>
+{%- endif -%}
