@@ -5,7 +5,7 @@ hidden: true
 templateEngineOverride: md,njk
 ---
 
-<form name="contact" method="POST" data-netlify="true" class="[ o-stack ] c-form">
+<form name="contact" method="POST" data-netlify="true" class="[ o-stack ] c-form" action="/contact/thanks.html">
   <p class="c-form__field">
     <label class="c-form__label" for="name">Your Name</label>
     <input class="c-form__input "id="name" type="text" name="name" autocomplete="name" required aria-required="true">
