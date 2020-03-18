@@ -1,3 +1,6 @@
+[context.production]
+    TZ = "Europe/Zurich"
+
 # 404s
 [[redirects]]
     from = "*"
