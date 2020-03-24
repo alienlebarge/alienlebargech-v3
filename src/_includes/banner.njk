@@ -17,7 +17,9 @@
                     <ul class="o-cluster__container">
                         {%- for item in navigation.primary -%}
                         <li class="o-cluster__item">
-                            <a href="{{ item.url }}">{{ item.label }}</a>
+                            <a href="{{ item.url }}"{%- if item.id %} id="{{ item.id }}"{%- endif -%}>
+                                {{- item.label -}}
+                            </a>
                         </li>
                         {%- endfor -%}
                     </ul>

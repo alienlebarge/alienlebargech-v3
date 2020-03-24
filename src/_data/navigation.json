@@ -25,6 +25,11 @@
     {
       "label": "Contact",
       "url": "/contact/"
+    },
+    {
+      "label": "Search",
+      "url": "/search/",
+      "id": "js-search-link"
     }
   ]
 }
