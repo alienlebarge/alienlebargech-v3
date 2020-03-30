@@ -2,9 +2,6 @@
    #PAGINATION
    ========================================================================== */
 
-.c-pagination {
-}
-
 .c-pagination__link {
     display: flex;
     flex-direction: column;

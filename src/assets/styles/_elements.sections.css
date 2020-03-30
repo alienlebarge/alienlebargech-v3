@@ -19,7 +19,8 @@
  *    scrollbars naturally.
  * 2. Prevent font size adjustment on orientation change in iOS.
  * 3. More sensible default box-sizing:
- *    css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice
+ *    css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-
+ *    practice
  */
 
 html {

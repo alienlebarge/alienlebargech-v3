@@ -5,8 +5,6 @@
 /**
  * TODO: Check if this component need to be refactored
  */
-.c-contentinfo {
-}
 
 .c-contentinfo svg {
     width: var(--font-size-body);
