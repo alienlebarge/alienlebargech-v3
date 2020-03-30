@@ -57,10 +57,11 @@
 
 %overline {
     font-size: var(--font-size-caption);
-    font-weight: 800;
+    font-weight: var(--font-weight-overline, 800);
     font-family: var(--font-family-overline, inherit);
     text-transform: uppercase;
     letter-spacing: .125em;
+    font-variation-settings: "wght" var(--font-weight-overline, 800);
 }
 
 %body {
