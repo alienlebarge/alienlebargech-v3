@@ -318,6 +318,15 @@ The `details` element creates a disclosure widget in which information is visibl
 
 ## Form
 
+### Input
+
+<form class="o-stack c-form">
+  <p class="c-form__field">
+    <label class="c-form__label" for="name">Your Name</label>
+    <input class="c-form__input "id="name" type="text" name="name" autocomplete="name" required aria-required="true">
+  </p>
+</form>
+
 ### Checkbox
 
 <form>
@@ -333,6 +342,12 @@ The `details` element creates a disclosure widget in which information is visibl
     <input class="c-checkbox__input" type="checkbox" id="form-checkbox-exemple-3" disabled />
     <label class="c-checkbox__label" for="form-checkbox-exemple-3">Disabled</label>
 </div>
+</form>
+
+### Button
+
+<form class="o-stack c-form">
+  <button class="c-form__button" type="submit">Send</button>
 </form>
 
 
