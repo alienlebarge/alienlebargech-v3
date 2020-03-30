@@ -65,7 +65,7 @@
 
 %body {
     --flow-space: var(--line-height-body);
-    --line-height310body: var(--line-height-loose);
+    --line-height-body: var(--line-height-loose);
     font-size: var(--font-size-body);
     font-family: var(--font-family-sans);
     font-variant: oldstyle-nums;
