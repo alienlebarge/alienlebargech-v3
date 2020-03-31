@@ -15,7 +15,7 @@
 a {
     color: var(--anchor-color, inherit);
     text-decoration: var(--anchor-decoration, underline);
-    text-decoration-color: var(--color-dark);
+    text-decoration-color: currentColor;
     text-decoration-skip-ink: auto;
 }
 
