@@ -14,7 +14,7 @@
     line-height: var(--line-height-loose);
 
     background-color: var(--color-light);
-    padding: 0 var(--s-2) var(--s-5) var(--s-2);
+    padding: var(--s-5) var(--s-2);
     box-decoration-break: clone;
     /* stylelint-disable property-no-vendor-prefix */
     -webkit-box-decoration-break: clone; /* [1] */
