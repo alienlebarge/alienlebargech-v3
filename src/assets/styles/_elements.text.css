@@ -98,6 +98,17 @@ code {
     padding: var(--inset-small-squished);
 }
 
+/**
+ * Make code selectable
+ *
+ * This apply to text directly in `<code>` and things like `<code><span>`
+ */
+code::selection,
+code ::selection {
+    background-color: var(--color-light);
+    color: var(--color-dark);
+}
+
 samp {
     font-size: var(--font-size-smaller);
 
