@@ -63,7 +63,8 @@
     <body class="c-page">
         {% include 'banner.njk' %}
         <main class="{% if vocab %} |{% for root in vocab %} h-{{ root }}{% endfor %}{% endif %}"
-              {% if type %}data-type="{{ type }}"{% endif %}>
+              {% if type %}data-type="{{ type }}"{% endif %}
+              {% if lang %}lang={{ lang }}{% endif %}>
             {% block main %}
                 {{ layoutContent | safe }}
             {% endblock %}
