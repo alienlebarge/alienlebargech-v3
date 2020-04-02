@@ -11,6 +11,7 @@
     "watch:files": "eleventy --config=lib/eleventy.config.js --quiet --serve",
     "watch:styles": "postcss src/assets/styles/style.css -o www/assets/styles/style.css --config lib/postcss.config.js --watch",
     "watch": "npm-run-all --parallel watch:*",
+    "lint:markdown": "markdownlint src/**/*.md",
     "lint:styles": "stylelint src/**/*.css",
     "lint:scripts": "xo src/**/*.js",
     "lint": "npm-run-all lint:*",
@@ -59,6 +60,7 @@
   "devDependencies": {
     "@alienlebarge/stylelint-config": "^3.1.2",
     "lodash": "^4.17.15",
+    "markdownlint-cli": "^0.22.0",
     "node-fetch": "^2.6.0",
     "xo": "^0.27.2"
   },

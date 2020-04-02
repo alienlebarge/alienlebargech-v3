@@ -29,7 +29,7 @@ Instead of each time copy and paste my rule settings in every projects, I've cre
 
 Now, in every projects, I add this repo as a dependencie.
 
-    $ npm install @alienlebarge/stylelint-config
+    npm install @alienlebarge/stylelint-config
 
 And then I set my linting task in [Gulp](https://gulpjs.com/).
 

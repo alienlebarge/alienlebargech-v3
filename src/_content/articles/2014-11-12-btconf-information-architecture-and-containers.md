@@ -14,9 +14,9 @@ tags:
 
 The rules are:
 
-  - A container is 100% width
-  - Most important container go at top of the page the less at bottom
-  - The container are put where needed, regarding the context of the page
+- A container is 100% width
+- Most important container go at top of the page the less at bottom
+- The container are put where needed, regarding the context of the page
 
 Here's my sketchnote:
 

@@ -12,9 +12,9 @@ tags:
 
 Objects can interact with each and other via the Internet. That's what call <abbr title="Stuff That Talks To The Interwebs">STTTTTI</abbr>. [Stacey Mulcahy](https://twitter.com/bitchwhocodes) presented some (funny) projects she has done and how we can build similar things.
 
-  - Build for fun
-  - Start small, think big!
-  - Finish it
+- Build for fun
+- Start small, think big!
+- Finish it
 
 <figure>
   <img src="https://farm6.staticflickr.com/5601/15092138614_01dcc854ec_c.jpg" alt="Connected Spaces to make Connected Experiences">

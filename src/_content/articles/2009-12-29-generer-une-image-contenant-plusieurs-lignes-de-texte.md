@@ -41,29 +41,39 @@ Bien entendu pour que cela fonctionne, il faut mapper notre en-tête dans le gab
 
 Une fois que c'est fait, voici la configuration TypoScript que doit se trouver dans le gabarit du site.
 
-[code lang="cpp"]
+```shell
 #####################################################################
+
 # [Header Title Image]
+
 #
+
 # Le texte affiché correspond à  ce qui se trouve dans le champ
+
 # abstract de la page
+
 #
+
 # Les lignes sont séparées par des tubes (|)
+
 # ex : ligne1 | ligne2 | ligne3
+
 #
+
 # La troisième ligne est ajustée en-bas du GIF. La deuxième est au-dessus et
+
 # la première encore au-dessus
 
 lib.header.title = IMAGE
 lib.header.title.file = GIFBUILDER
 lib.header.title.file {
 
-#dim de l'image
+# dim de l'image
 XY = 329,150
-#couleur de fond de l'image
+# couleur de fond de l'image
 backColor = #ffffff
 
-#Première ligne
+# Première ligne
 10 = TEXT
 10 {
   #Les titres sont éditables jusqu'au niveau -10 du site
@@ -72,9 +82,13 @@ backColor = #ffffff
   text.listNum.splitChar=|
   #première partie du contenu du champ &quot;résumé&quot; (jusqu'au premier tube)
   text.listNum = 0
-  # couleur de la police
+
+# couleur de la police
+
   fontColor = #333333
-  # le texte est aligné à droite du gif
+
+# le texte est aligné à droite du gif
+
   align = right
   #espacement entre les mots
   wordSpacing = 2
@@ -88,24 +102,26 @@ backColor = #ffffff
   nicetext = 1
 }
 
-#Pour les deux ligne suivantes, on écrase que les configs qu'on veut modifier
+# Pour les deux ligne suivantes, on écrase que les configs qu'on veut modifier
 
-#Deuxième ligne
+# Deuxième ligne
 20 &gt; .10
-#deuxième partie du contenu du champ &quot;résumé&quot; (entre le premier tube et le deuxième)
+# deuxième partie du contenu du champ &quot;résumé&quot; (entre le premier tube et le deuxième)
 20.text.listNum = 1
-#positionnement
+# positionnement
 20.offset = -10,105
 
-#Troisième ligne
+# Troisième ligne
 30 &gt; .10
-#deuxième partie du contenu du champ &quot;résumé&quot; (après le deuxième tube)
+# deuxième partie du contenu du champ &quot;résumé&quot; (après le deuxième tube)
 30.text.listNum = 2
-#positionnement
+# positionnement
 30.offset = -10,135 }
 
 # Sur la homepage je veux une image par défaut
+
 # 1 est l'id de ma rootpage
+
 [treeLevel=0] &amp;&amp; [PIDinRootline = 1] lib.header.title &gt;
   lib.header.title = IMAGE
   lib.header.title {
@@ -113,6 +129,6 @@ backColor = #ffffff
     altText = Image d'en-tête du site
   }
 [GLOBAL]
-[/code]
+```
 
 Bien entendu, on peux utiliser plus de trois lignes. Il suffit d'adapter ce script.

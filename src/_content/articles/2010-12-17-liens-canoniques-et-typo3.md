@@ -40,8 +40,9 @@ Une fois realurl installé, toute la navigation doit se faire avec des URLs acce
 
 Pour palier à ce problème, voici comment créer la balise  en Typoscript :
 
-[code]
+```shell
 # Canonical Link
+
 page.headerData.50 = COA
 page.headerData.50 {
     10 = TEXT
@@ -53,6 +54,6 @@ page.headerData.50 {
         wrap = &lt;link rel=&quot;canonical&quot; href=&quot;{$lib.constants.baseUrl}|&quot; / &gt;
     }
 }
-[/code]
+```
 
 A noté que ce code doit être adapté. Il ne prend pas en compte les variables des extensions qui seraient dans l'URL.

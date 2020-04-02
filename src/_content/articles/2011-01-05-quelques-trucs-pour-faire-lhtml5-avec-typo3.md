@@ -28,14 +28,18 @@ Je mets actuellement un site sur pied. Par soucis de découverte et d'apprentiss
 	<li>Lire <a title="Page de présentation du livre" href="https://books.alistapart.com/products/html5-for-web-designers">HTML5 for Webdesigners</a></li>
 	<li>Faire un template en respectant la norme et utilisant les nouvelles balises (&lt;nav&gt;, &lt;header&gt;, etc.)</li>
 	<li>Modifier le doctype dans le setup du gabarit de base.
-[code]
+
+```shell
 config.doctype = html_5
 config.xmlprologue = none
-[/code]</li>
+```
+
+</li>
 	<li>Utiliser le JavaScript <a id="project_summary_link" href="https://code.google.com/p/html5shiv/">HTML5 IE enabling script</a> pour toutes les versions de IE inferieur à la 9 (merci IE).
 Il suffit d'ajouter le code suivant dans le setup du gabarit de base
-[code]
-#if MS Internet Explorer
+
+```html
+# if MS Internet Explorer
 [browser = msie] AND [version &lt; 9]
 page.headerData = CARRAY
     page.headerData {
@@ -47,7 +51,9 @@ page.headerData = CARRAY
         )
     }
 [end]
-[/code]</li>
+```
+
+</li>
 	<li>etc...</li>
 </ol>
 Si vous avez d'autre trucs ou configuration, n'hésitez pas à les partager ;)

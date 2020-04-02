@@ -29,8 +29,7 @@ Pour visualiser le TSconfig qui gère l'affichage du menu contextuel. Il vous su
 
 Le TSconfig par défaut, se présente comme ci-dessous :
 
-[code]
-
+```shell
 options.contextMenu.table.pages {
 	disableItems =
 	items {
@@ -174,16 +173,17 @@ options.contextMenu.table.pages {
 		}
 	}
 }
-
-[/code]
+```
 
 L'élément 900 est le sous-menu que nous voulons modifier.
 
 Il suffit donc d'ajouter ce TSconfig aux utilisateurs ou groupes d'utilisateur.
 
-[code]
-## Modif de présentation du menu contextuel.
+```shell
+## Modif de présentation du menu contextuel
+
 # Les élément se trouvant dans &quot;action sur la page&quot; sont remontés d'un niveau
+
 options.contextMenu.table.pages.items {
 
 	# del default submenu
@@ -274,15 +274,17 @@ options.contextMenu.table.pages.items {
 		spriteIcon = actions-edit-delete
 	}
 }
-[/code]
+```
 
 Dans cet exemple, j'ai vidé le SUBMENU. Puis, j'ai réécrit un par un tous les éléments du menu mais un niveau plus haut.
 
 Une solution plus courte pourait être de reprendre les configurations déjà existantes puis vider le SUBMENU. Cela donnerait quelque chose dans ce genre :
 
-[code]
-## Modif de présentation du menu contextuel.
+```shell
+## Modif de présentation du menu contextuel
+
 # Les élément se trouvant dans &quot;action sur la page&quot; sont remontés d'un niveau
+
 options.contextMenu.table.pages.items {
 
 	801 &lt; .900.100
@@ -299,7 +301,7 @@ options.contextMenu.table.pages.items {
 	# del default submenu
 	900 &gt;
 }
-[/code]
+```
 
 Cette solution nécessite beaucoup mois de code. A vous de voir laquelle vous désirez utiliser.
 Ces configurations ont été faites sur la version 4.5.3 de Typo3
