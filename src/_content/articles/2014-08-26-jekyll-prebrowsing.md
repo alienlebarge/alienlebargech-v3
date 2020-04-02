@@ -28,38 +28,46 @@ You can find them by opening the chrome inspector and looking in the *Network* t
 
 If you embed twitter posts in your article it can be useful to prefetch the following DSN.
 
-    <link rel="dns-prefetch" href="//twitter.com">
-    <link rel="dns-prefetch" href="//platform.twitter.com">
-    <link rel="dns-prefetch" href="//syndication.twitter.com">
-    <link rel="dns-prefetch" href="//pbs.twimg.com">
+```html
+<link rel="dns-prefetch" href="//twitter.com">
+<link rel="dns-prefetch" href="//platform.twitter.com">
+<link rel="dns-prefetch" href="//syndication.twitter.com">
+<link rel="dns-prefetch" href="//pbs.twimg.com">
+```
 
 ### Typekit
 
 This is for the Typekit fonts.
 
-    <link rel="dns-prefetch" href="//p.typekit.net">
-    <link rel="dns-prefetch" href="//use.typekit.net">
+```html
+<link rel="dns-prefetch" href="//p.typekit.net">
+<link rel="dns-prefetch" href="//use.typekit.net">
+```
 
 ### Google Analytics
 
 Who doesn't use Google Anylytics on his website ?
 
-    <link rel="dns-prefetch" href="//www.google-analytics.com">
-    <link rel="dns-prefetch" href="//stats.doubleclick.net">
-
+```html
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//stats.doubleclick.net">
 ```
 
 ### Iconic (hosted on my own server)
 
 Here is the iconic icon system I host on my own server.
 
-    <link rel="dns-prefetch" href="//www.alienlebarge.ch">
+```html
+<link rel="dns-prefetch" href="//www.alienlebarge.ch">
+```
 
 ### Mapbox
 
 I use Mapbox to do [some nice headers "Article about Mapbox API"](/2014/07/mapbox-map/).
 
-    <link rel="dns-prefetch" href="https://api.tiles.mapbox.com">
+```html
+<link rel="dns-prefetch" href="https://api.tiles.mapbox.com">
+```
 
 ## Resource prefetching
 
@@ -72,6 +80,7 @@ I only prerender the next and previous page if there is a pagination and the hom
 
 Here's the little Liquid code:
 
+```liquid
 {% raw %}
     {% if paginator %}
     <!-- Prerender pagination page -->
@@ -90,3 +99,4 @@ Here's the little Liquid code:
     <link rel="prerender" href="https://blog.alienlebarge.ch">
     {% endif %}
 {% endraw %}
+```

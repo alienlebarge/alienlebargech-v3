@@ -40,7 +40,7 @@ Une fois realurl installé, toute la navigation doit se faire avec des URLs acce
 
 Pour palier à ce problème, voici comment créer la balise  en Typoscript :
 
-```
+```typoscript
 # Canonical Link
 
 page.headerData.50 = COA

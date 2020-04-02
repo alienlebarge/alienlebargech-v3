@@ -30,7 +30,7 @@ Avec la fin de l'année qui approche, voici une petit exemple pour créer un ind
 
 Il faudra bien entendu mapper ce code à l'endroit où vous voulez qu'il figure sur votre page.
 
-```
+```typoscript
 #####################################################################
 
 # [summary]

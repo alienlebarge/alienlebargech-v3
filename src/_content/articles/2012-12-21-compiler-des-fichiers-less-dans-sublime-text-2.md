@@ -42,7 +42,8 @@ Pour ma part, je l'ai cloner sous <code>c:\workspace\less.js-windows</code>.</li
 A chaque fois que vous souvrez un fichier avec l'extension <code>.less</code>, celui-ci sera compilé en fichier <code>.css</code>.
 
 Cette technique est très pratique pour le dévellopement. Cependant, pour des environnements de production, je conseil de passer par des outils comme <a href="https://incident57.com/codekit/">Code Kit</a> qui lui permet de compiler les <code>.css</code> sur une seule ligne. Pour l'instant la technique ci-dessus crée des fichiers de ce type :
-```
+
+```css
 #header {
   color: red;
 }

@@ -29,15 +29,16 @@ Je mets actuellement un site sur pied. Par soucis de découverte et d'apprentiss
 	<li>Faire un template en respectant la norme et utilisant les nouvelles balises (&lt;nav&gt;, &lt;header&gt;, etc.)</li>
 	<li>Modifier le doctype dans le setup du gabarit de base.
 
-```
+```typoscript
 config.doctype = html_5
 config.xmlprologue = none
 ```
+
 </li>
 	<li>Utiliser le JavaScript <a id="project_summary_link" href="https://code.google.com/p/html5shiv/">HTML5 IE enabling script</a> pour toutes les versions de IE inferieur à la 9 (merci IE).
 Il suffit d'ajouter le code suivant dans le setup du gabarit de base
 
-```
+```html
 # if MS Internet Explorer
 [browser = msie] AND [version &lt; 9]
 page.headerData = CARRAY
@@ -51,6 +52,7 @@ page.headerData = CARRAY
     }
 [end]
 ```
+
 </li>
 	<li>etc...</li>
 </ol>

@@ -30,7 +30,7 @@ meta:
 <!--more-->
 <p>Voici un exemple comment procéder avec le JavaScript de GoogleAnalytics :</p>
 
-```
+```typoscript
 ###################### 
 
 # [Google Analytics]
