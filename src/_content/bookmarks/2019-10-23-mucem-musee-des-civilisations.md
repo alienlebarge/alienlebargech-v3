@@ -7,6 +7,7 @@ category:
 - a11y
 ---
 If you need arguments against scrolling texts, visit this website.
+
 - We have to wait to read the all the text
 - The text is repositioned at the beginning when we run the page
 - It gives you nausea

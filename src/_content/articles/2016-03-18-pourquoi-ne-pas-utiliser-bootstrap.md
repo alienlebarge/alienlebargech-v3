@@ -33,7 +33,7 @@ Ayez une attitude responsable. [Consulter un site a un coût](https://whatdoesmy
 
 De plus, moins de ressources à télécharger augmentera la vitesse d'affichage de vos pages.
 
-#### Oui, mais...
+#### Oui, mais
 
 Certains vont me dire qu’il n’est pas obligatoire d’inclure toutes les fonctionnalités. Il suffit de les supprimer de `bootstrap.less`.
 

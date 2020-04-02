@@ -46,6 +46,7 @@ Who doesn't use Google Anylytics on his website ?
 
     <link rel="dns-prefetch" href="//www.google-analytics.com">
     <link rel="dns-prefetch" href="//stats.doubleclick.net">
+
 ```
 
 ### Iconic (hosted on my own server)

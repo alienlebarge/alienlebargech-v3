@@ -25,6 +25,7 @@ They are used to live jam and improvise techno music. Sets are starts with a bla
 ## Past gigs
 
 Some of the places where I have played:
+
 - [Moritzbastei](https://www.moritzbastei.de/), Leipzig
 - [Le Zoo](https://lezoo.ch), Geneva
 - Zapoff Gallery, [Mad](https://www.mad.club), Lausanne

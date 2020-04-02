@@ -66,6 +66,7 @@ The first one was my fault. I haven't well measured the resistors and switched t
 When soldering the 10<abbr title="kilohms">K</abbr> and 100<abbr title="kilohms">K</abbr> resistors on the bottom parts, the assembly guide is not very clear which one goes where. I had to look at the [schematics](https://github.com/stziopa/kompas/tree/master/Schematics) to figure out what was the right position for the 10<abbr title="kilohms">K</abbr> and 100<abbr title="kilohms">K</abbr>.
 
 Here are the right positions:
+
 - R1: 100<abbr title="kilohms">K</abbr>
 - R4: 100<abbr title="kilohms">K</abbr>
 - R5: 100<abbr title="kilohms">K</abbr>
@@ -87,6 +88,7 @@ The Kompas doesn't generate so well crafted patterns like Grids. It's more rando
 For secondary rythmics stuff, this is exactly what I was looking for.
 
 Each channel as a different pattern generator algorithm:
+
 - Longitude: Pseudo-Euclidean probability
 - Altitude: Probability in between Longitude and Altitude
 - Latitude: All pseudo-random probability

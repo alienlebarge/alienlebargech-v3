@@ -13,6 +13,7 @@ category:
 Dear [Squid Salmple](https://busycircuits.com/alm022/) owners, I'm a happy owner of this octopus too and wonder how you trigger it .
 
 This module is a beast and I love it. I write this post to tell you how I use it and have feedback about how **you** use it.
+
 - Do you use all eight channels ? 
 - Do you have special ninja tricks ?
 
@@ -23,6 +24,7 @@ I'm mainly interested in how you trigger it but I will give you some information
 ### Type of sample per channel
 
 I tend to have a channel configuration like this:
+
 - channel 1 host a bass drum 
 - channel 2 is for snares
 - channel 3 for hats
