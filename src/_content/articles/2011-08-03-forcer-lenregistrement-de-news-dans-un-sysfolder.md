@@ -27,7 +27,7 @@ Vous ne souhaitez pas que vos contributeurs enregistre les news dans n'importe q
 
 Pour ce faire, il suffit d'ajouter ce code dans le TSconfig de vos page.
 
-```typoscript
+```shell
 
 # New tt_news records will be save in this page
 

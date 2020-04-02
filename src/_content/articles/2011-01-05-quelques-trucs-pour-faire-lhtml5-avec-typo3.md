@@ -29,7 +29,7 @@ Je mets actuellement un site sur pied. Par soucis de découverte et d'apprentiss
 	<li>Faire un template en respectant la norme et utilisant les nouvelles balises (&lt;nav&gt;, &lt;header&gt;, etc.)</li>
 	<li>Modifier le doctype dans le setup du gabarit de base.
 
-```typoscript
+```shell
 config.doctype = html_5
 config.xmlprologue = none
 ```

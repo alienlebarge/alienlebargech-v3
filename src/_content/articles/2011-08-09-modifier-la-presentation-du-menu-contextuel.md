@@ -29,7 +29,7 @@ Pour visualiser le TSconfig qui gère l'affichage du menu contextuel. Il vous su
 
 Le TSconfig par défaut, se présente comme ci-dessous :
 
-```typoscript
+```shell
 options.contextMenu.table.pages {
 	disableItems =
 	items {
@@ -179,7 +179,7 @@ L'élément 900 est le sous-menu que nous voulons modifier.
 
 Il suffit donc d'ajouter ce TSconfig aux utilisateurs ou groupes d'utilisateur.
 
-```typoscript
+```shell
 ## Modif de présentation du menu contextuel
 
 # Les élément se trouvant dans &quot;action sur la page&quot; sont remontés d'un niveau
@@ -280,7 +280,7 @@ Dans cet exemple, j'ai vidé le SUBMENU. Puis, j'ai réécrit un par un tous les
 
 Une solution plus courte pourait être de reprendre les configurations déjà existantes puis vider le SUBMENU. Cela donnerait quelque chose dans ce genre :
 
-```typoscript
+```shell
 ## Modif de présentation du menu contextuel
 
 # Les élément se trouvant dans &quot;action sur la page&quot; sont remontés d'un niveau

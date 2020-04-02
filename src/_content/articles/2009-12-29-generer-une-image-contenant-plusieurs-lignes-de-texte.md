@@ -41,7 +41,7 @@ Bien entendu pour que cela fonctionne, il faut mapper notre en-tête dans le gab
 
 Une fois que c'est fait, voici la configuration TypoScript que doit se trouver dans le gabarit du site.
 
-```typoscript
+```shell
 #####################################################################
 
 # [Header Title Image]
