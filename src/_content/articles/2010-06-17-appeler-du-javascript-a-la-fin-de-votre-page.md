@@ -30,8 +30,9 @@ meta:
 <!--more-->
 <p>Voici un exemple comment procéder avec le JavaScript de GoogleAnalytics :</p>
 
-[code]
+```
 ###################### 
+
 # [Google Analytics]
 
 lib.all.googleAnalytics = TEXT
@@ -57,11 +58,12 @@ lib.all.googleAnalytics {
 page.20 &lt; lib.all.googleAnalytics
 
 # Google Analytics n'est pas activé en valid en intégration
+
 [globalString = ENV:HTTP_HOST=valid.monsite.ch, ENV:HTTP_HOST=integration.monsite.ch]
 	lib.vd09.all.googleAnalytics &gt;
 	page.20 &gt;
 [GLOBAL]
-[/code]
+```
 
 <p>Comme vous le voyez dans les dernière ligne, je n'active pas le script dans mes environnements de validation et d'intégration</p>
 <p>A noter avec Typo3 4.3, il est possible d'utiliser la focntion suivante :</p>
