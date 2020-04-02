@@ -1,6 +1,6 @@
 ---
-title: Hi, I'm Cédric–
-summary: a swiss front end engineer based in Lausanne with a love for electronic music, mountains and playing soccer with friends.
+title: Hi, I'm Cédric
+summary: a swiss front end engineer based in Lausanne with a love for electronic music and hiking
 permalink: /index.html
 type: homepage
 ---
