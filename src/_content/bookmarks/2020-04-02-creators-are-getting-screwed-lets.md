@@ -1,7 +1,7 @@
 ---
 title: "Creators are getting screwed. Let&#39;s put #CreativityOverEverything"
 date: 2020-04-02T12:36:42.540-00:00
-bookmarkOf: https://bit.ly/39fZq91
+bookmarkOf: https://creativityovereverything.com
 category:
 - Patreon
 - Creativity
