@@ -7,3 +7,5 @@ category:
 ---
 Très inintéressante analyse de [@montjo](https://twitter.com/montjo) des mises en lumières des allocutions officielles
 > ce choix pourrait davantage s’expliquer par un souci de transparence, par la volonté presque fébrile de ne rien cacher. 
+
+Pour rappel, si vous vous habillez en vert à l'écran, il faut en assumer [les conséquences](https://twitter.com/rockpapercynic/status/1246885628702330881)
