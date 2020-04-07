@@ -136,10 +136,13 @@
  *
  * 1. On bigger screen, the bullet position is outside. Inside let you gain
  *    horizontal space on mobile
+ * 2. Ensure consistency across different pages
+ *    https://github.com/alienlebarge/alienlebargech-v3/issues/33
  */
 
 .o-prose ul:not([class]) {
     --list-display: list-item;
+    list-style: disc; /* [2] */
 }
 
 .o-prose :--list {
