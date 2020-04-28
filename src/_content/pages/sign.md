@@ -4,9 +4,9 @@ permalink: /sign/index.html
 hidden: true
 ---
 
-[[toc]]
+## Languages
 
-<div lang="fr">
+[[toc]]
 
 ## Français
 
@@ -39,9 +39,6 @@ Temps de réponse
 
 Utilisation
 : pour les demandes urgentes
-
-
-</div>
 
 ## English
 
