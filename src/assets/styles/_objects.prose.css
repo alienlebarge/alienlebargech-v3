@@ -140,9 +140,17 @@
  *    https://github.com/alienlebarge/alienlebargech-v3/issues/33
  */
 
-.o-prose ul:not([class]) {
+.o-prose ul:not([class]),
+.o-prose ol:not([class]) {
     --list-display: list-item;
-    list-style: disc; /* [2] */
+}
+
+.o-prose ul:not([class]) {
+    list-style-type: disc; /* [2] */
+}
+
+.o-prose ol:not([class]) {
+    list-style-type: decimal; /* [2] */
 }
 
 .o-prose :--list {
