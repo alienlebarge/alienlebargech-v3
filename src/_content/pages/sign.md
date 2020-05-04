@@ -4,8 +4,6 @@ permalink: /sign/index.html
 hidden: true
 ---
 
-## Languages
-
 [[toc]]
 
 ## Français
