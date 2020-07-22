@@ -7,7 +7,7 @@ pagination:
 permalink: notes/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber }}{% else %}index{% endif %}.html
 ---
 {% import 'list-items.njk' as list %}
-{{ list.listItems(pagination.items, "[ c-container c-container--big ] c-separator") }}
+{{ list.listItems(pagination.items, "[ c-container c-container--big ]") }}
 
 {% import 'pagination.njk' as transverse %}
 {{ transverse.paginate(pagination, label='Notes') }}

@@ -7,7 +7,7 @@
             <h2 class="u-overline">Webmentions</h2>
         </header>
 
-        <div class="[ o-stack o-stack--s4 ] c-separator">
+        <div class="[ o-stack o-stack--s4 ]">
         {% for webmention in mentions | reverse %}
             {% include 'item/webmention.njk' %}
         {% endfor %}
