@@ -1,5 +1,5 @@
 {% macro listItems(items, modifier) %}
-<ul class="{% if modifier %}{{ modifier }} {% endif %}o-stack o-stack--s4">
+<ul class="{% if modifier %}{{ modifier }} {% endif %}o-stack o-stack--step-4">
     {%- for item in items -%}
     <li>
         {%- include 'item/' + item.data.type + '.njk' -%}
