@@ -23,6 +23,10 @@
   ],
   "secondary": [
     {
+      "label": "Find me elsewhere",
+      "url": "elsewhere"
+    },
+    {
       "label": "Contact",
       "url": "/contact/"
     }
