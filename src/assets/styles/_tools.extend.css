@@ -87,6 +87,7 @@
     hanging-punctuation: first;
     hyphens: auto;
     word-spacing: var(--word-spacing);
+    font-variation-settings: "opsz" 14;
 }
 
 %caption {
