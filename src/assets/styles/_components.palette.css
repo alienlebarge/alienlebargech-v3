@@ -8,8 +8,8 @@
 
 .c-palette::before {
     display: block;
-    width: var(--s4);
-    height: var(--s4);
+    width: var(--step-4);
+    height: var(--step-4);
 
     background: currentcolor;
     border-radius: var(--border-radius-small);

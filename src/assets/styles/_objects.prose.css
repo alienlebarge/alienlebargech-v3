@@ -7,7 +7,7 @@
  */
 
 .o-prose {
-    --space: var(--s3);
+    --space: var(--step-3);
     --flow-inset: 1.5em;
     --anchor-decoration: underline;
     font-size: var(--font-size-body);
@@ -42,19 +42,19 @@
  */
 
 .o-prose > h2 + * {
-    --space: var(--s-1); /* [1] */
+    --space: var(--step--1); /* [1] */
 }
 
 .o-prose > h3 + * {
-    --space: var(--s-1); /* [2] */
+    --space: var(--step--1); /* [2] */
 }
 
 .o-prose :matches(h4, h5, h6) + * {
-    --space: var(--s-2); /* [3] */
+    --space: var(--step--2); /* [3] */
 }
 
 .o-prose li {
-    --space: var(--s-4); /* [4] */
+    --space: var(--step--4); /* [4] */
 }
 
 .o-prose li + li,
@@ -68,7 +68,7 @@
 }
 
 .o-prose > p + p {
-    --space: var(--s-1);
+    --space: var(--step--1);
 }
 
 
@@ -87,7 +87,7 @@
 }
 
 .o-prose > blockquote > p + p {
-    --space: var(--s-1);
+    --space: var(--step--1);
 }
 
 

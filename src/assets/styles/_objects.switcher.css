@@ -3,23 +3,23 @@
    ========================================================================== */
 
 .o-switcher {
-    --s1: var(--s-2);
+    --step-1: var(--step--2);
     --measure: var(--line-measure);
 }
 
 .o-switcher__container {
     display: flex;
 
-    margin: calc((var(--s1) / 2) * -1);
+    margin: calc((var(--step-1) / 2) * -1);
     align-items: baseline;
     flex-wrap: wrap;
 }
 
 .o-switcher__item {
     flex-grow: 1;
-    flex-basis: calc((var(--measure) - (100% - var(--s1))) * 999);
+    flex-basis: calc((var(--measure) - (100% - var(--step-1))) * 999);
 
-    margin: calc(var(--s1) / 2);
+    margin: calc(var(--step-1) / 2);
 }
 
 .o-switcher__item--big {

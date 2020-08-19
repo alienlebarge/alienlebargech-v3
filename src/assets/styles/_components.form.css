@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .c-form {
-    --form-input-padding: var(--s-2);
+    --form-input-padding: var(--step--2);
 }
 
 .c-form > *,
@@ -13,11 +13,11 @@
 }
 
 .c-form > * + * {
-    margin-top: var(--s2);
+    margin-top: var(--step-2);
 }
 
 .c-form__field > * + * {
-    margin-top: var(--s-4);
+    margin-top: var(--step--4);
 }
 
 .c-form__label {

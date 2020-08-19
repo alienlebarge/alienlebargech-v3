@@ -4,10 +4,10 @@
 
 .c-container {
     display: block;
-    padding-block: var(--s1);
+    padding-block: var(--step-1);
     padding-inline: 10vw;
 }
 
 .c-container--big {
-    padding-block: var(--s4);
+    padding-block: var(--step-4);
 }

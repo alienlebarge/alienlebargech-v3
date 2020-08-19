@@ -22,7 +22,7 @@ td,
 th {
     text-align: start;
 
-    padding: var(--s-4);
+    padding: var(--step--4);
     vertical-align: top;
 }
 

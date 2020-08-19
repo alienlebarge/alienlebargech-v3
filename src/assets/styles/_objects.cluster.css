@@ -8,11 +8,11 @@
 }
 
 .o-cluster--medium {
-    --cluster__space: var(--s0);
+    --cluster__space: var(--step-0);
 }
 
 .o-cluster--small {
-    --cluster__space: var(--s-2);
+    --cluster__space: var(--step--2);
 }
 
 .o-cluster__container {

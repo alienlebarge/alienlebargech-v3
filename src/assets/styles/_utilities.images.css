@@ -3,8 +3,8 @@
    ========================================================================== */
 
 .u-avatar {
-    max-width: var(--s4);
-    max-height: var(--s4);
+    max-width: var(--step-4);
+    max-height: var(--step-4);
     border-radius: var(--border-radius-small);
 }
 

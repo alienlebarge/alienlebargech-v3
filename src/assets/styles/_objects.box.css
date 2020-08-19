@@ -6,11 +6,11 @@
     display: block;
 }
 
-.o-box--s0 {
-    padding: var(--s0);
+.o-box--step-0 {
+    padding: var(--step-0);
 }
 
-.o-box--s1 {
-    padding: var(--s1);
+.o-box--step-1 {
+    padding: var(--step-1);
 }
 
