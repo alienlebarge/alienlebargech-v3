@@ -42,11 +42,11 @@
  */
 
 .o-prose > h2 + * {
-    --space: var(--step--1); /* [1] */
+    --space: var(--step-0); /* [1] */
 }
 
 .o-prose > h3 + * {
-    --space: var(--step--1); /* [2] */
+    --space: var(--step-0); /* [2] */
 }
 
 .o-prose :matches(h4, h5, h6) + * {
@@ -54,7 +54,7 @@
 }
 
 .o-prose li {
-    --space: var(--step--4); /* [4] */
+    --space: var(--step--5); /* [4] */
 }
 
 .o-prose li + li,
@@ -68,7 +68,7 @@
 }
 
 .o-prose > p + p {
-    --space: var(--step--1);
+    --space: var(--step-0);
 }
 
 
