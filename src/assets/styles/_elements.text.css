@@ -105,8 +105,9 @@ code {
  */
 code::selection,
 code ::selection {
-    background-color: var(--color-light);
     color: var(--color-dark);
+
+    background-color: var(--color-light);
 }
 
 samp {

@@ -84,10 +84,10 @@
     font-variant: oldstyle-nums;
     line-height: var(--line-height-reference);
     letter-spacing: var(--letter-spacing-body);
+    font-variation-settings: "opsz" 14;
     hanging-punctuation: first;
     hyphens: auto;
     word-spacing: var(--word-spacing);
-    font-variation-settings: "opsz" 14;
 }
 
 %caption {

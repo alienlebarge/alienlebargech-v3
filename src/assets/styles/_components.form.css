@@ -2,10 +2,6 @@
    #FORMS
    ========================================================================== */
 
-.c-form {
-    --form-input-padding: var(--step--2);
-}
-
 .c-form > *,
 .c-form__field > * {
     margin-top: 0;
@@ -33,7 +29,7 @@
 
     background-color: var(--color-light);
     border: var(--border-width-thick) solid var(--color-dark);
-    padding: var(--form-input-padding);
+    padding: var(--inset);
 }
 
 textarea.c-form__input {
@@ -46,11 +42,12 @@ textarea.c-form__input {
  * 1. When button is clicked, the border of it is always visible
  */
 .c-form__button {
+    font-weight: 600;
     color: var(--color-light);
 
     background: var(--color-dark);
     border: var(--border-width-thick) solid var(--color-dark); /* [1] */
-    padding: var(--form-input-padding);
+    padding: var(--inset-squished);
     cursor: pointer;
 }
 
