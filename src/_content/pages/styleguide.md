@@ -350,6 +350,12 @@ The `details` element creates a disclosure widget in which information is visibl
   <button class="c-form__button" type="submit">Send</button>
 </form>
 
+### Embed
+
+https://vimeo.com/454091293/b45b02e2a5
+
+[eleventy-plugin-vimeo-embed](https://www.npmjs.com/package/eleventy-plugin-vimeo-embed) is used to embed Vimeo media.
+
 
 *[ASCII]: American Standard Code for Information Interchange
 *[HTML]: HyperText Markup Language
