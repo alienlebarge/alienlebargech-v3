@@ -22,9 +22,18 @@
 }
 
 .o-frame > img,
-.o-frame > video,
-.o-frame > iframe {
+.o-frame > video {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+/**
+ * Fix vimeo embed on iOS
+ * https://github.com/alienlebarge/alienlebargech-v3/pull/35
+ */
+.o-frame > iframe {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
 }
