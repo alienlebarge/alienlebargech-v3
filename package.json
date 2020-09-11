@@ -62,7 +62,7 @@
     "@alienlebarge/stylelint-config": "^3.1.2",
     "lodash": "^4.17.19",
     "markdownlint-cli": "^0.23.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "xo": "^0.32.1"
   },
   "xo": {
