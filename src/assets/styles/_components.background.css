@@ -10,7 +10,6 @@
 }
 
 .c-background__text {
-
     line-height: var(--line-height-loose);
 
     background-color: var(--color-light);
