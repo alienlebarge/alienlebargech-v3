@@ -24,7 +24,7 @@
   "secondary": [
     {
       "label": "Find me elsewhere",
-      "url": "elsewhere"
+      "url": "/elsewhere/"
     },
     {
       "label": "Contact",
