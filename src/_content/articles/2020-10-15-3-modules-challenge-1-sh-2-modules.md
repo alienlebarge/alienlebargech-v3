@@ -1,5 +1,5 @@
 ---
-title: "Make Mimeophone bleeping and blooping"
+title: "Make Mimeophon bleeping and blooping"
 summary: "A 3 module challenge with one sample & hold module and two of your choice"
 date: 2020-10-14 21:00:00
 category:
