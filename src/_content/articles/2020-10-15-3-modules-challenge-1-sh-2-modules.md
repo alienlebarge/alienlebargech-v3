@@ -10,7 +10,7 @@ category:
 - 3modulechallenge
 ---
 
-https://vimeo.com/468277512/e6dd5ebd57
+https://vimeo.com/468277512
 
 Here's a new 3 module challenge from [@DivKid](https://www.twitter.com/DivKid)'s Patreon community.
 
