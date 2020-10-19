@@ -22,8 +22,7 @@ permalink: feed.xml
     {%- if loop.length - loop.revindex < app.feed_limit -%}
         <entry>
             <id>{{ app.url }}{{ item.url }}</id>
-            {% if item.data.title %}<title>{{ item.data.title | safe }}</title>
-            {%- elif 'photo' in item.data.tags %}<title>Photo: {{ date | date(dates.datetime_full) }}</title>{% endif %}
+            {% if item.data.title %}<title>{{ item.data.title | safe }}</title>{% endif %}
             <updated>{{ item.date | date(dates.iso) }}</updated>
             <link href="{{ app.url }}{{ item.url }}" rel="alternate" type="text/html"/>
             <content type="html"><![CDATA[
