@@ -1,3 +1,4 @@
+{# Photos have no title. Let's generate one #}
 {% set title %}Photo: {{ date | date(dates.datetime_full) }}{% endset %}
 
 {%- set webmentionUrl -%}{{ app.url }}{{ page.url | url }}{%- endset -%}

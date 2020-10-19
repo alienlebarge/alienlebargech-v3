@@ -23,6 +23,9 @@ permalink: /feed.json
             "url": "{{ app.url }}{{ item.url }}",
             {% if item.data.title -%}
                 "title": "{{ item.data.title | safe }}",
+            {%- elif 'photo' in item.data.tags %}
+                {# Photos have no title. Let's generate one #}
+                "title": "Photo: {{ date | date(dates.datetime_full) }}",
             {%- endif %}
             {% if item.data.tags -%}
                 "tags": [
