@@ -6,11 +6,12 @@ hidden: true
 
 [[toc]]
 
+<div lang="fr">
 ## Français
 
 Voici comment je communique et quand est-ce que vous pouvez attendre une réponse de ma part. {.u-lede}
 
-### Style {.u-visually-hidden}
+### Type de language {.u-visually-hidden}
 
 Répondre aux messages prend beaucoup de temps, cela peut devenir problématique pour les personnes qui en reçoivent beaucoup.
 Mes messages sont traités comme des messages text SMS. Ils sont courts et directs. Ils sont composés d'un nombre très restreint de phrases.
@@ -37,7 +38,9 @@ Temps de réponse
 
 Utilisation
 : pour les demandes urgentes
+</div>
 
+<div lang="en">
 ## English
 
 Here is how I communicate and when can you expect an answer from me. {.u-lede}
@@ -69,4 +72,4 @@ Response time
 
 When to use
 : for urgent need
-
+</div>

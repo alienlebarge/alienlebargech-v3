@@ -21,9 +21,9 @@ So here are my notes about her interesting talk.
 
 ## Sketchnotes
 
-![](https://farm1.staticflickr.com/661/22913180842_ca142dfc46_b.jpg)
+![My sketchnotes](https://farm1.staticflickr.com/661/22913180842_ca142dfc46_b.jpg)
 
-![](https://farm1.staticflickr.com/770/22508305998_522a115bb3_b.jpg)
+![My sketchnotes](https://farm1.staticflickr.com/770/22508305998_522a115bb3_b.jpg)
 
 ## Video
 
