@@ -43,13 +43,13 @@ textarea.c-form__input {
  */
 .c-form__button {
     font-weight: 600;
-    font-variation-settings: "wght" 600;
     color: var(--color-light);
 
     background: var(--color-dark);
     border: var(--border-width-thick) solid var(--color-dark); /* [1] */
     padding: var(--inset-squished);
     cursor: pointer;
+    font-variation-settings: "wght" 600;
 }
 
 .c-form__button:active {
