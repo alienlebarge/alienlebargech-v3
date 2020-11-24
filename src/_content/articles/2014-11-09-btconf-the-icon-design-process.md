@@ -26,11 +26,11 @@ You can grab the slides [on Jon Hicks's website](https://hicksdesign.co.uk/journ
 
 And some pictures of the talk:
 
-![](https://farm8.staticflickr.com/7574/15734017342_573cfceef1_c.jpg)
+![Jon Hicks presenting](https://farm8.staticflickr.com/7574/15734017342_573cfceef1_c.jpg)
 
-![](https://farm4.staticflickr.com/3949/15549631727_80fc4c3ca4_c.jpg)
+![Jon Hicks presenting](https://farm4.staticflickr.com/3949/15549631727_80fc4c3ca4_c.jpg)
 
-![](https://farm8.staticflickr.com/7556/15547020268_4499fe94b7_c.jpg)
+![Jon Hicks presenting](https://farm8.staticflickr.com/7556/15547020268_4499fe94b7_c.jpg)
 
 <figure>
   <img src="https://farm4.staticflickr.com/3953/15547623990_903e62b70d_c.jpg">

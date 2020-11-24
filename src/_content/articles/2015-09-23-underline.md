@@ -230,7 +230,7 @@ And yeah, the result is pretty decent.
 
 Something to be careful with are lowercase number. The underline  of the number 3 can be invisible. There is no miracle. You have to be picky with that !
 
-![](https://dlgjp9x71cipk.cloudfront.net/2015/09/underline/text-shadow-underline-cut.png)
+![Showing the lowercase numbers hovering the underline](https://dlgjp9x71cipk.cloudfront.net/2015/09/underline/text-shadow-underline-cut.png)
 
 ### Awkward background color when selected
 
@@ -265,7 +265,7 @@ On text selection, you can have some background exceedance.
 
 #### When selected, the underline is not the same color as the text
 
-![](https://dlgjp9x71cipk.cloudfront.net/2015/09/underline/underline-color.png)
+![When text is selected, the underline is another color](https://dlgjp9x71cipk.cloudfront.net/2015/09/underline/underline-color.png)
 
 The reason, is simple. The underline (made of `background-color`) is behind the selection layer.
 
