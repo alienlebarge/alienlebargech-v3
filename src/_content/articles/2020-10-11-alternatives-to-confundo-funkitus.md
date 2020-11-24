@@ -10,6 +10,7 @@ category:
 ---
 
 When playing live on my modular synth, my drums (specially the snare and hats) are sequenced by two modules: 
+
 - [Mutable Instruments Grids](https://mutable-instruments.net/modules/grids/) and 
 - [VPME Euclidean Circles v2](http://vpme.de/euclidean-circles/). 
 
@@ -18,6 +19,7 @@ I’m looking for a kind of switch or technique to crossfade from a sequencer to
 Do you have an idea to achieve that ?
 
 For the time being my options are:
+
 - [Doepfer A-182-2 Quad Switches](http://www.doepfer.de/a1822.htm)
 - [Instruo tàin](https://www.instruomodular.com/product/tain/)
 - [Acid Rain Technology Switchblade](https://acidraintechnology.com/products/switchblade)

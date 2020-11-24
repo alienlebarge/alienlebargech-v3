@@ -11,7 +11,6 @@ category:
 - 3modulechallenge
 - patreon
 ---
-
 https://vimeo.com/455913876
 
 A #3modulechallenge where the goal is to make (some kind of) techno. Modules in charge of the noise are [@intellijel](https://twitter.com/intellijel) [Quadrax](https://intellijel.com/shop/eurorack/quadrax/) with the [Qx](https://intellijel.com/shop/eurorack/qx/) expander and the [@ noiseeng](https://twitter.com/noiseeng) [Basimilus Iteritas Alter](https://www.noiseengineering.us/shop/basimilus-iteritas-alter).
