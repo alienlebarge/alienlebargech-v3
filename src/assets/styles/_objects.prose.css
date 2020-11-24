@@ -12,6 +12,7 @@
     --anchor-decoration: underline;
     font-size: var(--font-size-body);
     font-weight: var(--font-weight-body, inherit);
+    font-variation-settings: "wght" var(--font-weight-body, inherit);
 }
 
 /* -------------------------------------

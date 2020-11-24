@@ -31,6 +31,7 @@ a:hover {
 
 a[aria-current] {
     font-weight: 800;
+    font-variation-settings: "wght" 800;
 }
 
 

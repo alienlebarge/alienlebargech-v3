@@ -43,6 +43,7 @@ textarea.c-form__input {
  */
 .c-form__button {
     font-weight: 600;
+    font-variation-settings: "wght" 600;
     color: var(--color-light);
 
     background: var(--color-dark);
