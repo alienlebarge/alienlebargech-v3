@@ -58,7 +58,7 @@
     --space: var(--step--5); /* [4] */
 }
 
-.o-prose li + li,
+.o-prose > ul:not([class]) > li + li,
 .o-prose :--list > li:first-child {
     margin-block-start: var(--space); /* [4] */
 }
