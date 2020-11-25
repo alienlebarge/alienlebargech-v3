@@ -21,11 +21,11 @@
 
 %lede {
     font-size: var(--font-size-lede);
-    font-weight: var(--font-weight-lede, 250);
+    font-weight: var(--font-weight-lede, 200);
     font-family: var(--font-family-lede, var(--font-family-sans));
     line-height: var(--line-height-lede, var(--line-height-tight));
     letter-spacing: .02em;
-    font-variation-settings: "wght" var(--font-weight-lede, 250);
+    font-variation-settings: "wght" var(--font-weight-lede, 200);
     hanging-punctuation: first;
 }
 
@@ -68,6 +68,7 @@
     --flow-space: var(--line-height-body);
     --line-height-body: var(--line-height-loose);
     font-size: var(--font-size-body);
+    font-weight: var(--font-weight-body, 400);
     font-family: var(--font-family-sans);
     font-variant: oldstyle-nums;
     line-height: var(--line-height-body);
@@ -75,6 +76,7 @@
     hanging-punctuation: first;
     hyphens: auto;
     word-spacing: var(--word-spacing);
+    font-variation-settings: "wght" var(--font-weight-body, 400);
 }
 
 %reference {
