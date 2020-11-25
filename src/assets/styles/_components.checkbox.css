@@ -13,7 +13,7 @@
  * Hide default checkbox
  */
 .c-checkbox__input {
-    width: var(--line-height-tight);
+    width: 1em;
     height: var(--line-height-tight);
     opacity: 0;
 }
@@ -23,11 +23,11 @@
  */
 .c-checkbox__input + .c-checkbox__label::before {
     position: absolute;
-    top: 0;
+    top: .15em;
     left: 0;
 
-    width: 1em;
-    height: 1em;
+    width: calc(1em * var(--line-height-tight));
+    height: calc(1em * var(--line-height-tight));
 
     border: var(--border-width-thick) solid currentColor;
     content: "";
@@ -38,11 +38,11 @@
  */
 .c-checkbox__input:checked + .c-checkbox__label::after {
     position: absolute;
-    top: .4em;
+    top: .55em;
     left: .22em;
 
-    width: .7em;
-    height: .2em;
+    width: .8em;
+    height: .3em;
 
     border: solid;
     border-width: 0 0 var(--border-width-thick) var(--border-width-thick);
