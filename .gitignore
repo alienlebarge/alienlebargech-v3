@@ -1,4 +1,4 @@
-# Yep, I'ma amac
+# Yep, I'm a mac
 .DS_Store
 
 # Ignore node modules
@@ -9,3 +9,6 @@ www
 
 # Cache folder
 _cache
+
+# IDE
+.nova
