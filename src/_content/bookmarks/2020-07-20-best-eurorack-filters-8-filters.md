@@ -1,7 +1,7 @@
 ---
 title: "Best Eurorack filters: 8 filters you should have in your rack"
 date: 2020-07-20T14:19:26.646-00:00
-bookmarkOf: https://www.gearnews.com/best-eurorack-filters-8-filters-you-should-have-in-your-rack/
+bookmark-of: https://www.gearnews.com/best-eurorack-filters-8-filters-you-should-have-in-your-rack/
 category:
 - Eurorack
 - modular

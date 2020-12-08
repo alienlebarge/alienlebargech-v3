@@ -1,7 +1,7 @@
 ---
 title: "Ma très “chère” Suisse, – Les pieds sur Terre"
 date: 2020-07-13T13:48:56.014-00:00
-bookmarkOf: https://blogs.letemps.ch/veronique-dreyfuss-pagano/2020/07/11/ma-tres-chere-suisse/
+bookmark-of: https://blogs.letemps.ch/veronique-dreyfuss-pagano/2020/07/11/ma-tres-chere-suisse/
 category:
 - Tourisme
 - Switzerland

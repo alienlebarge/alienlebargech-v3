@@ -1,7 +1,7 @@
 ---
 title: "MonoLisa, a font family designed for software developers"
 date: 2020-04-16T04:15:14.640-00:00
-bookmarkOf: https://monolisa.dev/
+bookmark-of: https://monolisa.dev/
 category:
 - Typography
 - font

@@ -1,7 +1,7 @@
 ---
 title: "Form best practice"
 date: 2020-08-11T18:42:07.492-00:00
-bookmarkOf: https://gerireid.com/forms.html
+bookmark-of: https://gerireid.com/forms.html
 category:
 - form
 - accessibility

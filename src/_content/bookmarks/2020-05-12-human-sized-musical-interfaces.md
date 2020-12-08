@@ -1,7 +1,7 @@
 ---
 title: "Human-sized musical interfaces"
 date: 2020-05-12T11:58:48.923-00:00
-bookmarkOf: https://medium.com/music-thing-modular-notes/make-knob-twiddling-great-again-47065a346c2
+bookmark-of: https://medium.com/music-thing-modular-notes/make-knob-twiddling-great-again-47065a346c2
 category:
 - modular
 - music

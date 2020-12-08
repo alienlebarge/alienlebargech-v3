@@ -1,7 +1,7 @@
 ---
 title: Obviously font
 date: 2018-12-25
-bookmarkOf: https://www.futurefonts.xyz/ohno/obviously
+bookmark-of: https://www.futurefonts.xyz/ohno/obviously
 category:
 - typography
 - variable_font

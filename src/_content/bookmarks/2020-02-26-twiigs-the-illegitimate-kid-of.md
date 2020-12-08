@@ -1,7 +1,7 @@
 ---
 title: "Twiigs, the illegitimate kid of a Branches and a Quad Switches"
 date: 2020-02-26T06:09:32.503-00:00
-bookmarkOf: https://michigansynthworks.com/collections/euromodules-test/products/twiigs-quad-bernoulli-gate
+bookmark-of: https://michigansynthworks.com/collections/euromodules-test/products/twiigs-quad-bernoulli-gate
 category:
 - eurorack
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Good services"
 date: 2020-01-06T09:12:57.986-00:00
-bookmarkOf: https://www.bispublishers.com/good-services.html
+bookmark-of: https://www.bispublishers.com/good-services.html
 category:
 - Book
 ---

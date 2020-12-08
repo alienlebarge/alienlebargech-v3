@@ -1,7 +1,7 @@
 ---
 title: "Inclusive Design Principles"
 date: 2020-08-11T18:43:36.126-00:00
-bookmarkOf: https://inclusivedesignprinciples.org/
+bookmark-of: https://inclusivedesignprinciples.org/
 category:
 - accessibility
 - inclusivity

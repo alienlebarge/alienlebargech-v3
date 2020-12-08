@@ -1,7 +1,7 @@
 ---
 title: "Why the GOV.UK Design System team changed the input type for numbers"
 date: 2020-03-05T11:32:09.897-00:00
-bookmarkOf: https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/
+bookmark-of: https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/
 category:
 - Accessibility
 - User Experience

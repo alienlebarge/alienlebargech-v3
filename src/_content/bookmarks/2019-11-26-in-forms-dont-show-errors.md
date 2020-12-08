@@ -1,7 +1,7 @@
 ---
 title: "In forms, don&#39;t show errors right away"
 date: 2019-11-26T12:47:07.829-00:00
-bookmarkOf: https://github.com/alphagov/govuk-design-system-backlog/issues/47#issuecomment-454958773
+bookmark-of: https://github.com/alphagov/govuk-design-system-backlog/issues/47#issuecomment-454958773
 category:
 - a11y
 ---

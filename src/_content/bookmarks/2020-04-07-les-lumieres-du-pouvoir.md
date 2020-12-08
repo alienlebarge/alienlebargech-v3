@@ -1,7 +1,7 @@
 ---
 title: "Les lumières du Pouvoir"
 date: 2020-04-07T04:54:10.521-00:00
-bookmarkOf: http://blog.montjovent.com/2020/04/les-lumieres-du-pouvoir.html
+bookmark-of: http://blog.montjovent.com/2020/04/les-lumieres-du-pouvoir.html
 category:
 - Communication
 ---

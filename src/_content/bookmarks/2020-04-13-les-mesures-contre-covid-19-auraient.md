@@ -1,7 +1,7 @@
 ---
 title: "Les mesures contre Covid-19 auraient réduit la transmission de 3/4 en Suisse"
 date: 2020-04-13T05:55:41.718-00:00
-bookmarkOf: https://www.heidi.news/sante/les-mesures-contre-covid-19-auraient-reduit-la-transmission-de-3-4-en-suisse
+bookmark-of: https://www.heidi.news/sante/les-mesures-contre-covid-19-auraient-reduit-la-transmission-de-3-4-en-suisse
 category:
 - Coronavirus
 ---

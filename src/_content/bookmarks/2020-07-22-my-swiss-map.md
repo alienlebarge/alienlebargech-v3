@@ -1,7 +1,7 @@
 ---
 title: "My Swiss map"
 date: 2020-07-22T11:39:50.751-00:00
-bookmarkOf: https://www.swisstopo.ch/myswissmap
+bookmark-of: https://www.swisstopo.ch/myswissmap
 category:
 - map
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Panic Nova"
 date: 2020-09-23T04:43:55.697-00:00
-bookmarkOf: https://nova.app/
+bookmark-of: https://nova.app/
 category:
 - code
 - app

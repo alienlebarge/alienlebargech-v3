@@ -1,7 +1,7 @@
 ---
 title: "ALM System Coupe"
 date: 2020-04-23T12:10:32.925-00:00
-bookmarkOf: https://busycircuits.com/coupe/
+bookmark-of: https://busycircuits.com/coupe/
 category:
 - modular
 - gear
