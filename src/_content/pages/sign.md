@@ -6,7 +6,7 @@ hidden: true
 
 [[toc]]
 
-<div lang="fr">
+<div lang="fr" class="o-prose">
 
 ## Français
 
@@ -39,10 +39,11 @@ Temps de réponse
 
 Utilisation
 : pour les demandes urgentes
+
 </div>
 
-<div lang="en">
-    
+<div lang="en" class="o-prose">
+
 ## English
 
 Here is how I communicate and when can you expect an answer from me. {.u-lede}
@@ -74,4 +75,5 @@ Response time
 
 When to use
 : for urgent need
+
 </div>
