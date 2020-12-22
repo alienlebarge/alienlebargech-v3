@@ -7,6 +7,7 @@ hidden: true
 [[toc]]
 
 <div lang="fr">
+
 ## Français
 
 Voici comment je communique et quand est-ce que vous pouvez attendre une réponse de ma part. {.u-lede}
@@ -41,6 +42,7 @@ Utilisation
 </div>
 
 <div lang="en">
+    
 ## English
 
 Here is how I communicate and when can you expect an answer from me. {.u-lede}
