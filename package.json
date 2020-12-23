@@ -34,7 +34,7 @@
     "@11ty/eleventy": "^0.11.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.4",
     "@remy/webmention": "^1.4.5",
-    "autoprefixer": "^9.8.6",
+    "autoprefixer": "^10.1.0",
     "cssnano": "^4.1.10",
     "eleventy-plugin-vimeo-embed": "^1.3.0",
     "https-proxy-agent": "^5.0.0",
