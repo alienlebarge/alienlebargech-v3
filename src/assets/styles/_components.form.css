@@ -57,5 +57,5 @@ textarea.c-form__input {
 
     background: var(--color-light);
 
-    transform: scale(0.95);
+    transform: scale(.95);
 }

@@ -73,10 +73,10 @@
     font-variant: oldstyle-nums;
     line-height: var(--line-height-body);
     letter-spacing: var(--letter-spacing-body);
+    font-variation-settings: "wght" var(--font-weight-body, 400);
     hanging-punctuation: first;
     hyphens: auto;
     word-spacing: var(--word-spacing);
-    font-variation-settings: "wght" var(--font-weight-body, 400);
 }
 
 %reference {
