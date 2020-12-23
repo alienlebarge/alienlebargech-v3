@@ -63,7 +63,7 @@
     "markdownlint-cli": "^0.25.0",
     "node-fetch": "^2.6.1",
     "stylelint": "^13.8.0",
-    "xo": "^0.35.0"
+    "xo": "^0.36.1"
   },
   "xo": {
     "space": true,
