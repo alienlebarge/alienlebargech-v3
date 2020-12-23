@@ -1,0 +1,24 @@
+<article class="o-switcher c-item | h-entry" data-type="like">
+    <div class="o-switcher__container o-stack o-stack--step--2">
+        <div class="o-switcher__item o-switcher__item--big o-stack o-prose | e-content p-name">
+            <a href="{{ item.data.bookmarkOf | safe }}">
+                {{ item.data.bookmarkOf | safe }}
+            </a>
+        </div>
+        <footer class="o-switcher__item c-item__footer o-stack o-stack--step--2">
+            <dl>
+                <dt class="u-visually-hidden">Published on</dt>
+                <dd>
+                <a class="o-cluster o-cluster--small u-url" rel="bookmark" href="{{ item.url | url }}">
+                    {# TODO: use src/_data/dates.json to format the date. #}
+                    <time class="o-cluster__container | dt-published"
+                          datetime="{{ item.date | date }}">
+                        <span class="o-cluster__item">{{ item.date | date("D MMM YYYY") }}</span>
+                        <span class="o-cluster__item">{{ item.date | date("HH:mm") }}</span>
+                    </time>
+                </a>
+                </dd>
+            </dl>
+        </footer>
+    </div>
+</article>
