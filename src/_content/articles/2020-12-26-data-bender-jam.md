@@ -6,5 +6,6 @@ category:
   - jam
   - modular
 ---
-<p>A little jam with the [Qu-Bit Data Bender](https://www.qubitelectronix.com/shop/data-bender). It’s used as a pre-fader FX.</p>
-<p>https://vimeo.com/494841836</p>
+A little jam with the [Qu-Bit Data Bender](https://www.qubitelectronix.com/shop/data-bender). It’s used as a pre-fader FX.
+
+https://vimeo.com/494841836
