@@ -1,7 +1,7 @@
 {
   "title": "",
   "layout": "note.njk",
-  "permalink": "notes/{{ page.fileSlug }}/index.html",
+  "permalink": "notes/{{ page.fileSlug }}/",
   "tags": ["post", "note"],
   "type": "note",
   "vocab": ["entry"]
