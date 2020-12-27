@@ -1,6 +1,6 @@
 {
   "layout": "article.njk",
-  "permalink": "{{ page.date | date: 'YYYY/MM' }}/{{ page.fileSlug }}.html",
+  "permalink": "{{ page.date | date: 'YYYY/MM' }}/{{ page.fileSlug }}/",
   "tags": ["post", "article"],
   "type": "article"
 }

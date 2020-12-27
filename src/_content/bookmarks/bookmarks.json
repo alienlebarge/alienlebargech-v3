@@ -1,6 +1,6 @@
 {
   "layout": "bookmark.njk",
-  "permalink": "bookmarks/{{ page.date | date: 'YYYY/MM' }}/{{ page.fileSlug }}/index.html",
+  "permalink": "bookmarks/{{ page.date | date: 'YYYY/MM' }}/{{ page.fileSlug }}/",
   "type": "bookmark",
   "tags": ["post", "bookmark"],
   "vocab": ["entry"]
