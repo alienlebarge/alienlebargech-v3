@@ -30,5 +30,11 @@
       "label": "Contact",
       "url": "/contact/"
     }
+  ],
+  "tertiary": [
+    {
+      "label": "Likes",
+      "url": "/likes/"
+    }
   ]
 }
