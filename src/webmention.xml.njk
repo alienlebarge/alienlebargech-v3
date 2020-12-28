@@ -1,0 +1,47 @@
+---
+permalink: webmention.xml
+---
+{%- import 'image.njk' as image -%}
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>{{ app.url }}{{ page.url }}</id>
+    <title>{{ app.title }}</title>
+    <subtitle>{{ app.description }}</subtitle>
+    <updated>{{ date | date(dates.iso) }}</updated>
+    <author>
+        <name>{{ app.author.name }}</name>
+        <email>{{ app.author.email }}</email>
+        <uri>{{ app.author.url }}</uri>
+    </author>
+    <link rel="self" href="{{ app.url }}{{ page.url }}" type="application/atom+xml"/>
+    <link rel="alternate" href="{{ app.url }}" type="text/html"/>
+    <link rel="hub" href="http://pubsubhubbub.superfeedr.com/"/>
+    <icon>{{ app.url }}{{ app.icon }}</icon>
+    <rights>&#169; {{ date | date("YYYY") }} {{ app.author.name }}. Content Creative Commons licensed unless otherwise stated.</rights>
+    {% for item in collections.post | reverse -%}
+    {%- if loop.length - loop.revindex < app.feed_limit -%}
+        <entry>
+            <id>{{ app.url }}{{ item.url }}</id>
+            {% if item.data.title %}<title>{{ item.data.title | safe }}</title>{% endif %}
+            <updated>{{ item.date | date(dates.iso) }}</updated>
+            <link href="{{ app.url }}{{ item.url }}" rel="alternate" type="text/html"/>
+            <content type="html"><![CDATA[
+                {% if item.data.type == "like" %}
+                    <p>likes <a href="{{ item.data.bookmarkOf }}"
+                                class="u-like-of">{{ item.data.bookmarkOf }}</a></p>
+                    {% else %}
+            {%- set content_html -%}
+                {{- item.templateContent | strip_mentions | safe -}}
+                {%- if item.data.photo -%}
+                    {%- for item in item.data.photo -%}
+                        {{- image.image(item.url, item.alt, settings=srcsets.default) -}}
+                    {%- endfor -%}
+                {%- endif -%}
+            {%- endset -%}
+            {{- content_html | safe -}}
+            {%- endif -%}
+            ]]></content>
+        </entry>
+    {% endif %}
+    {%- endfor %}
+</feed>
