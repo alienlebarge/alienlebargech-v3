@@ -29,6 +29,10 @@
     {
       "label": "Contact",
       "url": "/contact/"
+    },
+    {
+      "label": "Likes",
+      "url": "/likes/"
     }
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "title": "",
+  "layout": "like.njk",
+  "permalink": "likes/{{ page.fileSlug }}/",
+  "tags": ["post", "like"],
+  "type": "like",
+  "vocab": ["entry"]
+}

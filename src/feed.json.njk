@@ -39,6 +39,9 @@ permalink: /feed.json
             {%- endif %}
             "content_html":
             {%- set content_html -%}
+            {%- if item.data.type == "like" -%}
+                <p>like <a href="{{ item.data.bookmarkOf }}" class="u-like-of">{{ item.data.bookmarkOf }}</a></p>
+            {%- else -%}
                 {#- Default content -#}
                 {{- item.templateContent | strip_mentions | safe -}}
                 {#- Photo defined in the front matter -#}
@@ -47,6 +50,7 @@ permalink: /feed.json
                         {{ image.image(item.url, item.alt, settings=srcsets.default) }}
                     {%- endfor -%}
                 {%- endif -%}
+            {%- endif -%}
             {%- endset -%}
             {{ content_html | dump | safe }},
             {% if item.data.url -%}

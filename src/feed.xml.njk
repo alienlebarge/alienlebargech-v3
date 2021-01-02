@@ -26,12 +26,17 @@ permalink: feed.xml
             <updated>{{ item.date | date(dates.iso) }}</updated>
             <link href="{{ app.url }}{{ item.url }}" rel="alternate" type="text/html"/>
             <content type="html"><![CDATA[
-            {%- set content_html -%}
-                {{- item.templateContent | strip_mentions | safe -}}
-                {%- if item.data.photo -%}
-                    {%- for item in item.data.photo -%}
-                        {{- image.image(item.url, item.alt, settings=srcsets.default) -}}
-                    {%- endfor -%}
+                {%- set content_html -%}
+                {%- if item.data.type == "like" -%}
+                    <p>like <a href="{{ item.data.bookmarkOf }}"
+                                class="u-like-of">{{ item.data.bookmarkOf }}</a></p>
+                {%- else -%}
+                    {{- item.templateContent | strip_mentions | safe -}}
+                    {%- if item.data.photo -%}
+                        {%- for item in item.data.photo -%}
+                            {{- image.image(item.url, item.alt, settings=srcsets.default) -}}
+                        {%- endfor -%}
+                    {%- endif -%}
                 {%- endif -%}
             {%- endset -%}
             {{- content_html | safe -}}
