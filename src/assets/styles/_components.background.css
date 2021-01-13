@@ -14,9 +14,9 @@
 
     background-color: var(--color-light);
     padding: var(--inset-squished);
-    box-decoration-break: clone;
     /* stylelint-disable property-no-vendor-prefix */
     -webkit-box-decoration-break: clone; /* [1] */
     /* stylelint-enable */
+    box-decoration-break: clone;
 }
 

@@ -26,7 +26,9 @@
     flex-grow: 2;
 }
 
+/* stylelint-disable selector-max-compound-selectors */
 .o-switcher > * > :nth-last-child(n+4),
 .o-switcher > * > :nth-last-child(n+4) ~ * {
     flex-basis: 100%;
 }
+/* stylelint-enable */
