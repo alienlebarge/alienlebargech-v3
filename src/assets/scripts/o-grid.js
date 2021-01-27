@@ -10,17 +10,17 @@ function observeGrid(gridNode) {
     // the `min` value (which might be em, rem, etc) to `px`
     const test = document.createElement('div');
     test.style.width = min;
-    gridNode.appendChild(test);
+    gridNode.append(test);
     const minToPixels = test.offsetWidth;
-    gridNode.removeChild(test);
+    test.remove();
 
     const ro = new ResizeObserver(entries => {
-      for (let entry of entries) {
+      for (const entry of entries) {
         // Get the element's current dimensions
         const cr = entry.contentRect;
         // `true` if the container is wider than the minimum
         const isWide = cr.width > minToPixels;
-        // toggle the class conditionally
+        // Toggle the class conditionally
         gridNode.classList.toggle('aboveMin', isWide);
       }
     });

@@ -1,5 +1,5 @@
 module.exports = {
-    eleventyComputed: {
-        bookmarkOf: (data) => data["bookmark-of"],
-    },
+  eleventyComputed: {
+    bookmarkOf: data => data['bookmark-of']
+  }
 };

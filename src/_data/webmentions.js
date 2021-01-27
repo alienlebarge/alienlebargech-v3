@@ -37,11 +37,7 @@ async function fetchWebmentions(since) {
   }
 
   let url = `${API_ORIGIN}?domain=${domain}&token=${TOKEN}`;
-  if (since) {
-    url += `&per-page=100&&since=${since}`;
-  } else {
-    url += '&per-page=999';
-  }
+  url += since ? `&per-page=100&&since=${since}` : '&per-page=999';
 
   let fetchOptions;
   if (proxyServer) {
@@ -80,9 +76,9 @@ function writeToCache(data) {
   }
 
   // Write data to cache json file
-  fs.writeFile(filePath, fileContent, err => {
-    if (err) {
-      throw err;
+  fs.writeFile(filePath, fileContent, error => {
+    if (error) {
+      throw error;
     }
 
     console.log(`webmentions cached to ${filePath}`);

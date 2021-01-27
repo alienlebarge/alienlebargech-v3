@@ -13,7 +13,7 @@
     "watch": "npm-run-all --parallel watch:*",
     "lint:markdown": "markdownlint src/**/*.md",
     "lint:styles": "stylelint src/**/*.css",
-    "lint:scripts": "xo src/**/*.js",
+    "lint:scripts": "xo",
     "lint": "npm-run-all lint:*",
     "debug": "DEBUG=* npx eleventy --config=lib/eleventy.config.js"
   },
