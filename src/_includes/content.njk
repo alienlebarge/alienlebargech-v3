@@ -5,7 +5,7 @@
         {%- import 'image.njk' as image -%}
         {%- for item in photo -%}
         <figure>
-            {{ image.image(item.url, item.alt, settings=srcsets.default) }}
+            {{ image.image(item.url, item.alt, settings=srcsets.default, appUrl=app.url) }}
             {%- if item.caption -%}
             <figcaption>{{ item.caption }}</figcaption>
             {%- endif -%}

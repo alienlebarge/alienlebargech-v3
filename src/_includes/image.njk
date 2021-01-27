@@ -1,4 +1,4 @@
-{% macro image(src, alt, settings) %}
+{% macro image(src, alt, settings, appUrl) %}
 
 {%- set sizes = settings.sizes -%}
 
@@ -23,7 +23,7 @@
 {# set srcset without the default width#}
 {%- set srcset -%}
     {%- for width in settings.widths -%}
-        {{ base }}/w_{{ width }},{%- if settings.ratio -%}ar_{{ settings.ratio }},{%- endif -%}c_fill,g_auto/{{ src | url }} {{ width }}w
+        {{ base }}/w_{{ width }},{%- if settings.ratio -%}ar_{{ settings.ratio }},{%- endif -%}c_fill,g_auto/{{ appUrl }}{{ src | url }} {{ width }}w
         {%- if not loop.last -%},{%- endif -%}
     {%- endfor -%}
 {%- endset -%}
@@ -31,7 +31,7 @@
 
 
 {# Put everything together to build the img src #}
-{%- set src -%}{{ base }}/{{ transformations }}/{{ src | url }}{%- endset -%}
+{%- set src -%}{{ base }}/{{ transformations }}/{{ appUrl }}{{ src | url }}{%- endset -%}
 
 
 
