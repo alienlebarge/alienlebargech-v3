@@ -47,7 +47,7 @@ permalink: /feed.json
                 {#- Photo defined in the front matter -#}
                 {% if item.data.photo -%}
                     {%- for item in item.data.photo -%}
-                        {{ image.image(item.url, item.alt, settings=srcsets.default) }}
+                        {{ image.image(item.url, item.alt, settings=srcsets.default, appUrl=app.url) }}
                     {%- endfor -%}
                 {%- endif -%}
             {%- endif -%}
