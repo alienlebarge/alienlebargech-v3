@@ -52,6 +52,7 @@
     "postcss-easy-import": "^3.0.0",
     "postcss-extend-rule": "^3.0.0",
     "postcss-logical": "^4.0.2",
+    "postcss-media-minmax": "^5.0.0",
     "postcss-selector-matches": "^4.0.0",
     "sanitize-html": "^2.3.0",
     "uslug": "^1.0.4"
