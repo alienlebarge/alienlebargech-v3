@@ -1,10 +1,20 @@
-{% macro listItems(items, modifier) %}
+{% macro listItems(items, modifier, limit) %}
 <ul class="{% if modifier %}{{ modifier }} {% endif %}o-stack o-stack--step-4">
-    {%- for item in items -%}
-    <li>
-        {%- include 'item/' + item.data.type + '.njk' -%}
-    </li>
-    {%- endfor -%}
+    {% if limit -%}
+        {%- for item in items -%}
+            {% if loop.index0 < limit -%}
+                <li>
+                    {%- include 'item/' + item.data.type + '.njk' -%}
+                </li>
+            {%- endif %}
+        {%- endfor -%}
+    {%- else -%}
+        {%- for item in items -%}
+        <li>
+            {%- include 'item/' + item.data.type + '.njk' -%}
+        </li>
+        {%- endfor -%}
+    {% endif %}
 </ul>
 {% endmacro %}
 

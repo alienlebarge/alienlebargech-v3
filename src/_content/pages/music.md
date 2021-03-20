@@ -17,10 +17,10 @@ Today, alienlebarge music oscillates between minimal and electro. He cultivated 
 During around 8 years, he stopped playing into club. And since 2019, alienlebarge started to build a live improvisation techno set using modular synthetisers.
 They are used to live jam and improvise techno music. Sets are starts with a blank canvas, all patterns are blank and they are build and make evolving live and hopefully it will make people dance.
 
-## Latest jams
+## Three latest jams
 
 {% import 'list-items.njk' as list %}
-{{ list.listItems(collections.jam) }}
+{{ list.listItems(collections.jam, limit='3') }}
 
 ## Past gigs
 
