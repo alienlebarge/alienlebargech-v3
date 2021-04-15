@@ -3,27 +3,30 @@
 {%- set sizes = settings.sizes -%}
 
 {# The base url for Cloudinary to fetch the images #}
-{%- set base = "https://res.cloudinary.com/alienlebarge/image/fetch" -%}
+{%- set base = "https://alienlebarge.imgix.net" -%}
 
+{# path #}
+{%- set path -%}{{ src | url }}{%- endset %}
 
 
 {# set transformations with the default width #}
 {%- set transformations -%}
     {%- if settings.ratio -%}
-        ar_{{ settings.ratio }},
+    ar={{ settings.ratio }}+
     {%- endif -%}
     {%- if settings.width -%}
-        w_{{ settings.width }},
+    w={{ settings.width }}+
     {%- endif -%}
-    c_fill,g_auto
+    fit=crop
 {%- endset -%}
+{% set transformations %}{{ transformations | replace("+", "&") | safe }}{% endset %}
 
 
 
 {# set srcset without the default width#}
 {%- set srcset -%}
     {%- for width in settings.widths -%}
-        {{ base }}/w_{{ width }},{%- if settings.ratio -%}ar_{{ settings.ratio }},{%- endif -%}c_fill,g_auto/{{ appUrl }}{{ src | url }} {{ width }}w
+        {{ base }}{{ path }}?w={{ width }}&{%- if settings.ratio -%}ar={{ settings.ratio }}&{%- endif -%}fit=crop {{ width }}w
         {%- if not loop.last -%},{%- endif -%}
     {%- endfor -%}
 {%- endset -%}
@@ -31,7 +34,7 @@
 
 
 {# Put everything together to build the img src #}
-{%- set src -%}{{ base }}/{{ transformations }}/{{ appUrl }}{{ src | url }}{%- endset -%}
+{%- set src -%}{{ base }}{{ path }}?{{ transformations | safe }}{%- endset -%}
 
 
 
