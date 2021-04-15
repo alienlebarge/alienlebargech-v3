@@ -16,7 +16,7 @@
     {%- if settings.width -%}
     w={{ settings.width }}+
     {%- endif -%}
-    fit=crop
+    fit=crop+crop=edges
 {%- endset -%}
 {% set transformations %}{{ transformations | replace("+", "&") | safe }}{% endset %}
 
@@ -25,7 +25,7 @@
 {# set srcset without the default width#}
 {%- set srcset -%}
     {%- for width in settings.widths -%}
-        {{ base }}{{ path }}?w={{ width }}&{%- if settings.ratio -%}ar={{ settings.ratio }}&{%- endif -%}fit=crop {{ width }}w
+        {{ base }}{{ path }}?w={{ width }}&{%- if settings.ratio -%}ar={{ settings.ratio }}&{%- endif -%}fit=crop&crop=edges {{ width }}w
         {%- if not loop.last -%},{%- endif -%}
     {%- endfor -%}
 {%- endset -%}
