@@ -10,10 +10,10 @@
         <meta property="og:description" content="{% if summary %}{{ summary | striptags(true) | safe }}{% else %}{{ app.description }}{% endif %}">
         <meta name="description" content="{% if summary %}{{ summary | striptags(true) | safe }}{% else %}{{ app.description }}{% endif %}">
         {% if image -%}
-            <meta property="og:image" content="https://res.cloudinary.com/alienlebarge/image/fetch/w_1200,h_630,c_fill,g_auto,q_auto,f_auto/{{ app.url }}{{ image }}">
+            <meta property="og:image" content="https://alienlebarge.imgix.net/{{ app.url }}{{ image }}?w=1200&h=630&fit=crop">
             <meta name="twitter:card" content="summary_large_image">
         {%- elif photo %}
-            <meta property="og:image" content="https://res.cloudinary.com/alienlebarge/image/fetch/w_1200,h_630,c_fill,g_auto,q_auto,f_auto/{{ photo[0].url }}">
+            <meta property="og:image" content="https://alienlebarge.imgix.net{{ photo[0].url }}?w=1200&h=630&fit=crop">
             <meta name="twitter:card" content="summary_large_image">
         {%- else %}
             <meta property="og:image" content="{{ app.url }}{{ app.icon }}">
@@ -22,7 +22,7 @@
         <meta name="twitter:site" content="@alienlebarge">
         <meta name="supported-color-schemes" content="light dark">
 
-        <link rel="dns-prefetch" href="https://res.cloudinary.com">
+        <link rel="dns-prefetch" href="https://alienlebarge.imgix.net">
 
         <link rel="alternate" href="{{ './feed.xml' | url }}" type="application/atom+xml" title="RSS (Atom) Feed">
         <link rel="alternate" href="{{ './feed.json' | url }}" type="application/json" title="JSON Feed">
@@ -44,17 +44,17 @@
         <link rel="stylesheet" href="{{ "/assets/styles/style.css" | url }}">
 
         <!-- Generic icon -->
-        <link rel="icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_32/{{ app.url }}{{ app.icon | url }}" sizes="32x32">
-        <link rel="icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_57/{{ app.url }}{{ app.icon | url }}" sizes="57x57">
-        <link rel="icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_76/{{ app.url }}{{ app.icon | url }}" sizes="76x76">
-        <link rel="icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_96/{{ app.url }}{{ app.icon | url }}" sizes="96x96">
-        <link rel="icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_128/{{ app.url }}{{ app.icon | url }}" sizes="128x128">
-        <link rel="icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_192/{{ app.url }}{{ app.icon | url }}" sizes="192x192">
-        <link rel="icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_228/{{ app.url }}{{ app.icon | url }}" sizes="228x228">
+        <link rel="icon" href="https://alienlebarge.imgix.net{{ app.icon | url }}?w=32" sizes="32x32">
+        <link rel="icon" href="https://alienlebarge.imgix.net{{ app.icon | url }}?w=57" sizes="57x57">
+        <link rel="icon" href="https://alienlebarge.imgix.net{{ app.icon | url }}?w=76" sizes="76x76">
+        <link rel="icon" href="https://alienlebarge.imgix.net{{ app.icon | url }}?w=96" sizes="96x96">
+        <link rel="icon" href="https://alienlebarge.imgix.net{{ app.icon | url }}?w=128" sizes="128x128">
+        <link rel="icon" href="https://alienlebarge.imgix.net{{ app.icon | url }}?w=192" sizes="192x192">
+        <link rel="icon" href="https://alienlebarge.imgix.net{{ app.icon | url }}?w=228" sizes="228x228">
         <!-- iOS icon -->
-        <link rel="apple-touch-icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_120/{{ app.url }}{{ app.icon | url }}" sizes="120x120">
-        <link rel="apple-touch-icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_152/{{ app.url }}{{ app.icon | url }}" sizes="152x152">
-        <link rel="apple-touch-icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_180/{{ app.url }}{{ app.icon | url }}" sizes="180x180">
+        <link rel="apple-touch-icon" href="https://alienlebarge.imgix.net{{ app.icon | url }}?w=120" sizes="120x120">
+        <link rel="apple-touch-icon" href="https://alienlebarge.imgix.net{{ app.icon | url }}?w=152" sizes="152x152">
+        <link rel="apple-touch-icon" href="https://alienlebarge.imgix.net{{ app.icon | url }}?w=180" sizes="180x180">
 
         <title>
             {% if type != "homepage" and title -%}
