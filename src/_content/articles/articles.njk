@@ -5,6 +5,9 @@ permalink: articles/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNum
 pagination:
     data: collections.article
     size: 10
+layout: index.njk
+type: index
+tags: false
 ---
 {% import 'list-items.njk' as list %}
 {{ list.listItems(pagination.items, "[ c-container c-container--big ]") }}

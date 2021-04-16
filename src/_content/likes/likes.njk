@@ -5,6 +5,9 @@ pagination:
   data: collections.like
   size: 25
 permalink: likes/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber }}{% else %}index{% endif %}.html
+layout: index.njk
+type: index
+tags: false
 ---
 {% import 'list-items.njk' as list %}
 {{ list.listItems(pagination.items, "[ c-container c-container--big ]") }}
