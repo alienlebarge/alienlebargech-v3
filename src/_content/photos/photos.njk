@@ -5,6 +5,9 @@ permalink: photos/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumbe
 pagination:
     data: collections.photo
     size: 25
+layout: index.njk
+type: index
+tags: false
 ---
 {% import 'list-items.njk' as list with context %}
 {{ list.gridItems(pagination.items) }}
