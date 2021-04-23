@@ -107,10 +107,14 @@
  *
  * more info here:
  * https://practice.typekit.com/lesson/caring-about-opentype-features/
+ *
+ * 1. `ss19` activates a grotesque `R` at 72pt and up, while `ss20` activates
+ *    text alternates for `I`, `l`, and `g` below 24pt.
  */
 
 %type-features-body {
-    font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum";
+    font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum",
+                           "ss19" on, "ss20" on;
     font-variant-ligatures: common-ligatures contextual;
     font-variant-numeric: oldstyle-nums proportional-nums;
 }
