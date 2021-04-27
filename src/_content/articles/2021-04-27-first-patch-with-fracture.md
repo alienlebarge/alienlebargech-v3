@@ -2,6 +2,7 @@
 date: 2021-04-27T12:30:28.380+01:00
 title: "First patch with Fracture"
 summary: "Quircky claps and broken bottles"
+image: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/7b9f9c0a-b3d5-4789-a613-464c40e89188.gif?ClientID=vimeo-core-prod&Date=1619519248&Signature=ed727ddb3e006366298f05d85f6d1fa6af951b4e"
 tags:
     - jam
 category:
