@@ -2,6 +2,7 @@
 date: 2021-04-27T11:25:28.380+01:00
 title: "First patch with Fracture"
 summary: "Quircky claps and broken bottles"
+image: "media/articles/2021/04/27/first-patch-with-fracture/first-patch-with-fracture-high.gif"
 tags:
     - jam
 category:
