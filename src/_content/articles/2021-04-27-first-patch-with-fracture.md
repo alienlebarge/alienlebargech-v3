@@ -19,5 +19,5 @@ Here is the first patch I made with it. The module is mainly modulated by hands 
 
 https://vimeo.com/541771451
 
-Fracture make bottle and weird clap sounds, Prok BD is the kick. They are both sequenced by Euclidean Circles v2.
+Fracture makes bottle and weird clap sounds, Prok BD is the kick. They are both sequenced by Euclidean Circles v2.
 The meloDICER and Blades are in charge of the melody.
