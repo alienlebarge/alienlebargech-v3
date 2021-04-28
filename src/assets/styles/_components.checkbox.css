@@ -9,6 +9,10 @@
     margin-block-end: var(--step--4);
 }
 
+.c-checkbox:focus-within {
+    @extend %focus;
+}
+
 /**
  * Hide default checkbox
  */
