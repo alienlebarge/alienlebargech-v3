@@ -2,7 +2,7 @@
  * #CUSTOM-PROPERTIES
  * ========================================================================== */
 
-/* @link https://utopia.fyi/generator-mk-ii?c=320,21,1.2,1140,24,1.333,5,5, */
+/* @link https://utopia.fyi/type/calculator/?c=320,16,1.2,1140,24,1.333,5,5, */
 
 :root {
     --step--5: clamp(0.40rem, 0.42rem + -0.09vw, 0.36rem);
