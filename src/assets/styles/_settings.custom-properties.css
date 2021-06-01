@@ -5,17 +5,17 @@
 /* @link https://utopia.fyi/generator-mk-ii?c=320,21,1.2,1140,24,1.333,5,5, */
 
 :root {
-    --step--5: clamp(.5275rem, .5943rem + -.3341vw, .3563rem);
-    --step--4: clamp(.6331rem, .6948rem + -.3085vw, .475rem);
-    --step--3: clamp(.7594rem, .8086rem + -.2463vw, .6331rem);
-    --step--2: clamp(.9113rem, .9373rem + -.1305vw, .8444rem);
-    --step--1: clamp(1.0938rem, 1.0816rem + .061vw, 1.125rem);
-    --step-0: clamp(1.3125rem, 1.2393rem + .3659vw, 1.5rem);
-    --step-1: clamp(1.575rem, 1.4094rem + .828vw, 1.9994rem);
-    --step-2: clamp(1.89rem, 1.5873rem + 1.5134vw, 2.6656rem);
-    --step-3: clamp(2.2681rem, 1.7667rem + 2.5073vw, 3.5531rem);
-    --step-4: clamp(2.7219rem, 1.9358rem + 3.9305vw, 4.7363rem);
-    --step-5: clamp(3.2656rem, 2.0764rem + 5.9463vw, 6.3131rem);
+    --step--5: clamp(0.40rem, 0.42rem + -0.09vw, 0.36rem);
+    --step--4: clamp(0.48rem, 0.49rem + -0.01vw, 0.48rem);
+    --step--3: clamp(0.58rem, 0.56rem + 0.11vw, 0.63rem);
+    --step--2: clamp(0.69rem, 0.64rem + 0.29vw, 0.84rem);
+    --step--1: clamp(0.83rem, 0.72rem + 0.57vw, 1.13rem);
+    --step-0: clamp(1.00rem, 0.80rem + 0.98vw, 1.50rem);
+    --step-1: clamp(1.20rem, 0.89rem + 1.56vw, 2.00rem);
+    --step-2: clamp(1.44rem, 0.96rem + 2.39vw, 2.67rem);
+    --step-3: clamp(1.73rem, 1.02rem + 3.56vw, 3.55rem);
+    --step-4: clamp(2.07rem, 1.03rem + 5.20vw, 4.74rem);
+    --step-5: clamp(2.49rem, 1.00rem + 7.46vw, 6.31rem);
 }
 
 :root {
