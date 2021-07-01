@@ -3,14 +3,14 @@
     {% if limit -%}
         {%- for item in items -%}
             {% if loop.index0 < limit -%}
-                <li>
+                <li class="o-separator">
                     {%- include 'item/' + item.data.type + '.njk' -%}
                 </li>
             {%- endif %}
         {%- endfor -%}
     {%- else -%}
         {%- for item in items -%}
-        <li>
+        <li class="o-separator">
             {%- include 'item/' + item.data.type + '.njk' -%}
         </li>
         {%- endfor -%}

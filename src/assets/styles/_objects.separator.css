@@ -1,0 +1,8 @@
+/* ==========================================================================
+   #SEPARATORS
+   ========================================================================== */
+
+.o-separator + .o-separator {
+    border-block-start: var(--border-width-thin) dotted var(--color-dark);
+    padding-block-start: var(--stack__space, var(--step-0));
+}
