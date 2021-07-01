@@ -56,6 +56,8 @@ blockquote {
     border-inline-start: var(--border-width-thickest) solid var(--color-dark);
     margin-inline-start: 0; /* [1] */
     padding-inline-start: var(--flow-inset);
+    font-weight: var(--font-weight-blockquote, 600);
+    font-variation-settings: "wght" var(--font-weight-blockquote, 600);
 }
 
 
