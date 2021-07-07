@@ -42,9 +42,14 @@ a[aria-current] {
    #EM
    ------------------------------------- */
 
+/***
+ * 1. Necessary to prevent Safari & Firefox from adding a faux-italic slant
+ */
+
 em {
-    font-style: italic;
-    text-decoration: var(--color-dark) wavy underline;
+    font-style: normal; /* [1] */
+    text-decoration: underline;
+    text-decoration-style: wavy;
 }
 
 
