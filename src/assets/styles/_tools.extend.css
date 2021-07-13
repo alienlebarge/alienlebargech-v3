@@ -187,7 +187,7 @@
 
 %focus {
     outline-color: var(--color-dark);
+    outline-offset: .25em;
     outline-style: dotted;
     outline-width: var(--border-width-thick);
-    outline-offset: 0.25em;
 }
