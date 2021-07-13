@@ -2,37 +2,15 @@
    #GRID
    ========================================================================== */
 
-/**
- * This objects goes with a JavaScript. Take a look in the assets and
- * https://absolutely.every-layout.dev/layouts/grid/
- *
- * TODO: find if we can replace the hard coded content width in the JS and CSS
- */
+
 .o-grid {
     display: grid;
     grid-gap: var(--grid-gap);
-    grid-template-columns: 100%;
-}
-
-.o-grid.aboveMin {
-    grid-template-columns: repeat(
-            auto-fill,
-            minmax(
-                var(--grid-content-width),
-                1fr
-            )
-        );
 }
 
 @supports (width: min(var(--grid-content-width), 100%)) {
 
     .o-grid {
-        grid-template-columns: repeat(
-                auto-fit,
-                minmax(
-                    min(var(--grid-content-width), 100%),
-                    1fr
-                )
-            );
+        grid-template-columns: repeat(auto-fit, minmax(min(var(--grid-content-width), 100%), 1fr));
     }
 }
