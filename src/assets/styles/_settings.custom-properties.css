@@ -2,31 +2,61 @@
  * #CUSTOM-PROPERTIES
  * ========================================================================== */
 
-/* @link https://utopia.fyi/type/calculator/?c=320,16,1.2,1140,24,1.333,5,5, */
+
+/* -----------------------------------
+   #Scale
+   ----------------------------------- */
+
+/* @link https://utopia.fyi/type/calculator?c=320,16,1.2,1140,24,1.333,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
 
 :root {
-    --step--5: clamp(0.40rem, 0.42rem + -0.09vw, 0.36rem);
-    --step--4: clamp(0.48rem, 0.49rem + -0.01vw, 0.48rem);
-    --step--3: clamp(0.58rem, 0.56rem + 0.11vw, 0.63rem);
-    --step--2: clamp(0.69rem, 0.64rem + 0.29vw, 0.84rem);
-    --step--1: clamp(0.83rem, 0.72rem + 0.57vw, 1.13rem);
-    --step-0: clamp(1.00rem, 0.80rem + 0.98vw, 1.50rem);
-    --step-1: clamp(1.20rem, 0.89rem + 1.56vw, 2.00rem);
-    --step-2: clamp(1.44rem, 0.96rem + 2.39vw, 2.67rem);
+    --step--5: clamp(.4rem, .42rem + -.09vw, .36rem);
+    --step--4: clamp(.48rem, .49rem + -.01vw, .48rem);
+    --step--3: clamp(.58rem, .56rem + .11vw, .63rem);
+    --step--2: clamp(.69rem, .64rem + .29vw, .84rem);
+    --step--1: clamp(.83rem, .72rem + .57vw, 1.13rem);
+    --step-0: clamp(1rem, .8rem + .98vw, 1.5rem);
+    --step-1: clamp(1.2rem, .89rem + 1.56vw, 2rem);
+    --step-2: clamp(1.44rem, .96rem + 2.39vw, 2.67rem);
     --step-3: clamp(1.73rem, 1.02rem + 3.56vw, 3.55rem);
-    --step-4: clamp(2.07rem, 1.03rem + 5.20vw, 4.74rem);
-    --step-5: clamp(2.49rem, 1.00rem + 7.46vw, 6.31rem);
+    --step-4: clamp(2.07rem, 1.03rem + 5.2vw, 4.74rem);
+    --step-5: clamp(2.49rem, 1rem + 7.46vw, 6.31rem);
+    --step-6: clamp(2.99rem, .87rem + 10.59vw, 8.42rem);
+    --step-7: clamp(3.58rem, .6rem + 14.9vw, 11.22rem);
+    --step-8: clamp(4.3rem, .14rem + 20.79vw, 14.95rem);
+    --step-9: clamp(5.16rem, -.6rem + 28.82vw, 19.93rem);
+    --step-10: clamp(6.19rem, -1.76rem + 39.76vw, 26.57rem);
 }
+
+
+
+/* -----------------------------------
+   #Color
+   ----------------------------------- */
 
 :root {
     /* color */
     --color-dark: hsla(208, 21%, 9%, 1);
     --color-light: hsla(0, 0%, 87%, 1);
+}
 
-    /* background */
+
+
+/* -----------------------------------
+   #Background
+   ----------------------------------- */
+
+:root {
     --bg-dots: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='hsla(208, 22%, 15%, 1)' fill-opacity='.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+}
 
-    /* Typography */
+
+
+/* -----------------------------------
+   #Typography
+   ----------------------------------- */
+
+:root {
     --font-family-display: "UntitledSerifDisplay", serif;
     --font-family-serif: "UntitledSerif", serif;
     --font-family-sans: "Untitled", sans-serif;
@@ -47,37 +77,87 @@
     --line-height-loose: 1.6;
     --line-measure: 60ch;
     --word-spacing: 0;
+}
 
-    /* Container */
+
+
+/* -----------------------------------
+   #Container
+   ----------------------------------- */
+
+:root {
     --measure: 70ch;
+}
 
-    /* Borders */
+
+
+/* -----------------------------------
+   #Borders
+   ----------------------------------- */
+
+:root {
     --border-radius-xsmall: .125rem;
     --border-radius-small: .25rem;
     --border-width-thin: 1px;
     --border-width-thick: .125rem;
     --border-width-thickest: .5rem;
+}
 
-    /* Spacing > Inline */
+
+
+/* -----------------------------------
+   #Spacing
+   ----------------------------------- */
+
+/***
+ * Spacing > Inline
+ */
+:root {
     --space-inline-small: .375rem;
     --space-inline: .75rem;
+}
 
-    /* Inset spacing */
+/***
+ * Inset spacing
+ */
+:root {
     --inset: var(--step--2);
     --inset-squished: calc(var(--inset) / 2) var(--inset);
     --inset-small: var(--step--4);
     --inset-small-squished: calc(var(--inset-small) / 2) var(--inset-small);
     --inset-large: var(--step-0);
     --inset-large-squished: calc(var(--inset-large) / 2) var(--inset-large);
+}
 
-    /* Grids */
+
+
+/* -----------------------------------
+   #Grids
+   ----------------------------------- */
+
+:root {
     --grid-gap: var(--step-0);
     --grid-content-width: 9rem;
+}
 
+
+
+/* -----------------------------------
+   #Animation
+   ----------------------------------- */
+
+:root {
     /* Animation */
     --transition-short: .15s;
+}
 
-    /* Container values */
+
+
+/* -----------------------------------
+   #Container value
+   ----------------------------------- */
+
+:root {
     --container-inline-size: 100vw;
     --container-inline-inset: calc(100vw - var(--container-inline-size));
     --container-gutter: calc(var(--container-inline-inset) / 2);
@@ -97,9 +177,12 @@
     }
 }
 
-/**
- * Dark Mode
- */
+
+
+/* -----------------------------------
+   #Dark Mode
+   ----------------------------------- */
+
 @media (prefers-color-scheme: dark) {
 
     :root {
