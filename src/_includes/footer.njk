@@ -32,6 +32,20 @@
             </a>
         </dd>
         {%- endif %}
+        {% if syndication -%}
+        <div class="o-cluster o-cluster--small">
+            <div class="o-cluster__container c-background__text">
+                <dt class="o-cluster__item">Also on</dt>
+                {% for item in syndication %}
+                <dd class="o-cluster__item">
+                    <a{% if vocab %} class="u-url"{% endif %} href="{{ item }}">
+                        {{ item }}
+                    </a>
+                </dd>
+                {% endfor %}
+            </div>
+        </div>
+        {%- endif %}
     </dl>
 </footer>
 {%- endif %}
