@@ -1,6 +1,6 @@
 ---
 date: 2007-08-22
-title: Para One signe la BO de "Naissance des Pieuvres"
+title: Para One signe la BO de Naissance des Pieuvres
 categories:
 - Cinéma
 - Musique

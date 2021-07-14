@@ -1,6 +1,6 @@
 ---
 date: 2009-11-11
-title: Surfer sur la "Wave"
+title: Surfer sur la 'Wave'
 categories:
 - Internet
 tags:
