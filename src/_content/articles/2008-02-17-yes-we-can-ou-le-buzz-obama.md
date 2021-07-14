@@ -1,6 +1,6 @@
 ---
 date: 2008-02-17
-title: '"Yes, we can" ou le buzz Obama'
+title: "'Yes, we can' ou le buzz Obama"
 categories:
 - Internet
 tags:
