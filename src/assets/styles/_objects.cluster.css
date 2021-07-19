@@ -2,37 +2,30 @@
    #CLUSTER
    ========================================================================== */
 
-
-.o-cluster {
-    overflow: hidden;
+.o-cluster.o-cluster--step-1 {
+    --cluster__space: var(--step-1);
 }
 
-.o-cluster--medium {
+.o-cluster:not([class*="o-cluster--step"]) {
     --cluster__space: var(--step-0);
 }
 
-.o-cluster--small {
+.o-cluster.o-cluster--step--2 {
     --cluster__space: var(--step--2);
 }
 
-.o-cluster__container {
-    display: flex;
 
-    margin: calc(var(--cluster__space) / 2 * -1);
-    align-items: center;
+
+.o-cluster {
+    display: flex;
     flex-wrap: wrap;
+    gap: var(--cluster__space, var(--step--0));
     justify-content: flex-start;
-}
-
-.o-cluster__container--space-between {
-    display: flex;
-
-    margin: calc(var(--cluster__space) / 2 * -1);
     align-items: center;
-    flex-wrap: wrap;
-    justify-content: space-between;
 }
 
-.o-cluster__item {
-    margin: calc(var(--cluster__space) / 2);
+
+
+.o-cluster.o-cluster--space-between {
+    justify-content: space-between;
 }

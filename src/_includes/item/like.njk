@@ -9,12 +9,12 @@
             <dl>
                 <dt class="u-visually-hidden">Published on</dt>
                 <dd>
-                <a class="o-cluster o-cluster--small u-url" rel="bookmark" href="{{ item.url | url }}">
+                <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
                     {# TODO: use src/_data/dates.json to format the date. #}
-                    <time class="o-cluster__container | dt-published"
+                    <time class="o-cluster o-cluster--step--2 | dt-published"
                           datetime="{{ item.date | date }}">
-                        <span class="o-cluster__item">{{ item.date | date("D MMM YYYY") }}</span>
-                        <span class="o-cluster__item">{{ item.date | date("HH:mm") }}</span>
+                        <span>{{ item.date | date("D MMM YYYY") }}</span>
+                        <span>{{ item.date | date("HH:mm") }}</span>
                     </time>
                 </a>
                 </dd>
