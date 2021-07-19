@@ -12,18 +12,21 @@ const CACHE_DIR = '_cache';
 const API_ORIGIN = 'https://webmention.io/api/mentions.jf2';
 const TOKEN = process.env.WEBMENTION_IO_TOKEN;
 
-const proxyServer = process.env.http_proxy ||
-                    process.env.HTTP_PROXY ||
-                    process.env.https_proxy ||
-                    process.env.HTTPS_PROXY;
+const proxyServer = process.env.http_proxy
+                    || process.env.HTTP_PROXY
+                    || process.env.https_proxy
+                    || process.env.HTTPS_PROXY;
 
+/**
+ * @param since
+ */
 async function fetchWebmentions(since) {
   const {domain} = metadata;
 
   if (!domain && domain === 'alienlebarge.ch') {
     // If we dont have a domain name, abort
     console.warn(
-      'unable to fetch webmentions: no domain specified in metadata.'
+      'unable to fetch webmentions: no domain specified in metadata.',
     );
     return false;
   }
@@ -31,7 +34,7 @@ async function fetchWebmentions(since) {
   if (!TOKEN) {
     // If we dont have a domain access token, abort
     console.warn(
-      'unable to fetch webmentions: no access token specified in environment.'
+      'unable to fetch webmentions: no access token specified in environment.',
     );
     return false;
   }
@@ -43,7 +46,7 @@ async function fetchWebmentions(since) {
   if (proxyServer) {
     // If there is a proxy server set in env, set fetchOptions to use it
     console.warn(
-      'Fetch data using proxy set in env variables: ' + proxyServer
+      'Fetch data using proxy set in env variables: ' + proxyServer,
     );
     fetchOptions = {agent: new HttpsProxyAgent(proxyServer)};
   }
@@ -52,7 +55,7 @@ async function fetchWebmentions(since) {
   if (response.ok) {
     const feed = await response.json();
     console.log(
-      `${feed.children.length} webmentions fetched from ${API_ORIGIN}`
+      `${feed.children.length} webmentions fetched from ${API_ORIGIN}`,
     );
     return feed;
   }
@@ -61,11 +64,18 @@ async function fetchWebmentions(since) {
 }
 
 // Merge fresh webmentions with cached entries, unique per id
+/**
+ * @param a
+ * @param b
+ */
 function mergeWebmentions(a, b) {
   return unionBy(a.children, b.children, 'wm-id');
 }
 
 // Save combined webmentions in cache file
+/**
+ * @param data
+ */
 function writeToCache(data) {
   const filePath = `${CACHE_DIR}/webmentions.json`;
   const fileContent = JSON.stringify(data, null, 2);
@@ -86,6 +96,9 @@ function writeToCache(data) {
 }
 
 // Get cache contents from json file
+/**
+ *
+ */
 function readFromCache() {
   const filePath = `${CACHE_DIR}/webmentions.json`;
 
@@ -96,7 +109,7 @@ function readFromCache() {
 
   return {
     lastFetched: null,
-    children: []
+    children: [],
   };
 }
 
@@ -111,7 +124,7 @@ module.exports = async function () {
     if (feed) {
       const webmentions = {
         lastFetched: new Date().toISOString(),
-        children: mergeWebmentions(cache, feed)
+        children: mergeWebmentions(cache, feed),
       };
 
       writeToCache(webmentions);
