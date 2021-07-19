@@ -13,7 +13,7 @@
     "watch": "npm-run-all --parallel watch:*",
     "lint:markdown": "markdownlint src/**/*.md",
     "lint:styles": "stylelint src/**/*.css",
-    "lint:scripts": "xo",
+    "lint:scripts": "xo '**/*.js'",
     "lint": "npm-run-all lint:*",
     "debug": "DEBUG=* npx eleventy --config=lib/eleventy.config.js"
   },
@@ -60,6 +60,8 @@
   },
   "devDependencies": {
     "@alienlebarge/stylelint-config": "^3.1.5",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsdoc": "^35.4.5",
     "lodash": "^4.17.21",
     "markdownlint-cli": "^0.27.1",
     "node-fetch": "^2.6.1",
@@ -68,12 +70,40 @@
   },
   "xo": {
     "space": true,
+    "extends": [
+      "plugin:import/errors",
+      "plugin:jsdoc/recommended"
+    ],
+    "plugins": [
+      "import",
+      "jsdoc"
+    ],
     "envs": "browser",
     "ignores": [
       "www/**"
     ],
     "rules": {
-      "camelcase": "warn"
+      "camelcase": [
+        "warn",
+        {
+          "properties": "never"
+        }
+      ],
+      "import/extensions": [
+        "error",
+        "always"
+      ]
+    },
+    "settings": {
+      "import/resolver": {
+        "node": {
+          "moduleDirectory": [
+            "node_modules",
+            "src/",
+            "lib/"
+          ]
+        }
+      }
     }
   }
 }
