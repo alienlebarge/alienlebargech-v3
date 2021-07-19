@@ -1,8 +1,8 @@
 <header class="c-container">
-    <nav class="o-cluster o-cluster--medium" aria-label="Navigation">
+    <nav aria-label="Navigation">
         <h2 class="u-visually-hidden">Navigation</h2>
-        <div class="o-cluster__container--space-between">
-            <div class="o-cluster__item c-logo">
+        <div class="o-cluster o-cluster--step-1 o-cluster--space-between">
+            <div class="c-logo">
                 <a class="u-font-weight:bold
                 u-font-family:monospace
                 u-font-style:italic"
@@ -12,16 +12,14 @@
                 </a>
             </div>
             {%- if navigation.primary -%}
-            <div class="o-cluster__item">
-                <div class="o-cluster o-cluster--small">
-                    <ul class="o-cluster__container">
-                        {%- for item in navigation.primary -%}
-                        <li class="o-cluster__item">
-                            <a href="{{ item.url }}">{{ item.label }}</a>
-                        </li>
-                        {%- endfor -%}
-                    </ul>
-                </div>
+            <div>
+                <ul class="o-cluster o-cluster--step--2">
+                    {%- for item in navigation.primary -%}
+                    <li>
+                        <a href="{{ item.url }}">{{ item.label }}</a>
+                    </li>
+                    {%- endfor -%}
+                </ul>
             </div>
             {%- endif -%}
         </div>

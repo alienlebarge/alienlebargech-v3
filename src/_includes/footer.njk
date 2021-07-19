@@ -33,11 +33,10 @@
         </dd>
         {%- endif %}
         {% if syndication -%}
-        <div class="o-cluster o-cluster--small">
-            <div class="o-cluster__container">
-                <dt class="o-cluster__item u-visually-hidden">Also on</dt>
+        <div class="o-cluster">
+                <dt class="u-visually-hidden">Also on</dt>
                 {% for item in syndication %}
-                <dd class="o-cluster__item">
+                <dd class="">
                     <a{% if vocab %} class="c-background__text u-url"{% endif %} href="{{ item }}" rel="external">
                         {{ item | syndication_target }}
                         <svg class="u-sup" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
@@ -46,7 +45,6 @@
                     </a>
                 </dd>
                 {% endfor %}
-            </div>
         </div>
         {%- endif %}
     </dl>

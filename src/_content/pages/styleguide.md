@@ -52,12 +52,11 @@ Here's the style a basic `h1` will get.
 
 The colors are switching between light and dark depending on the color scheme.
 
-<div class="o-cluster o-cluster--small">
-    <ul class="o-cluster__container">
-        <li class="o-cluster__item c-palette u-color-light">Light</li>
-        <li class="o-cluster__item c-palette u-color-dark">dark</li>
-    </ul>
-</div>
+
+<ul class="o-cluster o-cluster--small">
+    <li class="c-palette u-color-light">Light</li>
+    <li class="c-palette u-color-dark">dark</li>
+</ul>
 
 ---
 
