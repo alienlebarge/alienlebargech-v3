@@ -24,7 +24,7 @@
 
 {%- set image_preset = "thumbnail" -%}
 <ul class="[ c-container c-container--big ]">
-    <div class="o-grid" data-min="9rem">
+    <div class="o-grid">
         {%- for item in items -%}
         <li>
         {%- include 'item/' + item.data.type + '.njk' -%}
