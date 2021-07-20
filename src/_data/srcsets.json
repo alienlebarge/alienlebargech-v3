@@ -11,9 +11,9 @@
     "ratio": 1
   },
   "grid": {
-    "sizes": "(max-width: 350px) 100vw, (max-width: 520px) 50vw, 190px",
-    "width": 310,
-    "widths": [150, 240, 360 ],
+    "sizes": "(max-width: 170px) 100vw, (max-width: 270px) 50vw, (max-width: 510px) 33vw, (max-width: 560px) 100vw, (max-width: 850px) 50vw, (max-width: 1150px) 33vw, 300px",
+    "width": 450,
+    "widths": [120, 240, 360, 470],
     "ratio": 1
   }
 }

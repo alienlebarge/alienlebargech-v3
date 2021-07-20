@@ -137,9 +137,15 @@
 
 :root {
     --grid-gap: var(--step-0);
-    --grid-content-width: 9rem;
+    --grid-content-width: var(--step-8);
 }
 
+@media (--from-small-viewport) {
+
+    :root {
+        --grid-content-width: 15rem;
+    }
+}
 
 
 /* -----------------------------------
