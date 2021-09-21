@@ -69,6 +69,13 @@
 }
 
 @font-face {
+    font-weight: 800;
+    font-family: UntitledMono;
+    font-display: swap;
+    src: url("../fonts/UntitledMono-Bold.woff2") format("woff2");
+}
+
+@font-face {
     font-weight: 400;
     font-style: italic;
     font-family: UntitledMono;
