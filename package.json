@@ -58,6 +58,7 @@
     "uslug": "^1.0.4"
   },
   "devDependencies": {
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
     "@alienlebarge/stylelint-config": "^3.1.5",
     "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-jsdoc": "^35.5.1",
