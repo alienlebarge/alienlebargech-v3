@@ -4,10 +4,10 @@
 
 .c-pagination__link {
     display: flex;
-    flex-direction: column;
-    padding-block-start: var(--space-block-xsmall);
 
     text-decoration: none;
+    flex-direction: column;
+    padding-block-start: var(--space-block-xsmall);
 }
 
 .c-pagination__link :not(.pagination__arrow) {

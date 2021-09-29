@@ -18,10 +18,10 @@
 
 .o-cluster {
     display: flex;
+    align-items: center;
     flex-wrap: wrap;
     gap: var(--cluster__space, var(--step--0));
     justify-content: flex-start;
-    align-items: center;
 }
 
 
