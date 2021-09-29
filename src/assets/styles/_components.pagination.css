@@ -6,15 +6,18 @@
     display: flex;
     flex-direction: column;
     padding-block-start: var(--space-block-xsmall);
+
+    text-decoration: none;
+}
+
+.c-pagination__link :not(.pagination__arrow) {
+    text-decoration: underline;
+}
+
+.c-pagination__link:hover :not(.pagination__arrow) {
+    text-decoration: none;
 }
 
 .c-pagination__caption {
     @extend %reference;
-}
-
-.c-pagination svg {
-    max-width: var(--font-size-body);
-    max-height: var(--font-size-body);
-
-    margin-bottom: calc(var(--line-height-tight) - 1em);
 }
