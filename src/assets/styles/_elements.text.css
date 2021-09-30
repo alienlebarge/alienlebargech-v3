@@ -17,6 +17,7 @@ a {
     text-decoration: var(--anchor-decoration, underline);
     text-decoration-color: currentColor;
     text-decoration-skip-ink: auto;
+    text-underline-offset: .1em;
 }
 
 a:hover {
