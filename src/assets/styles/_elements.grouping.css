@@ -53,9 +53,7 @@ pre {
  * 1. Override browser style
  */
 blockquote {
-    font-weight: var(--font-weight-blockquote, 600);
     border-inline-start: var(--border-width-thickest) solid var(--color-dark);
-    font-variation-settings: "wght" var(--font-weight-blockquote, 600);
     margin-inline-start: 0; /* [1] */
     padding-inline-start: var(--flow-inset);
 }
