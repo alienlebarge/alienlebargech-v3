@@ -18,10 +18,12 @@ a {
     text-decoration-color: currentColor;
     text-decoration-skip-ink: auto;
     text-underline-offset: .1em;
+    transition: var(--transition-short);
 }
 
 a:hover {
     text-decoration: none;
+    text-decoration-color: rgba(255, 255, 255, 0);
 }
 
 /**

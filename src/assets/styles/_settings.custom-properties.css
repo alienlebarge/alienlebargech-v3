@@ -154,7 +154,7 @@
 
 :root {
     /* Animation */
-    --transition-short: .15s;
+    --transition-short: 150ms;
 }
 
 
