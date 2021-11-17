@@ -1,4 +1,4 @@
-{% macro image(src, alt, settings, appUrl) %}
+{% macro image(src, alt, settings, appUrl, styleModifier) %}
 
 {%- set sizes = settings.sizes -%}
 
@@ -35,7 +35,13 @@
 
 
 
+{%- set style -%}
+    u-photo{% if styleModifier %} {{ styleModifier }}{%- endif -%}
+{%- endset -%}
+
+
+
 {# Output #}
-<img src="{{ src }}" class="u-photo" srcset="{{ srcset }}" sizes="{{ settings.sizes }}" alt="{{ alt }}" loading="lazy">
+<img src="{{ src }}" class="{{ style }}" srcset="{{ srcset }}" sizes="{{ settings.sizes }}" alt="{{ alt }}" loading="lazy">
 
 {% endmacro %}

@@ -1,9 +1,9 @@
 {%- import 'image.njk' as image -%}
 
 <article class="c-item-photo">
-    <a href="{{ item.url | url }}">
-        <figure class="c-item-photo__figure">
-        {{ image.image(item.data.photo[0].url, item.data.photo[0].alt, settings=srcsets.grid, appUrl=app.url) }}
+    <a href="{{ item.url | url }}" class="c-scale-hover">
+        <figure class="c-item-photo__figure c-scale-hover__container">
+        {{ image.image(item.data.photo[0].url, item.data.photo[0].alt, settings=srcsets.grid, appUrl=app.url, styleModifier="c-scale-hover__item") }}
 
         {# Check if there is more image #}
         {% if item.data.photo | length > 1 %}

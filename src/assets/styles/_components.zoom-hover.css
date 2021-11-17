@@ -1,0 +1,30 @@
+/* ==========================================================================
+   #ZOOM-HOVER
+   ========================================================================== */
+
+.c-scale-hover {
+    --scale: 1.085;
+}
+
+.c-scale-hover .c-scale-hover__item,
+.c-scale-hover .c-scale-hover__container {
+    transition: transform var(--transition-short);
+}
+
+.c-scale-hover .c-scale-hover__container {
+    overflow: hidden;
+}
+
+.c-scale-hover .c-scale-hover__item {
+    transform: scale(var(--scale));
+}
+
+.c-scale-hover:hover .c-scale-hover__container,
+.c-scale-hover:focus .c-scale-hover__container {
+    transform: scale(var(--scale));
+}
+
+.c-scale-hover:hover .c-scale-hover__item,
+.c-scale-hover:focus .c-scale-hover__item {
+    transform: scale(1);
+}
