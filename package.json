@@ -66,7 +66,7 @@
     "@alienlebarge/stylelint-config": "^3.1.5",
     "chokidar-cli": "^3.0.0",
     "eslint-plugin-import": "^2.25.3",
-    "eslint-plugin-jsdoc": "^35.5.1",
+    "eslint-plugin-jsdoc": "^37.0.3",
     "lodash": "^4.17.21",
     "markdownlint-cli": "^0.29.0",
     "node-fetch": "^2.6.6",
