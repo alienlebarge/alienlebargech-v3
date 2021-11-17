@@ -1,0 +1,12 @@
+/* ==========================================================================
+   #ZOOM-HOVER
+   ========================================================================== */
+
+.c-scale-hover .c-scale-hover__item {
+    transition: transform var(--transition-short);
+}
+
+.c-scale-hover:hover .c-scale-hover__item,
+.c-scale-hover:focus .c-scale-hover__item {
+    transform: scale(1.1);
+}
