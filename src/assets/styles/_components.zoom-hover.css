@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .c-scale-hover {
-    --scale: 1.085;
+    --scale: 1.1;
 }
 
 .c-scale-hover .c-scale-hover__item,
@@ -15,16 +15,24 @@
     overflow: hidden;
 }
 
-.c-scale-hover .c-scale-hover__item {
+.c-scale-hover:hover .c-scale-hover__item {
     transform: scale(var(--scale));
 }
 
-.c-scale-hover:hover .c-scale-hover__container,
-.c-scale-hover:focus .c-scale-hover__container {
-    transform: scale(var(--scale));
+.c-scale-hover .c-scale-hover__container::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    background-color: transparent;
+    left: 0;
+    right: 0;
+    height: 0;
+    transition: all var(--transition-short);
+    margin-inline: var(--step-0);
 }
 
-.c-scale-hover:hover .c-scale-hover__item,
-.c-scale-hover:focus .c-scale-hover__item {
-    transform: scale(1);
+.c-scale-hover:hover .c-scale-hover__container::after,
+.c-scale-hover:active .c-scale-hover__container::after {
+    background-color: var(--color-dark);
+    height: var(--border-width-thickest);
 }
