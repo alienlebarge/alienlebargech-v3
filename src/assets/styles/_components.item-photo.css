@@ -8,8 +8,8 @@
 
 .c-item-photo__figcaption {
     position: absolute;
-    right: var(--step--2);
-    bottom: var(--step--2);
+    right: var(--step--1);
+    bottom: var(--step--1);
 
     color: var(--color-dark);
 
