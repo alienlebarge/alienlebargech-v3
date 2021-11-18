@@ -32,6 +32,9 @@
     "url": "https://github.com/alienlebarge/alienlebargech-v3/issues"
   },
   "homepage": "https://github.com/alienlebarge/alienlebargech-v3#readme",
+  "engines": {
+    "npm": "^8.1.0"
+  },
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@remy/webmention": "^1.4.5",
