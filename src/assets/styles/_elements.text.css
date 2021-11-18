@@ -21,7 +21,8 @@ a {
     transition: all var(--transition-short);
 }
 
-a:hover {
+a:hover,
+a:active {
     text-decoration-color: transparent;
 }
 
