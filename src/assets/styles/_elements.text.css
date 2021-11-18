@@ -46,7 +46,7 @@ a[rel="external"]::after {
 
     font-size: var(--font-size);
 
-    background-image: url(../vectors/arrow-tr.svg);
+    background-image: url("../vectors/arrow-tr.svg");
     background-size: cover;
 
     content: " ";
