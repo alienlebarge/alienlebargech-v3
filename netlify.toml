@@ -1,6 +1,9 @@
-[context.production]
+
+[context.production.environment]
+    ELEVENTY_ENV = "production"
+    NODE_ENV = "production"
+    NODE_VERSION = "17"
     TZ = "Europe/Zurich"
-    NODE_VERSION = "16"
 
 # 404s
 [[redirects]]
