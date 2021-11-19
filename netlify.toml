@@ -1,5 +1,6 @@
 [context.production]
     TZ = "Europe/Zurich"
+    NODE_VERSION = "16"
 
 # 404s
 [[redirects]]
