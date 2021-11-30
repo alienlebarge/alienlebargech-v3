@@ -11,6 +11,9 @@
 @supports (width: min(var(--grid-content-width), 100%)) {
 
     .o-grid {
-        grid-template-columns: repeat(auto-fit, minmax(min(var(--grid-content-width), 100%), 1fr));
+        grid-template-columns: repeat(
+            auto-fit,
+            minmax(min(var(--grid-content-width), 100%), 1fr)
+        );
     }
 }

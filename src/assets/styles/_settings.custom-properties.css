@@ -7,7 +7,9 @@
    #Scale
    ----------------------------------- */
 
+/* stylelint-disable max-line-length, comment-empty-line-before */
 /* @link https://utopia.fyi/type/calculator?c=320,16,1.2,1140,24,1.333,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
+/* stylelint-enable max-line-length, comment-empty-line-before */
 
 :root {
     --step--5: clamp(.4rem, .42rem + -.09vw, .36rem);
