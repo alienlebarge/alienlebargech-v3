@@ -57,8 +57,6 @@
    ----------------------------------- */
 
 :root {
-    --font-family-display: "UntitledSerifDisplay", serif;
-    --font-family-serif: "UntitledSerif", serif;
     --font-family-sans: "Untitled", sans-serif;
     --font-family-system: system-ui;
     --font-family-monospace: "UntitledMono", monospace;
