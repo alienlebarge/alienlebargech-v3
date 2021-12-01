@@ -1,0 +1,8 @@
+{
+    "title": "",
+    "layout": "reply.njk",
+    "permalink": "replies/{{ page.fileSlug }}/",
+    "tags": ["post", "reply"],
+    "type": "reply",
+    "vocab": ["entry"]
+  }
