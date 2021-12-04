@@ -6,8 +6,8 @@ category:
   - interview
   - video
 bookmark-of: https://www.youtube.com/watch?v=9f79VPczgdM
-mp-syndicate-to:
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://twitter.com/alienlebarge/status/1467239600481570826
 ---
 Super interview d'un mec que j'aime beaucoup.
 
