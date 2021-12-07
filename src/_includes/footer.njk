@@ -46,7 +46,7 @@
                         u-width:fit-content">
                 <dt>In reply to a post on</dt>
                 <dd>
-                    <a{% if vocab %} class="u-url"{% endif %}
+                    <a{% if vocab %} class="u-in-reply-to"{% endif %}
                         href="{{ inReplyTo }}" rel="external">
                         {{- inReplyTo | syndication_target -}}
                     </a>
