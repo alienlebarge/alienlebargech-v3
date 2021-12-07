@@ -19,7 +19,7 @@
         {%- endif %}
         {% if date -%}
         <dt class="u-visually-hidden">Published on</dt>
-        <dd class="">
+        <dd>
             <a{% if vocab %} class="u-url"{% endif %} href="{{ page.url | url }}">
                 <time class="dt-published c-background__text"
                       datetime="{{ date | date(dates.iso) }}">{{ date | date(dates.datetime_full) }}</time>
@@ -27,15 +27,30 @@
         </dd>
         {%- endif %}
         {% if syndication -%}
-        <div class="o-cluster">
-                <dt class="u-visually-hidden">Also on</dt>
+            <div class="[ o-cluster o-cluster--step--3 ]
+                        c-background__text
+                        u-width:fit-content">
+                <dt>Also on</dt>
                 {% for item in syndication %}
                 <dd>
-                    <a{% if vocab %} class="c-background__text u-url"{% endif %} href="{{ item }}" rel="external">
+                    <a{% if vocab %} class="u-url"{% endif %} href="{{ item }}" rel="external">
                         {{- item | syndication_target -}}
                     </a>
                 </dd>
                 {% endfor %}
+        </div>
+        {%- endif %}
+        {% if inReplyTo -%}
+            <div class="[ o-cluster o-cluster--step--3 ]
+                        c-background__text
+                        u-width:fit-content">
+                <dt>In reply to a post on</dt>
+                <dd>
+                    <a{% if vocab %} class="u-url"{% endif %}
+                        href="{{ inReplyTo }}" rel="external">
+                        {{- inReplyTo | syndication_target -}}
+                    </a>
+                </dd>
         </div>
         {%- endif %}
     </dl>

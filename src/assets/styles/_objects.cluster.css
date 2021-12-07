@@ -14,6 +14,12 @@
     --cluster__space: var(--step--2);
 }
 
+.o-cluster.o-cluster--step--3 {
+    --cluster__space: var(--step--3);
+}
+
+
+
 
 
 .o-cluster {
