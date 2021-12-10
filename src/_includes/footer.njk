@@ -36,6 +36,8 @@
                     <a{% if vocab %} class="u-url"{% endif %} href="{{ item }}" rel="external">
                         {{- item | syndication_target -}}
                     </a>
+                    {%- if loop.revindex == 2 %}<span aria-hidden="true"> and</span>
+                    {%- elif not loop.last -%}<span aria-hidden="true">,</span>{%- endif -%}
                 </dd>
                 {% endfor %}
         </div>
