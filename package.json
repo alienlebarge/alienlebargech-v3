@@ -6,12 +6,10 @@
     "prebuild": "rm -rf www && mkdir -p www/assets",
     "build:files": "eleventy --config=lib/eleventy.config.js",
     "build:styles": "postcss src/assets/styles/style.css -o www/assets/styles/style.css --config lib/postcss.config.js",
-    "build:vectors": "svgo -f src/assets/vectors -o www/assets/vectors",
     "build": "npm-run-all build:*",
     "postbuild": "webmention www/feed.xml --limit 1 --send",
     "watch:files": "eleventy --config=lib/eleventy.config.js --quiet --serve",
     "watch:styles": "chokidar \"src/assets/styles/*.*\" -c \"npm run build:styles\" --initial",
-    "watch:vectors": "chokidar \"src/assets/vectors/*.*\" -c \"npm run build:vectors\" --initial",
     "watch": "npm-run-all --parallel watch:*",
     "lint:markdown": "markdownlint src/**/*.md",
     "lint:styles": "stylelint src/**/*.css",
@@ -59,7 +57,6 @@
     "postcss-media-minmax": "^5.0.0",
     "postcss-selector-matches": "^4.0.0",
     "sanitize-html": "^2.6.0",
-    "svgo": "^2.8.0",
     "uslug": "^1.0.4"
   },
   "devDependencies": {

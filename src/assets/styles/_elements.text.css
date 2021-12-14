@@ -30,6 +30,8 @@ a:active {
  * Instead of using a `class="is-current"`, there is an accessible way of doing
  * it.
  * https://tink.uk/using-the-aria-current-attribute/
+ *
+ * 1. Remove underline
  */
 
 a[aria-current] {
@@ -38,19 +40,13 @@ a[aria-current] {
 }
 
 a[rel="external"]::after {
-    --font-size: .5em;
-    --size: 1em;
-    display: inline-block;
-    width: var(--size);
-    height: var(--size);
+    --font-size: .69em;
+    display: inline-block; /* [1] */
 
     font-size: var(--font-size);
 
-    background-image: url("../vectors/arrow-tr.svg");
-    background-size: cover;
-
-    content: " ";
-    margin-inline-start: calc(.5 * var(--font-size));
+    content: "↗";
+    margin-inline-start: calc(.25 * var(--font-size));
     vertical-align: super;
 }
 
