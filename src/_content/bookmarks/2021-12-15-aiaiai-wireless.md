@@ -8,6 +8,7 @@ category:
 bookmark-of: https://aiaiai.audio/headphones/wireless-plus
 syndication:
   - https://twitter.com/alienlebarge/status/1471232286108569609
+  - https://mastodon.alienlebarge.ch/@alienlebarge/107453099040854257
 ---
 I was a happy owner of two TMA-1. I used them at work when coding and at home for Djing. I broke both headbands due to having a big head. I was almost to the point to buy a third one but I tested the Bose QuietComfort 35. It was a revelation how wireless let you be free. I have never thought it would be such a massive change for me. I bought the Bose and go back to my trusted 20-year-old Senheiser HD-25 for DJing and now Berhinger DT770 Pro for music production simply because there's no wireless solution for the studio.
 
