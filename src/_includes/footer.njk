@@ -27,19 +27,19 @@
         </dd>
         {%- endif %}
         {% if syndication -%}
-            <div class="[ o-cluster o-cluster--step--3 ]
-                        c-background__text
-                        u-width:fit-content">
-                <dt>Also on</dt>
-                {% for item in syndication %}
-                <dd>
-                    <a{% if vocab %} class="u-url"{% endif %} href="{{ item }}" rel="external">
-                        {{- item | syndication_target -}}
-                    </a>
-                    {%- if loop.revindex == 2 %}<span aria-hidden="true"> and</span>
-                    {%- elif not loop.last -%}<span aria-hidden="true">,</span>{%- endif -%}
-                </dd>
-                {% endfor %}
+        <div class="[ o-cluster o-cluster--step--3 ]
+                    c-background__text
+                    u-width:fit-content">
+            <dt>Also on</dt>
+            {% for item in syndication %}
+            <dd>
+                <a{% if vocab %} class="u-url"{% endif %} href="{{ item }}" rel="external">
+                    {{- item | syndication_target -}}
+                </a>
+                {%- if loop.revindex == 2 %}<span aria-hidden="true"> and</span>
+                {%- elif not loop.last -%}<span aria-hidden="true">,</span>{%- endif -%}
+            </dd>
+            {% endfor %}
         </div>
         {%- endif %}
         {% if inReplyTo -%}
