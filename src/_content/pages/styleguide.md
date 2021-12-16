@@ -103,9 +103,8 @@ p q r s t u v w x y z { | } ~
 
 The `blockquote` element represents a section that is being quoted from another source.
 
-> Big Yellow Taxi there by Joni Mitchell, a song in which she complains that they 'paved paradise to put up a parking lot' -- a measure which actually would have alleviated traffic congestion on the outskirts of paradise. Something which Joni singularly fails to point out, perhaps because it doesn't quite fit in with her blinkered view of the world.
->
-> Nevertheless, nice song.
+> Life is too short to not have fun; we are only here for a short time compared to the sun and the moon and all that.
+> — Coolio
 
 ### Ordered list
 
