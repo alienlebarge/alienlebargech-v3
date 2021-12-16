@@ -13,7 +13,7 @@
             <meta property="og:image" content="https://res.cloudinary.com/alienlebarge/image/fetch/w_1200,h_630,c_fill,g_auto,q_auto,f_auto/{{ app.url }}{{ image }}">
             <meta name="twitter:card" content="summary_large_image">
         {%- elif photo %}
-            <meta property="og:image" content="https://res.cloudinary.com/alienlebarge/image/fetch/w_1200,h_630,c_fill,g_auto,q_auto,f_auto/{{ photo[0].url }}">
+            <meta property="og:image" content="https://res.cloudinary.com/alienlebarge/image/fetch/w_1200,h_630,c_fill,g_auto,q_auto,f_auto/{{ app.url }}{{ photo[0].url }}">
             <meta name="twitter:card" content="summary_large_image">
         {%- else %}
             <meta property="og:image" content="{{ app.url }}{{ app.icon }}">
