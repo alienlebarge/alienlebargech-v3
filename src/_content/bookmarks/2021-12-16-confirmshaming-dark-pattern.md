@@ -2,8 +2,8 @@
 date: 2021-12-16T20:34:10.447+01:00
 title: Confirmshaming dark pattern
 bookmark-of: https://confirmshaming.tumblr.com/post/173063603175/the-very-own-turn-off-your-ad-block-message
-mp-syndicate-to:
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://twitter.com/alienlebarge/status/1471564691105361925
 ---
 This is rude !
 
