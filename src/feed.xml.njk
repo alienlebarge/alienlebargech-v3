@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 permalink: feed.xml
 ---
 {%- import 'image.njk' as image -%}
@@ -24,19 +25,22 @@ permalink: feed.xml
             <id>{{ app.url }}{{ item.url }}</id>
             {% if item.data.title %}<title>{{ item.data.title | safe }}</title>{% endif %}
             <updated>{{ item.date | date(dates.iso) }}</updated>
+            {% if item.data.url %}
+            <link href="{{ item.data.url }}" rel="alternate" type="text/html"/>
+            <link href="{{ app.url }}{{ item.url }}" rel="related" type="text/html"/>
+            {% elif item.data.inReplyTo %}
+            <link href="{{ item.data.inReplyTo }}" rel="alternate" type="text/html"/>
+            <link href="{{ app.url }}{{ item.url }}" rel="related" type="text/html"/>
+            {% else %}
             <link href="{{ app.url }}{{ item.url }}" rel="alternate" type="text/html"/>
+            {% endif %}
             <content type="html"><![CDATA[
-                {%- set content_html -%}
-                {%- if item.data.type == "like" -%}
-                    <p>like <a href="{{ item.data.bookmarkOf }}"
-                                class="u-like-of">{{ item.data.bookmarkOf }}</a></p>
-                {%- else -%}
-                    {{- item.templateContent | strip_mentions | safe -}}
-                    {%- if item.data.photo -%}
-                        {%- for item in item.data.photo -%}
-                            {{- image.image(item.url, item.alt, settings=srcsets.default, appUrl=app.url) -}}
-                        {%- endfor -%}
-                    {%- endif -%}
+            {%- set content_html -%}
+                {{- item.templateContent | strip_mentions | safe -}}
+                {%- if item.data.photo -%}
+                    {%- for item in item.data.photo -%}
+                        {{- image.image(item.url, item.alt, settings=srcsets.default) -}}
+                    {%- endfor -%}
                 {%- endif -%}
             {%- endset -%}
             {{- content_html | safe -}}

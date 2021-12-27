@@ -107,7 +107,7 @@
  *     we do not want to override it.
  */
 
-.o-prose > *:not(img):not(figure):not(table):not(.o-frame) {
+.o-prose > *:not(table):not(.o-frame) {
     max-inline-size: var(--line-measure); /* [1] */
 }
 
