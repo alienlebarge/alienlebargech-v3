@@ -1,0 +1,16 @@
+/* ==========================================================================
+   #SCRIPT-TEXT
+   ========================================================================== */
+
+.c-script-text :nth-child(3n) .c-script-text__item {
+    transform: rotate(1deg);
+}
+
+.c-script-text :nth-child(3n+2) .c-script-text__item {
+    transform: rotate(359deg);
+}
+
+.c-script-text__item {
+    font-family: var(--font-family-script);
+    text-transform: lowercase;
+}

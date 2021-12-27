@@ -1,7 +1,7 @@
 <article class="o-switcher o-separator c-item | h-cite" id="webmention-{{ webmention['wm-id'] }}">
     <div class="o-switcher__container">
 
-        <div class="[ o-switcher__item o-switcher__item--big ] c-item__main o-prose | p-content">
+        <div class="[ o-switcher__item o-switcher__item--big ] c-item__main c-script-text__item o-prose | p-content">
             <p>
             {% if webmention.content.html %}
                 {{ webmention.content.html | safe }}

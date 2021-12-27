@@ -61,6 +61,7 @@
 :root {
     --font-family-sans: "Untitled", sans-serif;
     --font-family-system: system-ui;
+    --font-family-script: "UntitledScript", script;
     --font-family-monospace: "UntitledMono", monospace;
     --font-size-title: var(--step-4);
     --font-size-lede: var(--step-2);

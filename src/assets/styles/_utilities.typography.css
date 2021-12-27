@@ -43,6 +43,10 @@
     font-variation-settings: "wght" 700 !important;
 }
 
+.u-font-family\:script {
+    font-family: var(--font-family-script) !important;
+}
+
 .u-font-family\:monospace {
     font-family: var(--font-family-monospace) !important;
 }
