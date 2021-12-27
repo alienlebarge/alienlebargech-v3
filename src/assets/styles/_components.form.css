@@ -25,6 +25,7 @@
 
     font-style: italic;
     font-family: var(--font-family-monospace);
+    line-height: var(--line-height-body);
     color: var(--color-dark);
 
     background-color: var(--color-light);
