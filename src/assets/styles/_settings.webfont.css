@@ -21,9 +21,9 @@
    ------------------------------------- */
 
 @font-face {
+    font-weight: 400;
     font-family: UntitledScript;
     font-display: swap;
-    font-weight: 400;
     src: url("../fonts/UntitledScript-Regular.woff2") format("woff2");
 }
 
