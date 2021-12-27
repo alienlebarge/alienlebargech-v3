@@ -26,11 +26,13 @@ permalink: feed.xml
             {% if item.data.title %}<title>{{ item.data.title | safe }}</title>{% endif %}
             <updated>{{ item.date | date(dates.iso) }}</updated>
             {% if item.data.url %}
-            <link href="{{ app.url }}{{ item.url }}" rel="alternate" type="text/html"/>
-            {% elsif item.data.in_reply_to %}
-            <link rel="alternate" href="{{ item.data.in_reply_to }}" type="text/html"/>
+            <link href="{{ item.data.url }}" rel="alternate" type="text/html"/>
+            <link href="{{ app.url }}{{ item.url }}" rel="related" type="text/html"/>
+            {% elif item.data.inReplyTo %}
+            <link href="{{ item.data.inReplyTo }}" rel="alternate" type="text/html"/>
+            <link href="{{ app.url }}{{ item.url }}" rel="related" type="text/html"/>
             {% else %}
-            <link rel="alternate" href="{{ item.url | absolute_url: app.url }}" type="text/html"/>
+            <link href="{{ app.url }}{{ item.url }}" rel="alternate" type="text/html"/>
             {% endif %}
             <content type="html"><![CDATA[
             {%- set content_html -%}
