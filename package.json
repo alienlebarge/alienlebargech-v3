@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/alienlebarge/alienlebargech-v3#readme",
   "dependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-cache-assets": "^2.3.0",
     "@remy/webmention": "^1.4.5",
     "autoprefixer": "^10.4.2",
