@@ -59,7 +59,7 @@
    ----------------------------------- */
 
 :root {
-    --font-family-sans: "Untitled", sans-serif;
+    --font-family-sans: "Untitled", system-ui;
     --font-family-system: system-ui;
     --font-family-script: "UntitledScript", script;
     --font-family-monospace: "UntitledMono", monospace;
