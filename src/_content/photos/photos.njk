@@ -7,7 +7,7 @@ pagination:
     size: 30
 layout: index.njk
 type: index
-tags: false
+override:tags: []
 ---
 {% import 'list-items.njk' as list with context %}
 {{ list.gridItems(pagination.items) }}

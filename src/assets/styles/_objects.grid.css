@@ -2,7 +2,6 @@
    #GRID
    ========================================================================== */
 
-
 .o-grid {
     display: grid;
     grid-gap: var(--grid-gap);
@@ -13,7 +12,8 @@
     .o-grid {
         grid-template-columns: repeat(
             auto-fit,
-            minmax(min(var(--grid-content-width), 100%), 1fr)
+            minmax(min(var(--grid-content-width), 100%),
+            1fr)
         );
     }
 }
