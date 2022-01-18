@@ -10,7 +10,7 @@
     --d: 16;
     position: relative;
 
-    padding-bottom: calc(var(--n) / var(--d) * 100%);
+    padding-block-end: calc(var(--n) / var(--d) * 100%);
 }
 
 .o-frame > * {
