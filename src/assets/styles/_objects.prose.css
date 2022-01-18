@@ -8,7 +8,7 @@
 
 .o-prose {
     --space: var(--step-3);
-    --flow-inset: 1.5em;
+    --flow-inset: var(--inset);
     --anchor-decoration: underline;
     font-size: var(--font-size-body);
     font-weight: var(--font-weight-body, inherit);
