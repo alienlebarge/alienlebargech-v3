@@ -1,29 +1,27 @@
-<article class="o-switcher c-item | h-entry" data-type="articles">
-    <div class="o-switcher__container">
-        <div class="o-stack o-stack--step-0 o-switcher__item o-switcher__item--big">
-            {%- if item.data.title -%}
-            <header class="o-stack c-item__header">
-                <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
-            </header>
-            {%- endif -%}
+<article class="o-switcher [ o-stack o-stack--step--2 ] c-item | h-entry" data-type="articles">
+    <div class="[ o-switcher__item o-switcher__item--big ] o-stack o-prose | e-content p-name">
+        {%- if item.data.title -%}
+        <header class="o-stack c-item__header">
+            <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
+        </header>
+        {%- endif -%}
 
-            {%- if item.data.summary or item.data.description -%}
-            <div class="o-prose c-item__main | e-content p-summary">
-                <p>
-                {%- if item.data.summary -%}
-                {{ item.data.summary }}
-                {%- elif item.data.description -%}
-                {{ item.data.description }}
-                {%- endif -%}
-                </p>
-            </div>
+        {%- if item.data.summary or item.data.description -%}
+        <div class="o-prose c-item__main | e-content p-summary">
+            <p>
+            {%- if item.data.summary -%}
+            {{ item.data.summary }}
+            {%- elif item.data.description -%}
+            {{ item.data.description }}
             {%- endif -%}
+            </p>
         </div>
-
-        {%- if item.data.date -%}
-        <footer class="o-switcher__item c-item__footer">
-            <p><time datetime="{{ item.data.date | date }}">{{ item.data.date | date("DD MMM YYYY") }}</time></p>
-        </footer>
         {%- endif -%}
     </div>
+
+    {%- if item.data.date -%}
+    <footer class="o-switcher__item c-item__footer">
+        <p><time datetime="{{ item.data.date | date }}">{{ item.data.date | date("DD MMM YYYY") }}</time></p>
+    </footer>
+    {%- endif -%}
 </article>

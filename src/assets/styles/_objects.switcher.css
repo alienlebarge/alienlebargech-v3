@@ -3,23 +3,17 @@
    ========================================================================== */
 
 .o-switcher {
-    --step-1: var(--step--2);
     --measure: var(--line-measure);
-}
 
-.o-switcher__container {
     display: flex;
-
-    margin: calc((var(--step-1) / 2) * -1);
-    align-items: baseline;
     flex-wrap: wrap;
+    gap: var(--step--2);
+    align-items: baseline;
 }
 
 .o-switcher__item {
     flex-grow: 1;
-    flex-basis: calc((var(--measure) - (100% - var(--step-1))) * 999);
-
-    margin: calc(var(--step-1) / 2);
+    flex-basis: calc((var(--measure) - 100%) * 999);
 }
 
 .o-switcher__item--big {
@@ -27,8 +21,8 @@
 }
 
 /* stylelint-disable selector-max-compound-selectors */
-.o-switcher > * > :nth-last-child(n+4),
-.o-switcher > * > :nth-last-child(n+4) ~ * {
+.o-switcher > * > :nth-last-child(n+5),
+.o-switcher > * > :nth-last-child(n+5) ~ * {
     flex-basis: 100%;
 }
 /* stylelint-enable */
