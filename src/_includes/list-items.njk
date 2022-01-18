@@ -23,13 +23,13 @@
 {% macro gridItems(items) %}
 
 {%- set image_preset = "thumbnail" -%}
-<ul class="[ c-container c-container--big ]">
-    <div class="o-grid">
+<div class="[ c-container c-container--big ]">
+    <ul class="o-grid">
         {%- for item in items -%}
         <li>
         {%- include 'item/' + item.data.type + '.njk' -%}
         </li>
         {%- endfor -%}
-    </div>
-</ul>
+    </ul>
+</div>
 {% endmacro %}
