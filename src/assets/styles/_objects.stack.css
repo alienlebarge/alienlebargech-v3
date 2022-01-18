@@ -8,6 +8,12 @@
  * 1. define different sizes
  */
 
+ .o-stack {
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+ }
+
 .o-stack > * {
     margin-block: 0;
 }
