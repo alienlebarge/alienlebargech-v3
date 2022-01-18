@@ -6,9 +6,9 @@
     --measure: var(--line-measure);
 
     display: flex;
+    align-items: baseline;
     flex-wrap: wrap;
     gap: var(--step--2);
-    align-items: baseline;
 }
 
 .o-switcher__item {
