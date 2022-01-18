@@ -11,8 +11,8 @@
  */
 
 .o-list-bare {
-    margin-inline-start: 0;
     list-style: none;
+    margin-inline-start: 0;
 }
 
 .o-list-bare__item {

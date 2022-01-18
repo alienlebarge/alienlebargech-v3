@@ -3,14 +3,42 @@
    ========================================================================== */
 
 .o-box {
-    display: block;
+    --padding-inline: var(--step-0);
+    --padding-block: var(--step-0);
+    color: var(--color-dark);
+
+    background-color: var(--color-light);
+    padding-block: var(--padding-block);
+    padding-inline: var(--padding-inline);
 }
 
-.o-box--step-0 {
-    padding: var(--step-0);
+.o-box * {
+    color: inherit;
 }
 
-.o-box--step-1 {
-    padding: var(--step-1);
+
+
+.o-box.o-box--invert {
+    /* ↓ Dark becomes light, and light becomes dark */
+    color: var(--color-light);
+
+    background-color: var(--color-dark);
 }
 
+
+
+.o-box.o-box--step-1 {
+    --padding-inline: var(--step-1);
+    --padding-block: var(--step-1);
+}
+
+
+
+.o-box.o-box--container {
+    --padding-inline: 5vw;
+}
+
+.o-box.o-box--container-big {
+    --padding-inline: 5vw;
+    --padding-block: var(--step-4);
+}
