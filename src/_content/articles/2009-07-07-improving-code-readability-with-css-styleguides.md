@@ -10,7 +10,7 @@ tags:
 - Design
 - Layout
 - Programmation
-- Web
+- web
 status: publish
 published: true
 meta:

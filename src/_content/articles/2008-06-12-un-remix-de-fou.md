@@ -4,7 +4,7 @@ title: Un remix de fou
 categories:
 - Musique
 tags:
-- Music
+- music
 - Radiohead
 - Remix
 status: publish

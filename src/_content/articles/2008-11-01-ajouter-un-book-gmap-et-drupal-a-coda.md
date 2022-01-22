@@ -5,7 +5,7 @@ title: Ajouter un 'book' Gmap et Drupal à Coda
 categories:
 - Logiciel
 tags:
-- Book
+- book
 - Coda
 - Code
 - Livre

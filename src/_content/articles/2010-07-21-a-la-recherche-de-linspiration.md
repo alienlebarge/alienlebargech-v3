@@ -10,7 +10,7 @@ tags:
 - Internet
 - MJOR
 - Refonte
-- Web
+- web
 status: publish
 published: true
 meta:

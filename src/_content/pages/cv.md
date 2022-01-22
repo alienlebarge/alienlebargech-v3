@@ -19,7 +19,7 @@ Dans l'équipe en charge des CMS web, je m'occupe de tous le dévelopement front
 Le CMS utilisé à l'Etat de de Vaud est TYPO3. Le site faitier compte environ 20'000 pages.
 
 - Lead developer on "foehn", the government design system.
-- Accessibility specialist
+- accessibility specialist
 - TYP03 CMS administration, integration and templating
 - HTML email
 - Solr

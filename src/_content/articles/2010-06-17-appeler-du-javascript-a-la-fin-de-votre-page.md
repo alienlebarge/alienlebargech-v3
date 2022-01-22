@@ -12,7 +12,7 @@ tags:
 - Snippet
 - Typo3
 - TypoScript
-- Web
+- web
 status: publish
 published: true
 meta:

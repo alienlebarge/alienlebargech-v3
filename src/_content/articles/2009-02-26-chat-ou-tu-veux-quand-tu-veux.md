@@ -6,7 +6,7 @@ categories:
 tags:
 - Internet
 - Messagerie
-- Web
+- web
 status: publish
 published: true
 meta:

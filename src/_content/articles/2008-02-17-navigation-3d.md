@@ -6,7 +6,7 @@ categories:
 tags:
 - Ergonomie
 - Interface
-- Web
+- web
 status: publish
 published: true
 meta:

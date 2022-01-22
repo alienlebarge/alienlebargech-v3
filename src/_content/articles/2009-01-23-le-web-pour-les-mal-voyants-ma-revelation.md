@@ -10,7 +10,7 @@ tags:
 - Braille
 - Internet
 - Mal voyant
-- Web
+- web
 status: publish
 published: true
 meta:

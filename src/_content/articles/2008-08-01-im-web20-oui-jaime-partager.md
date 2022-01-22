@@ -11,8 +11,8 @@ tags:
 - Internet
 - Last.fm
 - Personnel
-- Web
-- Web2.0
+- web
+- web2.0
 status: publish
 published: true
 meta:

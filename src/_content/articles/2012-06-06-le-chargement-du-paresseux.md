@@ -13,7 +13,7 @@ tags:
 - Paresseux
 - Plugin
 - Responsive
-- Web
+- web
 status: publish
 published: true
 meta:

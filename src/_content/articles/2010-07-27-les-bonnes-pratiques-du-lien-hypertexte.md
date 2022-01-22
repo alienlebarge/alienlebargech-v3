@@ -11,7 +11,7 @@ tags:
 - Internet
 - Liens
 - Référencement
-- Web
+- web
 status: publish
 published: true
 meta:

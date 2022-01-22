@@ -6,7 +6,7 @@ categories:
 tags:
 - Icône
 - iPod Touch
-- Webclip
+- webclip
 status: publish
 published: true
 meta:
