@@ -136,13 +136,14 @@
    ----------------------------------- */
 
 :root {
-    --grid-gap: var(--step-0);
-    --grid-content-width: 100%;
+    --grid-gap: var(--step--5);
+    --grid-content-width: var(--step-9);
 }
 
 @media (--from-small-viewport) {
 
     :root {
+        --grid-gap: var(--step-0);
         --grid-content-width: var(--step-8);
     }
 }
