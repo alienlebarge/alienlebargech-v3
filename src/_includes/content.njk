@@ -1,5 +1,5 @@
 <div class="[ o-box o-box--container-big ] o-prose{% if vocab %} | e-content{% if type == "note" %} p-name{% endif %}{% endif %}">
-
+    {{ content | safe }}
     {# add photo if there is any #}
     {%- if photo %}
         {%- import 'image.njk' as image -%}
@@ -12,6 +12,4 @@
         </figure>
         {%- endfor -%}
     {%- endif %}
-
-    {{ content | safe }}
 </div>
