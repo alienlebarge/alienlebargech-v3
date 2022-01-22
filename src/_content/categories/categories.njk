@@ -1,0 +1,17 @@
+---
+title: Categories
+summary: Categorized or labeled content
+permalink: categories/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html
+pagination:
+    data: collections.category
+    size: 1000
+layout: index.njk
+type: index
+override:tags: []
+---
+
+{% import 'list-items.njk' as list with context %}
+{{ list.inlineItems(pagination.items) }}
+
+{% import 'pagination.njk' as transverse %}
+{{ transverse.paginate(pagination, label='categories') }}

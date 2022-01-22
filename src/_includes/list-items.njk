@@ -20,6 +20,19 @@
 
 
 
+{% macro inlineItems(items, modifier) %}
+<ul class="{% if modifier %}{{ modifier }} {% endif %}[ o-box o-box--container-big ] o-cluster">
+    {%- for item in items | sort(case_sensitive=False) -%}
+    <li>
+        <a href="#">{{- item | capitalize -}}</a>
+         {%- include 'item/' + item.data.type + '.njk' -%}
+    </li>
+    {%- endfor -%}
+</ul>
+{% endmacro %}
+
+
+
 {% macro gridItems(items) %}
 
 {%- set image_preset = "grid" -%}
