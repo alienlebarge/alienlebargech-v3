@@ -24,8 +24,9 @@
 <ul class="{% if modifier %}{{ modifier }} {% endif %}[ o-box o-box--container-big ] o-cluster">
     {%- for item in items | sort(case_sensitive=False) -%}
     <li>
-        <a href="#">{{- item | capitalize -}}</a>
-         {%- include 'item/' + item.data.type + '.njk' -%}
+        <a class="p-category" rel="tag" href="/categories/{{ item | slugify }}">
+            {{- item | capitalize -}}
+        </a>
     </li>
     {%- endfor -%}
 </ul>
