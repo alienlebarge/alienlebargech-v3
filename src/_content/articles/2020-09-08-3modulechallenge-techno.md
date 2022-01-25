@@ -3,12 +3,12 @@ title: "3 module challenge - Quadrax and Qx vs BIA"
 summary: "Make techno"
 date: 2020-09-08 18:00:00
 tags:
-- 3modulechallenge
+- 3moduleschallenge
 category:
 - modular
 - music
 - eurorack
-- 3modulechallenge
+- 3moduleschallenge
 - patreon
 ---
 https://vimeo.com/455913876
