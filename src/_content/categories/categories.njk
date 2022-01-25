@@ -7,5 +7,6 @@ type: category
 override:tags: []
 ---
 
+{% set categories = collections.category %}
 {% import 'list-items.njk' as list with context %}
-{{ list.inlineItems(collections.category) }}
+{{ list.inlineItems(categories) }}
