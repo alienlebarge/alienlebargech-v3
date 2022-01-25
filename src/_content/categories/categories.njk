@@ -6,7 +6,7 @@ layout: index.njk
 type: category
 override:tags: []
 ---
-
+<p class="o-box o-box--container o-box--invert">List of all categories</p>
 {% set categories = collections.category %}
 {% import 'list-items.njk' as list with context %}
 {{ list.inlineItems(categories) }}
