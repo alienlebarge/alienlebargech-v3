@@ -4,6 +4,7 @@ summary: Responses to some other posts
 pagination:
   data: collections.reply
   size: 25
+  reverse: true
 permalink: replies/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber }}{% else %}index{% endif %}.html
 layout: index.njk
 type: index
