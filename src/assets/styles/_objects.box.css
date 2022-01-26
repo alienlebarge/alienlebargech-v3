@@ -15,7 +15,7 @@
     padding-inline: var(--box__padding-inline);
 }
 
-.o-box * {
+.o-box *:not(pre, code) {
     color: inherit;
 }
 
