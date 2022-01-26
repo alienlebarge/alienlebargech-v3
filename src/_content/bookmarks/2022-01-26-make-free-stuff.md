@@ -5,8 +5,8 @@ category:
   - web
   - web3
 bookmark-of: https://mxb.dev/blog/make-free-stuff/
-mp-syndicate-to:
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://twitter.com/alienlebarge/status/1486406259230355463
 ---
 He nails it !!!
 
