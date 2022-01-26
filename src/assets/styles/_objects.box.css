@@ -3,13 +3,16 @@
    ========================================================================== */
 
 .o-box {
-    --padding-inline: var(--step-0);
-    --padding-block: var(--step-0);
-    color: var(--color-dark);
+    --box__padding-inline: var(--step-0);
+    --box__padding-block: var(--step-0);
+    --box__color: var(--color-dark);
+    --box__background-color: var(--color-light);
 
-    background-color: var(--color-light);
-    padding-block: var(--padding-block);
-    padding-inline: var(--padding-inline);
+    color: var(--box__color);
+
+    background-color: var(--box__background-color);
+    padding-block: var(--box__padding-block);
+    padding-inline: var(--box__padding-inline);
 }
 
 .o-box * {
@@ -20,25 +23,24 @@
 
 .o-box.o-box--invert {
     /* ↓ Dark becomes light, and light becomes dark */
-    color: var(--color-light);
-
-    background-color: var(--color-dark);
+    --box__color: var(--color-light);
+    --box__background-color: var(--color-dark);
 }
 
 
 
 .o-box.o-box--step-1 {
-    --padding-inline: var(--step-1);
-    --padding-block: var(--step-1);
+    --box__padding-inline: var(--step-1);
+    --box__padding-block: var(--step-1);
 }
 
 
 
 .o-box.o-box--container {
-    --padding-inline: 5vw;
+    --box__padding-inline: 5vw;
 }
 
 .o-box.o-box--container-big {
-    --padding-inline: 5vw;
-    --padding-block: var(--step-4);
+    --box__padding-inline: 5vw;
+    --box__padding-block: var(--step-4);
 }
