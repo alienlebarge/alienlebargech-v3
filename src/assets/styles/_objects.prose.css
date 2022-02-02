@@ -32,6 +32,25 @@
     margin-block-start: var(--space);
 }
 
+
+
+/**
+ * Remove element with empty content
+ *
+ * 1. Remove empty paragraphs
+ * 2. Remove margin of the second element if the first one is an empty paragraph
+ */
+
+.o-prose > p:empty {
+    display: none; /* [1] */
+}
+
+.o-prose > p:empty:first-child + *{
+    margin-block-start: 0;
+}
+
+
+
 /**
  * Exceptions
  *
