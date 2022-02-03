@@ -22,25 +22,36 @@
 
 
 
+/* -----------------------------------
+   #BOX MODIFIER
+   ----------------------------------- */
+
+/***
+ * Dark becomes light, and light becomes dark
+ */
 .o-box--invert {
-    /* ↓ Dark becomes light, and light becomes dark */
     --box__color: var(--color-light);
     --box__background-color: var(--color-dark);
 }
 
-
-
+/***
+ * Bigger box
+ */
 .o-box--step-1 {
     --box__padding-inline: var(--step-1);
     --box__padding-block: var(--step-1);
 }
 
-
-
+/***
+ * Container box
+ */
 .o-box--container {
     --box__padding-inline: 5vw;
 }
 
+/***
+ * Bigger container box
+ */
 .o-box--container-big {
     --box__padding-inline: 5vw;
     --box__padding-block: var(--step-4);
