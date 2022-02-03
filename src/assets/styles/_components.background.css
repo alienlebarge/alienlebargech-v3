@@ -12,11 +12,11 @@
 .c-background__text {
     line-height: var(--line-height-loose);
 
-    background-color: var(--color-light);
-    padding: var(--inset-squished);
     /* stylelint-disable property-no-vendor-prefix */
     -webkit-box-decoration-break: clone; /* [1] */
     /* stylelint-enable */
     box-decoration-break: clone;
+
+    @extend %box--inset-squished, %box;
 }
 
