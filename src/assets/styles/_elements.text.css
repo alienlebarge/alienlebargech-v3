@@ -138,12 +138,13 @@ var {
 
 code {
     font-size: var(--font-size-smaller);
-    color: var(--color-light);
+
+    @extend %box--inset-small-squished, %box--invert, %box;
 }
 
-:not(pre) > code {
-    background-color: var(--color-dark);
-    padding: var(--inset-small-squished);
+pre > code {
+    --box__padding-inline: 0;
+    --box__padding-block: 0;
 }
 
 /**
@@ -162,7 +163,8 @@ samp {
     font-size: var(--font-size-smaller);
 
     border: var(--border-width-thin) solid var(--color-dark);
-    padding: var(--inset-small-squished);
+
+    @extend %box--inset-small-squished, %box;
 }
 
 

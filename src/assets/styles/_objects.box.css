@@ -2,20 +2,8 @@
    #BOX
    ========================================================================== */
 
-/***
- * Variable in use in .o-box are:
- *
- * --box__padding-inline
- * --box__padding-block
- * --box__color
- * --box__background-color;
- */
 .o-box {
-    color: var(--box__color, var(--color-dark));
-
-    background-color: var(--box__background-color, var(--color-light));
-    padding-block: var(--box__padding-block, var(--step-0));
-    padding-inline: var(--box__padding-inline, var(--step-0));
+    @extend %box;
 }
 
 
@@ -30,8 +18,7 @@
  * Dark becomes light, and light becomes dark
  */
 .o-box--invert {
-    --box__color: var(--color-light);
-    --box__background-color: var(--color-dark);
+    @extend %box--invert;
 }
 
 /***
@@ -55,4 +42,19 @@
 .o-box--container-big {
     --box__padding-inline: 5vw;
     --box__padding-block: var(--step-4);
+}
+
+/***
+ * Inset box
+ */
+.o-box--inset-squished {
+    @extend %box--inset-squished;
+}
+
+.o-box--inset-small-squished {
+    @extend %box--inset-small-squished;
+}
+
+.o-box--inset-large-squished {
+    @extend %box--inset-large-squished;
 }
