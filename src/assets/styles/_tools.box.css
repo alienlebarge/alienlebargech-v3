@@ -34,6 +34,10 @@
     --box__background-color: var(--color-dark);
 }
 
+%box--restore {
+    --box__color: var(--color-dark);
+    --box__background-color: var(--color-light);
+}
 
 
 
