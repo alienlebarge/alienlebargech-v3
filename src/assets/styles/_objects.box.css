@@ -2,26 +2,27 @@
    #BOX
    ========================================================================== */
 
+/***
+ * Variable in use in .o-box are:
+ *
+ * --box__padding-inline
+ * --box__padding-block
+ * --box__color
+ * --box__background-color;
+ */
 .o-box {
-    --box__padding-inline: var(--step-0);
-    --box__padding-block: var(--step-0);
-    --box__color: var(--color-dark);
-    --box__background-color: var(--color-light);
+    color: var(--box__color, var(--color-dark));
 
-    color: var(--box__color);
-
-    background-color: var(--box__background-color);
-    padding-block: var(--box__padding-block);
-    padding-inline: var(--box__padding-inline);
-}
-
-.o-box *:not(pre, code) {
-    color: inherit;
+    background-color: var(--box__background-color, var(--color-light));
+    padding-block: var(--box__padding-block, var(--step-0));
+    padding-inline: var(--box__padding-inline, var(--step-0));
 }
 
 
 
-.o-box.o-box--invert {
+
+
+.o-box--invert {
     /* ↓ Dark becomes light, and light becomes dark */
     --box__color: var(--color-light);
     --box__background-color: var(--color-dark);
@@ -29,18 +30,18 @@
 
 
 
-.o-box.o-box--step-1 {
+.o-box--step-1 {
     --box__padding-inline: var(--step-1);
     --box__padding-block: var(--step-1);
 }
 
 
 
-.o-box.o-box--container {
+.o-box--container {
     --box__padding-inline: 5vw;
 }
 
-.o-box.o-box--container-big {
+.o-box--container-big {
     --box__padding-inline: 5vw;
     --box__padding-block: var(--step-4);
 }
