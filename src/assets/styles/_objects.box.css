@@ -25,6 +25,13 @@
     @extend %box--invert;
 }
 
+.o-box--invert::selection,
+.o-box--invert ::selection {
+    color: var(--color-dark);
+
+    background-color: var(--color-light);
+}
+
 /***
  * Bigger box
  */
