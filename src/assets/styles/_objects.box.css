@@ -6,6 +6,10 @@
     @extend %box;
 }
 
+.o-box *:not(.o-box, pre, code) {
+    color: inherit;
+}
+
 
 
 
