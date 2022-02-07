@@ -36,6 +36,9 @@
    #Color
    ----------------------------------- */
 
+/***
+ * The color value have to be the same as in the `app.manifest` file
+ */
 :root {
     /* color */
     --color-dark: hsla(208, 21%, 9%, 1);
