@@ -6,7 +6,8 @@
     @extend %box;
 }
 
-.o-box *:not(.o-box, pre, code) {
+.o-box *:not(pre, code),
+.o-box *:not[class] {
     color: inherit;
 }
 

@@ -54,8 +54,8 @@ The colors are switching between light and dark depending on the color scheme.
 
 
 <ul class="o-cluster o-cluster--small">
-    <li class="c-palette u-color-light">Light</li>
-    <li class="c-palette u-color-dark">dark</li>
+    <li class="o-box">Light</li>
+    <li class="o-box o-box--invert">Dark</li>
 </ul>
 
 ---
