@@ -2,9 +2,9 @@
 date: 2022-02-13T21:18:36.497+01:00
 title: Colorblind Accessibility Manifesto
 bookmark-of: https://colorblindaccessibilitymanifesto.com/
-mp-syndicate-to:
-  - https://mastodon.alienlebarge.ch/@alienlebarge
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://mastodon.alienlebarge.ch/@alienlebarge/107792537873143000
+  - https://twitter.com/alienlebarge/status/1492956735300067331
 ---
 Sign the Colorblind Accessibility Manifesto
 
