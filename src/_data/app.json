@@ -12,5 +12,14 @@
     "email": "noreply@alienlebarge.ch",
     "avatar": "https://www.gravatar.com/avatar/35449a5b09a740b214e4147d8893aee9?s=512"
   },
-  "feed_limit": 25
+  "feed_limit": 25,
+  "themeColor": "hsla(208, 21%, 9%, 1)",
+  "backgroundColor": "hsla(0, 0%, 87%, 1)",
+  "endpoint": {
+    "auth": "https://indieauth.com/auth",
+    "token": "https://tokens.indieauth.com/token",
+    "micropub": "https://indiekit.alienlebarge.ch/micropub",
+    "microsub": "https://aperture.p3k.io/microsub/245",
+    "webmention": "https://webmention.io/alienlebarge.ch/webmention"
+  }
 }

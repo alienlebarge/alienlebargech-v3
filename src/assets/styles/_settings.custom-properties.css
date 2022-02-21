@@ -36,6 +36,9 @@
    #Color
    ----------------------------------- */
 
+/***
+ * The color value have to be the same as in the `app.manifest` file
+ */
 :root {
     /* color */
     --color-dark: hsla(208, 21%, 9%, 1);
@@ -122,11 +125,8 @@
  */
 :root {
     --inset: var(--step--2);
-    --inset-squished: calc(var(--inset) / 2) var(--inset);
     --inset-small: var(--step--4);
-    --inset-small-squished: calc(var(--inset-small) / 2) var(--inset-small);
     --inset-large: var(--step-0);
-    --inset-large-squished: calc(var(--inset-large) / 2) var(--inset-large);
 }
 
 
