@@ -138,13 +138,13 @@ var {
 
 code {
     font-size: var(--font-size-smaller);
-    color: var(--color-light);
 }
 
-:not(pre) > code {
-    background-color: var(--color-dark);
-    padding: var(--inset-small-squished);
+:not(pre) code {
+    @extend %box--inset-small-squished, %box--invert, %box;
 }
+
+
 
 /**
  * Make code selectable
@@ -162,7 +162,8 @@ samp {
     font-size: var(--font-size-smaller);
 
     border: var(--border-width-thin) solid var(--color-dark);
-    padding: var(--inset-small-squished);
+
+    @extend %box--inset-small-squished, %box;
 }
 
 

@@ -3,44 +3,70 @@
    ========================================================================== */
 
 .o-box {
-    --box__padding-inline: var(--step-0);
-    --box__padding-block: var(--step-0);
-    --box__color: var(--color-dark);
-    --box__background-color: var(--color-light);
-
-    color: var(--box__color);
-
-    background-color: var(--box__background-color);
-    padding-block: var(--box__padding-block);
-    padding-inline: var(--box__padding-inline);
+    @extend %box;
 }
 
-.o-box *:not(pre, code) {
+.o-box *:not(pre, code),
+.o-box *:not[class] {
     color: inherit;
 }
 
 
 
-.o-box.o-box--invert {
-    /* ↓ Dark becomes light, and light becomes dark */
-    --box__color: var(--color-light);
-    --box__background-color: var(--color-dark);
+
+
+/* -----------------------------------
+   #BOX MODIFIER
+   ----------------------------------- */
+
+/***
+ * Dark becomes light, and light becomes dark
+ */
+.o-box--invert {
+    @extend %box--invert;
 }
 
+.o-box--invert::selection,
+.o-box--invert ::selection {
+    color: var(--color-dark);
 
+    background-color: var(--color-light);
+}
 
-.o-box.o-box--step-1 {
+/***
+ * Bigger box
+ */
+.o-box--step-1 {
     --box__padding-inline: var(--step-1);
     --box__padding-block: var(--step-1);
 }
 
-
-
-.o-box.o-box--container {
+/***
+ * Container box
+ */
+.o-box--container {
     --box__padding-inline: 5vw;
 }
 
-.o-box.o-box--container-big {
+/***
+ * Bigger container box
+ */
+.o-box--container-big {
     --box__padding-inline: 5vw;
     --box__padding-block: var(--step-4);
+}
+
+/***
+ * Inset box
+ */
+.o-box--inset-squished {
+    @extend %box--inset-squished;
+}
+
+.o-box--inset-small-squished {
+    @extend %box--inset-small-squished;
+}
+
+.o-box--inset-large-squished {
+    @extend %box--inset-large-squished;
 }

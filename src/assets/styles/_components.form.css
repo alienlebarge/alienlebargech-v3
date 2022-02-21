@@ -26,11 +26,10 @@
     font-style: italic;
     font-family: var(--font-family-monospace);
     line-height: var(--line-height-body);
-    color: var(--color-dark);
 
-    background-color: var(--color-light);
     border: var(--border-width-thick) solid var(--color-dark);
-    padding: var(--inset);
+
+    @extend %box--inset, %box;
 }
 
 textarea.c-form__input {
@@ -43,20 +42,19 @@ textarea.c-form__input {
  * 1. When button is clicked, the border of it is always visible
  */
 .c-form__button {
-    font-weight: 600;
-    color: var(--color-light);
+    width: fit-content;
 
-    background: var(--color-dark);
+    font-weight: 600;
+
     border: var(--border-width-thick) solid var(--color-dark); /* [1] */
-    padding: var(--inset-squished);
     cursor: pointer;
     font-variation-settings: "wght" 600;
+
+    @extend %box--inset-squished, %box--invert, %box;
 }
 
 .c-form__button:active {
-    color: var(--color-dark);
-
-    background: var(--color-light);
+    @extend %box--restore;
 
     transform: scale(.95);
 }

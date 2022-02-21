@@ -36,9 +36,9 @@ hr {
 pre {
     display: block;
 
-    background-color: var(--color-dark);
-    padding: var(--inset);
     overflow-x: scroll;
+
+    @extend %box--inset-small-squished, %box--invert, %box;
 }
 
 

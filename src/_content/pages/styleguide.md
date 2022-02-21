@@ -5,41 +5,9 @@ permalink: /styleguide/index.html
 hidden: true
 ---
 
-This page present the style you will have in the `o-prose` object scope.
-
----
-
-## Typographie
-
-<!-- markdownlint-disable MD025 -->
-# Heading level 1
-<!-- markdownlint-enable MD025 -->
-
-Here's the style a basic `h1` will get.
-
-## Heading level 2
-
-Here's the style a basic `h2` will get.
-
-### Heading level 3
-
-Here's the style a basic `h3` will get.
-
-#### Heading level 4
-
-Here's the style a basic `h4` will get.
-
-##### Heading level 5
-
-Here's the style a basic `h5` will get.
-
-###### Heading level 6
-
-Here's the style a basic `h1` will get.
-
----
-
 ## Utilities
+
+Utilities that can be used on any element in order to modify the style.
 
 <p class="u-lede">The lede is the introductory section of a news story that is intended to entice the reader to read the full story.</p>
 <p class="u-body">The body text or body copy is the text forming the main content of a book, magazine, web page, or any other printed or digital work.</p>
@@ -52,15 +20,16 @@ Here's the style a basic `h1` will get.
 
 The colors are switching between light and dark depending on the color scheme.
 
-
 <ul class="o-cluster o-cluster--small">
-    <li class="c-palette u-color-light">Light</li>
-    <li class="c-palette u-color-dark">dark</li>
+    <li class="o-box">Light</li>
+    <li class="o-box o-box--invert">Dark</li>
 </ul>
 
 ---
 
 ## Prose
+
+The following exemples present the style you will have in the `o-prose` object scope.
 
 ## Second-level heading
 
