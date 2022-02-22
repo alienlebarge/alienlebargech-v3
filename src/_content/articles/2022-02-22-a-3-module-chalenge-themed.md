@@ -1,9 +1,9 @@
 ---
 date: 2022-02-22T20:58:20.714+01:00
 title: A 3 module chalenge themed after water
-mp-syndicate-to:
-  - https://mastodon.alienlebarge.ch/@alienlebarge
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://mastodon.alienlebarge.ch/@alienlebarge/107843419537747400
+  - https://twitter.com/alienlebarge/status/1496213161724321792
 ---
 Oh yeah ! I love shaking bottles of waters on top of my system ;-)
 
