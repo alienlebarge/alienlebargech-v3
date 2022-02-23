@@ -1,6 +1,16 @@
 ---
 date: 2022-02-22T20:58:20.714+01:00
 title: A 3 module chalenge themed after water
+tags:
+    - jam
+    - jamuary
+    - 3moduleschallenge
+category:
+    - modular
+    - music
+    - eurorack
+    - patreon
+    - 3moduleschallenge
 syndication:
   - https://mastodon.alienlebarge.ch/@alienlebarge/107843419537747400
   - https://twitter.com/alienlebarge/status/1496213161724321792
