@@ -8,7 +8,7 @@ image: https://farm6.staticflickr.com/5528/14290178495_d381101809_z.jpg
 tags: uxls, ux, event, lausanne
 ---
 
-The first edition of [UX Lausanne](https://2014.uxlausanne.com/) was a really great event. I really appreciate it. If there will be a 2015 edition, you can count me in.
+The first edition of [UX Lausanne](https://web.archive.org/web/20140709023933/http://2014.uxlausanne.com/) was a really great event. I really appreciate it. If there will be a 2015 edition, you can count me in.
 
 Well done guys !
 

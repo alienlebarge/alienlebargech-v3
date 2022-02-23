@@ -36,11 +36,11 @@ So here are my notes about her interesting talk.
 ## Links
 
 - [Lightening Design System](https://www.lightningdesignsystem.com/)
-- [Design Tokens](https://www.lightningdesignsystem.com/resources/tokens)
+- [Design Tokens](https://web.archive.org/web/20151030211023/http://www.lightningdesignsystem.com:80/resources/tokens/)
 - [Theo](https://github.com/salesforce-ux/theo)
 - [Team Models for Scaling a Design System](https://medium.com/eightshapes-llc/team-models-for-scaling-a-design-system-2cf9d03be6a0)
 - [The Salesforce Team Model for Scaling a Design System](the-salesforce-team-model-for-scaling-a-design-system-d89c2a2d404b)
-- [The Sliding Scale of Giving a Fuck](https://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck)
-- [Styleguide.io](https://styleguides.io/)
+- [The Sliding Scale of Giving a Fuck](https://web.archive.org/web/20151109125930/http://blog.capwatkins.com:80/the-sliding-scale-of-giving-a-fuck)
+- [Styleguide.io](https://web.archive.org/web/20151107182159/http://styleguides.io:80/?)
 - [Salesforce UX on GitHub](https://github.com/salesforce-ux/)
 - [Salesforce UX on Twitter](https://twitter.com/salesforceux?lang=fr)

@@ -43,7 +43,7 @@ Channel seven and eight can be triggered by anything else.
 
 ## The build
 
-I have not built a lot of modules. The first I built was the [Radio Music](https://musicthing.co.uk/pages/radio.html) and then two [4ms Passive Mult](http://4mscompany.com/p.php?p=962).
+I have not built a lot of modules. The first I built was the [Radio Music](https://musicthing.co.uk/pages/radio.html) and then two [4ms Passive Mult](https://4mscompany.com/p.php?p=962).
 
 It was time for a new build. So I ordered a Kompas kit on [Thonk](https://www.thonk.co.uk/).
 
