@@ -11,7 +11,7 @@ The three modules in used are:
 
 ## Instruo - arbhar
 
-Which is sampling me shaking a bottle of water, generating grains of it and clocking Bloom. All sounds coming out of arbhar are feeding Rings "In" input.
+Which is sampling me shaking a bottle of water, generating grains of it and clocking Bloom. All sounds coming out of arbhar are feeding Rings <samp>In</samp> input.
 
 ## Qu-Bit Electronix - Bloom
 
