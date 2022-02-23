@@ -32,7 +32,7 @@ Micro.blog had cross-post all the old articles that weren't in my feeds. The res
 
 ### [Twitter](https://twitter.com/alienlebarge)
 
-[gocardigan](https://www.gocardigan.com/) is a free service that let you bulk delete tweets. You can filter with dates so it was easy to remove all that bunch of old links.
+[gocardigan](https://web.archive.org/web/20190614083959/https://www.gocardigan.com/) is a free service that let you bulk delete tweets. You can filter with dates so it was easy to remove all that bunch of old links.
 
 ### [Mastodon](https://mastodon.alienlebarge.ch/@alienlebarge)
 
