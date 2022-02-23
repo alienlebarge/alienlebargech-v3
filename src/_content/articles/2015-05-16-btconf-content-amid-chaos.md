@@ -14,7 +14,7 @@ tags:
 
 Taking care of the content of a website is a real challenge, a big challenge. [Sara Wachter-Boettcher](https://twitter.com/sara_ann_marie) presented how to manage this by cutting it into smallest project that are more managable.
 
-[Here is a article version of this talk](https://www.sarawb.com/2015/03/02/content-amid-chaos/).
+[Here is a article version of this talk](https://web.archive.org/web/20150512091831/http://www.sarawb.com:80/2015/03/02/content-amid-chaos/).
 
 <figure>
   <a href="https://www.flickr.com/photos/alienlebarge/17529583925" title="Sketchnote of Sara Wachter-Boettcher&#x27;s talk &quot;Content Amid Chaos&quot; by Cédric Aellen, sur Flickr"><img src="https://c2.staticflickr.com/6/5326/17529583925_f0f8f511b9_z.jpg" alt="Sketchnote of Sara Wachter-Boettcher&#x27;s talk &quot;Content Amid Chaos&quot;"></a>
