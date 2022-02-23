@@ -31,7 +31,7 @@ Well, this is a legacy of the era of font case and paper. At that time there was
 
 [Medium](https://www.medium.com) as done a really great job to unify and beautify their underlines. After reading [how Medium is crafting link underlines](https://medium.com/designing-medium/crafting-link-underlines-on-medium-7c03a9274f9 "Crafting link underlines on Medium"), I wanted to do the same for this site.
 
-As I am picky, CSS should not depend on any library or framework like [Compass](https://compass-style.org/) . As you can imagine, I had to face some problems.  
+As I am picky, CSS should not depend on any library or framework like [Compass](https://web.archive.org/web/20150924200148/http://compass-style.org/) . As you can imagine, I had to face some problems.  
 
 ## Problems
 
@@ -280,4 +280,4 @@ All the code is available on Codepen.
 
 ## Inuit-underline
 
-For [Inuitcss](https://inuitcss.com/) users, [Inuit-underline](https://github.com/alienlebarge/inuit-underline) is a collection of Sass files to include in your project.
+For [Inuitcss](https://web.archive.org/web/20150925030853/http://inuitcss.com:80/) users, [Inuit-underline](https://github.com/alienlebarge/inuit-underline) is a collection of Sass files to include in your project.
