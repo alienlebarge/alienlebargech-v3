@@ -85,7 +85,7 @@ markers:
 ---
 
 Maps are cool and I love them. Since I'm rebuilding this blog, I wanted to add some of them in the design. As I love trekking, I was thinking it was a fine idea to add them on posts where I talk about trekking and things like that.
-[Katy DeCorah](https://twitter.com/katydecorah) was already doing that on [her blog](https://katydecorah.com). [Her work](https://katydecorah.com/code/2014/07/26/static-mapbox-for-jekyll/) was a great inspiration.
+[Katy DeCorah](https://twitter.com/katydecorah) was already doing that on [her blog](https://katydecorah.com). [Her work](https://web.archive.org/web/20141006200907/http://katydecorah.com:80/code/2014/07/26/static-mapbox-for-jekyll/) was a great inspiration.
 
 I will show you how I build this for this blog based on [Jekyll](https://jekyllrb.com/).
 
