@@ -23,7 +23,7 @@ This technique is called the [bullet journal](https://bulletjournal.com). Here i
 
 ## Sketchnotes when at meetings and conferences
 
-At conference and meetings, I use [Mike Rohde’s sketchnote technique](https://rohdesign.com/book/) for sketchnoting. Since I read his first book “The Sketchnote Handbook”, I started sketchnoting at meetings. It is fun and more visual. And as a visual personn, my brain better remember the information.
+At conference and meetings, I use [Mike Rohde’s sketchnote technique](https://web.archive.org/web/20150202095735/http://rohdesign.com/book) for sketchnoting. Since I read his first book “The Sketchnote Handbook”, I started sketchnoting at meetings. It is fun and more visual. And as a visual personn, my brain better remember the information.
 
 My skills are becoming better with the practice and I enjoy more en more doing that. And the more funny is that my colleagues really like watching my meetings little comics.
 
@@ -33,13 +33,13 @@ Here’s my setup to mix this two techniques in a way I'm comfortable with.
 
 ### Notebook
 
-The [Freitage F27 Notebook](https://www.freitag.ch/Fundamentals/Notebooks-%26-Agendas/NOTEBOOK/pa/F27_00017) is great notebook. The big advantage over the classic Moleskin is that it’s compatible with the [Atoma binding system](https://www.atoma.be/). That means you can:
+The [Freitage F27 Notebook](https://web.archive.org/web/20150203020621/http://www.freitag.ch:80/Fundamentals/Notebooks-%26-Agendas/NOTEBOOK/pa/F27_00017) is great notebook. The big advantage over the classic Moleskin is that it’s compatible with the [Atoma binding system](https://www.atoma.be/). That means you can:
 
 - Remove pages, put them back or change their order without damaging the pages.
 - Switch pages between various notebooks.
 - Scan pages before returning them to the notebook.
 - Buy refills and insert those in existing notebooks.
-- You can do your own page if you want. You just need a [Atoma hole puncher](https://www.atoma.be/en/puncher.php). (Every [Freitag store](https://www.freitag.ch/store-locator) own a puncher that you can use.)
+- You can do your own page if you want. You just need a [Atoma hole puncher](https://www.atoma.be/en/puncher.php). (Every [Freitag store](https://web.archive.org/web/20150206051150/http://www.freitag.ch:80/store-locator) own a puncher that you can use.)
 
 And yeah, it’s a Freitag !
 
