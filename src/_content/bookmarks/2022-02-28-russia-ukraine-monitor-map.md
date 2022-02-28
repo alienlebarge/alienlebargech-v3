@@ -2,9 +2,9 @@
 date: 2022-02-28T10:55:13.944+01:00
 title: Russia-Ukraine Monitor Map
 bookmark-of: https://www.bellingcat.com/news/2022/02/27/follow-the-russia-ukraine-monitor-map/
-mp-syndicate-to:
-  - https://mastodon.alienlebarge.ch/@alienlebarge
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://mastodon.alienlebarge.ch/@alienlebarge/107875021659032938
+  - https://twitter.com/alienlebarge/status/1498235697530126336
 ---
 You have to be careful with the information you see online. Everything is not always true.
 
