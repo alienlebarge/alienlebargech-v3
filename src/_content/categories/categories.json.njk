@@ -1,0 +1,11 @@
+---
+eleventyExcludeFromCollections: true
+permalink: categories/index.json
+---
+{% for category in collections.category -%}
+  {%- if not loop.last -%}
+  "{{- category -}}",
+  {%- else -%}
+    "{{- categroy -}}"
+  {%- endif -%}
+{%- endfor %}

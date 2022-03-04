@@ -1,0 +1,10 @@
+---
+title: Tags
+summary: Categorized or labeled content
+permalink: tags/
+layout: index.njk
+---
+<p class="o-box o-box--container o-box--invert">List of all tags</p>
+{% set tags = collections.tag %}
+{% import 'list-items.njk' as list with context %}
+{{ list.inlineItems(tags) }}

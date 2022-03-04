@@ -1,6 +1,0 @@
-{
-  "layout": "category.njk",
-  "permalink": "categories/{{ page.fileSlug }}/",
-  "tags": "",
-  "type": "category"
-}

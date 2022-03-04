@@ -1,10 +1,11 @@
-{% import 'list-items.njk' as list with context %}
+{% set title = category %}
+{% set categorylist = collections[ category ] %}
+{% import 'list-items.njk' as list %}
 {% extends './base.njk' %}
 {% block main %}
     <div class="[ o-stack o-stack--step-4 ] [ o-box o-box--container-big ] c-background">
         {% include 'header.njk' %}
     </div>
-    <p class="o-box o-box--container o-box--invert">Mettre la liste des éléments de cette catégorie</p>
-    <pre>{{ category | dump }}</pre>
-    {{ list.inlineItems(collections.category) }}
+
+    {{ list.listItems(categorylist, "[ o-box o-box--container-big ]") }}
 {% endblock %}
