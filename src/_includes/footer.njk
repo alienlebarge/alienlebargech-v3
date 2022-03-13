@@ -36,6 +36,7 @@
                     u-width:fit-content">
             <dt>Also on</dt>
             {% for item in syndication %}
+            {%- if item != false -%}
             <dd>
                 <a{% if vocab %} class="u-url"{% endif %} href="{{ item }}" rel="external">
                     {{- item | syndication_target -}}
@@ -43,6 +44,7 @@
                 {%- if loop.revindex == 2 %}<span aria-hidden="true"> and</span>
                 {%- elif not loop.last -%}<span aria-hidden="true">,</span>{%- endif -%}
             </dd>
+            {%- endif -%}
             {% endfor %}
         </div>
         {%- endif %}
