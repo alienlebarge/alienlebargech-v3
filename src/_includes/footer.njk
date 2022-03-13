@@ -4,8 +4,8 @@
         {% if type == "like" %}
         <dt class="u-visually-hidden">Liked</dt>
         <dd>
-            <a class="u-like-of u-lede c-background__text" rel="external" href="{{ bookmarkOf }}">
-                {{- bookmarkOf | hostname -}}
+            <a class="u-like-of u-lede c-background__text" rel="external" href="{{ likeOf }}">
+                {{- likeOf | hostname -}}
             </a>
         </dd>
         {% endif %}
