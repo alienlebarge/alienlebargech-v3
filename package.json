@@ -79,7 +79,6 @@
       "plugin:jsdoc/recommended"
     ],
     "plugins": [
-      "import",
       "jsdoc"
     ],
     "envs": "browser",
@@ -93,21 +92,11 @@
           "properties": "never"
         }
       ],
-      "import/extensions": [
+      "node/prefer-global/process": [
         "error",
         "always"
-      ]
-    },
-    "settings": {
-      "import/resolver": {
-        "node": {
-          "moduleDirectory": [
-            "node_modules",
-            "src/",
-            "lib/"
-          ]
-        }
-      }
+      ],
+      "unicorn/prefer-module": 0
     }
   }
 }
