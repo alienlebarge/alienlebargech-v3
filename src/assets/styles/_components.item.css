@@ -3,27 +3,21 @@
    ========================================================================== */
 
 .c-item {
-    --c-item__grid-template:
-        "header" auto
-        "main" auto
-        "footer" 1fr/1fr;
+    --c-item__grid-gap: var(--step-3) var(--step-3);
+    --c-item__grid-template: "header" auto "main" auto "footer" 1fr/1fr;
 
     display: grid;
     align-items: baseline;
-    grid-gap: var(--grid-gap) var(--grid-gap);
+    grid-gap: var(--c-item__grid-gap);
     grid-template: var(--c-item__grid-template);
 }
 
 @media (--from-small-viewport) {
-
     .c-item {
-        --c-item__grid-template:
-            "footer header"  auto
-            "footer main" 1fr/var(--grid-content-width) 1fr;
+        --c-item__grid-template: "footer header" auto "footer main" 1fr /
+            var(--grid-content-width) 1fr;
     }
 }
-
-
 
 /* -----------------------------------
    #ITEM__HEADER
@@ -36,16 +30,12 @@
     grid-area: header;
 }
 
-
-
 /* -----------------------------------
    #ITEM__MAIN
    ----------------------------------- */
 .c-item__main {
     grid-column: main;
 }
-
-
 
 /* -----------------------------------
    #ITEM__FOOTER
@@ -65,4 +55,3 @@
 .c-item__footer a {
     word-break: break-word;
 }
-

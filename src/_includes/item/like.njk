@@ -1,4 +1,4 @@
-<article class="o-prose c-item | h-entry" data-type="like">
+<article class="c-item | h-entry" data-type="like">
     <div class="o-prose c-item__main | e-content p-name">
         <a href="{{ item.data.likeOf | safe }}">
             {{ item.data.likeOf | safe }}
@@ -10,7 +10,7 @@
             <dd>
             <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
                 {# TODO: use src/_data/dates.json to format the date. #}
-                <time class="o-cluster o-cluster--step--2 | dt-published"
+                <time class="o-cluster--step--2 | dt-published"
                       datetime="{{ item.date | date }}">
                     <span>{{ item.date | date("D MMM YYYY") }}</span>
                     <span>{{ item.date | date("HH:mm") }}</span>
