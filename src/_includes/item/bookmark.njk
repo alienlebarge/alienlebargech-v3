@@ -1,16 +1,18 @@
-<article class="o-switcher c-item | h-entry" data-type="bookmark">
+<article class="c-item | h-entry" data-type="bookmark">
         {%- if item.data.title -%}
-        <div class="[ o-switcher__item o-switcher__item--big ] o-prose">
-            <header class="[ o-stack o-stack--step-0 ] c-item__header">
-                <h3><a href="{{ item.url | url }}">{{ item.data.title | safe }}</a></h3>
-            </header>
-            <div class="e-content p-name">
-                {{ item.templateContent | safe }}
-            </div>
+        <header class="c-item__header | p-name">
+            <h3><a href="{{ item.url | url }}">{{ item.data.title | safe }}</a></h3>
+        </header>
+        {%- endif -%}
+
+        {%- if item.templateContent -%}
+        <div class="o-prose c-item__main | e-content p-summary">
+            {{ item.templateContent | safe }}
         </div>
         {%- endif -%}
-        <footer class="o-switcher__item c-item__footer">
-            <dl>
+
+        <footer class="c-item__footer">
+            <dl class="o-stack o-stack--step--4">
                 <dt class="u-visually-hidden">Published on</dt>
                 <dd>
                 <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
