@@ -43,7 +43,7 @@ permalink: /feed.json
                 <p>like <a href="{{ item.data.bookmarkOf }}" class="u-like-of">{{ item.data.bookmarkOf }}</a></p>
             {%- else -%}
                 {#- Default content -#}
-                {{- item.templateContent | strip_mentions | safe -}}
+                {{- item.templateContent | safe -}}
                 {#- Photo defined in the front matter -#}
                 {% if item.data.photo -%}
                     {%- for item in item.data.photo -%}

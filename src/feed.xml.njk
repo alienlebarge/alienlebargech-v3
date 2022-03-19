@@ -36,7 +36,7 @@ permalink: feed.xml
             {% endif %}
             <content type="html"><![CDATA[
             {%- set content_html -%}
-                {{- item.templateContent | strip_mentions | safe -}}
+                {{- item.templateContent | safe -}}
                 {%- if item.data.photo -%}
                     {%- for item in item.data.photo -%}
                         {{- image.image(item.url, item.alt, settings=srcsets.default) -}}
