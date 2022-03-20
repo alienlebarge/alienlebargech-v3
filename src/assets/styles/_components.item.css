@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .c-item {
-    --c-item__grid-gap: var(--step-3) var(--step-3);
+    --c-item__grid-gap: var(--step--3) var(--step--3);
     --c-item__grid-template: "header" auto "main" auto "footer" 1fr/1fr;
 
     display: grid;
