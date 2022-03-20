@@ -164,9 +164,7 @@
 /**
  * Lists
  *
- * 1. On bigger screen, the bullet position is outside. Inside let you gain
- *    horizontal space on mobile
- * 2. Ensure consistency across different pages
+ * 1. Ensure consistency across different pages
  *    https://github.com/alienlebarge/alienlebargech-v3/issues/33
  */
 
@@ -176,27 +174,20 @@
 }
 
 .o-prose ul:not([class]) {
-    list-style-type: disc; /* [2] */
+    list-style-type: disc; /* [1] */
 }
 
 .o-prose ol:not([class]) {
-    list-style-type: decimal; /* [2] */
+    list-style-type: decimal; /* [1] */
 }
 
 .o-prose :--list {
-    list-style-position: inside; /* [1] */
     padding-inline-start: 0;
+    list-style-position: inside;
 }
 
 .o-prose :--list :--list {
     padding-inline-start: var(--flow-inset);
-}
-
-@media (--from-small-viewport) {
-
-    .o-prose :--list {
-        list-style-position: outside; /* [1] */
-    }
 }
 
 

@@ -1,7 +1,6 @@
-<article class="o-switcher c-item | h-entry" data-type="articles">
-    <div class="[ o-switcher__item o-switcher__item--big ] o-stack o-prose | e-content p-name">
+<article class="c-item | h-entry" data-type="articles">
         {%- if item.data.title -%}
-        <header class="o-stack c-item__header">
+        <header class="o-prose c-item__header | e-content p-name">
             <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
         </header>
         {%- endif -%}
@@ -20,8 +19,19 @@
     </div>
 
     {%- if item.data.date -%}
-    <footer class="o-switcher__item c-item__footer">
-        <p><time datetime="{{ item.data.date | date }}">{{ item.data.date | date("DD MMM YYYY") }}</time></p>
+    <footer class="c-item__footer">
+        <dl class="o-stack o-stack--step--4">
+            <dt class="u-visually-hidden">Published on</dt>
+            <dd>
+                <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
+                    {# TODO: use src/_data/dates.json to format the date. #}
+                    <time class="dt-published c-item__date"
+                          datetime="{{ item.data.date | date }}">
+                        <span>{{ item.data.date | date("DD MMM YYYY") }}</span>
+                    </time>
+                </a>
+            </dd>
+        </dl>
     </footer>
     {%- endif -%}
 </article>

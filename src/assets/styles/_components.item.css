@@ -2,16 +2,50 @@
    #ITEM
    ========================================================================== */
 
-.c-item__header {
-    @extend %subhead;
+.c-item {
+    --c-item__grid-gap: var(--step--3) var(--step--3);
+    --c-item__grid-template: "header" auto "main" auto "footer" 1fr/1fr;
 
-    --anchor-decoration: underline;
+    display: grid;
+    align-items: baseline;
+    grid-gap: var(--c-item__grid-gap);
+    grid-template: var(--c-item__grid-template);
 }
+
+@media (--from-small-viewport) {
+    .c-item {
+        --c-item__grid-template: "footer header" auto "footer main" 1fr /
+            var(--grid-content-width) 1fr;
+    }
+}
+
+/* -----------------------------------
+   #ITEM__HEADER
+   ----------------------------------- */
+
+.c-item__header {
+    --anchor-decoration: underline;
+
+    @extend %subhead;
+    grid-area: header;
+}
+
+/* -----------------------------------
+   #ITEM__MAIN
+   ----------------------------------- */
+.c-item__main {
+    grid-column: main;
+}
+
+/* -----------------------------------
+   #ITEM__FOOTER
+   ----------------------------------- */
 
 .c-item__footer {
     --anchor-decoration: none;
 
     @extend %caption;
+    grid-area: footer;
 }
 
 .c-item__footer .u-bookmark-of {
@@ -21,4 +55,3 @@
 .c-item__footer a {
     word-break: break-word;
 }
-
