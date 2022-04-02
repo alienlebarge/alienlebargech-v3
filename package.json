@@ -37,7 +37,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
     "@remy/webmention": "^1.4.5",
     "autoprefixer": "^10.4.2",
-    "cssnano": "^5.1.0",
+    "cssnano": "^5.1.7",
     "eleventy-plugin-embed-everything": "^1.14.0",
     "html-minifier": "^4.0.0",
     "https-proxy-agent": "^5.0.0",
