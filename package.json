@@ -71,7 +71,7 @@
     "lodash": "^4.17.21",
     "markdownlint-cli": "^0.31.1",
     "node-fetch": "^3.2.3",
-    "stylelint": "^14.5.3",
+    "stylelint": "^14.6.1",
     "xo": "^0.48.0"
   },
   "xo": {
