@@ -36,7 +36,7 @@
     "@11ty/eleventy-plugin-directory-output": "^1.0.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
     "@remy/webmention": "^1.4.5",
-    "autoprefixer": "^10.4.2",
+    "autoprefixer": "^10.4.4",
     "cssnano": "^5.1.7",
     "eleventy-plugin-embed-everything": "^1.14.0",
     "html-minifier": "^4.0.0",
@@ -67,11 +67,11 @@
   "devDependencies": {
     "@alienlebarge/stylelint-config": "^3.1.6",
     "chokidar-cli": "^3.0.0",
-    "eslint-plugin-jsdoc": "^38.1.4",
+    "eslint-plugin-jsdoc": "^38.1.6",
     "lodash": "^4.17.21",
     "markdownlint-cli": "^0.31.1",
     "node-fetch": "^3.2.3",
-    "stylelint": "^14.5.3",
+    "stylelint": "^14.6.1",
     "xo": "^0.48.0"
   },
   "xo": {
