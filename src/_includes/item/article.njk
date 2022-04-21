@@ -1,22 +1,21 @@
 <article class="c-item | h-entry" data-type="articles">
-        {%- if item.data.title -%}
-        <header class="o-prose c-item__header | e-content p-name">
-            <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
-        </header>
-        {%- endif -%}
+    {%- if item.data.title -%}
+    <header class="o-prose c-item__header | e-content p-name">
+        <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
+    </header>
+    {%- endif -%}
 
-        {%- if item.data.summary or item.data.description -%}
-        <div class="o-prose c-item__main | e-content p-summary">
-            <p>
-            {%- if item.data.summary -%}
-            {{ item.data.summary }}
-            {%- elif item.data.description -%}
-            {{ item.data.description }}
-            {%- endif -%}
-            </p>
-        </div>
+    {%- if item.data.summary or item.data.description -%}
+    <div class="o-prose c-item__main | e-content p-summary">
+        <p>
+        {%- if item.data.summary -%}
+        {{ item.data.summary }}
+        {%- elif item.data.description -%}
+        {{ item.data.description }}
         {%- endif -%}
+        </p>
     </div>
+    {%- endif -%}
 
     {%- if item.data.date -%}
     <footer class="c-item__footer">
@@ -24,7 +23,7 @@
             <dt class="u-visually-hidden">Published on</dt>
             <dd>
                 <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
-                    {# TODO: use src/_data/dates.json to format the date. #}
+                {#- TODO: use src/_data/dates.json to format the date. -#}
                     <time class="dt-published c-item__date"
                           datetime="{{ item.data.date | date }}">
                         <span>{{ item.data.date | date("DD MMM YYYY") }}</span>
