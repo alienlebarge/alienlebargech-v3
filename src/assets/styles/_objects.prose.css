@@ -182,8 +182,8 @@
 }
 
 .o-prose :--list {
-    padding-inline-start: 0;
     list-style-position: inside;
+    padding-inline-start: 0;
 }
 
 .o-prose :--list :--list {

@@ -13,6 +13,7 @@
 }
 
 @media (--from-small-viewport) {
+
     .c-item {
         --c-item__grid-template: "footer header" auto "footer main" 1fr /
             var(--grid-content-width) 1fr;
