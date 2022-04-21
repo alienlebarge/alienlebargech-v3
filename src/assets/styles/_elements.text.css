@@ -63,9 +63,7 @@ a[rel="external"]::after {
  */
 
 em {
-    font-style: normal; /* [1] */
-    text-decoration: underline;
-    text-decoration-style: wavy;
+    font-style: italic; /* [1] */
 }
 
 

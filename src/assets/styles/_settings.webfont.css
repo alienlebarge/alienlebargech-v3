@@ -8,8 +8,16 @@
 
 @font-face {
     font-family: Untitled;
+    font-style: normal;
     font-display: swap;
     src: url("../fonts/Untitled.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: Untitled;
+    font-style: italic;
+    font-display: swap;
+    src: url("../fonts/Untitled-Italic.woff2") format("woff2");
 }
 
 
