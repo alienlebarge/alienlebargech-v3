@@ -10,7 +10,7 @@ tags:
  - ux
 ---
 
-Here's my sketchnote of [Joe Leech](https://twitter.com/mrjoe) talk's. He gives use some tips how to design without loosing the magic.
+Here's my sketchnote of [Joe Leech](https://web.archive.org/web/20151128225029/https://twitter.com/mrjoe) talk's. He gives use some tips how to design without loosing the magic.
 
 ## Sketchnote
 
