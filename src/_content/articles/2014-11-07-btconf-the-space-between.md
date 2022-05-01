@@ -10,7 +10,7 @@ tags:
  - ui
 ---
 
-The cartoonists have long known. Transitions and intermediate frames are very important. [Tim Kadlec](https://twitter.com/tkadlec) showed us how to improve the user experience of a website playing on the effects of transition. Yes ladies and gentlemen, the progress bar is "has-been".
+The cartoonists have long known. Transitions and intermediate frames are very important. [Tim Kadlec](https://web.archive.org/web/20170105193804/https://twitter.com/tkadlec) showed us how to improve the user experience of a website playing on the effects of transition. Yes ladies and gentlemen, the progress bar is "has-been".
 
 <figure>
   <img src="https://farm8.staticflickr.com/7520/15526721387_9f8fbfb8ed_c.jpg" alt="Sketchnote of the talk The Space Between">
