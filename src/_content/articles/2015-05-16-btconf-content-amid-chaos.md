@@ -12,7 +12,7 @@ tags:
  - web
 ---
 
-Taking care of the content of a website is a real challenge, a big challenge. [Sara Wachter-Boettcher](https://twitter.com/sara_ann_marie) presented how to manage this by cutting it into smallest project that are more managable.
+Taking care of the content of a website is a real challenge, a big challenge. [Sara Wachter-Boettcher](https://web.archive.org/web/20150906170538/https://twitter.com/sara_ann_marie) presented how to manage this by cutting it into smallest project that are more managable.
 
 [Here is a article version of this talk](https://web.archive.org/web/20150512091831/http://www.sarawb.com:80/2015/03/02/content-amid-chaos/).
 
