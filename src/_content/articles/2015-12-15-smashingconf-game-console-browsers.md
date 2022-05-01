@@ -11,7 +11,7 @@ tags:
  - console
 ---
 
-These days, we can visit a web page on a lot of kind of device. Consoles are one of them. [Anna Debenham](https://twitter.com/anna_debenham)'s talk was about what we have to take in consideration to build websites for console browsers and what we can learn from them.
+These days, we can visit a web page on a lot of kind of device. Consoles are one of them. [Anna Debenham](https://web.archive.org/web/20160101174738/https://twitter.com/anna_debenham)'s talk was about what we have to take in consideration to build websites for console browsers and what we can learn from them.
 
 Here are my sketchnotes:
 
