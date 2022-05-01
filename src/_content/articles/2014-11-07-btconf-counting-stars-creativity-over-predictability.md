@@ -9,7 +9,7 @@ tags:
  - conference
 ---
 
-These days, we tend to build more effective sites based on statistics and research. According to [Andrew Clarke](https://twitter.com/Malarkey), we do not leave room for creativity.
+These days, we tend to build more effective sites based on statistics and research. According to [Andrew Clarke](https://web.archive.org/web/20150105064232/https://twitter.com/malarkey), we do not leave room for creativity.
 We remember the commercials on television because they were outstanding, funny ... creative. What was the last memorable site that comes to mind?
 
 Andy's remind us that we should have fun creating and make room for our imagination.
