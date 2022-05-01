@@ -11,7 +11,7 @@ tags:
 ---
 
 The Internet is full of data. Can't we print them on paper ?  
-I really enjoyed [Brian Suda](https://twitter.com/briansuda)'s talk. This is perhaps because my father worked in the paper industry as a typesetter.
+I really enjoyed [Brian Suda](https://web.archive.org/web/20141218212708/https://twitter.com/briansuda)'s talk. This is perhaps because my father worked in the paper industry as a typesetter.
 
 Mr. Suda showed us how we can connect the digital to the analog. For example, why a boarding pass is "just" a boarding pass ? Why not adding usefull information on it like the weather forecast at the destination, the train connection to the city, etc. ?  
 Thus, a boarding pass can accompany the traveler during his trip and will not be forgotten in a pocket.
