@@ -8,7 +8,7 @@ image:       https://38.media.tumblr.com/4f28fe22dee136d62253946f6be4150b/tumblr
 tags:        uxls, ux, event, lausanne, sell, sketchnote
 ---
 
-Here's my sketchnote of [Birgit Geiberger](https://twitter.com/birgitgcom) and [Peter Boersma](https://twitter.com/pboersma)'s talk.
+Here's my sketchnote of [Birgit Geiberger](https://twitter.com/birgitgcom) and [Peter Boersma](https://web.archive.org/web/20140216013755/https://twitter.com/pboersma)'s talk.
 
 <figure>
   <img src="https://farm3.staticflickr.com/2902/14059916040_4cc974bfe8_z.jpg" alt="UX sells, but not by itself sketchnote">
