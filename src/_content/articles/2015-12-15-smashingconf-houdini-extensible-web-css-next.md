@@ -10,7 +10,7 @@ tags:
  - w3c
 ---
 
-[Bruce Lawson](https://twitter.com/brucel) was the mystery speaker at smashingconf. His presentation was about the history of the web, what is his future and how we can help as developers to make it happen.
+[Bruce Lawson](https://web.archive.org/web/20160101174732/https://twitter.com/brucel) was the mystery speaker at smashingconf. His presentation was about the history of the web, what is his future and how we can help as developers to make it happen.
 
 Here's my sketchnote of his talk.
 
