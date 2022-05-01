@@ -9,7 +9,7 @@ tags:
  - conference
 ---
 
-[Simon Collison](https://twitter.com/colly) answers the question: what has changed in the web these last 5 years?
+[Simon Collison](https://web.archive.org/web/20150601021938/https://twitter.com/colly) answers the question: what has changed in the web these last 5 years?
 
 Here's my sketchnote of Simon's talk "Somewhere Between Here and There".
 
