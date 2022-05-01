@@ -10,7 +10,7 @@ tags:
  - offline
 ---
 
-[John Allsop](https://twitter.com/johnallsopp)'s talk was about putting you website in offline mode. We take a tour around localSorage, sessionStorage and AppCache (which is not a douchebag).
+[John Allsop](https://web.archive.org/web/20150219112145/https://twitter.com/johnallsopp)'s talk was about putting you website in offline mode. We take a tour around localSorage, sessionStorage and AppCache (which is not a douchebag).
 
 Here's my sketchnote of the talk:
 
