@@ -11,7 +11,7 @@ tags:
  - performance
 ---
 
-[Patrick Hamann](https://twitter.com/patrickhamann) does a very interesting talk about performances.
+[Patrick Hamann](https://web.archive.org/web/20151025235701/https://twitter.com/patrickhamann) does a very interesting talk about performances.
 
 Here's the introduction of his presentation:
 
