@@ -14,7 +14,7 @@ tags:
  - sketchnote
 ---
 
-[Seb Lester](https://twitter.com/seblester) is the guy who does this [famous handrawing of well known logos](https://www.youtube.com/watch?v=1orjLpX7GbM).  
+[Seb Lester](https://web.archive.org/web/20151125031901/https://twitter.com/seblester) is the guy who does this [famous handrawing of well known logos](https://www.youtube.com/watch?v=1orjLpX7GbM).  
 He told us about his life, his passion for BMX, how he started designing fonts and his greatest achievements.
 
 It was inspiring, motivating and emotional. If you need motivation, watch this talk !
