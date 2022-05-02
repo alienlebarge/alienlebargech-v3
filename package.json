@@ -70,7 +70,7 @@
     "eslint-plugin-jsdoc": "^39.2.7",
     "lodash": "^4.17.21",
     "markdownlint-cli": "^0.31.1",
-    "node-fetch": "^3.2.3",
+    "node-fetch": "^3.2.4",
     "stylelint": "^14.8.1",
     "xo": "^0.48.0"
   },
