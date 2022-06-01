@@ -8,7 +8,7 @@ image:       https://2014.uxlausanne.com/assets/img/speaker_simon-raess.jpg
 tags:        uxls, ux, event, lausanne, sketchnote
 ---
 
-Here's my sketchnote of [Simon Raess](https://twitter.com/simonraess)'s talk.
+Here's my sketchnote of [Simon Raess](https://web.archive.org/web/20131109112039/https://twitter.com/simonraess)'s talk.
 
 <figure>
   <img src="https://farm3.staticflickr.com/2904/14246216274_1e96504e16_z.jpg" alt="Mind the Gap">
