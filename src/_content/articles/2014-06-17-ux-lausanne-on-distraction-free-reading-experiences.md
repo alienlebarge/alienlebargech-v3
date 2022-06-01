@@ -8,7 +8,7 @@ image:       https://farm3.staticflickr.com/2895/14286828791_2d46ac8b54_z.jpg
 tags:        uxls, ux, event, lausanne, sketchnote, distraction, read
 ---
 
-Here's my sketchnote of [Adrian Zumbrunnen](https://twitter.com/webchaeschtli)'s talk.
+Here's my sketchnote of [Adrian Zumbrunnen](https://web.archive.org/web/20140625072103/https://twitter.com/webchaeschtli)'s talk.
 
 <figure>
   <img src="https://farm3.staticflickr.com/2927/14466249233_9fef7dc1c4_z.jpg" alt="On distraction-free reading experiences sketchnote">
@@ -19,8 +19,8 @@ Here's my sketchnote of [Adrian Zumbrunnen](https://twitter.com/webchaeschtli)'s
 
 ## Related links
 
-- [Bonny Colville-Hide](https://twitter.com/almostexact)'s [notes](https://rockpooldigitalux.tumblr.com/post/86890042606/on-distraction-free-reading-experiences-adrian) of the talk.
-- [Christophe F. Batista](https://twitter.com/obzilo)'s [article about the talk](https://enigmaprod.ch/good-to-know/on-distraction-free-reading-experiences/).
+- [Bonny Colville-Hide](https://web.archive.org/web/20140601072412/https://twitter.com/almostexact)'s [notes](https://rockpooldigitalux.tumblr.com/post/86890042606/on-distraction-free-reading-experiences-adrian) of the talk.
+- [Christophe F. Batista](https://web.archive.org/web/20140706072046/https://twitter.com/obzilo)'s [article about the talk](https://enigmaprod.ch/good-to-know/on-distraction-free-reading-experiences/).
 
 ## Tweets
 
