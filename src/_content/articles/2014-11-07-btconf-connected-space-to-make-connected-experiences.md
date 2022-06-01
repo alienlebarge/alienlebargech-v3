@@ -10,7 +10,7 @@ tags:
 - stttti
 ---
 
-Objects can interact with each and other via the Internet. That's what call <abbr title="Stuff That Talks To The Interwebs">STTTTTI</abbr>. [Stacey Mulcahy](https://twitter.com/bitchwhocodes) presented some (funny) projects she has done and how we can build similar things.
+Objects can interact with each and other via the Internet. That's what call <abbr title="Stuff That Talks To The Interwebs">STTTTTI</abbr>. [Stacey Mulcahy](https://web.archive.org/web/20141216041753/https://twitter.com/bitchwhocodes) presented some (funny) projects she has done and how we can build similar things.
 
 - Build for fun
 - Start small, think big!
