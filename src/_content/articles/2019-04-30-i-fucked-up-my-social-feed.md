@@ -23,14 +23,14 @@ The central piece of all that is micro.blog. I give a JSON feed to Micro.blog an
 Last week, I've posted [an article](https://alienlebarge.ch/2019/04/open-split-pane-in-the-current-directory-in-iterm-2.html). It was my first since 2016!
 But then, I realize that it wasn't published on my social account. So, [I fixed that](https://github.com/alienlebarge/alienlebargech-v3/issues/8).
 
-A few minutes later, I get a tweet from [@loriskumo](https://twitter.com/loriskumo) saying there's something strange with my Twitter account.
+A few minutes later, I get a tweet from [@loriskumo](https://web.archive.org/web/20200424122140/https://twitter.com/loriskumo) saying there's something strange with my Twitter account.
 
 All my social accounts were flooded with old articles from my blog. More than 600 tweets of old stuff were posted.
 Micro.blog had cross-post all the old articles that weren't in my feeds. The result was that not only twitter was flooded but Mastondon and Micro.blog too.
 
 ## Fix that mess
 
-### [Twitter](https://twitter.com/alienlebarge)
+### [Twitter](https://web.archive.org/web/20200511132134/https://twitter.com/alienlebarge)
 
 [gocardigan](https://web.archive.org/web/20190614083959/https://www.gocardigan.com/) is a free service that let you bulk delete tweets. You can filter with dates so it was easy to remove all that bunch of old links.
 
