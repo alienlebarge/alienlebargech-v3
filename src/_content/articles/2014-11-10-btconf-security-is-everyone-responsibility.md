@@ -12,7 +12,7 @@ tags:
 
 This was the kind of talk after which one you shut down your phone and reset all your passwords when back at home.
 
-[James Hall](https://twitter.com/MrRio) how us how he can intercept traffic of devices using the same wifi (after having cracked this wifi). It was terrific !
+[James Hall](https://web.archive.org/web/20141130053916/https://twitter.com/MrRio) how us how he can intercept traffic of devices using the same wifi (after having cracked this wifi). It was terrific !
 
 
 <figure>
