@@ -28,7 +28,7 @@ On a vu des personnes aller jusqu'a la cascade avec une poussette, mais je ne vo
 Après la cascade, quelques escaliers bien raides vous conduiront jusqu'à un petit pont. Là, il faudra choisir la suite. Il y a deux possibilités :
 
 - Soit vous contenez à monter pour attendre le restaurant [Weidstübli](https://www.weidstuebli.ch). Les panneaux indiquaient une heure de marche.
-- Ou vous redescendez par le restaurant [Buljes](https://www.buljes.ch/). Ce fut notre choix et en vingt minutes nous avons rejoint la station.</li>
+- Ou vous redescendez par le restaurant [Buljes](https://web.archive.org/web/20140127145745/http://buljes.ch). Ce fut notre choix et en vingt minutes nous avons rejoint la station.</li>
 
 ## Résumé
 
