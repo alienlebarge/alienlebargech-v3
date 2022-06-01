@@ -12,7 +12,7 @@ tags:
  - web
 ---
 
-[Jeremy Keith](https://twitter.com/adactio) put forward that we had to **solidify the base of web developement that are HTML and CSS**. A site with HTML and CSS solid base will be supported more easily and longer than the site that is entirely based on javascript framework.
+[Jeremy Keith](https://web.archive.org/web/20150608070037/https://twitter.com/adactio) put forward that we had to **solidify the base of web developement that are HTML and CSS**. A site with HTML and CSS solid base will be supported more easily and longer than the site that is entirely based on javascript framework.
 
 <figure>
   <a href="https://www.flickr.com/photos/alienlebarge/16906984024" title="Sketchnote of Jermey Keith&#x27;s talk &quot;Enhance!&quot; by Cédric Aellen, sur Flickr"><img src="https://c4.staticflickr.com/8/7798/16906984024_85eef87674_b.jpg" alt="Sketchnote of Jermey Keith&#x27;s talk &quot;Enhance!&quot;"></a>
