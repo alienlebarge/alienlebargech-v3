@@ -8,7 +8,7 @@ image:       https://farm6.staticflickr.com/5033/14103531310_45496b6310_z.jpg
 tags:        uxls, ux, event, lausanne, empathy, interview, sketchnote
 ---
 
-Here's my sketchnote of [Indi Young](https://twitter.com/indiyoung)'s talk.
+Here's my sketchnote of [Indi Young](https://web.archive.org/web/20140420073644/https://twitter.com/indiyoung)'s talk.
 
 <figure>
   <img src="https://farm3.staticflickr.com/2902/14409269631_b0fd5bb74e_z.jpg" alt="Empathy is not an Interview sketchnote">
