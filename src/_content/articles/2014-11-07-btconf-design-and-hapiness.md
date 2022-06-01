@@ -9,7 +9,7 @@ tags:
  - conference
 ---
 
-[Stefan Sagmeister](https://twitter.com/sagmeisterwalsh) showed us what is joyousness and how to be happier in life. This has a direct impact on the design and the creative process.
+[Stefan Sagmeister](https://web.archive.org/web/20140625064854/https://twitter.com/sagmeisterwalsh) showed us what is joyousness and how to be happier in life. This has a direct impact on the design and the creative process.
 
 He is a brilliant maestro!  
 
