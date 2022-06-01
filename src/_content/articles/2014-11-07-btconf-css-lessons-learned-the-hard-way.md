@@ -11,7 +11,7 @@ tags:
 - sass
 ---
 
-[Zoe Micley Gillenwater](https://twitter.com/zomigi) talk about CSS and experimenting things to improve our knowledge.
+[Zoe Micley Gillenwater](https://web.archive.org/web/20140725141550/https://twitter.com/zomigi) talk about CSS and experimenting things to improve our knowledge.
 
 More experiments mean more success (but more fail too). Do not hesitate to share your mistakes and success. You will not be seen as a noob. 99% of people on earth do not know what CSS is.  
 
