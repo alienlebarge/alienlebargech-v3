@@ -10,7 +10,7 @@ tags:
  - information architecture
 ---
 
-[Oliver Reichenstein](https://twitter.com/reichenstein) presented a way of organizing information with containers.
+[Oliver Reichenstein](https://web.archive.org/web/20141107095521/https://twitter.com/reichenstein) presented a way of organizing information with containers.
 
 The rules are:
 
