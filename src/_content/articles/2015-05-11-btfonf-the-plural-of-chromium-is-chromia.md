@@ -14,7 +14,7 @@ tags:
 
 There a lot of Chrome browser on Android mobiles. Peter-Paul Koch presented a little selection of them.
 
-Here's my sketchnote of [Peter-Paul Koch](https://twitter.com/colly)'s talk "The Plural of Chromium is Chromia".  
+Here's my sketchnote of [Peter-Paul Koch](https://web.archive.org/web/20150601021938/https://twitter.com/colly)'s talk "The Plural of Chromium is Chromia".  
 
 <figure>
   <img src="https://farm8.staticflickr.com/7755/17527325582_1b56086e8f_z_d.jpg" alt="Sketchnote of the talk The Plural of Chromium is Chromia">
