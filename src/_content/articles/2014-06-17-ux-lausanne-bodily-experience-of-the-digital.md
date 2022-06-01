@@ -8,7 +8,7 @@ image:       https://farm4.staticflickr.com/3779/14289646894_485835c764_z.jpg
 tags:        uxls, ux, event, lausanne, sketchnote, body, experience
 ---
 
-Here's my sketchnote of [Fabian Hemmert](https://twitter.com/fabianhemmert)'s talk.
+Here's my sketchnote of [Fabian Hemmert](https://web.archive.org/web/20140408130645/https://twitter.com/fabianhemmert)'s talk.
 
 <figure>
   <img src="https://farm3.staticflickr.com/2898/14423082256_23e9825dfc_z.jpg" alt="Bodily Experiences of the Digital sketchnote">
