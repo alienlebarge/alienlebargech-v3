@@ -11,7 +11,7 @@ tags:
  - realtime
 ---
 
-[Lisa Larson-Kelly](https://twitter.com/lisamarienyc) 's talk was about new protocol communication like [WebRTC](https://www.webrtc.org) who allow to bring sound and video in the browser.
+[Lisa Larson-Kelly](https://web.archive.org/web/20150331060846/https://twitter.com/lisamarienyc) 's talk was about new protocol communication like [WebRTC](https://www.webrtc.org) who allow to bring sound and video in the browser.
 
 Here's my sketchnote of the talk.
 
