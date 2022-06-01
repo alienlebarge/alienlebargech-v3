@@ -36,7 +36,7 @@ Pour ma part, je l’utilise avec [Pinboard](https://pinboard.in/).
 
 Une police d’écriture d’icônes de forte belle facture.
 
-## [Gumby](https://gumbyframework.com/)
+## [Gumby](https://web.archive.org/web/20130601073907/http://gumbyframework.com:80/)
 
 Un framework “Responsive” en construit sûr du <a href="https://sass-lang.com/">Sass</a>.
 
