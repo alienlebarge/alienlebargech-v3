@@ -15,7 +15,7 @@ tags:
 Haaa design systems !
 I was waiting for this talk. As we start thinking about building [a design system for the State of Vaud](https://github.com/DSI-VD/foehn "Foehn, the design system for the State of Vaud on  GitHub"), my ears were wide open to grab information how to build design systems that works.
 
-[Jina Bolton](https://twitter.com/jina) works as a Senior Designer on the Design Systems team at Salesforce UX, working on the Lightning Design System and team evangelism.
+[Jina Bolton](https://web.archive.org/web/20151109004636/https://twitter.com/jina) works as a Senior Designer on the Design Systems team at Salesforce UX, working on the Lightning Design System and team evangelism.
 
 So here are my notes about her interesting talk.
 
@@ -43,4 +43,4 @@ So here are my notes about her interesting talk.
 - [The Sliding Scale of Giving a Fuck](https://web.archive.org/web/20151109125930/http://blog.capwatkins.com:80/the-sliding-scale-of-giving-a-fuck)
 - [Styleguide.io](https://web.archive.org/web/20151107182159/http://styleguides.io:80/?)
 - [Salesforce UX on GitHub](https://github.com/salesforce-ux/)
-- [Salesforce UX on Twitter](https://twitter.com/salesforceux?lang=fr)
+- [Salesforce UX on Twitter](https://web.archive.org/web/20200801163110/https://twitter.com/salesforceux?lang=fr)
