@@ -16,6 +16,6 @@ Let me know what you think of it. Hope you like it 😉
 
 The system I used to play is the following:
 
-![A picture of my modular system]({{ "/media/articles/2020/01/31/jam-201/modulargrid_1118796.jpg" | url }})
+![A picture of my modular system](modulargrid_1118796.jpg)
 
 You can listen to this jam on [Patreon](https://www.patreon.com/posts/jam-201-33624070)
