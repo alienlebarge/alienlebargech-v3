@@ -138,7 +138,7 @@ code {
     font-size: var(--font-size-smaller);
 }
 
-:not(pre) code {
+:not(pre) > code {
     @extend %box--inset-small-squished, %box--invert, %box;
 }
 
