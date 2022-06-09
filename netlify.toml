@@ -2,6 +2,7 @@
   TZ = "Europe/Zurich"
   environment = { NODE_VERSION = "17" }
 
+# new article url
 [[redirects]]
   from = "/:year/:month/*"
   to = "/articles/:year/:month/:splat"
