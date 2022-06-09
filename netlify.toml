@@ -1,3 +1,7 @@
+[build]
+    publish = "www/"
+    command = "npm run build"
+
 [context.production]
   TZ = "Europe/Zurich"
   environment = { NODE_VERSION = "17" }
