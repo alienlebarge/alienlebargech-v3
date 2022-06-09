@@ -1,14 +1,13 @@
-
 [context.production]
-    TZ = "Europe/Zurich"
-    environment = { NODE_VERSION = "17" }
+  TZ = "Europe/Zurich"
+  environment = { NODE_VERSION = "17" }
 
 # 404s
 [[redirects]]
-    from = "*"
-    to = "/404"
-    status = 404
+  from = "*"
+  to = "/404"
+  status = 404
 
 [[redirects]]
-    from = "/:year/:month/*"
-    to = "/articles/:year/:month/:splat"
+  from = "/:year/:month/*"
+  to = "/articles/:year/:month/:splat"
