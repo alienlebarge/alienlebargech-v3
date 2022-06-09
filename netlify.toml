@@ -6,6 +6,9 @@
   TZ = "Europe/Zurich"
   environment = { NODE_VERSION = "17" }
 
+[[plugins]]
+  package = "netlify-plugin-11ty"
+
 # new article urls
 [[redirects]]
     from = "/2005/*"
