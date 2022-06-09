@@ -18,4 +18,4 @@ Vous l’avez lu. J’ai beaucoup apprécié cette BD. Grand fan des classiques 
 
 > Tremblez, malfrats, voici Imbattable ! Ce nouveau protagoniste porte secours à la veuve et à l'orphelin comme tout héros qui se respecte, mais il sauve aussi les chiens, les chats des grands-mères, les terrains de pétanque, le fils du maire, et la ville tout entière. Masqué, comme tout justicier, capé, comme tout justicier, il mène la vie dure aux savants fous et aux mauvais plaisantins, sans jamais oublier de ramener le pain. Non seulement Imbattable est imbattable, mais son super-pouvoir fait de lui le seul véritable super-héros de bande dessinée !
 
-![Une page d'imbatable]({{ "/media/articles/2021/10/05/imbattable/imbattable-strip.jpeg" | url }})
+![Une page d'imbatable](imbattable-strip.jpg)
