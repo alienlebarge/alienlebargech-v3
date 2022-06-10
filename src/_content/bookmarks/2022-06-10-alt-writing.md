@@ -2,9 +2,9 @@
 date: 2022-06-10T12:38:50.305+02:00
 title: Alt writing
 bookmark-of: https://adactio.com/journal/19106
-mp-syndicate-to:
-  - https://mastodon.alienlebarge.ch/@alienlebarge
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://mastodon.alienlebarge.ch/@alienlebarge/108452748853311829
+  - https://twitter.com/alienlebarge/status/1535210237937999872
 ---
 I really enjoyed reading @adactio article on how he writes alt texts and how to make them useful and not off-putting.
 
