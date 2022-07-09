@@ -1,9 +1,9 @@
 ---
 date: 2022-07-09T21:25:45.765+02:00
 title: First jam with Stolperbeats
-mp-syndicate-to:
-  - https://mastodon.alienlebarge.ch/@alienlebarge
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://mastodon.alienlebarge.ch/@alienlebarge/108619029030635576
+  - https://twitter.com/alienlebarge/status/1545852169231933441
 ---
 This is the first jam I have done with [Stolperbeats](https://makingsoundmachines.com/stolperbeats/) by Making Sound Machines. It performs very well in a techno improvisation and I can't wait to use it more and explore his capabilities. The next step is to continue to build my own drum patterns and learn them.
 
