@@ -7,6 +7,9 @@ tags:
 category:
     - html
     - accessibility
+mp-syndicate-to:
+    - https://mastodon.alienlebarge.ch/@alienlebarge
+    - https://twitter.com/alienlebarge
 ---
 
 Currently, I am building a web version of a book. I'm wondering about the best way to make the dialogs accessible using the appropriate HTML code.
