@@ -49,7 +49,7 @@ Organisation
 : MJOR
 
 Période
-: De juillet 2010 à juillet 2013 
+: De juillet 2010 à juillet 2013
 
 ### Naissance de ma première fille
 
@@ -144,7 +144,7 @@ Ecole
 : HTWK, Leipzig, Allemagne
 
 Période
-: de février à août 2002 
+: de février à août 2002
 
 ### Membre du comité du Congress of Media
 
@@ -190,7 +190,7 @@ Période
 ### Naissance
 
 Date
-: Le 23 juillet 1979 
+: Le 23 juillet 1979
 
 
 ## Hobbies
