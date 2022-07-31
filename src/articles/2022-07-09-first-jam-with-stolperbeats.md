@@ -10,5 +10,6 @@ This is the first jam I have done with [Stolperbeats](https://makingsoundmachine
 https://vimeo.com/728440071
 
 ## Patch note
+
 Kick is SSF Ultra-Kick, ALM Squid Salmple is in charge of all other drums. Baseline is Noise Engineering BIA through SSF Triptiych sequenced by Vermona meloDICER.
 Effects are Qu-Bit Data Bender on drums and Make Noise Mimephon and ALM MFX on the baseline.
