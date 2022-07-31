@@ -7,10 +7,10 @@ tags:
 - Gadget
 - Informatique
 - Internet
-- Network
+- network
 - Poken
 - Réseau
-- Social
+- social
 status: publish
 published: true
 meta:

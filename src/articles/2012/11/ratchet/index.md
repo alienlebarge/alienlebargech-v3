@@ -6,10 +6,10 @@ categories:
 - Internet
 - Programmation
 tags:
-- CSS
-- Framework
-- HTML
-- Mobile
+- css
+- framework
+- html
+- mobile
 - Ratchet
 status: publish
 published: true

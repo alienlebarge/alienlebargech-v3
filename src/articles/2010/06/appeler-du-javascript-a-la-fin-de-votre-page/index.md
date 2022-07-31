@@ -5,14 +5,14 @@ title: Appeler du JavaScript à la fin de votre page
 categories:
 - Typo3
 tags:
-- HTML
+- html
 - JavaScript
 - Pied de page
 - Programmation
 - Snippet
 - Typo3
 - TypoScript
-- Web
+- web
 status: publish
 published: true
 meta:
@@ -31,7 +31,7 @@ meta:
 <p>Voici un exemple comment procéder avec le JavaScript de GoogleAnalytics :</p>
 
 ```shell
-###################### 
+######################
 
 # [Google Analytics]
 
@@ -47,12 +47,12 @@ lib.all.googleAnalytics {
 		try{
 		var pageTracker = _gat._getTracker(&quot;|&quot;);
 		pageTracker._trackPageview();
-		} catch(err) {} 
+		} catch(err) {}
 		&lt;/script&gt;
-		&lt;!-- Google Analytics end --&gt;	
+		&lt;!-- Google Analytics end --&gt;
 	)
-	
-	value = {$lib.constants.divers.googleAnalyticsUA} 
+
+	value = {$lib.constants.divers.googleAnalyticsUA}
 }
 
 page.20 &lt; lib.all.googleAnalytics

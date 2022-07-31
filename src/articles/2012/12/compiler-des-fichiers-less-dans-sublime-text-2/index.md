@@ -6,7 +6,7 @@ categories:
 - Informatique
 - Programmation
 tags:
-- CSS
+- css
 - Déve
 - Less
 - LessCSS

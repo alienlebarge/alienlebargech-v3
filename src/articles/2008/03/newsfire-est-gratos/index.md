@@ -6,7 +6,7 @@ categories:
 tags:
 - Logiciel
 - Mac
-- RSS
+- rss
 status: publish
 published: true
 meta:

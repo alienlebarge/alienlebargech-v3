@@ -4,7 +4,7 @@ title: Flickr change son design
 categories:
 - Internet
 tags:
-- Design
+- design
 - Ergon
 - Flickr
 - Photographie

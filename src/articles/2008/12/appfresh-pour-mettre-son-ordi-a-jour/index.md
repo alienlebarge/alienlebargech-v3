@@ -4,7 +4,7 @@ title: AppFresh pour mettre son ordi à jour
 categories:
 - Logiciel
 tags:
-- AppFresh
+- appFresh
 - Gratuit
 - Logiciel
 status: publish

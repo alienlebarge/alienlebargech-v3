@@ -2,7 +2,7 @@
 date: 2007-09-06
 title: La chapelle de Wassen en rouge pour l'anniversaire du Gothard
 categories:
-- Design
+- design
 tags: []
 status: publish
 published: true

@@ -7,7 +7,7 @@ date:        2014-11-07 07:52:36
 tags:
  - btconf
  - conference
- - fonts
+ - font
 ---
 
 [Jonathan Hoefler](https://twitter.com/HoeflerCo) is the founder of [Hoefler & Co](https://typography.com). He presented us all the works behind building fonts. They are not juste "fancy" fonts. They are built regarding of the context where they will be used. And there are a lot of problems to solve to make a good font.

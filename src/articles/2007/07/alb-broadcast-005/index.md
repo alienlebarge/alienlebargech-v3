@@ -2,10 +2,10 @@
 date: 2007-07-03
 title: 'alb broadcast #005'
 categories:
-- Podcast
+- podcast
 tags:
 - Musique
-- Podcast
+- podcast
 status: publish
 published: true
 meta:

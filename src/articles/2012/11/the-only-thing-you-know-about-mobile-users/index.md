@@ -6,7 +6,7 @@ categories:
 tags:
 - A Book Apart
 - Content Strategy
-- Mobile
+- mobile
 - Screen
 - Size
 status: publish

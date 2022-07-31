@@ -62,7 +62,7 @@ So, there is still a lot to improve and explore. That's what's great about Euror
 - Malekko Heavy Industry - Mix 3
 - Malekko Heavy Industry - Varigate 8+
 - Malekko Heavy Industry - Voltage Block
-- Music Thing Modular - Radio Music
+- music Thing Modular - Radio Music
 - Mutable Instruments - Branches
 - Mutable Instrumnets - Grids
 - Mutable Instrumnets - Links

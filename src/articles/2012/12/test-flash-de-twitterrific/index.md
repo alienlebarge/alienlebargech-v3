@@ -5,11 +5,11 @@ title: Test flash de Twitterrific
 categories:
 - Logiciel
 tags:
-- Application
+- application
 - Client
-- iOS
+- ios
 - iPhone
-- Twitter
+- twitter
 status: publish
 published: true
 meta:

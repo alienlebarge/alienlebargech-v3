@@ -3,7 +3,7 @@ date: 2007-04-26
 
 title: Redesign de la carte du Metro de NY
 categories:
-- Design
+- design
 tags: []
 status: publish
 published: true

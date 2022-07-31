@@ -7,8 +7,8 @@ tags:
 - Dopplr
 - Vacances
 - Voyage
-- Web
-- Web2.0
+- web
+- web2.0
 status: publish
 published: true
 meta:

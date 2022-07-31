@@ -3,12 +3,12 @@ date: 2007-04-27
 
 title: A fond dans les CSS
 categories:
-- Design
+- design
 - Projet
 tags:
-- Code
-- CSS
-- Design
+- code
+- css
+- design
 - Digitapéro
 - Projet
 status: publish

@@ -4,8 +4,8 @@ title: Re-vo-lu-tion
 categories:
 - Le site
 tags:
-- CSS
-- Design
+- css
+- design
 - Le site
 status: publish
 published: true

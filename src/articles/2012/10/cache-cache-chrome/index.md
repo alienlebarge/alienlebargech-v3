@@ -4,9 +4,9 @@ title: Cache-cache Chrome
 categories:
 - Informatique
 tags:
-- Application Cache
+- application Cache
 - Cache
-- Chrome
+- chrome
 status: publish
 published: true
 meta:

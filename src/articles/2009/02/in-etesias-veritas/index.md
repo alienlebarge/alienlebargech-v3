@@ -2,9 +2,9 @@
 date: 2009-02-27
 title: In etesias veritas
 categories:
-- Design
+- design
 tags:
-- Design
+- design
 - Etiquette
 - Packaging
 - Vin

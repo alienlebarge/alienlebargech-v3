@@ -5,7 +5,7 @@ categories:
 - Informatique
 tags:
 - Annonce
-- Apple
+- apple
 - iTunes
 status: publish
 published: true

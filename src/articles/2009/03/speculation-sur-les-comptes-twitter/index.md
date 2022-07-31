@@ -5,7 +5,7 @@ categories:
 - Internet
 tags:
 - Internet
-- Twitter
+- twitter
 status: publish
 published: true
 meta:

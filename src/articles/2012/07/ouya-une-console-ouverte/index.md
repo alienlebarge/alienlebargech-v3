@@ -5,7 +5,7 @@ categories:
 - Jeux
 tags:
 - Android
-- Console
+- console
 - Jeux
 - Open Source
 - Ouya

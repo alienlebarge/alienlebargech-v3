@@ -4,7 +4,7 @@ title: Dans la publicité
 categories:
 - Publicité
 tags:
-- Design
+- design
 - Publicité
 - Vidéo
 status: publish

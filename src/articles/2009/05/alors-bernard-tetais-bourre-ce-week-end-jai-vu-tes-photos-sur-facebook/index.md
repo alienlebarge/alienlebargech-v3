@@ -9,7 +9,7 @@ tags:
 - Facebook
 - Photographie
 - Profil
-- Social
+- social
 status: publish
 published: true
 meta:

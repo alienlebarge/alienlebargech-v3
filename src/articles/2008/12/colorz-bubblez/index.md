@@ -2,11 +2,11 @@
 date: 2008-12-04
 title: Colorz Bubblez
 categories:
-- Design
+- design
 - Logiciel
 - Personnel
 tags:
-- Design
+- design
 - Desktop
 - Ecran
 - Fond d'écran

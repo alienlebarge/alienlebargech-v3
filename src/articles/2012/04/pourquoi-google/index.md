@@ -8,7 +8,7 @@ tags:
 - Google
 - Internet
 - Réseau
-- Social
+- social
 status: publish
 published: true
 meta:

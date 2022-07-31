@@ -5,7 +5,7 @@ categories:
 - Programmation
 - Typo3
 tags:
-- Code
+- code
 - Setup
 - Titre
 - Typo3

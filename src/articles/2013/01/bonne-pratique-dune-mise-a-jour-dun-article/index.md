@@ -8,8 +8,8 @@ categories:
 tags:
 - Accessibilité
 - Blog
-- CSS
-- HTML5
+- css
+- html5
 - ins
 - Mise à jour
 - Update

@@ -2,9 +2,9 @@
 date: 2007-11-20
 title: Un clip informatif
 categories:
-- Design
+- design
 tags:
-- Design
+- design
 - Information
 - Musique
 status: publish

@@ -2,10 +2,10 @@
 date: 2010-01-26
 title: 'alb broadcast #009'
 categories:
-- Podcast
+- podcast
 tags:
 - Musique
-- Podcast
+- podcast
 status: publish
 published: true
 meta:

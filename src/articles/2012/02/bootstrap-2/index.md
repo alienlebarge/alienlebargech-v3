@@ -6,11 +6,11 @@ categories:
 - Internet
 - Programmation
 tags:
-- Bootstrap
-- CSS
+- bootstrap
+- css
 - Développement
-- Framework
-- HTML
+- framework
+- html
 - JavaScript
 status: publish
 published: true

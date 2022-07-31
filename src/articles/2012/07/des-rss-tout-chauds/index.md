@@ -9,7 +9,7 @@ tags:
 - Agrégateur
 - Fever
 - Flux
-- RSS
+- rss
 status: publish
 published: true
 meta:

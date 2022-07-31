@@ -4,7 +4,7 @@ title: Des vidéos sur l'ITMS, ça mérite un quiz
 categories:
 - Musique
 tags:
-- Apple
+- apple
 - iTunes
 - Jeux
 - Musique

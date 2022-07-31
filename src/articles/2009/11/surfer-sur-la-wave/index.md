@@ -4,7 +4,7 @@ title: Surfer sur la 'Wave'
 categories:
 - Internet
 tags:
-- Communication
+- communication
 - Google
 - Google Wave
 - Internet

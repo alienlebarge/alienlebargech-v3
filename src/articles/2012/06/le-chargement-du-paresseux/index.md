@@ -6,14 +6,14 @@ categories:
 - Programmation
 tags:
 - Chargement
-- Design
+- design
 - Image
 - jQuery
 - Lazy
 - Paresseux
 - Plugin
 - Responsive
-- Web
+- web
 status: publish
 published: true
 meta:

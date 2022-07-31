@@ -4,7 +4,7 @@ title: Cinco De Mayo Carnival
 categories:
 - Photographie
 tags:
-- Art
+- art
 - Vidéo
 status: publish
 published: true

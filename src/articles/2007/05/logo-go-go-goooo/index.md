@@ -2,10 +2,10 @@
 date: 2007-05-03
 title: Logo Go Go Goooo !
 categories:
-- Design
+- design
 - Projet
 tags:
-- Design
+- design
 - Digitapéro
 - Graphisme
 - Logo

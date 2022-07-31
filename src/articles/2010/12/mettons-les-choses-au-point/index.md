@@ -4,7 +4,7 @@ title: Mettons les choses au point
 categories:
 - Photographie
 tags:
-- Appareil
+- appareil
 - Astuces
 - Mise au point
 - Photographie

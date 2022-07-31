@@ -6,7 +6,7 @@ categories:
 tags:
 - Ballade
 - Dala
-- Loèche
+- loeche
 - Randonnée
 status: publish
 published: true

@@ -7,12 +7,12 @@ categories:
 - Logiciel
 tags:
 - Antidote
-- Apple
+- apple
 - CameraBag
 - Facebook
 - iPhone
 - Logiciel
-- Mobile Fotos
+- mobile Fotos
 - OmniFocus
 - QuadCamera
 - Remote

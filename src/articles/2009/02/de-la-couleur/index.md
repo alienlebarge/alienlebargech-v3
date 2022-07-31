@@ -2,11 +2,11 @@
 date: 2009-02-21
 title: De la couleur !
 categories:
-- Design
+- design
 tags:
 - Couleur
-- CSS
-- Design
+- css
+- design
 - Internet
 status: publish
 published: true

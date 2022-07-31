@@ -3,10 +3,10 @@ date: 2008-03-18
 title: 'alb broadcast #007'
 categories:
 - Musique
-- Podcast
+- podcast
 tags:
 - Musique
-- Podcast
+- podcast
 status: publish
 published: true
 meta:

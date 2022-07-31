@@ -2,10 +2,10 @@
 date: 2010-11-25
 title: Les voyages dans le temps sur poster
 categories:
-- Design
+- design
 tags:
 - Cinéma
-- Design
+- design
 - Graphisme
 - Infographie
 - Temporel

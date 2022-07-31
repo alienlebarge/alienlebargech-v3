@@ -2,13 +2,13 @@
 date: 2012-05-04
 title: Icônes
 categories:
-- Design
+- design
 - Informatique
 tags:
-- Design
+- design
 - icônes
 - Ressource
-- Web
+- web
 status: publish
 published: true
 meta:

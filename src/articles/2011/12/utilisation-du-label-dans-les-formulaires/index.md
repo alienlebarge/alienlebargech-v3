@@ -6,12 +6,12 @@ categories:
 - Internet
 tags:
 - form
-- HTML
-- HTML5
+- html
+- html5
 - label
 - Standard
 - Usabilité
-- UX
+- ux
 status: publish
 published: true
 meta:

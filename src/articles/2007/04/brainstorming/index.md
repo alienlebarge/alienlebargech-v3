@@ -3,7 +3,7 @@ date: 2007-04-27
 
 title: Brainstorming
 categories:
-- Design
+- design
 - Projet
 tags:
 - Digitapéro

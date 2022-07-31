@@ -5,7 +5,7 @@ title: Créer un index en Typoscript
 categories:
 - Typo3
 tags:
-- Code
+- code
 - Index
 - Menu
 - Snippet

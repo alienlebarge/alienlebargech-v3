@@ -2,7 +2,7 @@
 date: 2008-09-21
 title: Nike Windrunner 82
 categories:
-- Design
+- design
 - Mode
 - Publicité
 tags:

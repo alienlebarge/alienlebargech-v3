@@ -2,11 +2,11 @@
 date: 2011-12-14
 title: L'icône social
 categories:
-- Design
+- design
 tags:
 - Icône
 - Ressource
-- Social
+- social
 status: publish
 published: true
 meta:

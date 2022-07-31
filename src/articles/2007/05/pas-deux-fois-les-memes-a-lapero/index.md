@@ -5,7 +5,7 @@ categories:
 - Programmation
 - Projet
 tags:
-- Code
+- code
 - Digitapéro
 - Programmation
 - Projet

@@ -6,7 +6,7 @@ categories:
 tags:
 - Carte
 - Internet
-- Web
+- web
 status: publish
 published: true
 meta:

@@ -4,7 +4,7 @@ title: Foldify
 categories:
 - Logiciel
 tags:
-- Application
+- application
 - Dessin
 - Foldify
 - iPad

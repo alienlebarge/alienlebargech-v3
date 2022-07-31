@@ -5,7 +5,7 @@ title: Swisscom TV vs. AppleTV
 categories:
 - Informatique
 tags:
-- AppleTV
+- appleTV
 - Swissom
 - Télévision
 status: publish

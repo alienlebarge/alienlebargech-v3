@@ -3,10 +3,10 @@ date: 2008-07-31
 title: 'alb broadcast #008'
 categories:
 - Musique
-- Podcast
+- podcast
 tags:
 - Musique
-- Podcast
+- podcast
 status: publish
 published: true
 meta:

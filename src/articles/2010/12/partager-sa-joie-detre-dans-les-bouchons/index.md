@@ -9,9 +9,9 @@ categories:
 - Transport
 tags:
 - GPS
-- Navigation
+- navigation
 - Route
-- Social
+- social
 - Voiture
 - Waze
 status: publish

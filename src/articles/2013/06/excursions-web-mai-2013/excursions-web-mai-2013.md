@@ -5,7 +5,7 @@ categories:
 - Internet
 tags:
 - Excursions
-- Web
+- web
 status: publish
 published: true
 meta:

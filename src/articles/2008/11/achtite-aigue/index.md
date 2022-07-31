@@ -8,7 +8,7 @@ tags:
 - Achtite aiguë
 - Bag
 - Bâche
-- Design
+- design
 - Freitag
 - Mode
 - Personnel

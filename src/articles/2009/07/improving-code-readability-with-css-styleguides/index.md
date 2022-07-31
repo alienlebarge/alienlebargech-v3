@@ -5,12 +5,12 @@ categories:
 - Internet
 - Programmation
 tags:
-- Code
-- CSS
-- Design
+- code
+- css
+- design
 - Layout
 - Programmation
-- Web
+- web
 status: publish
 published: true
 meta:

@@ -3,10 +3,10 @@ date: 2007-04-26
 
 title: 'alb broadcast #003'
 categories:
-- Podcast
+- podcast
 tags:
 - Musique
-- Podcast
+- podcast
 status: publish
 published: true
 meta:

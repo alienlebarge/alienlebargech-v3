@@ -2,10 +2,10 @@
 date: 2013-02-20
 title: BLOKK font
 categories:
-- Design
+- design
 tags:
-- Font
-- UX
+- font
+- ux
 - Wireframe
 status: publish
 published: true

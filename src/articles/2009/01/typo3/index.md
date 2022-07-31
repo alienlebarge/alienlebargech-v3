@@ -8,7 +8,7 @@ tags:
 - CMS
 - Internet
 - Typo3
-- Web
+- web
 status: publish
 published: true
 meta:

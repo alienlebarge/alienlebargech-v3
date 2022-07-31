@@ -2,10 +2,10 @@
 date: 2007-08-23
 title: 'alb broadcast #006'
 categories:
-- Podcast
+- podcast
 tags:
 - Musique
-- Podcast
+- podcast
 status: publish
 published: true
 meta:

@@ -2,9 +2,9 @@
 date: 2008-09-27
 title: Nesk
 categories:
-- Design
+- design
 tags:
-- Design
+- design
 - Humour
 - Illustration
 - Nesk

@@ -6,7 +6,7 @@ categories:
 tags:
 - Administratif
 - Le site
-- Web
+- web
 status: publish
 published: true
 meta:

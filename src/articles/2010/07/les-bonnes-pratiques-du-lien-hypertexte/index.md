@@ -6,12 +6,12 @@ categories:
 tags:
 - Accessibilité
 - Ergonomie
-- HTML
+- html
 - Hypertexte
 - Internet
 - Liens
 - Référencement
-- Web
+- web
 status: publish
 published: true
 meta:

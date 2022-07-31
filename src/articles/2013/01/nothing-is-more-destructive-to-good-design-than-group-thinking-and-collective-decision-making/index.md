@@ -3,7 +3,7 @@ date: 2013-01-16
 title: Nothing is more destructive to good design than group thinking and collective
   decision making
 categories:
-- Design
+- design
 tags: []
 status: publish
 published: true

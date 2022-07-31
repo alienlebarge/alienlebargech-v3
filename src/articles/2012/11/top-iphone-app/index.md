@@ -4,11 +4,11 @@ title: Top iPhone app
 categories:
 - Logiciel
 tags:
-- Application
+- application
 - ByWord
 - iA Writer
 - iPhone
-- Mobile CFF
+- mobile CFF
 - Partly Cloudy
 - Spotify
 - Taskpaper

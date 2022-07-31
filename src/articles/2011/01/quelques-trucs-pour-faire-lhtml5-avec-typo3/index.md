@@ -5,7 +5,7 @@ title: Quelques trucs pour faire l'HTML5 avec Typo3
 categories:
 - Typo3
 tags:
-- HTML5
+- html5
 - JavaScript
 - Typo3
 - TypoScript

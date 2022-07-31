@@ -4,7 +4,7 @@ title: Appartement à louer à Orbe
 categories:
 - Non classé
 tags:
-- Appartement
+- appartement
 - Immobilier
 - Location
 - Louer

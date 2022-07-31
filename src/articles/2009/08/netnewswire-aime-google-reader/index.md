@@ -8,7 +8,7 @@ tags:
 - Google Reader
 - Logiciel
 - NetNewsWire
-- RSS
+- rss
 status: publish
 published: true
 meta:

@@ -5,7 +5,7 @@ categories:
 - Matériel
 - Musique
 tags:
-- Apple
+- apple
 - iPod Touch
 - Musique
 status: publish

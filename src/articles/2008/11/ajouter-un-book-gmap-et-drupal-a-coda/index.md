@@ -7,7 +7,7 @@ categories:
 tags:
 - Book
 - Coda
-- Code
+- code
 - Livre
 - Logiciel
 - Panic

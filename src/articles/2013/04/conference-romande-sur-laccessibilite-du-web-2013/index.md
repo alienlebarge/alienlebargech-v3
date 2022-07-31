@@ -5,7 +5,7 @@ categories:
 - Internet
 tags:
 - Accessibilité
-- Conférence
+- conference
 - CRAW2013
 status: publish
 published: true

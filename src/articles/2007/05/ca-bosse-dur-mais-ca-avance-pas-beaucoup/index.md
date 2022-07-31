@@ -6,7 +6,7 @@ categories:
 - Projet
 tags:
 - Coda
-- Code
+- code
 - Digitapéro
 - Programmation
 status: publish

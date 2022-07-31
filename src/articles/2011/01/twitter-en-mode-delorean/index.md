@@ -7,7 +7,7 @@ tags:
 - '2010'
 - Microbloging
 - Tweet
-- Twitter
+- twitter
 status: publish
 published: true
 meta:

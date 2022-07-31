@@ -7,7 +7,7 @@ tags:
 - Ballade
 - Dala
 - Gorges
-- Loeche
+- loeche
 - Randonnée
 status: publish
 published: true

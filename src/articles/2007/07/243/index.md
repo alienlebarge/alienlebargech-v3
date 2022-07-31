@@ -2,7 +2,7 @@
 date: 2007-07-12
 title: π
 categories:
-- Design
+- design
 - Humour
 tags: []
 status: publish

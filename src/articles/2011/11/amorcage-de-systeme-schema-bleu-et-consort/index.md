@@ -2,17 +2,17 @@
 date: 2011-11-03
 title: Amorçage de système, schéma bleu et consort
 categories:
-- Design
+- design
 - Internet
 - Programmation
 tags:
 - Blueprint
-- Bootstrap
-- CSS
+- bootstrap
+- css
 - Développement
-- Framework
+- framework
 - Grid
-- HTML
+- html
 - Typographie
 status: publish
 published: true

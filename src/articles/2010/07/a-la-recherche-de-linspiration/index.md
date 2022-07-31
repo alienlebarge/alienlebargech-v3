@@ -5,12 +5,12 @@ categories:
 - Projet
 tags:
 - Conseil
-- Design
+- design
 - Graphisme
 - Internet
 - MJOR
 - Refonte
-- Web
+- web
 status: publish
 published: true
 meta:

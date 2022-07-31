@@ -4,7 +4,7 @@ title: Une ou deux bulles ?
 categories:
 - Projet
 tags:
-- Design
+- design
 - Digitapéro
 - Graphisme
 - Logo

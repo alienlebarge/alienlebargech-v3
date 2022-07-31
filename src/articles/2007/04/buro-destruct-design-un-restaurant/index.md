@@ -3,7 +3,7 @@ date: 2007-04-27
 
 title: Büro Destruct design un restaurant
 categories:
-- Design
+- design
 tags: []
 status: publish
 published: true

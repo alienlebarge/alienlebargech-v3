@@ -5,7 +5,7 @@ categories:
 - Programmation
 - Typo3
 tags:
-- Bootstrap
+- bootstrap
 - navbar
 - Typo3
 - TypoScript

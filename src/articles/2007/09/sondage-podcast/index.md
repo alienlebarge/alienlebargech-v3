@@ -2,10 +2,10 @@
 date: 2007-09-25
 title: Sondage podcast
 categories:
-- Podcast news
+- podcast news
 tags:
 - Musique
-- Podcast
+- podcast
 - Sondage
 status: publish
 published: true

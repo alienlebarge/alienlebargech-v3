@@ -5,13 +5,13 @@ categories:
 - Logiciel
 - Photographie
 tags:
-- App
+- app
 - Facebbok
 - Instagram
 - iPhone
 - Photographie
 - Piictu
-- Social
+- social
 status: publish
 published: true
 meta:

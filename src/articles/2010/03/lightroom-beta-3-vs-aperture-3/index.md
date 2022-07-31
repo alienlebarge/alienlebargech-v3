@@ -8,7 +8,7 @@ categories:
 tags:
 - Adobe
 - Aperture
-- Apple
+- apple
 - Lightroom
 - Logiciel
 - Photographie

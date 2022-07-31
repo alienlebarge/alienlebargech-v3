@@ -7,7 +7,7 @@ tags:
 - Configuration
 - Flickr
 - Photographie
-- Social
+- social
 status: publish
 published: true
 meta:
