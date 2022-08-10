@@ -6,4 +6,4 @@ syndication:
   - https://mastodon.alienlebarge.ch/@alienlebarge/108798588705831813
   - https://twitter.com/alienlebarge/status/1557343988532871168
 ---
-&gt; A series of modernist transit design gems were discovered last week inside Massimo and Lella Vignelli’s archives.
+> A series of modernist transit design gems were discovered last week inside Massimo and Lella Vignelli’s archives.
