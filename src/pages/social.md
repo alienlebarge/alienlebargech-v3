@@ -19,9 +19,9 @@ Before having this blog, I posted all my photos on Flickr.
 
 All my code is hosted here.
 
-## [Mastodon](https://mastodon.alienlebarge.ch/@alienlebarge){rel="external"}
+## [Mastodon](https://mastodon.social/@alienlebarge){rel="external"}
 
-Mastodon is free and open-source software for running self-hosted social networking services.
+Mastodon is free, open-source and decentralized social network
 
 The content of alienlebarge.ch is cross-posted there.
 
