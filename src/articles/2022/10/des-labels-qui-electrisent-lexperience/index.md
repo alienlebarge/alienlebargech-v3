@@ -14,7 +14,7 @@ Il doit y avoir neuf chances sur dix que oui, mais j'aimerais en être sûr.
 
 On croit pouvoir vérifier l'information en téléchargeant le mode d'emploi qui est en lien. Malheureusement, celui-ci ne fonctionne pas.
 
-![Une capture d’écran du formuaire en ligne comparé au libéllés sur les feuillet de relevés des compteurs](romande-energie-labels)
+![Une capture d’écran du formulaire en ligne comparé aux libéllés sur les feuillets de relevés des compteurs](romande-energie-labels.png)
 
 Bref, me voilà à renvoyer un courriel qu'une personne devra réceptionner et saisir manuellement les informations dans votre système.
 
