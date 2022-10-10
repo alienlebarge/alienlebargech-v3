@@ -1,9 +1,6 @@
 ---
 date: 2022-10-09T11:51:24.263+02:00
 title: Des labels qui électrisent l'expérience utilisateur
-photo:
-  - url: /media/photos/2022/10/09/0kk9c.png
-    alt: Une capture d’écran du formuaire en ligne comparé au libéllés sur les feuillet de relevés des compteurs
 mp-syndicate-to:
   - https://mastodon.social/@alienlebarge
   - https://twitter.com/alienlebarge
@@ -17,6 +14,8 @@ Il doit y avoir neuf chances sur dix que oui, mais j'aimerais en être sûr.
 
 On croit pouvoir vérifier l'information en téléchargeant le mode d'emploi qui est en lien. Malheureusement, celui-ci ne fonctionne pas.
 
-Bref, me voilà à renvoyer un courriel qu'une personne devra réceptionner et saisir manuellement les informations dans votre système. 
+![Une capture d’écran du formuaire en ligne comparé au libéllés sur les feuillet de relevés des compteurs](romande-energie-labels)
+
+Bref, me voilà à renvoyer un courriel qu'une personne devra réceptionner et saisir manuellement les informations dans votre système.
 
 Dommage...
