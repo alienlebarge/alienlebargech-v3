@@ -63,7 +63,7 @@
     "postcss-extend-rule": "^4.0.0",
     "postcss-media-minmax": "^5.0.0",
     "postcss-selector-matches": "^4.0.0",
-    "sanitize-html": "^2.7.2",
+    "sanitize-html": "^2.7.3",
     "uslug": "^1.0.4"
   },
   "devDependencies": {
