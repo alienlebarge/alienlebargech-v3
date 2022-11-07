@@ -53,7 +53,7 @@
     "markdown-it-image-figures": "^2.1.0",
     "markdown-it-mentions": "^1.0.0",
     "markdown-it-table-of-contents": "^0.6.0",
-    "moment-timezone": "^0.5.37",
+    "moment-timezone": "^0.5.38",
     "netlify-plugin-11ty": "^1.1.0",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^10.0.0",
@@ -69,12 +69,12 @@
   "devDependencies": {
     "@alienlebarge/stylelint-config": "^3.1.6",
     "chokidar-cli": "^3.0.0",
-    "eslint-plugin-jsdoc": "^39.3.6",
+    "eslint-plugin-jsdoc": "^39.6.2",
     "lodash": "^4.17.21",
     "markdownlint-cli": "^0.32.2",
     "node-fetch": "^3.2.10",
-    "stylelint": "^14.14.0",
-    "xo": "^0.52.3"
+    "stylelint": "^14.14.1",
+    "xo": "^0.52.4"
   },
   "xo": {
     "space": true,
