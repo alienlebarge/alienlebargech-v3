@@ -1,0 +1,30 @@
+<article class="c-item | h-entry" data-type="repost">
+    <div class="o-prose c-item__main | e-content p-name">
+        {{ item.templateContent | safe }}
+    </div>
+    <footer class="c-item__footer">
+        <dl class="o-stack o-stack--step--4">
+            <dt class="u-visually-hidden">Published on</dt>
+            <dd>
+            <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
+                {# TODO: use src/_data/dates.json to format the date. #}
+                <time class="o-cluster o-cluster--step--2  | dt-published"
+                      datetime="{{ item.date | date }}">
+                    <span>{{ item.date | date("D MMM YYYY") }}</span>
+                    <span>{{ item.date | date("HH:mm") }}</span>
+                </time>
+            </a>
+            </dd>
+            {% if item.data.repostOf %}
+                <dt class="u-visually-hidden">Repost of</dt>
+                <dd>
+                <a class="u-repost-of"
+                   rel="external"
+                   href="{{ item.data.repostOf }}">
+                    {{- item.data.repostOf -}}
+                </a>
+                </dd>
+            {% endif %}
+        </dl>
+    </footer>
+</article>
