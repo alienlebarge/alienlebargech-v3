@@ -69,7 +69,7 @@
     --space: var(--step-0); /* [2] */
 }
 
-.o-prose :matches(h4, h5, h6) + * {
+.o-prose :is(h4, h5, h6) + * {
     --space: var(--step--2); /* [3] */
 }
 
@@ -154,7 +154,7 @@
     @extend %subhead;
 }
 
-.o-prose :matches(h4, h5, h6) {
+.o-prose :is(h4, h5, h6) {
     @extend %overline;
 }
 
