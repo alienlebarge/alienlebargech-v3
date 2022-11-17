@@ -1,0 +1,17 @@
+---
+title: Checkins
+summary: "The places I went that I liked"
+permalink: checkins/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html
+pagination:
+    data: collections.checkin
+    size: 20
+    reverse: true
+layout: index.njk
+type: index
+override:tags: []
+---
+{% import 'list-items.njk' as list %}
+{{ list.listItems(pagination.items, "[ o-box o-box--container-big ]") }}
+
+{% import 'pagination.njk' as transverse %}
+{{ transverse.paginate(pagination, label='Checkins') }}
