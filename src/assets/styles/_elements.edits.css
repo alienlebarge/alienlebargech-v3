@@ -25,5 +25,5 @@ del {
    ------------------------------------- */
 
 ins {
-    /* Find something to visualise ins without color */
+    text-decoration: underline;
 }
