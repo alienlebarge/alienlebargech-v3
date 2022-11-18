@@ -6,7 +6,7 @@
  * Remove margin and padding on lists
  */
 
-:--list {
+:is(dl, ol, ul) {
     margin: 0;
     padding: 0;
 }

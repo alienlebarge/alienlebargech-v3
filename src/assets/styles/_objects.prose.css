@@ -79,7 +79,7 @@
 
 /* stylelint-disable selector-max-compound-selectors */
 .o-prose > ul:not([class]) > li + li,
-.o-prose :--list > li:first-child {
+.o-prose :is(dl, ol, ul) > li:first-child {
     margin-block-start: var(--space); /* [4] */
 }
 /* stylelint-enable */
@@ -181,12 +181,12 @@
     list-style-type: decimal; /* [1] */
 }
 
-.o-prose :--list {
+.o-prose :is(dl, ol, ul) {
     list-style-position: inside;
     padding-inline-start: 0;
 }
 
-.o-prose :--list :--list {
+.o-prose :is(dl, ol, ul) :is(dl, ol, ul) {
     padding-inline-start: var(--flow-inset);
 }
 
