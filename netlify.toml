@@ -1,10 +1,71 @@
+[build]
+    publish = "www/"
+    command = "npm run build"
 
 [context.production]
-    TZ = "Europe/Zurich"
-    environment = { NODE_VERSION = "17" }
+  TZ = "Europe/Zurich"
+  environment = { NODE_VERSION = "17" }
 
-# 404s
+[[plugins]]
+  package = "netlify-plugin-11ty"
+
+# new article urls
 [[redirects]]
-    from = "*"
-    to = "/404"
-    status = 404
+    from = "/2005/*"
+    to = "/articles/2005/:splat"
+
+[[redirects]]
+    from = "/2007/*"
+    to = "/articles/2007/:splat"
+
+[[redirects]]
+    from = "/2008/*"
+    to = "/articles/2008/:splat"
+
+[[redirects]]
+    from = "/2009/*"
+    to = "/articles/2009/:splat"
+
+[[redirects]]
+    from = "/2010/*"
+    to = "/articles/2010/:splat"
+
+[[redirects]]
+    from = "/2011/*"
+    to = "/articles/2011/:splat"
+
+[[redirects]]
+    from = "/2012/*"
+    to = "/articles/2012/:splat"
+
+[[redirects]]
+    from = "/2013/*"
+    to = "/articles/2013/:splat"
+
+[[redirects]]
+    from = "/2014/*"
+    to = "/articles/2014/:splat"
+
+[[redirects]]
+    from = "/2015/*"
+    to = "/articles/2015/:splat"
+
+[[redirects]]
+    from = "/2016/*"
+    to = "/articles/2016/:splat"
+
+[[redirects]]
+    from = "/2019/*"
+    to = "/articles/2019/:splat"
+
+[[redirects]]
+    from = "/2020/*"
+    to = "/articles/2020/:splat"
+
+[[redirects]]
+    from = "/2021/*"
+    to = "/articles/2021/:splat"
+
+[[redirects]]
+    from = "/2022/*"
+    to = "/articles/2022/:splat"

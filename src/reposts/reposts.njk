@@ -1,0 +1,17 @@
+---
+title: Reposts
+summary: re-publication of another (typically someone else’s) post
+pagination:
+  data: collections.repost
+  size: 25
+  reverse: true
+permalink: reposts/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber }}{% else %}index{% endif %}.html
+layout: index.njk
+type: index
+override:tags: []
+---
+{% import 'list-items.njk' as list %}
+{{ list.listItems(pagination.items, "[ o-box o-box--container-big ]") }}
+
+{% import 'pagination.njk' as transverse %}
+{{ transverse.paginate(pagination, label='Reposts') }}

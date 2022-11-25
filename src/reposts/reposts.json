@@ -1,0 +1,8 @@
+{
+  "title": "",
+  "layout": "repost.njk",
+  "permalink": "reposts/{{ page.fileSlug }}/",
+  "tags": ["post", "repost"],
+  "type": "repost",
+  "vocab": ["entry"]
+}

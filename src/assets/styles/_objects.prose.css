@@ -69,7 +69,7 @@
     --space: var(--step-0); /* [2] */
 }
 
-.o-prose :matches(h4, h5, h6) + * {
+.o-prose :is(h4, h5, h6) + * {
     --space: var(--step--2); /* [3] */
 }
 
@@ -79,7 +79,7 @@
 
 /* stylelint-disable selector-max-compound-selectors */
 .o-prose > ul:not([class]) > li + li,
-.o-prose :--list > li:first-child {
+.o-prose :is(dl, ol, ul) > li:first-child {
     margin-block-start: var(--space); /* [4] */
 }
 /* stylelint-enable */
@@ -154,7 +154,7 @@
     @extend %subhead;
 }
 
-.o-prose :matches(h4, h5, h6) {
+.o-prose :is(h4, h5, h6) {
     @extend %overline;
 }
 
@@ -164,9 +164,7 @@
 /**
  * Lists
  *
- * 1. On bigger screen, the bullet position is outside. Inside let you gain
- *    horizontal space on mobile
- * 2. Ensure consistency across different pages
+ * 1. Ensure consistency across different pages
  *    https://github.com/alienlebarge/alienlebargech-v3/issues/33
  */
 
@@ -176,27 +174,20 @@
 }
 
 .o-prose ul:not([class]) {
-    list-style-type: disc; /* [2] */
+    list-style-type: disc; /* [1] */
 }
 
 .o-prose ol:not([class]) {
-    list-style-type: decimal; /* [2] */
+    list-style-type: decimal; /* [1] */
 }
 
-.o-prose :--list {
-    list-style-position: inside; /* [1] */
+.o-prose :is(dl, ol, ul) {
+    list-style-position: inside;
     padding-inline-start: 0;
 }
 
-.o-prose :--list :--list {
+.o-prose :is(dl, ol, ul) :is(dl, ol, ul) {
     padding-inline-start: var(--flow-inset);
-}
-
-@media (--from-small-viewport) {
-
-    .o-prose :--list {
-        list-style-position: outside; /* [1] */
-    }
 }
 
 

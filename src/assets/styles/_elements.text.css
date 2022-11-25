@@ -63,9 +63,7 @@ a[rel="external"]::after {
  */
 
 em {
-    font-style: normal; /* [1] */
-    text-decoration: underline;
-    text-decoration-style: wavy;
+    font-style: italic; /* [1] */
 }
 
 
@@ -140,7 +138,7 @@ code {
     font-size: var(--font-size-smaller);
 }
 
-:not(pre) code {
+:not(pre) > code {
     @extend %box--inset-small-squished, %box--invert, %box;
 }
 

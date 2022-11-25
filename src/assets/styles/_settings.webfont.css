@@ -7,9 +7,17 @@
    ------------------------------------- */
 
 @font-face {
+    font-style: normal;
     font-family: Untitled;
     font-display: swap;
     src: url("../fonts/Untitled.woff2") format("woff2");
+}
+
+@font-face {
+    font-style: italic;
+    font-family: Untitled;
+    font-display: swap;
+    src: url("../fonts/Untitled-Italic.woff2") format("woff2");
 }
 
 
@@ -55,4 +63,12 @@
     font-family: UntitledMono;
     font-display: swap;
     src: url("../fonts/UntitledMono-Italic.woff2") format("woff2");
+}
+
+@font-face {
+    font-weight: 800;
+    font-style: italic;
+    font-family: UntitledMono;
+    font-display: swap;
+    src: url("../fonts/UntitledMono-BoldItalic.woff2") format("woff2");
 }
