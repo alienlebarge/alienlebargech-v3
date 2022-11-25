@@ -1,12 +1,10 @@
 <article class="o-switcher o-separator c-item | h-cite" id="webmention-{{ webmention['wm-id'] }}">
-    <div class="[ o-switcher__item o-switcher__item--big ] c-item__main o-prose | p-content">
-        <p>
+    <div class="[ o-switcher__item o-switcher__item--big ] c-item__main o-prose | p-content u-font-family:script">
         {% if webmention.content.html %}
             {{ webmention.content.html | safe }}
         {% elif webmention.content.text %}
             {{ webmention.content.text | safe }}
         {% endif %}
-        </p>
     </div>
 
     <footer class="o-switcher__item c-item__footer">

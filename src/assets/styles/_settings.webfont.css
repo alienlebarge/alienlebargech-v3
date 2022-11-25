@@ -25,6 +25,21 @@
 
 
 /* -------------------------------------
+   #SCRIPT
+   ------------------------------------- */
+
+@font-face {
+    font-weight: 400;
+    font-family: UntitledScript;
+    font-display: swap;
+    src: url("../fonts/UntitledScript-Regular.woff2") format("woff2");
+}
+
+
+
+
+
+/* -------------------------------------
    #MONO
    ------------------------------------- */
 
