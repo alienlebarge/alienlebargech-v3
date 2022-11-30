@@ -19,7 +19,7 @@ Before having this blog, I posted all my photos on Flickr.
 
 All my code is hosted here.
 
-## [Mastodon](https://mastodon.social/@alienlebarge){rel="external"}
+## [Mastodon](https://social.lol/@alienlebarge){rel="external"}
 
 Mastodon is free, open-source and decentralized social network
 
