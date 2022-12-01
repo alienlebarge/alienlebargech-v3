@@ -20,7 +20,7 @@ They are used to live jam and improvise techno music. Sets are starts with a bla
 ## Three latest jams
 
 {% import 'list-items.njk' as list %}
-{{ list.listItems(collections.jam, limit='3') }}
+{{ list.listItems(collections.jam, limit='5', reverse=true) }}
 
 ## Past gigs
 
