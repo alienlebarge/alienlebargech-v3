@@ -8,26 +8,26 @@
    ----------------------------------- */
 
 /* stylelint-disable max-line-length, comment-empty-line-before */
-/* @link https://utopia.fyi/type/calculator?c=320,16,1.2,1140,24,1.333,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
+/* @link https://utopia.fyi/type/calculator?c=320,16,1.2,1140,20,1.333,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 /* stylelint-enable max-line-length, comment-empty-line-before */
 
 :root {
-    --step--5: clamp(.4rem, .42rem + -.09vw, .36rem);
-    --step--4: clamp(.48rem, .49rem + -.01vw, .48rem);
-    --step--3: clamp(.58rem, .56rem + .11vw, .63rem);
-    --step--2: clamp(.69rem, .64rem + .29vw, .84rem);
-    --step--1: clamp(.83rem, .72rem + .57vw, 1.13rem);
-    --step-0: clamp(1rem, .8rem + .98vw, 1.5rem);
-    --step-1: clamp(1.2rem, .89rem + 1.56vw, 2rem);
-    --step-2: clamp(1.44rem, .96rem + 2.39vw, 2.67rem);
-    --step-3: clamp(1.73rem, 1.02rem + 3.56vw, 3.55rem);
-    --step-4: clamp(2.07rem, 1.03rem + 5.2vw, 4.74rem);
-    --step-5: clamp(2.49rem, 1rem + 7.46vw, 6.31rem);
-    --step-6: clamp(2.99rem, .87rem + 10.59vw, 8.42rem);
-    --step-7: clamp(3.58rem, .6rem + 14.9vw, 11.22rem);
-    --step-8: clamp(4.3rem, .14rem + 20.79vw, 14.95rem);
-    --step-9: clamp(5.16rem, -.6rem + 28.82vw, 19.93rem);
-    --step-10: clamp(6.19rem, -1.76rem + 39.76vw, 26.57rem);
+  --step--5: clamp(0.30rem, calc(0.44rem + -0.20vw), 0.40rem);
+  --step--4: clamp(0.40rem, calc(0.52rem + -0.17vw), 0.48rem);
+  --step--3: clamp(0.53rem, calc(0.60rem + -0.10vw), 0.58rem);
+  --step--2: clamp(0.69rem, calc(0.69rem + 0.02vw), 0.70rem);
+  --step--1: clamp(0.83rem, calc(0.79rem + 0.20vw), 0.94rem);
+  --step-0: clamp(1.00rem, calc(0.90rem + 0.49vw), 1.25rem);
+  --step-1: clamp(1.20rem, calc(1.02rem + 0.91vw), 1.67rem);
+  --step-2: clamp(1.44rem, calc(1.14rem + 1.52vw), 2.22rem);
+  --step-3: clamp(1.73rem, calc(1.25rem + 2.40vw), 2.96rem);
+  --step-4: clamp(2.07rem, calc(1.34rem + 3.65vw), 3.95rem);
+  --step-5: clamp(2.49rem, calc(1.41rem + 5.41vw), 5.26rem);
+  --step-6: clamp(2.99rem, calc(1.42rem + 7.86vw), 7.01rem);
+  --step-7: clamp(3.58rem, calc(1.33rem + 11.25vw), 9.35rem);
+  --step-8: clamp(4.30rem, calc(1.12rem + 15.92vw), 12.46rem);
+  --step-9: clamp(5.16rem, calc(0.69rem + 22.34vw), 16.61rem);
+  --step-10: clamp(6.19rem, calc(-0.03rem + 31.12vw), 22.14rem);
 }
 
 
