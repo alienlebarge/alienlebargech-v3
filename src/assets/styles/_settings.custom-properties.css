@@ -42,7 +42,7 @@
 :root {
     /* color */
     --color-dark: hsla(208, 21%, 9%, 1);
-    --color-light: hsla(0, 0%, 87%, 1);
+    --color-light: hsla(0, 0%, 100%, 1);
 }
 
 
@@ -195,7 +195,7 @@
 
     :root {
         --color-light: hsla(208, 21%, 9%, 1);
-        --color-dark: hsla(0, 0%, 87%, 1);
+        --color-dark: hsla(0, 0%, 100%, 1);
         --bg-dots: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'><path fill='hsla(0, 0%, 87%, 1)' fill-opacity='.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'></path></svg>");
 
         /* Typography */
