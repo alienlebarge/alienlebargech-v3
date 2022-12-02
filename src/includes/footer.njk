@@ -4,7 +4,7 @@
         {% if type == "like" %}
         <dt class="u-visually-hidden">Liked</dt>
         <dd>
-            <a class="u-like-of u-lede c-background__text" rel="external" href="{{ likeOf }}">
+            <a class="u-like-of u-lede__text" rel="external" href="{{ likeOf }}">
                 {{- likeOf | hostname -}}
             </a>
         </dd>
@@ -12,7 +12,7 @@
         {% if type == "bookmark" -%}
         <dt class="u-visually-hidden">Bookmark</dt>
         <dd>
-            <a class="u-bookmark-of u-lede c-background__text" rel="external" href="{{ bookmarkOf }}">
+            <a class="u-bookmark-of u-lede__text" rel="external" href="{{ bookmarkOf }}">
                 {{- bookmarkOf | hostname -}}
             </a>
         </dd>
@@ -20,14 +20,14 @@
         {% if type == "repost" -%}
         <dt class="u-visually-hidden">Respot of</dt>
         <dd>
-            <a class="u-repost-of u-lede c-background__text" rel="external" href="{{ repostOf }}">
+            <a class="u-repost-of u-lede__text" rel="external" href="{{ repostOf }}">
                 {{- repostOf -}}
             </a>
         </dd>
         {%- endif %}
         {% if date -%}
         <div class="[ o-cluster o-cluster--step--3 ]
-                    c-background__text
+                   __text
                     u-width:fit-content">
             <dt class="u-visually-hidden">Published on</dt>
             <dd>
@@ -40,7 +40,7 @@
         {%- endif %}
         {% if syndication -%}
         <div class="[ o-cluster o-cluster--step--3 ]
-                    c-background__text
+                   __text
                     u-width:fit-content">
             <dt>Also on</dt>
             {% for item in syndication %}
@@ -58,7 +58,7 @@
         {%- endif %}
         {% if inReplyTo -%}
         <div class="[ o-cluster o-cluster--step--3 ]
-                    c-background__text
+                   __text
                     u-width:fit-content">
             <dt>In reply to a post on</dt>
             <dd>

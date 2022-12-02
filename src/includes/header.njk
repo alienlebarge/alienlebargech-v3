@@ -1,9 +1,9 @@
 <header class="o-prose{% if vocab and type != "note" %} | p-name{% endif %}">
     {# add `safe` to allow to have `<time>` tag for notes title #}
-    <h1 class="u-title"><span class="c-background__text">{{ title | safe }}</span></h1>
+    <h1 class="u-title">{{ title | safe }}</h1>
     {% if summary -%}
         <p class="u-lede{% if vocab %} | p-summary{% endif %}">
-            <span class="c-background__text">{{ summary }}</span>
+            {{- summary -}}
         </p>
     {%- endif %}
 </header>
