@@ -16,7 +16,7 @@
 
     .c-item {
         --c-item__grid-template: "footer header" auto "footer main" 1fr /
-            var(--grid-content-width) 1fr;
+            var(--grid-max-width) 1fr;
     }
 }
 

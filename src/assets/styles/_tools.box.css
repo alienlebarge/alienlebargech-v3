@@ -45,21 +45,21 @@
  * Inset box
  */
 %box--inset {
-    --box__padding-inline: var(--inset);
-    --box__padding-block: var(--inset);
+    --box__padding-inline: var(--space-m);
+    --box__padding-block: var(--space-s);
 }
 
 %box--inset-squished {
-    --box__padding-inline: var(--inset);
-    --box__padding-block: calc(var(--inset) / 2);
+    --box__padding-inline: var(--space-xs);
+    --box__padding-block: var(--space-2xs);
 }
 
 %box--inset-small-squished {
-    --box__padding-inline: var(--inset-small);
-    --box__padding-block: calc(var(--inset-small) / 2);
+    --box__padding-inline: var(--space-2xs);
+    --box__padding-block: var(--space-3xs);
 }
 
 %box--inset-large-squished {
-    --box__padding-inline: var(--inset-large);
-    --box__padding-block: calc(var(--inset-large) / 2);
+    --box__padding-inline: var(--space-xl);
+    --box__padding-block: var(--space-l);
 }

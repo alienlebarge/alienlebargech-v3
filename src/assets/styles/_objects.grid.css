@@ -1,18 +1,17 @@
 /* ==========================================================================
    #GRID
    ========================================================================== */
-
 .o-grid {
     display: grid;
-    grid-gap: var(--grid-gap);
+    gap: var(--grid-gutter);
 }
 
-@supports (width: min(var(--grid-content-width), 100%)) {
+@supports (width: min(var(--grid-max-width), 100%)) {
 
     .o-grid {
         grid-template-columns: repeat(
             auto-fit,
-            minmax(min(var(--grid-content-width), 100%),
+            minmax(min(var(--grid-max-width), 100%),
             1fr)
         );
     }
