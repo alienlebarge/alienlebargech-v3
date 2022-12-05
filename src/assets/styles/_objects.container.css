@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .o-container {
-  max-width: var(--grid-max-width);
-  padding-inline: var(--grid-gutter);
-  margin-inline: auto;
+    max-width: var(--grid-max-width);
+    margin-inline: auto;
+    padding-inline: var(--grid-gutter);
 }
