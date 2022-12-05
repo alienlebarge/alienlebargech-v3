@@ -1,5 +1,5 @@
 {% macro listItems(items, modifier, limit, reverse) %}
-<ul class="{% if modifier %}{{ modifier }} {% endif %}o-stack o-stack--step-4">
+<ul class="{% if modifier %}{{ modifier }} {% endif %}o-stack o-stack--space-3xl">
     {% if limit and reverse -%}
         {%- for item in items | reverse-%}
             {% if loop.index0 < limit -%}

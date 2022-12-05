@@ -21,23 +21,23 @@
 /**
  * Define spaces for each modifier
  */
-.o-stack.o-stack--step--4 { --stack__space: var(--step--4); /* [1] */ }
+.o-stack.o-stack--space-3xs { --stack__space: var(--space-3xs); /* [1] */ }
 
-.o-stack.o-stack--step--3 { --stack__space: var(--step--3); /* [1] */ }
+.o-stack.o-stack--space-2xs { --stack__space: var(--space-2xs); /* [1] */ }
 
-.o-stack.o-stack--step--2 { --stack__space: var(--step--2); /* [1] */ }
+.o-stack.o-stack--space-xs { --stack__space: var(--space-xs); /* [1] */ }
 
-.o-stack.o-stack--step--1 { --stack__space: var(--step--1); /* [1] */ }
+.o-stack.o-stack--space-s { --stack__space: var(--space-s); /* [1] */ }
 
-.o-stack { --stack__space: var(--step-0); /* [1] */ }
+.o-stack { --stack__space: var(--space-m); /* [1] */ }
 
-.o-stack.o-stack--step-1 { --stack__space: var(--step-1); /* [1] */ }
+.o-stack.o-stack--space-l { --stack__space: var(--space-l); /* [1] */ }
 
-.o-stack.o-stack--step-2 { --stack__space: var(--step-2); /* [1] */ }
+.o-stack.o-stack--space-xl { --stack__space: var(--space-xl); /* [1] */ }
 
-.o-stack.o-stack--step-3 { --stack__space: var(--step-3); /* [1] */ }
+.o-stack.o-stack--space-2xl { --stack__space: var(--space-2xl); /* [1] */ }
 
-.o-stack.o-stack--step-4 { --stack__space: var(--step-4); /* [1] */ }
+.o-stack.o-stack--space-3xl { --stack__space: var(--space-3xl); /* [1] */ }
 
 /* set the space */
 .o-stack > * + * {
