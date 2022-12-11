@@ -7,20 +7,19 @@
    #Scale
    ----------------------------------- */
 
-/* stylelint-disable max-line-length, comment-empty-line-before */
+/* stylelint-disable max-line-length, comment-empty-line-before, number-leading-zero */
 /* @link https://utopia.fyi/type/calculator?c=320,18,1.2,1240,20,1.25,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
-/* stylelint-enable max-line-length, comment-empty-line-before */
 
 :root {
-    --step--5: clamp(.41rem, calc(.47rem + -.07vw), .45rem);
-    --step--4: clamp(.51rem, calc(.55rem + -.05vw), .54rem);
-    --step--3: clamp(.64rem, calc(.66rem + -.02vw), .65rem);
-    --step--2: clamp(.78rem, calc(.77rem + .03vw), .8rem);
-    --step--1: clamp(.94rem, calc(.92rem + .11vw), 1rem);
-    --step-0: clamp(1.13rem, calc(1.08rem + .22vw), 1.25rem);
-    --step-1: clamp(1.35rem, calc(1.28rem + .37vw), 1.56rem);
-    --step-2: clamp(1.62rem, calc(1.5rem + .58vw), 1.95rem);
-    --step-3: clamp(1.94rem, calc(1.77rem + .87vw), 2.44rem);
+    --step--5: clamp(0.41rem, calc(0.47rem + -0.07vw), 0.45rem);
+    --step--4: clamp(0.51rem, calc(0.55rem + -0.05vw), 0.54rem);
+    --step--3: clamp(0.64rem, calc(0.66rem + -0.02vw), 0.65rem);
+    --step--2: clamp(0.78rem, calc(0.77rem + 0.03vw), 0.8rem);
+    --step--1: clamp(0.94rem, calc(0.92rem + 0.11vw), 1rem);
+    --step-0: clamp(1.13rem, calc(1.08rem + 0.22vw), 1.25rem);
+    --step-1: clamp(1.35rem, calc(1.28rem + 0.37vw), 1.56rem);
+    --step-2: clamp(1.62rem, calc(1.5rem + 0.58vw), 1.95rem);
+    --step-3: clamp(1.94rem, calc(1.77rem + 0.87vw), 2.44rem);
     --step-4: clamp(2.33rem, calc(2.08rem + 1.25vw), 3.05rem);
     --step-5: clamp(2.8rem, calc(2.45rem + 1.77vw), 3.82rem);
     --step-6: clamp(3.36rem, calc(2.87rem + 2.45vw), 4.77rem);
@@ -29,37 +28,38 @@
     --step-9: clamp(5.81rem, calc(4.58rem + 6.1vw), 9.31rem);
     --step-10: clamp(6.97rem, calc(5.34rem + 8.13vw), 11.64rem);
 }
+/* stylelint-enable max-line-length, comment-empty-line-before, number-leading-zero */
 
 
 
-/* stylelint-disable max-line-length, comment-empty-line-before */
+/* stylelint-disable max-line-length, comment-empty-line-before, number-leading-zero */
 /* @link https://utopia.fyi/space/calculator?c=320,18,1.2,1240,20,1.25,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
-/* stylelint-enable max-line-length, comment-empty-line-before */
 
 :root {
-    --space-3xs: clamp(.31rem, calc(.31rem + vw), .31rem);
-    --space-2xs: clamp(.56rem, calc(.54rem + .11vw), .63rem);
-    --space-xs: clamp(.88rem, calc(.85rem + .11vw), .94rem);
-    --space-s: clamp(1.13rem, calc(1.08rem + .22vw), 1.25rem);
-    --space-m: clamp(1.69rem, calc(1.62rem + .33vw), 1.88rem);
-    --space-l: clamp(2.25rem, calc(2.16rem + .43vw), 2.5rem);
-    --space-xl: clamp(3.38rem, calc(3.24rem + .65vw), 3.75rem);
-    --space-2xl: clamp(4.5rem, calc(4.33rem + .87vw), 5rem);
+    --space-3xs: clamp(0.31rem, calc(0.31rem + 0vw), 0.31rem);
+    --space-2xs: clamp(0.56rem, calc(0.54rem + 0.11vw), 0.63rem);
+    --space-xs: clamp(0.88rem, calc(0.85rem + 0.11vw), 0.94rem);
+    --space-s: clamp(1.13rem, calc(1.08rem + 0.22vw), 1.25rem);
+    --space-m: clamp(1.69rem, calc(1.62rem + 0.33vw), 1.88rem);
+    --space-l: clamp(2.25rem, calc(2.16rem + 0.43vw), 2.5rem);
+    --space-xl: clamp(3.38rem, calc(3.24rem + 0.65vw), 3.75rem);
+    --space-2xl: clamp(4.5rem, calc(4.33rem + 0.87vw), 5rem);
     --space-3xl: clamp(6.75rem, calc(6.49rem + 1.3vw), 7.5rem);
 
     /* One-up pairs */
-    --space-3xs-2xs: clamp(.31rem, calc(.2rem + .54vw), .63rem);
-    --space-2xs-xs: clamp(.56rem, calc(.43rem + .65vw), .94rem);
-    --space-xs-s: clamp(.88rem, calc(.74rem + .65vw), 1.25rem);
-    --space-s-m: clamp(1.13rem, calc(.86rem + 1.3vw), 1.88rem);
+    --space-3xs-2xs: clamp(0.31rem, calc(0.2rem + 0.54vw), 0.63rem);
+    --space-2xs-xs: clamp(0.56rem, calc(0.43rem + 0.65vw), 0.94rem);
+    --space-xs-s: clamp(0.88rem, calc(0.74rem + 0.65vw), 1.25rem);
+    --space-s-m: clamp(1.13rem, calc(0.86rem + 1.3vw), 1.88rem);
     --space-m-l: clamp(1.69rem, calc(1.4rem + 1.41vw), 2.5rem);
     --space-l-xl: clamp(2.25rem, calc(1.73rem + 2.61vw), 3.75rem);
     --space-xl-2xl: clamp(3.38rem, calc(2.81rem + 2.83vw), 5rem);
     --space-2xl-3xl: clamp(4.5rem, calc(3.46rem + 5.22vw), 7.5rem);
 
     /* Custom pairs */
-    --space-s-l: clamp(1.13rem, calc(.65rem + 2.39vw), 2.5rem);
+    --space-s-l: clamp(1.13rem, calc(0.65rem + 2.39vw), 2.5rem);
 }
+/* stylelint-enable max-line-length, comment-empty-line-before, number-leading-zero */
 
 
 
