@@ -1,7 +1,7 @@
 {% macro paginate(pagination, label="Undefined") %}
 {# Check if there's more than one page. Unless, we do not need a pagination. #}
 {%- if pagination.hrefs.length > 1 -%}
-<nav class="[ o-box o-box--container ] c-pagination" aria-label="Pagination">
+<nav class="o-container o-box c-pagination" aria-label="Pagination">
   <h2 class="u-visually-hidden">Pagination</h2>
   <ul class="o-cluster o-cluster--space-between">
     {# Check if we are on the last page #}

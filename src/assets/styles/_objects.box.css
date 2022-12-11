@@ -42,21 +42,6 @@
 }
 
 /***
- * Container box
- */
-.o-box--container {
-    --box__padding-inline: 5vw;
-}
-
-/***
- * Bigger container box
- */
-.o-box--container-big {
-    --box__padding-inline: 5vw;
-    --box__padding-block: var(--step-4);
-}
-
-/***
  * Inset box
  */
 .o-box--inset-squished {
