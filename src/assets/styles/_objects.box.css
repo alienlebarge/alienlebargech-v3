@@ -36,9 +36,9 @@
 /***
  * Bigger box
  */
-.o-box--step-1 {
-    --box__padding-inline: var(--step-1);
-    --box__padding-block: var(--step-1);
+.o-box--space-l {
+    --box__padding-inline: var(--space-l);
+    --box__padding-block: var(--space-l);
 }
 
 /***
