@@ -14,8 +14,8 @@
     color: var(--box__color, var(--color-dark));
 
     background-color: var(--box__background-color, var(--color-light));
-    padding-block: var(--box__padding-block, var(--step-0));
-    padding-inline: var(--box__padding-inline, var(--step-0));
+    padding-block: var(--box__padding-block, var(--space-m));
+    padding-inline: var(--box__padding-inline, var(--space-m));
 }
 
 
