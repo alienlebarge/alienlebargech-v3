@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .c-footer {
-    @extend %caption;
+    @extend %reference;
 }
 
 .c-footer .u-bookmark-of {

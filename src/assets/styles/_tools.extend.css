@@ -82,6 +82,7 @@
 %reference {
     --flow-space: calc(var(--line-height-reference) / 2);
     --line-height-reference: var(--line-height-tight);
+    font-family: var(--font-family-reference);
     font-size: var(--font-size-reference);
     font-variant: oldstyle-nums;
     line-height: var(--line-height-reference);
