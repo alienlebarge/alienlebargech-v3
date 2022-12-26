@@ -2,7 +2,7 @@
 <ul class="{% if modifier %}{{ modifier }} {% endif %}o-stack o-stack--step-4">
     {% if limit and reverse -%}
         {%- for item in items | reverse-%}
-            {% if loop.index0 < limit -%}
+            {% if loop.index0 < limit and not item.data.deleted -%}
                 <li class="o-separator">
                 {%- include 'item/' + item.data.type + '.njk' -%}
                 </li>
@@ -10,7 +10,7 @@
         {%- endfor -%}
     {% elif limit %}
         {%- for item in items -%}
-            {% if loop.index0 < limit -%}
+            {% if loop.index0 < limit and not item.data.deleted -%}
                 <li class="o-separator">
                 {%- include 'item/' + item.data.type + '.njk' -%}
                 </li>
@@ -18,9 +18,11 @@
         {%- endfor -%}
     {%- else -%}
         {%- for item in items -%}
+        {%- if not item.data.deleted -%}
             <li class="o-separator">
             {%- include 'item/' + item.data.type + '.njk' -%}
             </li>
+        {%- endif -%}
         {%- endfor -%}
     {% endif %}
 </ul>
@@ -34,9 +36,11 @@
 <div class="[ o-box o-box--container-big ]">
     <ul class="o-grid">
         {%- for item in items -%}
+        {%- if not item.data.deleted -%}
         <li>
         {%- include 'item/' + item.data.type + '.njk' -%}
         </li>
+        {%- endif -%}
         {%- endfor -%}
     </ul>
 </div>
