@@ -1,23 +1,23 @@
-<article class="c-item | h-entry" data-type="bookmark">
+<article class="h-entry" data-type="bookmark">
         {%- if item.data.title -%}
-        <header class="o-prose c-item__header | p-name">
+        <header class="o-prose | p-name">
             <h3><a href="{{ item.url | url }}">{{ item.data.title | safe }}</a></h3>
         </header>
         {%- endif -%}
 
         {%- if item.templateContent -%}
-        <div class="o-prose c-item__main | e-content p-summary">
+        <div class="o-prose | e-content p-summary">
             {{ item.templateContent | safe }}
         </div>
         {%- endif -%}
 
-        <footer class="c-item__footer">
+        <footer>
             <dl class="o-stack o-stack--space-3xs">
                 <dt class="u-visually-hidden">Published on</dt>
                 <dd>
                 <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
                     {# TODO: use src/_data/dates.json to format the date. #}
-                    <time class="dt-published c-item__date"
+                    <time class="dt-published"
                           datetime="{{ item.date | date }}">
                         <span>{{ item.date | date("D MMM YYYY") }}</span>
                     </time>
