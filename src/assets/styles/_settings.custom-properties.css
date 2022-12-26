@@ -74,6 +74,7 @@
     /* color */
     --color-dark: hsla(208, 21%, 9%, 1);
     --color-light: hsla(0, 0%, 100%, 1);
+    --color-muted: hsla(220, 4%, 47%, 1);
 }
 
 
