@@ -7,7 +7,7 @@ mp-syndicate-to:
   - https://social.lol/@alienlebarge
   - https://twitter.com/alienlebarge
 ---
-Finally, I get an audio interface. I am Djing since the late 90s and making music owning drum machines and synths for 15 years but I never feel the need for an audio interface. I have always been DAWless.
+Finally, I get an audio interface. I am Djing since the late 90s and <strike>making music</strike> owning drum machines and synths for 15 years but I never feel the need for an audio interface. I have always been DAWless.
 
 I want to learn how to record music and have projects that involved having a better recording solution.
 
