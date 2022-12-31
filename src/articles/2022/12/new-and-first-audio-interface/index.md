@@ -25,7 +25,9 @@ Here are things I was looking for:
 ### The choice (Universal Audio Volt 276)
 
 After watching and reading reviews, my choice was the **[Universal Audio Volt 276](https://www.uaudio.com/audio-interfaces/volt-276-usb.html)**.
-    
+
+![Universal Audio Volt 276 sitting on a desk](UA-Volt-276.jpg)
+
 And there are big pluses to the requirements:
 - **It is iOS compatible**. Perhaps I can use it with my phone to post jam snippets online. I have to try this.
 - **It has a compressor !** The volt comes with a built-in compressor. This is huge ! 
