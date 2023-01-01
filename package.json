@@ -44,7 +44,7 @@
     "https-proxy-agent": "^5.0.1",
     "markdown-it": "^13.0.1",
     "markdown-it-abbr": "^1.0.4",
-    "markdown-it-anchor": "^8.6.5",
+    "markdown-it-anchor": "^8.6.6",
     "markdown-it-attribution": "^0.1.4",
     "markdown-it-attrs": "^4.1.4",
     "markdown-it-bracketed-spans": "^1.0.1",
