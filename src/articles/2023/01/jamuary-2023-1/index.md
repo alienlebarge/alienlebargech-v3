@@ -1,14 +1,15 @@
 ---
 date: 2023-01-01T21:03:48.259+01:00
+updated: 2023-01-01T21:19:24.068+01:00
 title: "Jamuary 2023 #1"
 category:
   - jam
   - music
   - modular
   - eurorack
-mp-syndicate-to:
-  - https://social.lol/@alienlebarge
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://social.lol/@alienlebarge/109615799576575415
+  - https://twitter.com/alienlebarge/status/1609645484146151424
 ---
 Jamuary is here. Here we go again !!!
 I will try to post one jam per day so don't expect perfection. The current record is 25 jams during the month of January 2021. We'll try to beat it.
