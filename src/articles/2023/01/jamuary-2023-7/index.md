@@ -1,10 +1,11 @@
 ---
 date: 2023-01-09T20:16:41.021+01:00
+updated: 2023-01-09T20:16:47.002+01:00
 title: "Jamuary 2023 #7"
 visibility: public
-mp-syndicate-to:
-  - https://social.lol/@alienlebarge
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://social.lol/@alienlebarge/109660851838355458
+  - https://twitter.com/alienlebarge/status/1612528828898762768
 ---
 Don’t you think it looks like space ship bathroom music?
 
