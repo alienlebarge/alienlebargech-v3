@@ -4,7 +4,7 @@ date: 2020-04-13T06:01:41.729-00:00
 bookmark-of: https://www.heidi.news/sante/la-reponse-d-antonio-hodgers-au-senateur-qui-accuse-la-suisse-de-menacer-la-sante-des-francais
 category:
 - Politic
-- Coronavirus
+- coronavirus
 - Switzerland
 - France
 ---
