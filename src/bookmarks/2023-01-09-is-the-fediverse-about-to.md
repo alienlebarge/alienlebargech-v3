@@ -1,11 +1,12 @@
 ---
 date: 2023-01-09T13:13:19.315+01:00
+updated: 2023-01-09T13:14:19.932+01:00
 title: Is the fediverse about to get Fryed? (Or, “Why every toot is also a potential denial of service attack”)
 bookmark-of: https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/
 visibility: public
-mp-syndicate-to:
-  - https://social.lol/@alienlebarge
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://social.lol/@alienlebarge/109659190685842614
+  - https://twitter.com/alienlebarge/status/1612422515179003909
 ---
 Very interesting details by @aral@mastodon.ar.al how your Mastodon account can be problematic if you are too popular (and sociable).
 
