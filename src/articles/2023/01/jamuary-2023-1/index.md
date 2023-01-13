@@ -7,6 +7,7 @@ category:
   - music
   - modular
   - eurorack
+  - jamuray
 syndication:
   - https://social.lol/@alienlebarge/109615799576575415
   - https://twitter.com/alienlebarge/status/1609645484146151424

@@ -2,6 +2,9 @@
 date: 2023-01-06T23:40:40.757+01:00
 updated: 2023-01-06T23:40:54.701+01:00
 title: "Jamuary 2023 #5"
+category: 
+  - jam
+  - jamuary
 syndication:
   - https://social.lol/@alienlebarge/109644667573464220
   - https://twitter.com/alienlebarge/status/1611493035979726848
