@@ -1,6 +1,8 @@
 ---
 date: 2023-01-13T19:55:30.189+01:00
+updated: 2023-01-13T19:56:57.398+01:00
 title: "Jamuary 2023 #10"
+category: jam
 visibility: public
 mp-syndicate-to:
   - https://social.lol/@alienlebarge
