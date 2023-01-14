@@ -2,7 +2,8 @@
 date: 2023-01-14T14:28:07.149+01:00
 updated: 2023-01-14T14:28:09.125+01:00
 title: Apps and services I like
-category: application
+category: 
+  - application
 visibility: public
 syndication:
   - https://social.lol/@alienlebarge/109687792486894281
@@ -56,7 +57,7 @@ My podcast player of choice. I use the web version when I am on a computer.
 
 The best (Swiss made) RSS reader. It synchronizes with Feedbin. Feedbin is where I read RSS when I use a computer.
 
-## Photo editing:[Darkroom](https://darkroom.co) (iOS and MacOS)
+## Photo editing: [Darkroom](https://darkroom.co) (iOS and MacOS)
 
 This is where I edit my pictures. It's simple and has great filters.
 
