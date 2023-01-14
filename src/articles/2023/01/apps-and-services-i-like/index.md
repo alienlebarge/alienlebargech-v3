@@ -1,11 +1,12 @@
 ---
 date: 2023-01-14T14:28:07.149+01:00
+updated: 2023-01-14T14:28:09.125+01:00
 title: Apps and services I like
 category: application
 visibility: public
-mp-syndicate-to:
-  - https://social.lol/@alienlebarge
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://social.lol/@alienlebarge/109687792486894281
+  - https://twitter.com/alienlebarge/status/1614253031897317378
 ---
 ## Mail client: [Hey](https://www.hey.com) (iOS, MacOS and Web)
 
