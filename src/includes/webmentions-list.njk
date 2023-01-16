@@ -1,9 +1,6 @@
 {%- set absoluteUrl -%}{{ app.url }}{{ page.url | url }}{%- endset -%}
 {%- set mentions = webmentions.children | webmentions_for_url(absoluteUrl) -%}
-<h2>AbsoluteUrl</h2>
-<pre><code>{{ absoluteUrl | dump }}</code></pre>
-<h2>Mentions</h2>
-<pre><code>{{ mentions | dump }}</code></pre>
+
 {% if mentions | length %}
     <section class="o-box o-box--container o-stack o-stack--step-4">
         <header>
