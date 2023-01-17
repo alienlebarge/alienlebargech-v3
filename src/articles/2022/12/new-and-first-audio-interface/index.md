@@ -17,6 +17,7 @@ I want to learn how to record music and have projects that involved having a bet
 ### Requirements
 
 Here are things I was looking for:
+
 - **Something not pricey**: I wanted an entry-level one because I am a total noob about recording on a DAW and I need to learn
 - **2 inputs**: To record at least one source in stereo
 - **2 outputs**: To have one pair of monitors connected
@@ -29,6 +30,7 @@ After watching and reading reviews, my choice was the **[Universal Audio Volt 27
 ![Universal Audio Volt 276 sitting on a desk](UA-Volt-276.jpg)
 
 And there are big pluses to the requirements:
+
 - **It is iOS compatible**. Perhaps I can use it with my phone to post jam snippets online. I have to try this.
 - **It has a compressor !** The volt comes with a built-in compressor. This is huge ! 
 - **It has a vintage mode**.

@@ -29,6 +29,7 @@ Pour ma part, je l’utilise avec [Pinboard](https://pinboard.in/).
 [Chart.js](https://www.chartjs.org/) est une librairie JavaScript qui permet de dessiner des graphiques sur la base de la balise <code>canvas</code> HTML5.
 
 ## <a href="https://vsre.info/"><abbr title="Very Short Reply Expected">VSRE</abbr></a>
+
 [<abbr title="Very Short Reply Expected">VSRE</abbr>](https://vsre.info/) permet d’indiquer aux personnes avec qui vous correspondez par courriel que vous privilégiez des réponses courtes.
 
 ## [IcoMoon](https://icomoon.io/)
