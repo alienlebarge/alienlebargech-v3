@@ -4,7 +4,7 @@
   "description": "The personal website of Cédric Aellen",
   "scripts": {
     "prebuild": "rm -rf www && mkdir -p www/assets",
-    "build:files": "eleventy --config=lib/eleventy.config.js",
+    "build:files": "eleventy --config=lib/eleventy.config.js --quiet",
     "build:styles": "postcss src/assets/styles/style.css -o www/assets/styles/style.css --config lib/postcss.config.js",
     "build": "concurrently -c \"auto\" \"npm:build:*\"",
     "postbuild": "webmention www/feed.xml --limit 1 --send",
