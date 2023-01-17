@@ -27,7 +27,7 @@ th {
 }
 
 tr + tr {
-    border-top: 1px solid var(--color-dark);
+    border-top: 1px solid var(--color-gray-shade-6);
 }
 
 thead th {

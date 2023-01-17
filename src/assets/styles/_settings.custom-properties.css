@@ -69,12 +69,34 @@
 
 /***
  * The color value have to be the same as in the `app.manifest` file
+ * Colors is based on Reasonable Colors color system :
+ * https://reasonable.work/colors/
  */
 :root {
-    /* color */
-    --color-dark: hsla(208, 21%, 9%, 1);
-    --color-light: hsla(0, 0%, 100%, 1);
-    --color-muted: hsla(220, 4%, 47%, 1);
+
+    /* grey */
+    --color-gray-shade-1: hsla(0, 0%, 96%, 1);
+    --color-gray-shade-2: hsla(0, 0%, 89%, 1);
+    --color-gray-shade-3: hsla(0, 0%, 55%, 1);
+    --color-gray-shade-4: hsla(0, 0%, 44%, 1);
+    --color-gray-shade-5: hsla(0, 0%, 24%, 1);
+    --color-gray-shade-6: hsla(0, 0%, 13%, 1);
+
+    /* primary */
+    --color-primary-shade-1: hsla(154.47, 99.98%, 92.65%, 1);
+    --color-primary-shade-2: hsla(161.94, 100%, 62.84%, 1);
+    --color-primary-shade-3: hsla(165.15, 99.85%, 31.18%, 1);
+    --color-primary-shade-4: hsla(164.85, 99.87%, 25%, 1);
+    --color-primary-shade-5: hsla(163.67, 99.87%, 13.96%, 1);
+    --color-primary-shade-6: hsla(161.53, 99.95%, 7.77%, 1);
+
+    /* secondary */
+    --color-secondary-shade-1: hsla(332.82, 99.54%, 98.48%, 1);
+    --color-secondary-shade-2: hsla(331.79, 99.98%, 93.07%, 1);
+    --color-secondary-shade-3: hsla(322.24, 100%, 59.31%, 1);
+    --color-secondary-shade-4: hsla(319.09, 99.94%, 41.2%,1);
+    --color-secondary-shade-5: hsla(319.97, 99.95%, 23.72%, 1);
+    --color-secondary-shade-6: hsla(321.26, 99.94%, 14.63%, 1);
 }
 
 
@@ -188,8 +210,34 @@
 @media (prefers-color-scheme: dark) {
 
     :root {
-        --color-light: hsla(208, 21%, 9%, 1);
-        --color-dark: hsla(0, 0%, 100%, 1);
+       /***
+        * Colors
+        */
+
+        /* grey */
+        --color-gray-shade-6: hsla(0, 0%, 96%, 1);
+        --color-gray-shade-5: hsla(0, 0%, 89%, 1);
+        --color-gray-shade-4: hsla(0, 0%, 55%, 1);
+        --color-gray-shade-3: hsla(0, 0%, 44%, 1);
+        --color-gray-shade-2: hsla(0, 0%, 24%, 1);
+        --color-gray-shade-1: hsla(0, 0%, 13%, 1);
+
+        /* primary */
+        --color-primary-shade-6: hsla(154.47, 99.98%, 92.65%, 1);
+        --color-primary-shade-5: hsla(161.94, 100%, 62.84%, 1);
+        --color-primary-shade-4: hsla(165.15, 99.85%, 31.18%, 1);
+        --color-primary-shade-3: hsla(164.85, 99.87%, 25%, 1);
+        --color-primary-shade-2: hsla(163.67, 99.87%, 13.96%, 1);
+        --color-primary-shade-1: hsla(161.53, 99.95%, 7.77%, 1);
+
+        /* secondary */
+        --color-secondary-shade-6: hsla(332.82, 99.54%, 98.48%, 1);
+        --color-secondary-shade-5: hsla(331.79, 99.98%, 93.07%, 1);
+        --color-secondary-shade-4: hsla(322.24, 100%, 59.31%, 1);
+        --color-secondary-shade-3: hsla(319.09, 99.94%, 41.2%,1);
+        --color-secondary-shade-2: hsla(319.97, 99.95%, 23.72%, 1);
+        --color-secondary-shade-1: hsla(321.26, 99.94%, 14.63%, 1);
+
         --bg-dots: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'><path fill='hsla(0, 0%, 87%, 1)' fill-opacity='.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'></path></svg>");
 
         /* Typography */

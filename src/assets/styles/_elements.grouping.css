@@ -22,7 +22,7 @@ hr {
 
     text-align: left;
 
-    background-color: var(--color-dark);
+    background-color: var(--color-gray-shade-6);
     border: none;
     inline-size: var(--step-2);
     margin-inline-start: 0;
@@ -53,7 +53,7 @@ pre {
  * 1. Override browser style
  */
 blockquote {
-    border-inline-start: var(--border-width-thickest) solid var(--color-dark);
+    border-inline-start: var(--border-width-thickest) solid var(--color-gray-shade-6);
     margin-inline-start: 0; /* [1] */
     padding-inline-start: var(--flow-inset);
 }

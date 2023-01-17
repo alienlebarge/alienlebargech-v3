@@ -39,9 +39,9 @@ html {
    ------------------------------------- */
 
 ::selection {
-    color: var(--color-light);
+    color: var(--color-gray-shade-1);
 
-    background-color: var(--color-dark);
+    background-color: var(--color-gray-shade-6);
 }
 
 
@@ -68,9 +68,9 @@ html {
 
 body {
     @extend %body, %type-features-body;
-    color: var(--color-dark);
+    color: var(--color-gray-shade-6);
 
-    background: var(--color-light);
+    background: var(--color-gray-shade-1);
     margin: 0;
     min-block-size: 100vh; /* [2] */
 }

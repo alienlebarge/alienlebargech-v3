@@ -28,9 +28,9 @@
 
 .o-box--invert::selection,
 .o-box--invert ::selection {
-    color: var(--color-dark);
+    color: var(--color-gray-shade-6);
 
-    background-color: var(--color-light);
+    background-color: var(--color-gray-shade-1);
 }
 
 /***

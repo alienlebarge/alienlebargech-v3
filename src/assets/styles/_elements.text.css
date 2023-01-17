@@ -151,15 +151,15 @@ code {
  */
 code::selection,
 code ::selection {
-    color: var(--color-dark);
+    color: var(--color-gray-shade-6);
 
-    background-color: var(--color-light);
+    background-color: var(--color-gray-shade-1);
 }
 
 samp {
     font-size: var(--font-size-smaller);
 
-    border: var(--border-width-thin) solid var(--color-dark);
+    border: var(--border-width-thin) solid var(--color-gray-shade-6);
 
     @extend %box--inset-small-squished, %box;
 }
@@ -173,7 +173,7 @@ samp {
    ------------------------------------- */
 
 mark {
-    color: var(--color-light);
+    color: var(--color-gray-shade-1);
 
-    background-color: var(--color-dark);
+    background-color: var(--color-gray-shade-6);
 }

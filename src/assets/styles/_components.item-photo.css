@@ -11,9 +11,9 @@
     right: var(--step--1);
     bottom: var(--step--1);
 
-    color: var(--color-dark);
+    color: var(--color-gray-shade-6);
 
-    background-color: var(--color-light);
+    background-color: var(--color-gray-shade-1);
     padding: var(--step--5) var(--step--3);
 
     @extend %reference;

@@ -39,8 +39,8 @@
 
     background: linear-gradient(
             0deg,
-            var(--color-light) 0%,
-            var(--color-light) 50%,
-            var(--color-dark) 50%
+            var(--color-gray-shade-1) 0%,
+            var(--color-gray-shade-1) 50%,
+            var(--color-gray-shade-6) 50%
         );
 }

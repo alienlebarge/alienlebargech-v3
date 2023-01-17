@@ -11,9 +11,9 @@
  * --box__background-color;
  */
 %box {
-    color: var(--box__color, var(--color-dark));
+    color: var(--box__color, var(--color-gray-shade-6));
 
-    background-color: var(--box__background-color, var(--color-light));
+    background-color: var(--box__background-color, var(--color-gray-shade-1));
     padding-block: var(--box__padding-block, var(--space-m));
     padding-inline: var(--box__padding-inline, var(--space-m));
 }
@@ -30,13 +30,13 @@
  * Dark becomes light, and light becomes dark
  */
 %box--invert {
-    --box__color: var(--color-light);
-    --box__background-color: var(--color-dark);
+    --box__color: var(--color-gray-shade-1);
+    --box__background-color: var(--color-gray-shade-6);
 }
 
 %box--restore {
-    --box__color: var(--color-dark);
-    --box__background-color: var(--color-light);
+    --box__color: var(--color-gray-shade-6);
+    --box__background-color: var(--color-gray-shade-1);
 }
 
 

@@ -27,7 +27,7 @@
     font-family: var(--font-family-monospace);
     line-height: var(--line-height-body);
 
-    border: var(--border-width-thick) solid var(--color-dark);
+    border: var(--border-width-thick) solid var(--color-gray-shade-6);
 
     @extend %box--inset, %box;
 }
@@ -46,7 +46,7 @@ textarea.c-form__input {
 
     font-weight: 600;
 
-    border: var(--border-width-thick) solid var(--color-dark); /* [1] */
+    border: var(--border-width-thick) solid var(--color-gray-shade-6); /* [1] */
     cursor: pointer;
     font-variation-settings: "wght" 600;
 
