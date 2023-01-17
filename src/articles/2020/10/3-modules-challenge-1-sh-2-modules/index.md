@@ -7,7 +7,7 @@ category:
 - music
 - eurorack
 - patreon
-- 3modulechallenge
+- 3moduleschallenge
 ---
 
 https://vimeo.com/468277512
