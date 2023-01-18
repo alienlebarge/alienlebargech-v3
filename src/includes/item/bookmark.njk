@@ -5,9 +5,9 @@
         </header>
         {%- endif -%}
 
-        {%- if item.templateContent -%}
+        {%- if item.content -%}
         <div class="o-prose c-item__main | e-content p-summary">
-            {{ item.templateContent | safe }}
+            {{ item.content | safe }}
         </div>
         {%- endif -%}
 
