@@ -8,7 +8,7 @@ module.exports = async function () {
 
     try {
         const webmentions = await EleventyFetch(endpoint, {
-            duration: "1d",
+            duration: "5m",
             type: "json",
         });
 
