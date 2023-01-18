@@ -1,0 +1,17 @@
+---
+layout: index
+pagination:
+  data: collections.category
+  size: 1
+  alias: title
+permalink: "categories/{{ title | slugify }}/"
+---
+<pre>
+    {{ pagination.items | dump }}
+</pre>
+{% set items = collections.all | includes('data.category', title) %}
+<ul class="[ o-box o-box--container-big ] o-stack">
+{%- for item in items -%}
+    <li><a href="{{ item.url | url }}">Titre: {{ item.data.title }}</a></li>
+{%- endfor -%}
+</ul>

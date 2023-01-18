@@ -1,0 +1,16 @@
+---
+layout: index
+title: Archive
+introduction: Categories
+permalink: categories/
+eleventyComputed:
+  pageTitle: "{{ introduction }} · {{ app.title }}"
+---
+{# {%- assign categories = collections.category | sort_natural -%}
+{%- render 'categories' with categories -%} #}
+
+<ul class="[ o-box o-box--container-big ] o-stack">
+{%- for category in collections.category | toArray | sort -%}
+    <li><a class="p-category" rel="tag" href="/categories/{{ category | slugify }}">{{ category }}</a></li>
+{%- endfor -%}
+</ul>
