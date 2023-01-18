@@ -16,7 +16,7 @@ a {
     color: var(--anchor-color, inherit);
     text-decoration: var(--anchor-decoration, underline);
     text-decoration-skip-ink: auto;
-    text-underline-offset: var(--space-3xs);
+    text-underline-offset: var(--space-3xs);;
     transition: all var(--transition-short);
 
 }
@@ -24,7 +24,7 @@ a {
 a:hover,
 a:active {
     color: var(--anchor-color-hover, inherit);
-    text-decoration-color: transparent;
+    text-decoration-thickness: var(--border-width-thick);
 }
 
 /**
