@@ -97,6 +97,9 @@
     --color-secondary-shade-4: hsla(319.09, 99.94%, 41.2%,1);
     --color-secondary-shade-5: hsla(319.97, 99.95%, 23.72%, 1);
     --color-secondary-shade-6: hsla(321.26, 99.94%, 14.63%, 1);
+
+    /* states */
+    --color-focus: hsla(51.81, 100%, 62.08%, 1)
 }
 
 

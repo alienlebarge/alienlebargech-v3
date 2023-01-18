@@ -187,8 +187,8 @@
 }
 
 %focus {
-    outline-color: var(--color-gray-shade-6);
+    outline-color: var(--color-focus);
     outline-offset: .25em;
-    outline-style: dotted;
-    outline-width: var(--border-width-thick);
+    outline-style: solid;
+    outline-width: var(--border-width-thickest);
 }
