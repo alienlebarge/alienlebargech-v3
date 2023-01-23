@@ -1,29 +1,52 @@
-@charset "UTF-8";
-
 /* ==========================================================================
    #STYLE
    ========================================================================== */
 
 /* Settings */
-@import "./_settings.*.css";
-
-/* Tools */
-@import "./_tools.*.css";
+@import "_settings.custom-media.css";
+@import "_settings.custom-properties.css";
+@import "_settings.webfont.css";
 
 /* Generic */
-@import "./_generic.*.css";
+@import "_generic.box-sizing.css";
+@import "_generic.reset.css";
 
 /* Elements */
-@import "./_elements.*.css";
+@import "_elements.edits.css";
+@import "_elements.embedded.css";
+@import "_elements.forms.css";
+@import "_elements.grouping.css";
+@import "_elements.interactive.css";
+@import "_elements.sections.css";
+@import "_elements.tabular-data.css";
+@import "_elements.text.css";
 
 /* Objects */
-@import "./_objects.*.css";
+@import "_objects.box.css";
+@import "_objects.cluster.css";
+@import "_objects.container.css";
+@import "_objects.frame.css";
+@import "_objects.grid.css";
+@import "_objects.list-bare.css";
+@import "_objects.list-inline.css";
+@import "_objects.prose.css";
+@import "_objects.stack.css";
+@import "_objects.switcher.css";
 
 /* Components */
-@import "./_components.*.css";
-
-/* Vendors */
-@import "./_vendors.*.css";
+@import "_components.checkbox.css";
+@import "_components.footer.css";
+@import "_components.form.css";
+@import "_components.item.css";
+@import "_components.logo.css";
+@import "_components.page.css";
+@import "_components.pagination.css";
+@import "_components.palette.css";
+@import "_components.zoom-hover.css";
 
 /* Utilities */
-@import "./_utilities.*.css";
+@import "_utilities.images.css";
+@import "_utilities.languages.css";
+@import "_utilities.sizes.css";
+@import "_utilities.typography.css";
+@import "_utilities.visually-hidden.css";

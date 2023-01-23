@@ -3,7 +3,11 @@
    ========================================================================== */
 
 .c-footer {
-    @extend %reference;
+    --flow-space: calc(var(--line-height-caption) / 3);
+    --line-height-caption: var(--line-height-tight);
+    font-size: var(--font-size-caption);
+    line-height: var(--line-height-caption);
+    letter-spacing: var(--letter-spacing-body);
 }
 
 .c-footer .u-bookmark-of {

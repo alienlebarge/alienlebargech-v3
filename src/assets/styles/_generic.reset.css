@@ -6,7 +6,7 @@
  * Remove margin and padding on lists
  */
 
-:is(dl, ol, ul) {
+dl, ol, ul {
     margin: 0;
     padding: 0;
 }
@@ -17,12 +17,9 @@
  * Remove trailing margins from nested lists.
  */
 
-li > {
-
-    ol,
-    ul {
-        margin-block-end: 0;
-    }
+li > ol,
+li > ul {
+    margin-block-end: 0;
 }
 
 

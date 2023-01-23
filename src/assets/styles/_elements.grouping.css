@@ -36,9 +36,13 @@ hr {
 pre {
     display: block;
 
-    overflow-x: scroll;
+    color: var(--color-gray-shade-1);
 
-    @extend %box--inset-small-squished, %box--invert, %box;
+    background-color: var(--color-gray-shade-6);
+
+    overflow-x: scroll;
+    padding-block: var(--space-2xs);
+    padding-inline: var(--space-xs);
 }
 
 
@@ -53,7 +57,9 @@ pre {
  * 1. Override browser style
  */
 blockquote {
-    border-inline-start: var(--border-width-thickest) solid var(--color-gray-shade-6);
+    border-inline-start: var(--border-width-thickest)
+                         solid
+                         var(--color-gray-shade-6);
     margin-inline-start: 0; /* [1] */
     padding-inline-start: var(--flow-inset);
 }

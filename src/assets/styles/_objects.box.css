@@ -3,7 +3,11 @@
    ========================================================================== */
 
 .o-box {
-    @extend %box;
+    color: var(--box__color, var(--color-dark));
+
+    background-color: var(--box__background-color, var(--color-light));
+    padding-block: var(--box__padding-block, var(--step-0));
+    padding-inline: var(--box__padding-inline, var(--step-0));
 }
 
 .o-box *:not(pre, code),
@@ -23,7 +27,8 @@
  * Dark becomes light, and light becomes dark
  */
 .o-box--invert {
-    @extend %box--invert;
+    --box__color: var(--color-light);
+    --box__background-color: var(--color-dark);
 }
 
 .o-box--invert::selection,
@@ -45,13 +50,16 @@
  * Inset box
  */
 .o-box--inset-squished {
-    @extend %box--inset-squished;
+    --box__padding-inline: var(--inset);
+    --box__padding-block: calc(var(--inset) / 2);
 }
 
 .o-box--inset-small-squished {
-    @extend %box--inset-small-squished;
+    --box__padding-inline: var(--inset-small);
+    --box__padding-block: calc(var(--inset-small) / 2);
 }
 
 .o-box--inset-large-squished {
-    @extend %box--inset-large-squished;
+    --box__padding-inline: var(--inset-large);
+    --box__padding-block: calc(var(--inset-large) / 2);
 }

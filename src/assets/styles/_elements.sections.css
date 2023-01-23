@@ -50,8 +50,12 @@ html {
    #FOCUS
    ------------------------------------- */
 
-:focus {
-    @extend %focus;
+:focus,
+:focus-within {
+    outline-color: var(--color-focus);
+    outline-offset: .25em;
+    outline-style: solid;
+    outline-width: var(--border-width-thick);
 }
 
 
@@ -67,12 +71,24 @@ html {
  */
 
 body {
-    @extend %body, %type-features-body;
-    color: var(--color-gray-shade-6);
+    --flow-space: var(--line-height-body);
+    --line-height-body: var(--line-height-loose);
+    font-size: var(--font-size-body);
+    font-weight: var(--font-weight-body, 400);
+    font-family: var(--font-family-sans);
+    font-variant: oldstyle-nums;
+    line-height: var(--line-height-body);
+
+    color: var(--color-dark);
+    letter-spacing: var(--letter-spacing-body);
 
     background: var(--color-gray-shade-1);
     margin: 0;
+    font-variation-settings: "wght" var(--font-weight-body, 400);
+    hanging-punctuation: first;
+    hyphens: auto;
     min-block-size: 100vh; /* [2] */
+    word-spacing: var(--word-spacing);
 }
 
 

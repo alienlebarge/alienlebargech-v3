@@ -73,7 +73,6 @@
  * https://reasonable.work/colors/
  */
 :root {
-
     /* grey */
     --color-gray-shade-1: hsla(0, 0%, 96%, 1);
     --color-gray-shade-2: hsla(0, 0%, 89%, 1);
@@ -94,12 +93,12 @@
     --color-secondary-shade-1: hsla(332.82, 99.54%, 98.48%, 1);
     --color-secondary-shade-2: hsla(331.79, 99.98%, 93.07%, 1);
     --color-secondary-shade-3: hsla(322.24, 100%, 59.31%, 1);
-    --color-secondary-shade-4: hsla(319.09, 99.94%, 41.2%,1);
+    --color-secondary-shade-4: hsla(319.09, 99.94%, 41.2%, 1);
     --color-secondary-shade-5: hsla(319.97, 99.95%, 23.72%, 1);
     --color-secondary-shade-6: hsla(321.26, 99.94%, 14.63%, 1);
 
     /* states */
-    --color-focus: hsla(51.81, 100%, 62.08%, 1)
+    --color-focus: hsla(51.81, 100%, 62.08%, 1);
 }
 
 
@@ -163,7 +162,13 @@
 
 :root {
     --grid-max-width: 77.5rem;
-    --grid-gutter: var(--space-s-l, clamp(1.13rem, calc(.65rem + 2.39vw), 2.5rem));
+    --grid-gutter: var(--space-s-l,
+        clamp(
+            1.13rem,
+            calc(.65rem + 2.39vw),
+2.5rem
+        )
+    );
     --grid-columns: 12;
 }
 
@@ -213,7 +218,7 @@
 @media (prefers-color-scheme: dark) {
 
     :root {
-       /***
+        /***
         * Colors
         */
 
@@ -237,10 +242,9 @@
         --color-secondary-shade-6: hsla(332.82, 99.54%, 98.48%, 1);
         --color-secondary-shade-5: hsla(331.79, 99.98%, 93.07%, 1);
         --color-secondary-shade-4: hsla(322.24, 100%, 59.31%, 1);
-        --color-secondary-shade-3: hsla(319.09, 99.94%, 41.2%,1);
+        --color-secondary-shade-3: hsla(319.09, 99.94%, 41.2%, 1);
         --color-secondary-shade-2: hsla(319.97, 99.95%, 23.72%, 1);
         --color-secondary-shade-1: hsla(321.26, 99.94%, 14.63%, 1);
-
         --bg-dots: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'><path fill='hsla(0, 0%, 87%, 1)' fill-opacity='.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'></path></svg>");
 
         /* Typography */

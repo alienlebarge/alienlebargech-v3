@@ -16,9 +16,8 @@ a {
     color: var(--anchor-color, inherit);
     text-decoration: var(--anchor-decoration, underline);
     text-decoration-skip-ink: auto;
-    text-underline-offset: var(--space-3xs);;
+    text-underline-offset: var(--space-3xs);
     transition: all var(--transition-short);
-
 }
 
 a:hover,
@@ -140,7 +139,16 @@ code {
 }
 
 :not(pre) > code {
-    @extend %box--inset-small-squished, %box--invert, %box;
+    --box__color: var(--color-gray-shade-1);
+    --box__background-color: var(--color-gray-shade-6);
+    --box__padding-inline: var(--space-2xs);
+    --box__padding-block: var(--space-3xs);
+
+    color: var(--box__color);
+
+    background-color: var(--box__background-color);
+    padding-block: var(--box__padding-block);
+    padding-inline: var(--box__padding-inline);
 }
 
 
@@ -160,9 +168,16 @@ code ::selection {
 samp {
     font-size: var(--font-size-smaller);
 
-    border: var(--border-width-thin) solid var(--color-gray-shade-6);
+    color: var(--box__color, var(--color-gray-shade-6));
 
-    @extend %box--inset-small-squished, %box;
+    background-color: var(--box__background-color, var(--color-gray-shade-1));
+
+    border: var(--border-width-thin) solid var(--color-gray-shade-6);
+    padding-block: var(--box__padding-block, var(--space-m));
+    padding-inline: var(--box__padding-inline, var(--space-m));
+
+    --box__padding-inline: var(--space-xs);
+    --box__padding-block: var(--space-2xs);
 }
 
 

@@ -11,7 +11,9 @@
 table {
     width: 100%; /* [1] */
 
-    @extend %type-features-data;
+    font-feature-settings: "kern", "liga", "clig", "calt", "lnum", "tnum";
+    font-variant-ligatures: common-ligatures contextual;
+    font-variant-numeric: lining-nums tabular-nums;
 }
 
 tr {

@@ -11,12 +11,22 @@
     right: var(--step--1);
     bottom: var(--step--1);
 
+    font-size: var(--font-size-reference);
+    font-variant: oldstyle-nums;
+    line-height: var(--line-height-reference);
+
     color: var(--color-gray-shade-6);
+    letter-spacing: var(--letter-spacing-body);
 
     background-color: var(--color-gray-shade-1);
     padding: var(--step--5) var(--step--3);
+    font-variation-settings: "opsz" 14;
+    hanging-punctuation: first;
+    hyphens: auto;
+    word-spacing: var(--word-spacing);
 
-    @extend %reference;
+    --flow-space: calc(var(--line-height-reference) / 2);
+    --line-height-reference: var(--line-height-tight);
 }
 
 .c-item-photo__figcaption::before {

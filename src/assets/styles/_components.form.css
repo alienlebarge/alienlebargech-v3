@@ -27,9 +27,13 @@
     font-family: var(--font-family-monospace);
     line-height: var(--line-height-body);
 
-    border: var(--border-width-thick) solid var(--color-gray-shade-6);
+    color: var(--box__color, var(--color-dark));
 
-    @extend %box--inset, %box;
+    background-color: var(--box__background-color, var(--color-light));
+
+    border: var(--border-width-thick) solid var(--color-gray-shade-6);
+    padding-block: var(--box__padding-block, var(--step-0));
+    padding-inline: var(--box__padding-inline, var(--step-0));
 }
 
 textarea.c-form__input {
@@ -46,15 +50,23 @@ textarea.c-form__input {
 
     font-weight: 600;
 
+    color: var(--box__color, var(--color-dark));
+
+    background-color: var(--box__background-color, var(--color-light));
+
     border: var(--border-width-thick) solid var(--color-gray-shade-6); /* [1] */
     cursor: pointer;
     font-variation-settings: "wght" 600;
+    padding-block: var(--box__padding-block, var(--step-0));
+    padding-inline: var(--box__padding-inline, var(--step-0));
 
-    @extend %box--inset-squished, %box--invert, %box;
+    --box__color: var(--color-light);
+    --box__background-color: var(--color-dark);
+    --box__color: var(--color-light);
+    --box__background-color: var(--color-dark);
 }
 
 .c-form__button:active {
-    @extend %box--restore;
 
     transform: scale(.95);
 }
