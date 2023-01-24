@@ -119,12 +119,29 @@
 
 
 
+/***
+ * Figures
+ */
+
+.o-prose > figure > * {
+    margin-block-end: 0;
+    margin-block-start: 0;
+}
+
+.o-prose > figure > * + * {
+    margin-block-start: var(--space);
+}
+
+.o-prose > figure > * + figcaption {
+    --space: var(--step--5)
+}
+
 /**
  * Horizontal space (writing direction)
  *
- *  1. Images (and figures) are not included because because they are fluid by
- *     default (`max-width: 100%;`). This is defined in the element style. And
- *     we do not want to override it.
+ *  1. Images (and figures) are not included because they are fluid by default
+ *     (`max-width: 100%;`). This is defined in the element style. And we do
+ *     not want to override it.
  */
 
 .o-prose > *:not(table):not(.o-frame) {
