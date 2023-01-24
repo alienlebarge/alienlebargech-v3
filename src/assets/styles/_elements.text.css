@@ -135,7 +135,8 @@ var {
     font-variant-numeric: tabular-nums;
 }
 
-code {
+code,
+samp {
     font-size: var(--font-size-smaller);
 }
 
@@ -161,18 +162,7 @@ code ::selection {
 }
 
 samp {
-    font-size: var(--font-size-smaller);
-
-    color: var(--box__color, var(--color-gray-shade-6));
-
-    background-color: var(--box__background-color, var(--color-gray-shade-1));
-
-    border: var(--border-width-thin) solid var(--color-gray-shade-6);
-    padding-block: var(--box__padding-block, var(--space-m));
-    padding-inline: var(--box__padding-inline, var(--space-m));
-
-    --box__padding-inline: var(--space-xs);
-    --box__padding-block: var(--space-2xs);
+    color: var(--color-gray-shade-2);
 }
 
 
