@@ -139,16 +139,10 @@ code {
 }
 
 :not(pre) > code {
-    --box__color: var(--color-gray-shade-1);
-    --box__background-color: var(--color-gray-shade-6);
-    --box__padding-inline: var(--space-2xs);
-    --box__padding-block: var(--space-3xs);
+    color: var(--color-gray-shade-1);
 
-    color: var(--box__color);
-
-    background-color: var(--box__background-color);
-    padding-block: var(--box__padding-block);
-    padding-inline: var(--box__padding-inline);
+    background-color: var(--color-gray-shade-5);
+    padding: var(--text-box);
 }
 
 
