@@ -18,13 +18,13 @@
  */
 hr {
     display: block;
-    height: var(--step--5);
+    height: var(--space-3xs);
 
     text-align: left;
 
     background-color: var(--color-gray-shade-6);
     border: none;
-    inline-size: var(--step-2);
+    inline-size: var(--space-3xl);
     margin-inline-start: 0;
 }
 
