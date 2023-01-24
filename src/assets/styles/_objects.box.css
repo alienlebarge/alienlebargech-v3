@@ -3,9 +3,9 @@
    ========================================================================== */
 
 .o-box {
-    color: var(--box__color, var(--color-gray-shade-1));
+    color: var(--box__color, var(--color-gray-shade-6));
 
-    background-color: var(--box__background-color, var(--color-gray-shade-6));
+    background-color: var(--box__background-color, var(--color-gray-shade-1));
     padding-block: var(--box__padding-block, var(--space-m));
     padding-inline: var(--box__padding-inline, var(--space-m));
 }
