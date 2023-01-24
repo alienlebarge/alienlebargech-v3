@@ -147,7 +147,12 @@ samp {
     padding: var(--text-box);
 }
 
-
+@media (prefers-color-scheme: dark) {
+    :not(pre) > code {
+        color: var(--color-gray-shade-6);
+        background-color: var(--color-gray-shade-2);
+    }
+}
 
 /**
  * Make code selectable

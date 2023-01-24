@@ -45,6 +45,13 @@ pre {
     padding-inline: var(--space-xs);
 }
 
+@media (prefers-color-scheme: dark) {
+    pre {
+        color: var(--color-gray-shade-6);
+        background-color: var(--color-gray-shade-2);
+    }
+}
+
 
 
 
