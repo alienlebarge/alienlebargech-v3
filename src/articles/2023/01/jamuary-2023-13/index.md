@@ -7,9 +7,9 @@ category:
   - jam
   - jamuary
 visibility: public
-mp-syndicate-to:
-  - https://social.lol/@alienlebarge
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://social.lol/@alienlebarge/109740274490545274
+  - https://twitter.com/alienlebarge/status/1617611878691209216
 ---
 Melody by Plaits is sequenced with meloDICER and Grids sequence the drums on the Squid Salmple. Everything is mangled by iDUM
 
