@@ -132,6 +132,7 @@ samp,
 var {
     font-family: var(--font-family-monospace);
     hanging-punctuation: none;
+    font-variant-numeric: tabular-nums;
 }
 
 code {
