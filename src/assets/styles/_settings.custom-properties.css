@@ -255,8 +255,5 @@
         --color-secondary-shade-2: hsla(319.97, 99.95%, 23.72%, 1);
         --color-secondary-shade-1: hsla(321.26, 99.94%, 14.63%, 1);
         --bg-dots: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'><path fill='hsla(0, 0%, 87%, 1)' fill-opacity='.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'></path></svg>");
-
-        /* Typography */
-        --letter-spacing-body: .025em;
     }
 }
