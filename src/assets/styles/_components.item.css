@@ -61,7 +61,7 @@
 }
 
 .c-item__footer .u-bookmark-of {
-    --anchor-decoration: underline var(--color-dark);
+    --anchor-decoration: underline var(--color-gray-shade-1);
 }
 
 .c-item__footer a {

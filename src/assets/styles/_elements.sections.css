@@ -79,7 +79,7 @@ body {
     font-variant: oldstyle-nums;
     line-height: var(--line-height-body);
 
-    color: var(--color-dark);
+    color: var(--color-gray-shade-1);
     letter-spacing: var(--letter-spacing-body);
 
     background: var(--color-gray-shade-1);

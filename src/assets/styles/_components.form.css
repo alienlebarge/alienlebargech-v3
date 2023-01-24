@@ -27,9 +27,9 @@
     font-family: var(--font-family-monospace);
     line-height: var(--line-height-body);
 
-    color: var(--box__color, var(--color-dark));
+    color: var(--box__color, var(--color-gray-shade-1));
 
-    background-color: var(--box__background-color, var(--color-light));
+    background-color: var(--box__background-color, var(--color-gray-shade-6));
 
     border: var(--border-width-thick) solid var(--color-gray-shade-6);
     padding-block: var(--box__padding-block, var(--step-0));
@@ -50,9 +50,9 @@ textarea.c-form__input {
 
     font-weight: 600;
 
-    color: var(--box__color, var(--color-dark));
+    color: var(--box__color, var(--color-gray-shade-1));
 
-    background-color: var(--box__background-color, var(--color-light));
+    background-color: var(--box__background-color, var(--color-gray-shade-6));
 
     border: var(--border-width-thick) solid var(--color-gray-shade-6); /* [1] */
     cursor: pointer;
@@ -60,10 +60,10 @@ textarea.c-form__input {
     padding-block: var(--box__padding-block, var(--step-0));
     padding-inline: var(--box__padding-inline, var(--step-0));
 
-    --box__color: var(--color-light);
-    --box__background-color: var(--color-dark);
-    --box__color: var(--color-light);
-    --box__background-color: var(--color-dark);
+    --box__color: var(--color-gray-shade-6);
+    --box__background-color: var(--color-gray-shade-1);
+    --box__color: var(--color-gray-shade-6);
+    --box__background-color: var(--color-gray-shade-1);
 }
 
 .c-form__button:active {

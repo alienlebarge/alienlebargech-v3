@@ -11,7 +11,7 @@
 summary {
     color: var(--anchor-color, inherit);
     cursor: pointer;
-    text-decoration-color: var(--color-dark);
+    text-decoration-color: var(--color-gray-shade-1);
 }
 
 summary::-webkit-details-marker {
