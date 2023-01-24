@@ -6,8 +6,8 @@
     color: var(--box__color, var(--color-gray-shade-1));
 
     background-color: var(--box__background-color, var(--color-gray-shade-6));
-    padding-block: var(--box__padding-block, var(--step-0));
-    padding-inline: var(--box__padding-inline, var(--step-0));
+    padding-block: var(--box__padding-block, var(--space-m));
+    padding-inline: var(--box__padding-inline, var(--space-m));
 }
 
 .o-box *:not(pre, code),
@@ -33,33 +33,14 @@
 
 .o-box--invert::selection,
 .o-box--invert ::selection {
-    color: var(--color-gray-shade-6);
-
-    background-color: var(--color-gray-shade-1);
+    --box__color: var(--color-gray-shade-1);
+    --box__background-color: var(--color-gray-shade-6);
 }
 
 /***
- * Bigger box
+ * Box L
  */
 .o-box--space-l {
     --box__padding-inline: var(--space-l);
     --box__padding-block: var(--space-l);
-}
-
-/***
- * Inset box
- */
-.o-box--inset-squished {
-    --box__padding-inline: var(--inset);
-    --box__padding-block: calc(var(--inset) / 2);
-}
-
-.o-box--inset-small-squished {
-    --box__padding-inline: var(--inset-small);
-    --box__padding-block: calc(var(--inset-small) / 2);
-}
-
-.o-box--inset-large-squished {
-    --box__padding-inline: var(--inset-large);
-    --box__padding-block: calc(var(--inset-large) / 2);
 }
