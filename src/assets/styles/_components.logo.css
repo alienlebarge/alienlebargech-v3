@@ -4,5 +4,9 @@
 
 .c-logo {
     --anchor-decoration: none;
-    --anchor-color-hover: var(--color-primary-shade-4);
+    --anchor-color-hover: var(--color-primary-shade-5);
+}
+
+.c-logo a:hover {
+    --anchor-decoration: var(--color-primary-shade-4) underline;
 }
