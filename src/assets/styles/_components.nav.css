@@ -1,0 +1,11 @@
+/* ==========================================================================
+   #NAV
+   ========================================================================== */
+
+.c-nav:hover a:not(:hover) {
+    color: var(--color-gray-shade-4);
+}
+
+.c-nav a {
+    --anchor-decoration: var(--color-primary-shade-4) underline;
+}
