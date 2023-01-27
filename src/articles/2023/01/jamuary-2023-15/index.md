@@ -1,13 +1,14 @@
 ---
 date: 2023-01-27T19:54:24.123+01:00
+updated: 2023-01-28T00:04:57.266+01:00
 title: "Jamuary 2023 #15"
 category:
   - jam
   - jamuary
 visibility: public
-mp-syndicate-to:
-  - https://social.lol/@alienlebarge
-  - https://twitter.com/alienlebarge
+syndication:
+  - https://social.lol/@alienlebarge/109763670628672226
+  - https://twitter.com/alienlebarge/status/1619109231566651392
 ---
 That's it, we did better than last year!
 
