@@ -1,0 +1,43 @@
+/* ======================================================================
+   # REEL_objects.o-reel.css
+   ====================================================================== */
+
+.o-reel {
+  display: flex;
+  block-size: auto;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-color: var(--color-gray-shade-1) var(--color-gray-shade-4);
+}
+
+.o-reel::-webkit-scrollbar {
+  block-size: 1rem;
+}
+
+.o-reel::-webkit-scrollbar-track {
+  background-color: var(--color-gray-shade-4);
+}
+
+.o-reel::-webkit-scrollbar-thumb {
+  background-color: var(--color-gray-shade-4);
+  background-image: linear-gradient(var(--color-gray-shade-4) 0, var(--color-gray-shade-4) 0.25rem, var(--color-gray-shade-1) 0.25rem, var(--color-gray-shade-1) 0.75rem, var(--color-gray-shade-4) 0.75rem);
+}
+
+.o-reel > * {
+  flex: 0 0 auto;
+}
+
+
+.o-reel > img {
+  block-size: 100%;
+  flex-basis: auto;
+  width: auto;
+}
+
+.o-reel > * + * {
+  margin-inline-start: var(--space-m);
+}
+
+.o-reel.overflowing {
+  padding-block-end: var(--space-m);
+}

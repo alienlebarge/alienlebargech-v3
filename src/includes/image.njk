@@ -1,13 +1,13 @@
-{% macro image(src, alt, settings, appUrl, styleModifier) %}
+{%- macro image(src, alt, settings, appUrl, styleModifier) -%}
 
 {%- set sizes = settings.sizes -%}
 
-{# The base url for Cloudinary to fetch the images #}
+{#- The base url for Cloudinary to fetch the images -#}
 {%- set base = "https://res.cloudinary.com/alienlebarge/image/fetch" -%}
 
 
 
-{# set transformations with the default width #}
+{#- set transformations with the default width -#}
 {%- set transformations -%}
     {%- if settings.ratio -%}
         ar_{{ settings.ratio }},
@@ -20,7 +20,7 @@
 
 
 
-{# set srcset without the default width#}
+{#- set srcset without the default width -#}
 {%- set srcset -%}
     {%- for width in settings.widths -%}
         {{ base }}/w_{{ width }},{%- if settings.ratio -%}ar_{{ settings.ratio }},{%- endif -%}c_fill,g_auto/{{ appUrl }}{{ src | url }} {{ width }}w
@@ -30,7 +30,7 @@
 
 
 
-{# Put everything together to build the img src #}
+{#- Put everything together to build the img src -#}
 {%- set src -%}{{ base }}/{{ transformations }}/{{ appUrl }}{{ src | url }}{%- endset -%}
 
 
@@ -41,7 +41,7 @@
 
 
 
-{# Output #}
+{#- Output -#}
 <img src="{{ src }}" class="{{ style }}" srcset="{{ srcset }}" sizes="{{ settings.sizes }}" alt="{{ alt }}" loading="lazy">
 
 {% endmacro %}
