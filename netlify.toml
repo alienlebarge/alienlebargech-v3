@@ -3,8 +3,11 @@
     command = "npm run build"
 
 [context.production]
-  TZ = "Europe/Zurich"
-  environment = { NODE_VERSION = "16" }
+  command = "npm run build"
+
+  [context.production.environment]
+    TZ = "Europe/Zurich"
+    environment = { NODE_VERSION = "16" }
 
 [[plugins]]
   package = "netlify-plugin-11ty"
