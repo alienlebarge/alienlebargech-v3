@@ -46,18 +46,6 @@ html {
 
 
 
-/* -------------------------------------
-   #FOCUS
-   ------------------------------------- */
-
-:focus,
-:focus-within {
-    outline-color: var(--color-focus);
-    outline-offset: .25em;
-    outline-style: solid;
-    outline-width: var(--border-width-thick);
-}
-
 
 
 /* -------------------------------------

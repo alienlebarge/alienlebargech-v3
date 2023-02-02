@@ -52,6 +52,16 @@ a[rel="external"]::after {
 
 
 
+a:focus,
+a:focus-within {
+    outline-color: var(--color-focus);
+    outline-offset: .25em;
+    outline-style: solid;
+    outline-width: var(--border-width-thick);
+}
+
+
+
 
 
 /* -------------------------------------
