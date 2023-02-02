@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/alienlebarge/alienlebargech-v3#readme",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.0-beta.1",
+    "@11ty/eleventy": "^2.0.0-canary.35",
     "@11ty/eleventy-fetch": "^3.0.0",
     "@11ty/eleventy-plugin-directory-output": "^1.0.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
@@ -59,11 +59,11 @@
   "devDependencies": {
     "@alienlebarge/stylelint-config": "^3.1.6",
     "chokidar-cli": "^3.0.0",
-    "eslint-plugin-jsdoc": "^39.6.4",
+    "eslint-plugin-jsdoc": "^39.7.5",
     "lodash": "^4.17.21",
-    "markdownlint-cli": "^0.32.2",
+    "markdownlint-cli": "^0.33.0",
     "node-fetch": "^3.3.0",
-    "stylelint": "^14.15.0",
+    "stylelint": "^14.16.1",
     "xo": "^0.53.1"
   },
   "xo": {
