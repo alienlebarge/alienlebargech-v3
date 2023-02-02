@@ -39,6 +39,11 @@ a[aria-current] {
     font-variation-settings: "wght" 800;
 }
 
+
+
+/***
+ * External links
+ */
 a[rel="external"]::after {
     --font-size: .69em;
     display: inline-block; /* [1] */
@@ -52,6 +57,9 @@ a[rel="external"]::after {
 
 
 
+/***
+ * Focus
+ */
 a:focus,
 a:focus-within {
     outline-color: var(--color-focus);
