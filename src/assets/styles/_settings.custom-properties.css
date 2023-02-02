@@ -158,6 +158,7 @@
 :root {
     --border-radius-xsmall: .125rem;
     --border-radius-small: .25rem;
+    --border-radius-circle: 50%;
     --border-width-thin: 1px;
     --border-width-thick: .125rem;
     --border-width-thickest: .5rem;

@@ -3,10 +3,14 @@
    ========================================================================== */
 
 .c-logo {
-    --anchor-decoration: none;
-    --anchor-color-hover: var(--color-primary-shade-5);
+    --anchor-decoration: transparent;
 }
 
-.c-logo a:hover {
+.c-logo:hover {
     --anchor-decoration: var(--color-primary-shade-4) underline;
+}
+
+.c-logo__img {
+    max-block-size: var(--space-l);
+    border-radius: var(--border-radius-circle);
 }
