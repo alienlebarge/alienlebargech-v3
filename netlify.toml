@@ -4,8 +4,7 @@
 
 [context.production]
   TZ = "Europe/Zurich"
-  NODE_ENV = "production"
-  NODE_VERSION = "17"
+  environment = { NODE_VERSION = "17" }
 
 [[plugins]]
   package = "netlify-plugin-11ty"
