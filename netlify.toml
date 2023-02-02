@@ -7,7 +7,7 @@
 
   [context.production.environment]
     TZ = "Europe/Zurich"
-    environment = { NODE_VERSION = "16" }
+    NODE_VERSION = "16"
     NODE_ENV = "production"
     ELEVENTY_ENV = "production"
 
