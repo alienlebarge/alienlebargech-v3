@@ -2,9 +2,11 @@
 {% block main %}
     <div class="o-stack o-container o-box">
         {% include 'header.njk' %}
-        {% include 'footer.njk' %}
     </div>
     {% include 'content.njk' %}
+    <div class="o-container o-box">
+        {% include 'footer.njk' %}
+    </div>
     {# check if there's the "patreon" tag #}
     {% for categoryItem in category -%}
         {% if categoryItem === "patreon" %}
