@@ -3,13 +3,9 @@
    ========================================================================== */
 
 .c-footer {
-    --flow-space: calc(var(--line-height-caption) / 3);
-    --line-height-caption: var(--line-height-tight);
-    font-size: var(--font-size-caption);
-    line-height: var(--line-height-caption);
-    letter-spacing: var(--letter-spacing-body);
+    color: var(--color-gray-shade-4);
 }
 
 .c-footer .u-bookmark-of {
-    --anchor-decoration: underline var(--color-gray-shade-6);
+    --anchor-decoration: underline var(--color-gray-shade-3);
 }
