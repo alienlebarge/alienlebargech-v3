@@ -2,12 +2,12 @@
 {%- set mentions = webmentions.children | webmentions_for_url(absoluteUrl) -%}
 
 {% if mentions | length %}
-    <section class="o-container o-box o-stack o-stack--space-3xl">
+    <section class="o-container o-box o-stack">
         <header>
             <h2 class="u-overline">Webmentions</h2>
         </header>
 
-        <div class="[ o-stack o-stack--space-3xl ]">
+        <div class="o-stack">
         {% for webmention in mentions | reverse %}
             {% include 'item/webmention.njk' %}
         {% endfor %}
