@@ -1,4 +1,4 @@
-<article class="h-entry" data-type="articles">
+<article class="o-stack | h-entry" data-type="articles">
     {%- if item.data.title -%}
     <header class="o-prose | e-content p-name">
         <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
@@ -18,7 +18,7 @@
     {%- endif -%}
 
     {%- if item.data.date -%}
-    <footer>
+    <footer class="u-reference">
         <dl class="o-stack o-stack--space-3xs">
             <dt class="u-visually-hidden">Published on</dt>
             <dd>
