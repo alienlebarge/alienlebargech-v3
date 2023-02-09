@@ -12,10 +12,10 @@ Hi, I’m Cédric a swiss front end engineer based in Lausanne with a love for e
 {% set latest_articles = collections.article | reverse %}
 <ul>
 {%- for item in latest_articles.slice(0,5) -%}
-    <li>{{- item.data.title }} <time class="u-reference dt-published"
-                                      datetime="{{ item.data.date | date }}">{{- item.data.date | date("DD MMM YYYY") -}}</time> <a href="{{- item.url | url -}}">
-                                         Read 
-                                      </a>
+    <li class="o-with-sidebar">
+        <time class="u-reference dt-published"
+              datetime="{{ item.data.date | date }}">{{- item.data.date | date("DD MMM YYYY") -}}</time>
+        <span>{{- item.data.title }} <a href="{{- item.url | url -}}">Read</a></span>
     </li>
 {%- endfor -%}
 </ul>
@@ -28,7 +28,8 @@ Hi, I’m Cédric a swiss front end engineer based in Lausanne with a love for e
 
 <ul>
 {%- for item in latest_notes.slice(0,5) -%}
-    <li>{{- item.templateContent | safe -}}
+    <li class="o-with-sidebar">
+    <span>{{- item.templateContent | safe -}}</span>
         <time class="u-reference dt-published"
               datetime="{{ item.data.date | date }}">{{ item.data.date | date("DD MMM YYYY") }}</time><a href="{{ item.url | url }}">Read more -&gt;</a>
     </li>

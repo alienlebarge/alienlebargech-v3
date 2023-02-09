@@ -1,0 +1,21 @@
+/* ==========================================================================
+   #WITH-SIDEBAR
+   ========================================================================== */
+
+.o-with-sidebar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-m);
+  align-items: baseline;
+}
+
+.o-with-sidebar > :first-child {
+  flex-basis: var(--space-3xl);
+  flex-grow: 1;
+}
+
+.o-with-sidebar > :last-child {
+  flex-basis: 0;
+  flex-grow: 999;
+  min-inline-size: 50%;
+}

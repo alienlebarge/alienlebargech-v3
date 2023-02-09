@@ -33,6 +33,7 @@
 @import "_objects.reel.css";
 @import "_objects.stack.css";
 @import "_objects.switcher.css";
+@import "_objects.with-sidebar.css";
 
 /* Components */
 @import "_components.checkbox.css";
