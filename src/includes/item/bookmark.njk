@@ -1,15 +1,4 @@
-<article class="o-stack | h-entry" data-type="bookmark">
-        {%- if item.data.title -%}
-        <header class="o-prose | p-name">
-            <h3><a href="{{ item.url | url }}">{{ item.data.title | safe }}</a></h3>
-        </header>
-        {%- endif -%}
-        {%- if item.content -%}
-        <div class="o-prose | e-content p-summary">
-            {{ item.content | safe }}
-        </div>
-        {%- endif -%}
-
+<article class="o-with-sidebar | h-entry" data-type="bookmark">
         <footer class="u-reference">
             <dl class="o-stack o-stack--space-3xs">
                 <dt class="u-visually-hidden">Published on</dt>
@@ -32,4 +21,16 @@
                 {% endif %}
             </dl>
         </footer>
+        <div class="o-stack">
+            {%- if item.data.title -%}
+            <header class="o-prose | p-name">
+                <h3><a href="{{ item.url | url }}">{{ item.data.title | safe }}</a></h3>
+            </header>
+            {%- endif -%}
+            {%- if item.content -%}
+            <div class="o-prose | e-content p-summary">
+                {{ item.content | safe }}
+            </div>
+            {%- endif -%}
+        </div>
 </article>
