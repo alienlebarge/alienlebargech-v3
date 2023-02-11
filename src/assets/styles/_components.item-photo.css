@@ -8,8 +8,8 @@
 
 .c-item-photo__figcaption {
     position: absolute;
-    right: var(--step--1);
-    bottom: var(--step--1);
+    right: var(--space-s);
+    bottom: var(--space-s);
 
     font-size: var(--font-size-reference);
     font-variant: oldstyle-nums;
@@ -19,7 +19,7 @@
     letter-spacing: var(--letter-spacing-body);
 
     background-color: var(--color-gray-shade-1);
-    padding: var(--step--5) var(--step--3);
+    padding: var(--text-box);
     font-variation-settings: "opsz" 14;
     hanging-punctuation: first;
     hyphens: auto;
