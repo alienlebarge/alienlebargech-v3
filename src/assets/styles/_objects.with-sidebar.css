@@ -17,5 +17,5 @@
 .o-with-sidebar > :last-child {
   flex-basis: 0;
   flex-grow: 999;
-  min-inline-size: 50%;
+  min-inline-size: 70%;
 }
