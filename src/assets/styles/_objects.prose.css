@@ -80,7 +80,7 @@
 
 /* stylelint-disable selector-max-compound-selectors */
 .o-prose > ul:not([class]) > li + li,
-.o-prose :is(dl, ol, ul) > li:first-child {
+.o-prose :is(dl:not([class]), ol:not([class]), ul:not([class])) > li:first-child {
     margin-block-start: var(--space); /* [4] */
 }
 /* stylelint-enable */
