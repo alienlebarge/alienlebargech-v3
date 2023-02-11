@@ -50,6 +50,7 @@
 /* Utilities */
 @import "_utilities.images.css";
 @import "_utilities.languages.css";
+@import "_utilities.link-zone.css";
 @import "_utilities.sizes.css";
 @import "_utilities.typography.css";
 @import "_utilities.visually-hidden.css";
