@@ -5,7 +5,7 @@
 .o-with-sidebar {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-m);
+  gap: var(--space-3xs-l);
   align-items: baseline;
 }
 
