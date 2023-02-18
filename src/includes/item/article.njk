@@ -1,22 +1,4 @@
-<article class="o-stack | h-entry" data-type="articles">
-    {%- if item.data.title -%}
-    <header class="o-prose | e-content p-name">
-        <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
-    </header>
-    {%- endif -%}
-
-    {%- if item.data.summary or item.data.description -%}
-    <div class="o-prose | e-content p-summary">
-        <p>
-        {%- if item.data.summary -%}
-        {{ item.data.summary }}
-        {%- elif item.data.description -%}
-        {{ item.data.description }}
-        {%- endif -%}
-        </p>
-    </div>
-    {%- endif -%}
-
+<article class="o-with-sidebar | h-entry" data-type="articles">
     {%- if item.data.date -%}
     <footer class="u-reference">
         <dl class="o-stack o-stack--space-3xs">
@@ -33,4 +15,24 @@
         </dl>
     </footer>
     {%- endif -%}
+
+    <div>
+        {%- if item.data.title -%}
+        <header class="o-prose | e-content p-name">
+            <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
+        </header>
+        {%- endif -%}
+
+        {%- if item.data.summary or item.data.description -%}
+        <div class="o-prose | e-content p-summary">
+            <p>
+            {%- if item.data.summary -%}
+            {{ item.data.summary }}
+            {%- elif item.data.description -%}
+            {{ item.data.description }}
+            {%- endif -%}
+            </p>
+        </div>
+        {%- endif -%}
+    <div>
 </article>

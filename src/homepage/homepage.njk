@@ -4,37 +4,33 @@ permalink: /index.html
 type: homepage
 layout: base.njk
 ---
+{% import 'list-items.njk' as list %}
 
 <div class="o-container o-box o-prose u-lede">
 Hi, I’m Cédric a swiss front end engineer based in Lausanne with a love for electronic music and hiking
 </div>
 
-<section class="o-container o-box o-prose">
-    <h2>Articles</h2>
-
-    {% set latest_articles = collections.article | reverse %}
-    <ul>
-    {%- for item in latest_articles.slice(0,5) -%}
-        <li class="o-with-sidebar">
-            <time class="u-reference dt-published"
-                  datetime="{{ item.data.date | date }}">{{- item.data.date | date("DD MMM YYYY") -}}</time>
-            <a href="{{- item.url | url -}}">{{- item.data.title }}</a>
-        </li>
-    {%- endfor -%}
-    </ul>
-
-    <p><a href="{{- "/articles" | url -}}"">More articles</a></p>
+<section class="o-container o-box o-stack">
+    <header class="o-prose">
+        <h2>Articles</h2>
+    </header>
+    <div>
+        {%- set latest_articles = collections.article | reverse -%}
+        {{ list.listItems(latest_articles, "", 5) }}
+    </div>
+    <footer class="o-prose">
+        <p><a href="{{- "/articles" | url -}}">More articles</a></p>
+    </footer>
 </section>
 
 <section class="o-container o-box o-stack">
     <header class="o-prose">
         <h2>Notes</h2>
     </header>
-
-    {% import 'list-items.njk' as list %}
-    {%- set latest_notes = collections.note | reverse -%}
-    {{ list.listItems(latest_notes, "", 5) }}
-
+    <div>
+        {%- set latest_notes = collections.note | reverse -%}
+        {{ list.listItems(latest_notes, "o-stack--space-3xl", 5) }}
+    </div>
     <footer class="o-prose">
         <p><a href="{{- "/notes" | url -}}"">More notes</a></p>
     </footer>
