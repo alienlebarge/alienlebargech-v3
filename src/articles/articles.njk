@@ -4,7 +4,7 @@ summary: Short posts, articles and essays
 permalink: articles/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html
 pagination:
     data: collections.article
-    size: 10
+    size: 50
     reverse: true
 layout: index.njk
 type: index
