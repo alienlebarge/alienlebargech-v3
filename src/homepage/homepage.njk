@@ -36,24 +36,24 @@ Hi, I’m Cédric a swiss front end engineer based in Lausanne with a love for e
     </footer>
 </section>
 
-<section class="o-stack o-container o-box o-prose">
-    <h2>Photos</h2>
+<section class="o-stack">
+    <header class="o-container o-box o-prose">
+        <h2>Photos</h2>
+    </header>
 
     {% set latest_photos = collections.photo | reverse %}
     {%- import 'image.njk' as image -%}
 
-    <ul class="o-reel">
-    {%- for item in latest_photos.slice(0,10) -%}
-        <li>
-            <figure class="o-stack o-stack--space-2xs">
+    <div class="o-container o-container--full">
+        <div class="o-reel">
+        {%- for item in latest_photos.slice(0,10) -%}
+            <a href="{{item.url}}">
                 {{- image.image(item.data.photo[0].url, item.data.photo[0].alt, settings=srcsets.grid, appUrl=app.url, styleModifier="c-scale-hover__item") -}}
-                <figcaption class="o-prose">
-                    <a href="{{ item.url | url }}">
-                        <time class="u-reference dt-published"
-                              datetime="{{ item.data.date | date }}">{{ item.data.date | date("DD MMM YYYY") }}</time>
-                    </a>
-                </figcaption>
-        </li>
-    {%- endfor -%}
-    </ul>
+            </a>
+        {%- endfor -%}
+        </div>
+    </div>
+    <footer class="o-container o-box o-prose">
+        <p><a href="{{- "/photos" | url -}}"">More photos</a></p>
+    </footer>
 </section>

@@ -25,8 +25,8 @@
 
 .o-reel > * {
   flex: 0 0 auto;
+  max-width: 75vw;
 }
-
 
 .o-reel > img {
   block-size: 100%;
@@ -36,8 +36,4 @@
 
 .o-reel > * + * {
   margin-inline-start: var(--space-m);
-}
-
-.o-reel.overflowing {
-  padding-block-end: var(--space-m);
 }

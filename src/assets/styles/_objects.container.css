@@ -8,3 +8,7 @@
     margin-inline: auto;
     padding-inline: var(--grid-gutter);
 }
+
+.o-container.o-container--full {
+    max-width: initial;
+}
