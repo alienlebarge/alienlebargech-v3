@@ -1,11 +1,11 @@
 /* ==========================================================================
-   #FOOTER
+   #NAV
    ========================================================================== */
 
-.c-footer {
+.c-nav:hover a:not(:hover) {
     color: var(--color-gray-shade-4);
 }
 
-.c-footer .u-bookmark-of {
-    --anchor-decoration: underline var(--color-gray-shade-3);
+.c-nav a {
+    --anchor-decoration-color: var(--color-primary-shade-4);
 }

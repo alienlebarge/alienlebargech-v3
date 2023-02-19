@@ -1,9 +1,9 @@
 {% macro listItems(items, modifier, limit, reverse) %}
-<ul class="{% if modifier %}{{ modifier }} {% endif %}o-stack o-stack--step-4">
+<ul class="{% if modifier %}{{ modifier }} {% endif %}o-stack">
     {% if limit and reverse -%}
         {%- for item in items | reverse-%}
             {% if loop.index0 < limit and not item.data.deleted -%}
-                <li class="o-separator">
+                <li>
                 {%- include 'item/' + item.data.type + '.njk' -%}
                 </li>
             {%- endif %}
@@ -11,7 +11,7 @@
     {% elif limit %}
         {%- for item in items -%}
             {% if loop.index0 < limit and not item.data.deleted -%}
-                <li class="o-separator">
+                <li>
                 {%- include 'item/' + item.data.type + '.njk' -%}
                 </li>
             {%- endif %}
@@ -19,7 +19,7 @@
     {%- else -%}
         {%- for item in items -%}
         {%- if not item.data.deleted -%}
-            <li class="o-separator">
+            <li>
             {%- include 'item/' + item.data.type + '.njk' -%}
             </li>
         {%- endif -%}
@@ -33,7 +33,7 @@
 {% macro gridItems(items) %}
 
 {%- set image_preset = "grid" -%}
-<div class="[ o-box o-box--container-big ]">
+<div class="o-container o-box">
     <ul class="o-grid">
         {%- for item in items -%}
         {%- if not item.data.deleted -%}

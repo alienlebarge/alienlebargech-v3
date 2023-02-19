@@ -27,8 +27,15 @@
 .c-item__header {
     --anchor-decoration: underline;
 
-    @extend %subhead;
+    font-size: var(--font-size-subhead);
+    font-weight: var(--font-weight-subhead, 600);
+    font-family: var(--font-family-subhead, var(--font-family-sans));
+    line-height: var(--line-height-subhead, var(--line-height-tight));
+    letter-spacing: 0; /* [1] */
+    font-variation-settings: "wght" var(--font-weight-subhead, 600);
+
     grid-area: header;
+    hanging-punctuation: first;
 }
 
 /* -----------------------------------
@@ -45,13 +52,16 @@
 
 .c-item__footer {
     --anchor-decoration: none;
-
-    @extend %caption;
+    --flow-space: calc(var(--line-height-caption) / 3);
+    --line-height-caption: var(--line-height-tight);
+    font-size: var(--font-size-caption);
+    line-height: var(--line-height-caption);
+    letter-spacing: var(--letter-spacing-body);
     grid-area: footer;
 }
 
 .c-item__footer .u-bookmark-of {
-    --anchor-decoration: underline var(--color-dark);
+    --anchor-decoration: underline var(--color-gray-shade-1);
 }
 
 .c-item__footer a {

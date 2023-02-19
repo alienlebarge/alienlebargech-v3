@@ -2,15 +2,14 @@
    #CHECKBOX
    ========================================================================== */
 
+/***
+ * TODO: Check focus
+ */
 .c-checkbox {
     position: relative;
 
     display: flex;
     margin-block-end: var(--step--4);
-}
-
-.c-checkbox:focus-within {
-    @extend %focus;
 }
 
 /**

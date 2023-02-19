@@ -7,29 +7,69 @@
    #Scale
    ----------------------------------- */
 
-/* stylelint-disable max-line-length, comment-empty-line-before */
-/* @link https://utopia.fyi/type/calculator?c=320,16,1.2,1140,24,1.333,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
-/* stylelint-enable max-line-length, comment-empty-line-before */
+/* stylelint-disable max-line-length, comment-empty-line-before, number-leading-zero */
+/* @link https://utopia.fyi/type/calculator?c=320,18,1.2,1240,20,1.25,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
 :root {
-    --step--5: clamp(.4rem, .42rem + -.09vw, .36rem);
-    --step--4: clamp(.48rem, .49rem + -.01vw, .48rem);
-    --step--3: clamp(.58rem, .56rem + .11vw, .63rem);
-    --step--2: clamp(.69rem, .64rem + .29vw, .84rem);
-    --step--1: clamp(.83rem, .72rem + .57vw, 1.13rem);
-    --step-0: clamp(1rem, .8rem + .98vw, 1.5rem);
-    --step-1: clamp(1.2rem, .89rem + 1.56vw, 2rem);
-    --step-2: clamp(1.44rem, .96rem + 2.39vw, 2.67rem);
-    --step-3: clamp(1.73rem, 1.02rem + 3.56vw, 3.55rem);
-    --step-4: clamp(2.07rem, 1.03rem + 5.2vw, 4.74rem);
-    --step-5: clamp(2.49rem, 1rem + 7.46vw, 6.31rem);
-    --step-6: clamp(2.99rem, .87rem + 10.59vw, 8.42rem);
-    --step-7: clamp(3.58rem, .6rem + 14.9vw, 11.22rem);
-    --step-8: clamp(4.3rem, .14rem + 20.79vw, 14.95rem);
-    --step-9: clamp(5.16rem, -.6rem + 28.82vw, 19.93rem);
-    --step-10: clamp(6.19rem, -1.76rem + 39.76vw, 26.57rem);
+    --step--5: clamp(0.41rem, calc(0.47rem + -0.07vw), 0.45rem);
+    --step--4: clamp(0.51rem, calc(0.55rem + -0.05vw), 0.54rem);
+    --step--3: clamp(0.64rem, calc(0.66rem + -0.02vw), 0.65rem);
+    --step--2: clamp(0.78rem, calc(0.77rem + 0.03vw), 0.8rem);
+    --step--1: clamp(0.94rem, calc(0.92rem + 0.11vw), 1rem);
+    --step-0: clamp(1.13rem, calc(1.08rem + 0.22vw), 1.25rem);
+    --step-1: clamp(1.35rem, calc(1.28rem + 0.37vw), 1.56rem);
+    --step-2: clamp(1.62rem, calc(1.5rem + 0.58vw), 1.95rem);
+    --step-3: clamp(1.94rem, calc(1.77rem + 0.87vw), 2.44rem);
+    --step-4: clamp(2.33rem, calc(2.08rem + 1.25vw), 3.05rem);
+    --step-5: clamp(2.8rem, calc(2.45rem + 1.77vw), 3.82rem);
+    --step-6: clamp(3.36rem, calc(2.87rem + 2.45vw), 4.77rem);
+    --step-7: clamp(4.03rem, calc(3.36rem + 3.36vw), 5.96rem);
+    --step-8: clamp(4.84rem, calc(3.93rem + 4.54vw), 7.45rem);
+    --step-9: clamp(5.81rem, calc(4.58rem + 6.1vw), 9.31rem);
+    --step-10: clamp(6.97rem, calc(5.34rem + 8.13vw), 11.64rem);
 }
+/* stylelint-enable max-line-length, comment-empty-line-before, number-leading-zero */
 
+
+
+/* stylelint-disable max-line-length, comment-empty-line-before, number-leading-zero */
+/* @link https://utopia.fyi/space/calculator?c=320,18,1.2,1240,20,1.25,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,3xs-l&g=s,l,xl,12 */
+
+:root {
+    --space-3xs: clamp(0.31rem, calc(0.31rem + 0.00vw), 0.31rem);
+    --space-2xs: clamp(0.56rem, calc(0.54rem + 0.11vw), 0.63rem);
+    --space-xs: clamp(0.88rem, calc(0.85rem + 0.11vw), 0.94rem);
+    --space-s: clamp(1.13rem, calc(1.08rem + 0.22vw), 1.25rem);
+    --space-m: clamp(1.69rem, calc(1.62rem + 0.33vw), 1.88rem);
+    --space-l: clamp(2.25rem, calc(2.16rem + 0.43vw), 2.50rem);
+    --space-xl: clamp(3.38rem, calc(3.24rem + 0.65vw), 3.75rem);
+    --space-2xl: clamp(4.50rem, calc(4.33rem + 0.87vw), 5.00rem);
+    --space-3xl: clamp(6.75rem, calc(6.49rem + 1.30vw), 7.50rem);
+
+    /* One-up pairs */
+    --space-3xs-2xs: clamp(0.31rem, calc(0.20rem + 0.54vw), 0.63rem);
+    --space-2xs-xs: clamp(0.56rem, calc(0.43rem + 0.65vw), 0.94rem);
+    --space-xs-s: clamp(0.88rem, calc(0.74rem + 0.65vw), 1.25rem);
+    --space-s-m: clamp(1.13rem, calc(0.86rem + 1.30vw), 1.88rem);
+    --space-m-l: clamp(1.69rem, calc(1.40rem + 1.41vw), 2.50rem);
+    --space-l-xl: clamp(2.25rem, calc(1.73rem + 2.61vw), 3.75rem);
+    --space-xl-2xl: clamp(3.38rem, calc(2.81rem + 2.83vw), 5.00rem);
+    --space-2xl-3xl: clamp(4.50rem, calc(3.46rem + 5.22vw), 7.50rem);
+
+    /* Custom pairs */
+    --space-3xs-l: clamp(0.31rem, calc(-0.45rem + 3.80vw), 2.50rem);
+}
+/* stylelint-enable max-line-length, comment-empty-line-before, number-leading-zero */
+
+
+
+/* -----------------------------------
+ #Boxed content
+ ----------------------------------- */
+
+:root {
+    --text-box: var(--space-3xs) var(--space-2xs);
+}
 
 
 /* -----------------------------------
@@ -38,21 +78,36 @@
 
 /***
  * The color value have to be the same as in the `app.manifest` file
+ * Colors is based on Reasonable Colors color system :
+ * https://reasonable.work/colors/
  */
 :root {
-    /* color */
-    --color-dark: hsla(208, 21%, 9%, 1);
-    --color-light: hsla(0, 0%, 87%, 1);
-}
+    /* grey */
+    --color-gray-shade-1: hsla(0, 0%, 96%, 1);
+    --color-gray-shade-2: hsla(0, 0%, 89%, 1);
+    --color-gray-shade-3: hsla(0, 0%, 55%, 1);
+    --color-gray-shade-4: hsla(0, 0%, 44%, 1);
+    --color-gray-shade-5: hsla(0, 0%, 24%, 1);
+    --color-gray-shade-6: hsla(0, 0%, 13%, 1);
 
+    /* primary */
+    --color-primary-shade-1: hsla(154.47, 99.98%, 92.65%, 1);
+    --color-primary-shade-2: hsla(161.94, 100%, 62.84%, 1);
+    --color-primary-shade-3: hsla(165.15, 99.85%, 31.18%, 1);
+    --color-primary-shade-4: hsla(164.85, 99.87%, 25%, 1);
+    --color-primary-shade-5: hsla(163.67, 99.87%, 13.96%, 1);
+    --color-primary-shade-6: hsla(161.53, 99.95%, 7.77%, 1);
 
+    /* secondary */
+    --color-secondary-shade-1: hsla(332.82, 99.54%, 98.48%, 1);
+    --color-secondary-shade-2: hsla(331.79, 99.98%, 93.07%, 1);
+    --color-secondary-shade-3: hsla(322.24, 100%, 59.31%, 1);
+    --color-secondary-shade-4: hsla(319.09, 99.94%, 41.2%, 1);
+    --color-secondary-shade-5: hsla(319.97, 99.95%, 23.72%, 1);
+    --color-secondary-shade-6: hsla(321.26, 99.94%, 14.63%, 1);
 
-/* -----------------------------------
-   #Background
-   ----------------------------------- */
-
-:root {
-    --bg-dots: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'><path fill='hsla(208, 22%, 15%, 1)' fill-opacity='.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'></path></svg>");
+    /* states */
+    --color-focus: hsla(51.81, 100%, 62.08%, 1);
 }
 
 
@@ -72,6 +127,7 @@
     --font-size-subhead: var(--step-2);
     --font-size-body: var(--step-0);
     --font-size-reference: var(--step--2);
+    --font-family-reference: var(--font-family-monospace);
     --font-size-caption: var(--step--1);
     --font-size-default: 1em;
     --font-size-smaller: .8em;
@@ -102,32 +158,10 @@
 :root {
     --border-radius-xsmall: .125rem;
     --border-radius-small: .25rem;
-    --border-width-thin: 1px;
+    --border-radius-circle: 50%;
+    --border-width-thin: .0625rem;
     --border-width-thick: .125rem;
     --border-width-thickest: .5rem;
-}
-
-
-
-/* -----------------------------------
-   #Spacing
-   ----------------------------------- */
-
-/***
- * Spacing > Inline
- */
-:root {
-    --space-inline-small: .375rem;
-    --space-inline: .75rem;
-}
-
-/***
- * Inset spacing
- */
-:root {
-    --inset: var(--step--2);
-    --inset-small: var(--step--4);
-    --inset-large: var(--step-0);
 }
 
 
@@ -137,17 +171,17 @@
    ----------------------------------- */
 
 :root {
-    --grid-gap: var(--step--5);
-    --grid-content-width: var(--step-9);
+    --grid-max-width: 77.5rem;
+    --grid-gutter: var(--space-s-l,
+        clamp(
+            1.13rem,
+            calc(.65rem + 2.39vw),
+2.5rem
+        )
+    );
+    --grid-columns: 12;
 }
 
-@media (--from-small-viewport) {
-
-    :root {
-        --grid-gap: var(--step-0);
-        --grid-content-width: var(--step-8);
-    }
-}
 
 
 /* -----------------------------------
@@ -194,11 +228,33 @@
 @media (prefers-color-scheme: dark) {
 
     :root {
-        --color-light: hsla(208, 21%, 9%, 1);
-        --color-dark: hsla(0, 0%, 87%, 1);
-        --bg-dots: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'><path fill='hsla(0, 0%, 87%, 1)' fill-opacity='.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'></path></svg>");
+        /***
+        * Colors
+        */
 
-        /* Typography */
-        --letter-spacing-body: .025em;
+        /* grey */
+        --color-gray-shade-6: hsla(0, 0%, 96%, 1);
+        --color-gray-shade-5: hsla(0, 0%, 89%, 1);
+        --color-gray-shade-4: hsla(0, 0%, 55%, 1);
+        --color-gray-shade-3: hsla(0, 0%, 44%, 1);
+        --color-gray-shade-2: hsla(0, 0%, 24%, 1);
+        --color-gray-shade-1: hsla(0, 0%, 13%, 1);
+
+        /* primary */
+        --color-primary-shade-6: hsla(154.47, 99.98%, 92.65%, 1);
+        --color-primary-shade-5: hsla(161.94, 100%, 62.84%, 1);
+        --color-primary-shade-4: hsla(165.15, 99.85%, 31.18%, 1);
+        --color-primary-shade-3: hsla(164.85, 99.87%, 25%, 1);
+        --color-primary-shade-2: hsla(163.67, 99.87%, 13.96%, 1);
+        --color-primary-shade-1: hsla(161.53, 99.95%, 7.77%, 1);
+
+        /* secondary */
+        --color-secondary-shade-6: hsla(332.82, 99.54%, 98.48%, 1);
+        --color-secondary-shade-5: hsla(331.79, 99.98%, 93.07%, 1);
+        --color-secondary-shade-4: hsla(322.24, 100%, 59.31%, 1);
+        --color-secondary-shade-3: hsla(319.09, 99.94%, 41.2%, 1);
+        --color-secondary-shade-2: hsla(319.97, 99.95%, 23.72%, 1);
+        --color-secondary-shade-1: hsla(321.26, 99.94%, 14.63%, 1);
+        --bg-dots: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'><path fill='hsla(0, 0%, 87%, 1)' fill-opacity='.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'></path></svg>");
     }
 }

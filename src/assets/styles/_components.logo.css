@@ -3,5 +3,15 @@
    ========================================================================== */
 
 .c-logo {
-    --anchor-decoration: none;
+    --anchor-decoration-line: transparent;
+}
+
+.c-logo:hover {
+    --anchor-decoration-line: underline;
+    --anchor-decoration-color: var(--color-primary-shade-4);
+}
+
+.c-logo__img {
+    max-block-size: var(--space-l);
+    border-radius: var(--border-radius-circle);
 }

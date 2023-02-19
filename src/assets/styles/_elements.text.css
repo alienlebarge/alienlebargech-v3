@@ -14,16 +14,17 @@
 
 a {
     color: var(--anchor-color, inherit);
-    text-decoration: var(--anchor-decoration, underline);
-    text-decoration-color: currentColor;
+    text-decoration-line: var(--anchor-decoration-line, underline);
+    text-decoration-color: var(--anchor-decoration-color, inherit);
     text-decoration-skip-ink: auto;
-    text-underline-offset: .1em;
+    text-underline-offset: var(--anchor-decoration-offset, var(--space-3xs));
     transition: all var(--transition-short);
 }
 
 a:hover,
 a:active {
-    text-decoration-color: transparent;
+    color: var(--anchor-color-hover, inherit);
+    text-decoration-color: var(--anchor-decoration-color-hover, transparent);
 }
 
 /**
@@ -39,6 +40,11 @@ a[aria-current] {
     font-variation-settings: "wght" 800;
 }
 
+
+
+/***
+ * External links
+ */
 a[rel="external"]::after {
     --font-size: .69em;
     display: inline-block; /* [1] */
@@ -48,6 +54,19 @@ a[rel="external"]::after {
     content: "↗";
     margin-inline-start: calc(.25 * var(--font-size));
     vertical-align: super;
+}
+
+
+
+/***
+ * Focus
+ */
+a:focus,
+a:focus-within {
+    outline-color: var(--color-focus);
+    outline-offset: .25em;
+    outline-style: solid;
+    outline-width: var(--border-width-thick);
 }
 
 
@@ -132,17 +151,27 @@ samp,
 var {
     font-family: var(--font-family-monospace);
     hanging-punctuation: none;
+    font-variant-numeric: tabular-nums;
 }
 
-code {
+code,
+samp {
     font-size: var(--font-size-smaller);
 }
 
 :not(pre) > code {
-    @extend %box--inset-small-squished, %box--invert, %box;
+    color: var(--color-gray-shade-1);
+
+    background-color: var(--color-gray-shade-5);
+    padding: var(--text-box);
 }
 
-
+@media (prefers-color-scheme: dark) {
+    :not(pre) > code {
+        color: var(--color-gray-shade-6);
+        background-color: var(--color-gray-shade-2);
+    }
+}
 
 /**
  * Make code selectable
@@ -151,17 +180,13 @@ code {
  */
 code::selection,
 code ::selection {
-    color: var(--color-dark);
+    color: var(--color-gray-shade-6);
 
-    background-color: var(--color-light);
+    background-color: var(--color-gray-shade-1);
 }
 
 samp {
-    font-size: var(--font-size-smaller);
-
-    border: var(--border-width-thin) solid var(--color-dark);
-
-    @extend %box--inset-small-squished, %box;
+    color: var(--color-gray-shade-2);
 }
 
 
@@ -173,7 +198,7 @@ samp {
    ------------------------------------- */
 
 mark {
-    color: var(--color-light);
+    color: var(--color-gray-shade-1);
 
-    background-color: var(--color-dark);
+    background-color: var(--color-gray-shade-6);
 }

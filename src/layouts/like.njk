@@ -3,12 +3,12 @@
 {%- set webmentionUrl -%}{{ app.url }}{{ page.url | url }}{%- endset -%}
 {% extends './base.njk' %}
 {% block main %}
-    <div class="[ o-box o-box--step-1 ] [ o-box o-box--container-big ] c-background">
-        <div class="u-visually-hidden">
-            {% include 'header.njk' %}
-        </div>
-        {% include 'footer.njk' %}
+    <div class="u-visually-hidden">
+        {% include 'header.njk' %}
     </div>
     {% include 'content.njk' %}
+    <div class="o-container o-box">
+        {% include 'footer.njk' %}
+    </div>
     {% include 'webmentions-list.njk' %}
 {% endblock %}

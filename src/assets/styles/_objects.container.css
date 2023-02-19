@@ -1,0 +1,14 @@
+/* ==========================================================================
+   # CONTAINER
+   ========================================================================== */
+
+.o-container {
+    width: 100%;
+    max-width: var(--grid-max-width);
+    margin-inline: auto;
+    padding-inline: var(--grid-gutter);
+}
+
+.o-container.o-container--full {
+    max-width: initial;
+}

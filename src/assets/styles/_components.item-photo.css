@@ -8,15 +8,25 @@
 
 .c-item-photo__figcaption {
     position: absolute;
-    right: var(--step--1);
-    bottom: var(--step--1);
+    right: var(--space-s);
+    bottom: var(--space-s);
 
-    color: var(--color-dark);
+    font-size: var(--font-size-reference);
+    font-variant: oldstyle-nums;
+    line-height: var(--line-height-reference);
 
-    background-color: var(--color-light);
-    padding: var(--step--5) var(--step--3);
+    color: var(--color-gray-shade-6);
+    letter-spacing: var(--letter-spacing-body);
 
-    @extend %reference;
+    background-color: var(--color-gray-shade-1);
+    padding: var(--text-box);
+    font-variation-settings: "opsz" 14;
+    hanging-punctuation: first;
+    hyphens: auto;
+    word-spacing: var(--word-spacing);
+
+    --flow-space: calc(var(--line-height-reference) / 2);
+    --line-height-reference: var(--line-height-tight);
 }
 
 .c-item-photo__figcaption::before {

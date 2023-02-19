@@ -2,18 +2,14 @@
    #GRID
    ========================================================================== */
 
+
 .o-grid {
-    display: grid;
-    grid-gap: var(--grid-gap);
+  display: grid;
+  grid-gap: var(--space-3xs-l);
 }
 
-@supports (width: min(var(--grid-content-width), 100%)) {
-
-    .o-grid {
-        grid-template-columns: repeat(
-            auto-fit,
-            minmax(min(var(--grid-content-width), 100%),
-            1fr)
-        );
-    }
+@supports (width: min(calc(2*var(--space-3xl)), 100%)) {
+  .o-grid {
+    grid-template-columns: repeat(auto-fit, minmax(min(calc(2*var(--space-3xl)), 100%), 1fr));
+  }
 }

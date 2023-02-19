@@ -1,0 +1,16 @@
+/* ======================================================================
+   #LINK-ZONE
+   ====================================================================== */
+
+.u-link-zone {
+    position: relative;
+}
+
+.u-link-zone__link::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    content: "";
+}

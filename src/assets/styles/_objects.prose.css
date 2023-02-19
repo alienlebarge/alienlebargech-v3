@@ -8,8 +8,10 @@
 
 .o-prose {
     --space: var(--step-3);
-    --flow-inset: var(--inset);
-    --anchor-decoration: underline;
+    --flow-inset: var(--space-m);
+    --anchor-decoration-line: underline;
+    --anchor-decoration-color: var(--color-primary-shade-4);
+    --anchor-color-hover: var(--color-primary-shade-4);
     font-size: var(--font-size-body);
     font-weight: var(--font-weight-body, inherit);
     font-variation-settings: "wght" var(--font-weight-body, inherit);
@@ -79,7 +81,7 @@
 
 /* stylelint-disable selector-max-compound-selectors */
 .o-prose > ul:not([class]) > li + li,
-.o-prose :is(dl, ol, ul) > li:first-child {
+.o-prose :is(dl:not([class]), ol:not([class]), ul:not([class])) > li:first-child {
     margin-block-start: var(--space); /* [4] */
 }
 /* stylelint-enable */
@@ -118,12 +120,29 @@
 
 
 
+/***
+ * Figures
+ */
+
+.o-prose > figure > * {
+    margin-block-end: 0;
+    margin-block-start: 0;
+}
+
+.o-prose > figure > * + * {
+    margin-block-start: var(--space);
+}
+
+.o-prose > figure > * + figcaption {
+    --space: var(--step--5)
+}
+
 /**
  * Horizontal space (writing direction)
  *
- *  1. Images (and figures) are not included because because they are fluid by
- *     default (`max-width: 100%;`). This is defined in the element style. And
- *     we do not want to override it.
+ *  1. Images (and figures) are not included because they are fluid by default
+ *     (`max-width: 100%;`). This is defined in the element style. And we do
+ *     not want to override it.
  */
 
 .o-prose > *:not(table):not(.o-frame) {
@@ -143,19 +162,42 @@
  */
 
 .o-prose > h1 {
-    @extend %title;
+    font-size: var(--font-size-title);
+    font-weight: var(--font-weight-title, 700);
+    font-family: var(--font-family-title, var(--font-family-sans));
+    line-height: var(--line-height-title, var(--line-height-tight));
+    letter-spacing: 0; /* [1] */
+    font-variation-settings: "wght" var(--font-weight-title, 700);
+    hanging-punctuation: first;
 }
 
 .o-prose > h2 {
-    @extend %heading;
+    font-size: var(--font-size-heading);
+    font-weight: var(--font-weight-heading, 600);
+    font-family: var(--font-family-heading, var(--font-family-sans));
+    line-height: var(--line-height-heading, var(--line-height-tight));
+    letter-spacing: 0; /* [1] */
+    font-variation-settings: "wght" var(--font-weight-heading, 600);
+    hanging-punctuation: first;
 }
 
 .o-prose > h3 {
-    @extend %subhead;
+    font-size: var(--font-size-subhead);
+    font-weight: var(--font-weight-subhead, 600);
+    font-family: var(--font-family-subhead, var(--font-family-sans));
+    line-height: var(--line-height-subhead, var(--line-height-tight));
+    letter-spacing: 0; /* [1] */
+    font-variation-settings: "wght" var(--font-weight-subhead, 600);
+    hanging-punctuation: first;
 }
 
 .o-prose :is(h4, h5, h6) {
-    @extend %overline;
+    font-size: var(--font-size-caption);
+    font-weight: var(--font-weight-overline, 800);
+    font-family: var(--font-family-overline, inherit);
+    text-transform: uppercase;
+    letter-spacing: .125em;
+    font-variation-settings: "wght" var(--font-weight-overline, 800);
 }
 
 
@@ -229,5 +271,9 @@
    ------------------------------------- */
 
 .o-prose figcaption {
-    @extend %caption;
+    --flow-space: calc(var(--line-height-caption) / 3);
+    --line-height-caption: var(--line-height-tight);
+    font-size: var(--font-size-caption);
+    line-height: var(--line-height-caption);
+    letter-spacing: var(--letter-spacing-body);
 }

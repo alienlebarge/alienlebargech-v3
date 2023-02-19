@@ -19,5 +19,14 @@
 }
 
 .c-pagination__caption {
-    @extend %reference;
+    --flow-space: calc(var(--line-height-reference) / 2);
+    --line-height-reference: var(--line-height-tight);
+    font-size: var(--font-size-reference);
+    font-variant: oldstyle-nums;
+    line-height: var(--line-height-reference);
+    letter-spacing: var(--letter-spacing-body);
+    font-variation-settings: "opsz" 14;
+    hanging-punctuation: first;
+    hyphens: auto;
+    word-spacing: var(--word-spacing);
 }
