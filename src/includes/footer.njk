@@ -1,7 +1,7 @@
 {% if date or bookmarkOf -%}
 <footer class="c-footer u-reference">
     <dl class="[ o-stack o-stack--space-2xs ]">
-        {% if type == "like" %}
+        {% if likeOf %}
         <dt class="u-visually-hidden">Liked</dt>
         <dd>
             <a class="u-like-of u-lede__text" rel="external" href="{{ likeOf }}">
@@ -9,7 +9,7 @@
             </a>
         </dd>
         {% endif %}
-        {% if type == "bookmark" -%}
+        {% if bookmarkOf -%}
         <dt class="u-visually-hidden">Bookmark</dt>
         <dd>
             <a class="u-bookmark-of u-lede__text" rel="external" href="{{ bookmarkOf }}">
@@ -17,7 +17,7 @@
             </a>
         </dd>
         {%- endif %}
-        {% if type == "repost" -%}
+        {% if repostOf -%}
         <dt class="u-visually-hidden">Respot of</dt>
         <dd>
             <a class="u-repost-of u-lede__text" rel="external" href="{{ repostOf }}">
