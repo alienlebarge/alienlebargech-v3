@@ -1,0 +1,43 @@
+<article class="o-with-sidebar | h-entry" data-type="note">
+    <footer class="c-footer u-reference">
+        <dl class="o-stack o-stack--space-xs">
+            <dt class="u-visually-hidden">Published on</dt>
+            <dd>
+            <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
+                {#- TODO: use src/_data/dates.json to format the date. -#}
+                <time class="o-stack o-stack--space-2xs  | dt-published"
+                      datetime="{{ item.date | date }}">
+                    <span>{{ item.date | date("D MMM YYYY") }}</span>
+                    <span>{{ item.date | date("HH:mm") }}</span>
+                </time>
+            </a>
+            </dd>
+            {% if item.data.repostOf %}
+                <dt class="u-visually-hidden">Repost of</dt>
+                <dd>
+                <a class="u-repost-of"
+                   rel="external"
+                   href="{{ item.data.repostOf }}">
+                    {{- item.data.repostOf -}}
+                </a>
+                </dd>
+            {% endif %}
+        </dl>
+    </footer>
+    <div class="o-stack o-stack--space-xs">
+        {%- if item.data.title -%}
+        <header class="o-prose | e-content p-name">
+            <h3><a href="{{ item.url | url }}">{{ item.data.title }}</a></h3>
+        </header>
+        {%- endif -%}
+        {%- if item.data.summary -%}
+        <div class="o-prose | p-summary">
+            {{ item.data.summary }}
+        </div>
+        {%- elif item.data.excerpt -%}
+        <div class="o-prose | p-summary">
+            {{ item.data.excerpt }}
+        </div>
+        {%- endif -%}
+    </div>
+</article>

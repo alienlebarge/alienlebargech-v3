@@ -1,14 +1,11 @@
-<article class="h-entry" data-type="repost">
-    <div class="o-prose | e-content p-name">
-        {{ item.content | safe }}
-    </div>
-    <footer>
-        <dl class="o-stack o-stack--space-3xs">
+<article class="o-with-sidebar | h-entry" data-type="note">
+    <footer class="c-footer u-reference">
+        <dl class="o-stack o-stack--space-xs">
             <dt class="u-visually-hidden">Published on</dt>
             <dd>
             <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
-                {# TODO: use src/_data/dates.json to format the date. #}
-                <time class="o-cluster o-cluster--step--2  | dt-published"
+                {#- TODO: use src/_data/dates.json to format the date. -#}
+                <time class="o-stack o-stack--space-2xs  | dt-published"
                       datetime="{{ item.date | date }}">
                     <span>{{ item.date | date("D MMM YYYY") }}</span>
                     <span>{{ item.date | date("HH:mm") }}</span>
@@ -27,4 +24,12 @@
             {% endif %}
         </dl>
     </footer>
+    <div class="o-prose | e-content p-name">
+        {{ item.content | safe }}
+        {%- if item.data.likeOf -%}
+        <a href="{{- item.data.likeOf | safe -}}">
+            {{- item.data.likeOf | safe -}}
+        </a>
+        {%- endif -%}
+    </div>
 </article>

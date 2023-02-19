@@ -1,7 +1,7 @@
 {
   "layout": "checkin.njk",
   "permalink": "checkins/{{ page.date | date: 'YYYY/MM' }}/{{ page.fileSlug }}/",
-  "type": "checkin",
+  "type": "entry-untitled",
   "tags": ["post", "checkin"],
   "vocab": ["entry"]
 }

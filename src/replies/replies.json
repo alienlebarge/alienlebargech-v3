@@ -3,6 +3,6 @@
     "layout": "reply.njk",
     "permalink": "replies/{{ page.fileSlug }}/",
     "tags": ["post", "reply"],
-    "type": "reply",
+    "type": "entry-untitled",
     "vocab": ["entry"]
   }

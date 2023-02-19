@@ -3,6 +3,6 @@
   "layout": "like.njk",
   "permalink": "likes/{{ page.fileSlug }}/",
   "tags": ["post", "like"],
-  "type": "like",
+  "type": "entry-untitled",
   "vocab": ["entry"]
 }

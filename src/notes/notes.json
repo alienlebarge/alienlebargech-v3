@@ -3,6 +3,6 @@
   "layout": "note.njk",
   "permalink": "notes/{{ page.fileSlug }}/",
   "tags": ["post", "note"],
-  "type": "note",
+  "type": "entry-untitled",
   "vocab": ["entry"]
 }
