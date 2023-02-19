@@ -7,5 +7,5 @@
 }
 
 .c-nav a {
-    --anchor-decoration: var(--color-primary-shade-4) underline;
+    --anchor-decoration-color: var(--color-primary-shade-4);
 }

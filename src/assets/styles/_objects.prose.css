@@ -9,7 +9,8 @@
 .o-prose {
     --space: var(--step-3);
     --flow-inset: var(--space-m);
-    --anchor-decoration: var(--color-primary-shade-4) underline;
+    --anchor-decoration-line: underline;
+    --anchor-decoration-color: var(--color-primary-shade-4);
     --anchor-color-hover: var(--color-primary-shade-4);
     font-size: var(--font-size-body);
     font-weight: var(--font-weight-body, inherit);

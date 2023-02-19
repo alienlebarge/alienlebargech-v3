@@ -14,16 +14,17 @@
 
 a {
     color: var(--anchor-color, inherit);
-    text-decoration: var(--anchor-decoration, underline);
+    text-decoration-line: var(--anchor-decoration-line, underline);
+    text-decoration-color: var(--anchor-decoration-color, inherit);
     text-decoration-skip-ink: auto;
-    text-underline-offset: var(--space-3xs);
+    text-underline-offset: var(--anchor-decoration-offset, var(--space-3xs));
     transition: all var(--transition-short);
 }
 
 a:hover,
 a:active {
     color: var(--anchor-color-hover, inherit);
-    text-decoration-thickness: var(--border-width-thick);
+    text-decoration-color: var(--anchor-decoration-color-hover, transparent);
 }
 
 /**
