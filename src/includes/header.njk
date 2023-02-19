@@ -5,5 +5,9 @@
         <p class="u-lede{% if vocab %} | p-summary{% endif %}">
             {{- summary -}}
         </p>
+    {% elif excerpt -%}
+        <p class="u-lede{% if vocab %} | p-summary{% endif %}">
+            {{- excerpt -}}
+        </p>
     {%- endif %}
 </header>
