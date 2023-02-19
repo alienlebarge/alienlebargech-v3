@@ -12,6 +12,6 @@
 }
 
 .c-logo__img {
-    max-block-size: var(--space-l);
     border-radius: var(--border-radius-circle);
+    max-block-size: var(--space-l);
 }

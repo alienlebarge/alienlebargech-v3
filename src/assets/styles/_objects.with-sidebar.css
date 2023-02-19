@@ -3,19 +3,19 @@
    ========================================================================== */
 
 .o-with-sidebar {
-  display: flex;
-  flex-wrap: wrap;
-  gap: var(--space-3xs-l);
-  align-items: baseline;
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: var(--space-3xs-l);
 }
 
 .o-with-sidebar > :first-child {
-  flex-basis: var(--space-3xl);
-  flex-grow: 1;
+    flex-grow: 1;
+    flex-basis: var(--space-3xl);
 }
 
 .o-with-sidebar > :last-child {
-  flex-basis: 0;
-  flex-grow: 999;
-  min-inline-size: 70%;
+    flex-grow: 999;
+    flex-basis: 0;
+    min-inline-size: 70%;
 }

@@ -14,8 +14,8 @@
 
 a {
     color: var(--anchor-color, inherit);
-    text-decoration-line: var(--anchor-decoration-line, underline);
     text-decoration-color: var(--anchor-decoration-color, inherit);
+    text-decoration-line: var(--anchor-decoration-line, underline);
     text-decoration-skip-ink: auto;
     text-underline-offset: var(--anchor-decoration-offset, var(--space-3xs));
     transition: all var(--transition-short);
@@ -150,8 +150,8 @@ code,
 samp,
 var {
     font-family: var(--font-family-monospace);
-    hanging-punctuation: none;
     font-variant-numeric: tabular-nums;
+    hanging-punctuation: none;
 }
 
 code,
@@ -167,8 +167,10 @@ samp {
 }
 
 @media (prefers-color-scheme: dark) {
+
     :not(pre) > code {
         color: var(--color-gray-shade-6);
+
         background-color: var(--color-gray-shade-2);
     }
 }
