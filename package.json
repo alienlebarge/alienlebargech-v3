@@ -15,7 +15,7 @@
     "lint": "concurrently -c \"auto\" \"npm:lint:*\"",
     "fix:markdown": "markdownlint src/**/*.md --fix",
     "fix:styles": "stylelint src/**/*.css --fix",
-    "lint:scripts": "xo '**/*.js' --fix",
+    "fix:scripts": "xo '**/*.js' --fix",
     "fix": "concurrently -c \"auto\" \"npm:fix:*\"",
     "debug": "DEBUG=* npx eleventy --config=lib/eleventy.config.js"
   },
