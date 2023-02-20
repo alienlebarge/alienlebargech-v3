@@ -31,10 +31,13 @@
 
 
 {#- Put everything together to build the img src -#}
-{%- set src -%}{{ base }}/{{ transformations }}/{{ appUrl }}{{ src | url }}{%- endset -%}
+{%- set src -%}
+    {{- base -}}/{{- transformations -}}/{{- appUrl -}}{{- src | url -}}
+{%- endset -%}
 
 
 
+{#- set style -#}
 {%- set style -%}
     u-photo{% if styleModifier %} {{ styleModifier }}{%- endif -%}
 {%- endset -%}
