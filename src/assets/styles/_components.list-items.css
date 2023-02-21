@@ -1,0 +1,88 @@
+/* ==========================================================================
+   #LIST-ITEMS
+   ========================================================================== */
+
+.c-list-items {
+    --space: var(--step--5);
+    --list-display: list-item;
+    --flow-inset: var(--step-2);
+
+    padding-inline-start: var(--flow-inset);
+}
+
+.c-list-items__item + .c-list-items__item {
+    margin-block-start: var(--space);
+}
+
+.c-list-items__link {
+    --anchor-decoration-line: none;
+}
+
+.c-list-items__date {
+    color: var(--color-gray-shade-4);
+}
+
+/***
+ * Hide date on small viewport
+ */
+@media (--upto-small-viewport) {
+    .c-list-items__date {
+        position: absolute;
+
+        border: 0;
+        margin: -1px;
+        padding: 0;
+        block-size: 1px;
+        clip: rect(0 0 0 0);
+        inline-size: 1px;
+        overflow: hidden;
+    }
+}
+
+/***
+ * Style is taken from anchors (`a`) in `_element.text.css`
+ */
+.c-list-items__title {
+    --anchor-decoration-line: underline;
+
+    color: var(--anchor-color, inherit);
+    text-decoration-color: var(--anchor-decoration-color, inherit);
+    text-decoration-line: var(--anchor-decoration-line, underline);
+    text-decoration-skip-ink: auto;
+    text-underline-offset: var(--anchor-decoration-offset, var(--space-3xs));
+    transition: all var(--transition-short);
+}
+
+.c-list-items__link:hover .c-list-items__title,
+.c-list-items__link:active .c-list-items__title {
+    color: var(--anchor-color-hover, inherit);
+    text-decoration-color: var(--anchor-decoration-color-hover, transparent);
+}
+
+@media (--from-small-viewport) {
+    .c-list-items {
+        --list-display: block;
+        --flow-inset: 0;
+    }
+
+    /***
+     * Same code as in `o-with-sidebar` object
+     */
+    .c-list-items__link {
+        display: flex;
+        align-items: baseline;
+        flex-wrap: wrap;
+        gap: var(--space-3xs-l);
+    }
+
+    .c-list-items__link > :first-child {
+        flex-grow: 1;
+        flex-basis: var(--space-3xl);
+    }
+
+    .c-list-items__link> :last-child {
+        flex-grow: 999;
+        flex-basis: 0;
+        min-inline-size: 70%;
+    }
+}

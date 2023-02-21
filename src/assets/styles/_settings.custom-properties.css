@@ -117,6 +117,8 @@
    ----------------------------------- */
 
 :root {
+    --anchor-decoration-color: var(--color-primary-shade-4);
+    --anchor-decoration-color-hover: transparent;
     --font-family-sans: "Untitled", system-ui;
     --font-family-system: system-ui;
     --font-family-script: "UntitledScript", script;

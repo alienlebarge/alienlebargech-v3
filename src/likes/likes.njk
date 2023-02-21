@@ -11,7 +11,7 @@ type: index
 override:tags: []
 ---
 {% import 'list-items.njk' as list %}
-{{ list.listItems(pagination.items, "o-container o-box") }}
+{{ list.listItems(pagination.items, "") }}
 
 {% import 'pagination.njk' as transverse %}
 {{ transverse.paginate(pagination, label='Notes') }}

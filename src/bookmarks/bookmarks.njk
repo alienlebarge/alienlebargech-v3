@@ -4,14 +4,14 @@ summary: Links I find interesting to share and keep
 permalink: bookmarks/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html
 pagination:
     data: collections.bookmark
-    size: 20
+    size: 50
     reverse: true
 layout: index.njk
 type: index
 override:tags: []
 ---
 {% import 'list-items.njk' as list %}
-{{ list.listItems(pagination.items, "o-container o-box o-stack--space-xl") }}
+{{ list.simpleListItems(pagination.items, "") }}
 
 {% import 'pagination.njk' as transverse %}
 {{ transverse.paginate(pagination, label='Bookmarks') }}

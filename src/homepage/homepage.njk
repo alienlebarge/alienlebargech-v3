@@ -4,7 +4,7 @@ permalink: /index.html
 type: homepage
 layout: base.njk
 ---
-{% import 'list-items.njk' as list %}
+{% import 'list-items.njk' as list with context %}
 
 <div class="o-container o-box o-prose u-lede">
 Hi, I’m Cédric a swiss front end engineer based in Lausanne with a love for electronic music and hiking
@@ -14,10 +14,8 @@ Hi, I’m Cédric a swiss front end engineer based in Lausanne with a love for e
     <header class="o-prose">
         <h2>Articles</h2>
     </header>
-    <div>
-        {%- set latest_articles = collections.article | reverse -%}
-        {{ list.listItems(latest_articles, "", 5) }}
-    </div>
+    {%- set latest_articles = collections.article | reverse | limit(10) -%}
+    {{ list.simpleListItems(latest_articles, "") }}
     <footer class="o-prose">
         <p><a href="{{- "/articles" | url -}}">More articles</a></p>
     </footer>
@@ -36,24 +34,15 @@ Hi, I’m Cédric a swiss front end engineer based in Lausanne with a love for e
     </footer>
 </section>
 
-<section class="o-stack">
-    <header class="o-container o-box o-prose">
+<section class="o-container o-box o-stack">
+    <header class="o-prose">
         <h2>Photos</h2>
     </header>
 
-    {% set latest_photos = collections.photo | reverse %}
-    {%- import 'image.njk' as image -%}
+    {% set latest_photos = collections.photo | reverse | limit(4) %}
+    {{ list.gridItems(latest_photos) }}
 
-    <div class="o-container o-container--full">
-        <div class="o-reel">
-        {%- for item in latest_photos.slice(0,10) -%}
-            <a href="{{item.url}}">
-                {{- image.image(item.data.photo[0].url, item.data.photo[0].alt, settings=srcsets.grid, appUrl=app.url, styleModifier="c-scale-hover__item") -}}
-            </a>
-        {%- endfor -%}
-        </div>
-    </div>
-    <footer class="o-container o-box o-prose">
+    <footer class="o-prose">
         <p><a href="{{- "/photos" | url -}}"">More photos</a></p>
     </footer>
 </section>

@@ -28,20 +28,37 @@
 </ul>
 {% endmacro %}
 
+{% macro simpleListItems(items, modifier) %}
+<ul class="c-list-items{% if modifier %}{{ modifier }} {% endif %}">
+    {%- for item in items -%}
+    {%- if not item.data.deleted -%}
+        <li class="c-list-items__item">
+            <a class="c-list-items__link | u-url" rel="bookmark" href="{{ item.url | url }}">
+                <time class="c-list-items__date u-reference | dt-published" datetime="{{ item.date | date }}">
+                    {{- item.date | date("YYYY-MM-DD") -}}
+                </time>
+                <span class="c-list-items__title">
+                    {{- item.data.title -}}
+                </span>
+            </a>
+        </li>
+    {%- endif -%}
+    {%- endfor -%}
+</ul>
+{% endmacro %}
+
 
 
 {% macro gridItems(items) %}
 
 {%- set image_preset = "grid" -%}
-<div class="o-container o-box">
-    <ul class="o-grid">
-        {%- for item in items -%}
-        {%- if not item.data.deleted -%}
-        <li>
-        {%- include 'item/' + item.data.type + '.njk' -%}
-        </li>
-        {%- endif -%}
-        {%- endfor -%}
-    </ul>
-</div>
+<ul class="o-grid">
+    {%- for item in items -%}
+    {%- if not item.data.deleted -%}
+    <li>
+    {%- include 'item/' + item.data.type + '.njk' -%}
+    </li>
+    {%- endif -%}
+    {%- endfor -%}
+</ul>
 {% endmacro %}
