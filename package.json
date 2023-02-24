@@ -6,7 +6,7 @@
     "prebuild": "rm -rf www && mkdir -p www/assets",
     "build:files": "eleventy --config=lib/eleventy.config.js --quiet",
     "build": "concurrently -c \"auto\" \"npm:build:*\"",
-    "postbuild": "webmention www/feed.xml --limit 1 --send",
+    "postbuild": "webmention www/feed.xml --limit 1 --send && subfont www/index.html --root www --in-place",
     "watch:files": "eleventy --config=lib/eleventy.config.js --serve",
     "watch": "concurrently -c \"auto\" \"npm:watch:*\"",
     "lint:markdown": "markdownlint src/**/*.md",
@@ -68,6 +68,7 @@
     "markdownlint-cli": "^0.33.0",
     "node-fetch": "^3.3.0",
     "stylelint": "^14.16.1",
+    "subfont": "^6.12.4",
     "xo": "^0.53.1"
   },
   "xo": {
