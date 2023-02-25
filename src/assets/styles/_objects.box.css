@@ -3,9 +3,9 @@
    ========================================================================== */
 
 .o-box {
-    color: var(--box__color, var(--color-gray-shade-6));
+    color: var(--box__color, var(--font-color));
 
-    background-color: var(--box__background-color, var(--color-gray-shade-1));
+    background-color: var(--box__background-color, var(--background-color));
     padding-block: var(--box__padding-block, var(--space-m));
     padding-inline: var(--box__padding-inline, var(--space-m));
 }
@@ -27,14 +27,14 @@
  * Dark becomes light, and light becomes dark
  */
 .o-box--invert {
-    --box__color: var(--color-gray-shade-6);
-    --box__background-color: var(--color-gray-shade-1);
+    --box__color: var(--font-color);
+    --box__background-color: var(--background-color);
 }
 
 .o-box--invert::selection,
 .o-box--invert ::selection {
-    --box__color: var(--color-gray-shade-1);
-    --box__background-color: var(--color-gray-shade-6);
+    --box__color: var(--background-color);
+    --box__background-color: var(--font-color);
 }
 
 /***

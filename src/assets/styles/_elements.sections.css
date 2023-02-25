@@ -30,6 +30,7 @@ html {
     scroll-behavior: smooth;
     text-rendering: optimizeLegibility;
     text-size-adjust: 100%; /* [2] */
+    color: var(--font-color);
 }
 
 
