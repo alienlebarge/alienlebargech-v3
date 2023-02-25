@@ -19,6 +19,7 @@ Lausanne area, Switzerland
 ## What I’m watching
 
 - ~~Extraordinary Season 1~~
+- Bad Batch
 - Waiting for the _The Mandalorian_ Season 3
 
 ## What I'm listening to
@@ -28,7 +29,7 @@ Lausanne area, Switzerland
 
 ## What I’m making
 
-- Working as an Frontend Engineer for the [State of Vaud](https://www.vd.ch){rel="external"}
+- Working as a Frontend Engineer for the [State of Vaud](https://www.vd.ch){rel="external"}
 - Redesigning my website (the one your are visiting right now)
 - Fixing things in the house
 
@@ -50,4 +51,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: 2023-02-20 14:58:20 {.u-reference}
+last update: 2023-02-25 19:36:20 {.u-reference}
