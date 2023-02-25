@@ -26,6 +26,7 @@
  * Hide date on small viewport
  */
 @media (--upto-small-viewport) {
+
     .c-list-items__date {
         position: absolute;
 
@@ -60,6 +61,7 @@
 }
 
 @media (--from-small-viewport) {
+
     .c-list-items {
         --list-display: block;
         --flow-inset: 0;
@@ -80,7 +82,7 @@
         flex-basis: var(--space-3xl);
     }
 
-    .c-list-items__link> :last-child {
+    .c-list-items__link > :last-child {
         flex-grow: 999;
         flex-basis: 0;
         min-inline-size: 70%;

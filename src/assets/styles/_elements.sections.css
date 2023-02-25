@@ -24,13 +24,13 @@
  */
 
 html {
+    color: var(--font-color);
     block-size: 100vh;
     box-sizing: border-box; /* [3] */
     overflow-y: scroll; /* [1] */
     scroll-behavior: smooth;
     text-rendering: optimizeLegibility;
     text-size-adjust: 100%; /* [2] */
-    color: var(--font-color);
 }
 
 
