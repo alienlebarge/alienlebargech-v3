@@ -1,0 +1,16 @@
+---
+pagination:
+  data: collections.post
+  size: 1
+  alias: opengraph
+permalink: opengraph/{{ opengraph.data.date | date(dates.slug) }}{%- if opengraph.data.title -%}-{{ opengraph.data.title | slug }}{%- endif -%}-preview.html
+layout: base.njk
+hidden: true
+---
+<body>
+    {%- if opengraph.data.title -%}
+        <p>{{- opengraph.data.title -}}</p>
+    {%- else -%}
+        {{- opengraph.content | safe -}}
+    {%- endif -%}
+</body>
