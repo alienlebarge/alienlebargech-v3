@@ -18,9 +18,9 @@ Lausanne area, Switzerland
 
 ## What I’m watching
 
-- ~~Extraordinary Season 1~~
+- The Mandalorian
 - Bad Batch
-- Waiting for the _The Mandalorian_ Season 3
+- Orville
 
 ## What I'm listening to
 
@@ -51,4 +51,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: 2023-02-25 19:36:20 {.u-reference}
+last update: 2023-03-07 {.u-reference}
