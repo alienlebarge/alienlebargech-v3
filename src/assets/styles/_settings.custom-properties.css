@@ -2,14 +2,11 @@
  * #CUSTOM-PROPERTIES
  * ========================================================================== */
 
-
 /* -----------------------------------
    #Scale
    ----------------------------------- */
 
-/* stylelint-disable max-line-length, comment-empty-line-before, number-leading-zero */
 /* @link https://utopia.fyi/type/calculator?c=320,18,1.2,1240,20,1.25,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
-
 :root {
   --fluid-min-width: 320;
   --fluid-max-width: 1240;
@@ -140,13 +137,14 @@
       var(--fluid-bp)
   );
 }
-/* stylelint-enable max-line-length, comment-empty-line-before, number-leading-zero */
 
 
 
-/* stylelint-disable max-line-length, comment-empty-line-before, number-leading-zero */
+/* -----------------------------------
+   #Spaces
+   ----------------------------------- */
+
 /* @link https://utopia.fyi/space/calculator?c=320,18,1.2,1240,20,1.25,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,3xs-l&g=s,l,xl,12 */
-
 :root {
   --fluid-min-width: 320;
   --fluid-max-width: 1240;
@@ -212,7 +210,7 @@
 
   /* Custom pairs */
   --space-3xs-l: calc(((var(--fc-3xs-min) / 16) * 1rem) + (var(--fc-l-max) - var(--fc-3xs-min)) * var(--fluid-bp));
-/* stylelint-enable max-line-length, comment-empty-line-before, number-leading-zero */
+}
 
 
 
