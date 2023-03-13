@@ -27,6 +27,12 @@ Lausanne area, Switzerland
 - I really enjoy listening to [radiooooo.com](https://radiooooo.com/){rel="external"}
 - You can check [my last.fm profil](https://www.last.fm/user/alienlebarge){rel="external"} for recent played tracks
 
+## What I'm playing
+
+- Splatoon 3
+- Minecraft (Java)
+- Waiting for Zelda Tears of the Kingdom
+
 ## What I’m making
 
 - Working as a Frontend Engineer for the [State of Vaud](https://www.vd.ch){rel="external"}
@@ -51,4 +57,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: 2023-03-07 {.u-reference}
+last update: 2023-03-13 {.u-reference}
