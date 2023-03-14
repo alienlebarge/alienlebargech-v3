@@ -1,7 +1,7 @@
 ---
 date: 2023-03-10T22:47:05.249+01:00
-updated: 2023-03-10T22:49:34.096+01:00
-title: Beatzz, a jam for exploring solw broken beats
+updated: 2023-03-14T19:54:47.126+01:00
+title: Beatzz, a jam for exploring slow broken beats
 category:
   - jam
   - eurorack
