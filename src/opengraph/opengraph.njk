@@ -9,9 +9,12 @@ hidden: true
 type: opengraph
 ---
 <body>
+    <div class="o-box o-prose">
     {%- if opengraph.data.title -%}
-        <p>{{- opengraph.data.title -}}</p>
-    {%- else -%}
+        <h1>{{- opengraph.data.title -}}</h1>
+    {%- endif -%}
+    {%- if opengraph.content -%}
         {{- opengraph.content | safe -}}
     {%- endif -%}
+    </div>
 </body>
