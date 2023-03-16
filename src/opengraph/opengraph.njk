@@ -13,9 +13,9 @@ type: opengraph
     {%- if opengraph.data.title -%}
         <h1>{{- opengraph.data.title -}}</h1>
     {%- endif -%}
-    {%- if opengraph.summary -%}
+    {%- if opengraph.data.summary -%}
         <p class="u-lede{% if vocab %}{% endif %}">
-            {{- opengraph.summary -}}
+            {{- opengraph.data.summary -}}
         </p>
     {%- endif -%}
     {%- if opengraph.content -%}
