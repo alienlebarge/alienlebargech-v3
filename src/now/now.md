@@ -19,7 +19,6 @@ Lausanne area, Switzerland
 ## What I’m watching
 
 - The Mandalorian
-- Bad Batch
 - Orville
 
 ## What I'm listening to
@@ -57,4 +56,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: 2023-03-13 {.u-reference}
+last update: 2023-03-16 {.u-reference}
