@@ -36,7 +36,10 @@
             <meta property="og:image:alt" content="{{ photo[0].alt }}">
             <meta name="twitter:card" content="summary_large_image">
         {%- else %}
-            <meta property="og:image" content="https://screenshot.alienlebarge.ch/{{ app.url | urlencode }}{{- page.url | urlencode -}}">
+            {%- set screenshotUrl -%}
+            {{- app.url -}}/opengraph/{{- page.date | date(dates.slug) -}}{%- if title -%}-{{ title | slug }}{%- endif -%}-preview.html
+            {%- endset -%}
+            <meta property="og:image" content="https://screenshot.alienlebarge.ch/{{ screenshotUrl | urlencode }}">
             <meta name="twitter:card" content="summary">
         {%- endif %}
         <meta name="twitter:site" content="@alienlebarge">
@@ -83,8 +86,12 @@
         <link rel="apple-touch-icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_180/{{ app.url }}{{ app.icon | url }}" sizes="180x180">
 
         <title>
-            {% if type != "homepage" and title -%}
-                {{ title | striptags(true) | safe }} -
+            {%- if type != "homepage" -%}
+                {%- if title -%}
+                    {{- title | striptags(true) | safe }} -
+                {% elif altTitle -%}
+                    {{- altTitle | striptags(true) | safe }} -
+                {% endif -%}
             {% endif -%}{{- app.title | safe -}}
         </title>
     </head>

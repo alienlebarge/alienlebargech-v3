@@ -1,4 +1,4 @@
-{% set title %}Note: <time>{{ date | date(dates.datetime_full) }}</time>{% endset %}
+{% set altTitle %}Note: <time>{{ date | date(dates.datetime_full) }}</time>{% endset %}
 
 {%- set webmentionUrl -%}{{ app.url }}{{ page.url | url }}{%- endset -%}
 {% extends './base.njk' %}
