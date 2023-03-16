@@ -1,4 +1,4 @@
-{% set title %}Checkin: {{ item.date | date(dates.datetime_full) }}{% endset %}
+{% set altTitle %}Checkin: {{ item.date | date(dates.datetime_full) }}{% endset %}
 
 {%- set webmentionUrl -%}{{ app.url }}{{ page.url | url }}{%- endset -%}
 {% extends './base.njk' %}
