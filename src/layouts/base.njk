@@ -37,7 +37,7 @@
             <meta name="twitter:card" content="summary_large_image">
         {%- else %}
             {%- set screenshotUrl -%}
-            {{- app.url -}}/opengraph/{{- page.date | date(dates.slug) -}}{%- if title -%}-{{ title | slugify }}{%- endif -%}-preview.html
+            {{- app.url -}}/opengraph/{{- page.date | date(dates.slug) -}}{%- if title -%}-{{ page.fileSlug | slugify }}{%- endif -%}-preview.html
             {%- endset -%}
             <meta property="og:image" content="https://screenshot.alienlebarge.ch/{{ screenshotUrl | urlencode }}">
             <meta name="twitter:card" content="summary">
