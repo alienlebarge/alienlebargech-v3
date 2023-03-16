@@ -3,7 +3,7 @@ pagination:
   data: collections.post
   size: 1
   alias: opengraph
-permalink: opengraph/{{ opengraph.data.date | date(dates.slug) }}{%- if opengraph.data.title -%}-{{ opengraph.data.title | slugify }}{%- endif -%}-preview.html
+permalink: opengraph/{{ opengraph.data.date | date(dates.slug) }}{%- if opengraph.data.title -%}-{{ opengraph.fileSlug | slugify }}{%- endif -%}-preview.html
 layout: base.njk
 hidden: true
 type: opengraph
