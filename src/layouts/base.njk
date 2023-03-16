@@ -89,7 +89,9 @@
         </title>
     </head>
     <body class="c-page">
-        {% include 'banner.njk' %}
+        {# {% if type != "opengraph" -%} #}
+            {% include 'banner.njk' %}
+        {# {%- endif %} #}
         <main class="c-page__main{% if vocab %} |{% for root in vocab %} h-{{ root }}{% endfor %}{% endif %}"
               {% if type %}data-type="{{ type }}"{% endif %}
               {% if lang %}lang={{ lang }}{% endif %}>
@@ -97,6 +99,8 @@
                 {{ layoutContent | safe }}
             {% endblock %}
         </main>
-        {% include 'contentinfo.njk' %}
+        {% if type != "opengraph" -%}
+            {% include 'contentinfo.njk' %}
+        {% endif -%}{{- app.title | safe -}}
     </body>
 </html>

@@ -6,6 +6,7 @@ pagination:
 permalink: opengraph/{{ opengraph.data.date | date(dates.slug) }}{%- if opengraph.data.title -%}-{{ opengraph.data.title | slug }}{%- endif -%}-preview.html
 layout: base.njk
 hidden: true
+type: opengraph
 ---
 <body>
     {%- if opengraph.data.title -%}
