@@ -9,7 +9,7 @@ permalink: "categories/{{ title | slugify }}/"
 <pre>
     {{ pagination.items | dump }}
 </pre>
-{% set items = collections.all | includes('data.category', title) %}
+{% set items = collections.all | includes('data.category', title) | reverse %}
 <ul class="[ o-box o-box--container-big ] o-stack">
 {%- for item in items -%}
     <li><a href="{{ item.url | url }}">Titre: {{ item.data.title }}</a></li>

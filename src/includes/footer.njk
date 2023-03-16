@@ -76,8 +76,9 @@
             <dt>Category</dt>
             {% for item in category | toArray %}
             {%- if item != false -%}
+            {%- set itemUrl -%}/categories/{{ item }}{%- endset -%}
             <dd>
-                <a{% if vocab %} class="u-url"{% endif %} href="{{ item }}">
+                <a{% if vocab %} class="u-url"{% endif %} href="{{ itemUrl | url }}">
                     {{- item -}}
                 </a>
                 {%- if loop.revindex == 2 %}<span aria-hidden="true"> and</span>

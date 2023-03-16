@@ -18,17 +18,24 @@ Lausanne area, Switzerland
 
 ## What I’m watching
 
-- ~~Extraordinary Season 1~~
-- Waiting for the _The Mandalorian_ Season 3
+- The Mandalorian
+- Bad Batch
+- Orville
 
 ## What I'm listening to
 
 - I really enjoy listening to [radiooooo.com](https://radiooooo.com/){rel="external"}
 - You can check [my last.fm profil](https://www.last.fm/user/alienlebarge){rel="external"} for recent played tracks
 
+## What I'm playing
+
+- Splatoon 3
+- Minecraft (Java)
+- Waiting for Zelda Tears of the Kingdom
+
 ## What I’m making
 
-- Working as an Frontend Engineer for the [State of Vaud](https://www.vd.ch){rel="external"}
+- Working as a Frontend Engineer for the [State of Vaud](https://www.vd.ch){rel="external"}
 - Redesigning my website (the one your are visiting right now)
 - Fixing things in the house
 
@@ -50,4 +57,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: 2023-02-20 14:58:20 {.u-reference}
+last update: 2023-03-13 {.u-reference}

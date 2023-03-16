@@ -70,14 +70,19 @@
     word-spacing: var(--word-spacing);
 }
 
+/***
+ * 1. High-legibility '6' & '9'
+ */
+
 .u-reference {
     --flow-space: calc(var(--line-height-reference) / 2);
     --line-height-reference: var(--line-height-tight);
     font-size: var(--font-size-reference);
     font-family: var(--font-family-reference);
-    font-variant: oldstyle-nums;
+    font-variant: tabular-nums;
     line-height: var(--line-height-reference);
     letter-spacing: var(--letter-spacing-body);
+    font-feature-settings: "ss14"; /* [1] */
     font-variation-settings: "opsz" 14;
     hanging-punctuation: first;
     hyphens: auto;

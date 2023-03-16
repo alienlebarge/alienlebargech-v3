@@ -7,7 +7,7 @@
                 {#- TODO: use src/_data/dates.json to format the date. -#}
                 <time class="o-stack o-stack--space-2xs  | dt-published"
                       datetime="{{ item.date | date }}">
-                    <span>{{ item.date | date("D MMM YYYY") }}</span>
+                    <span>{{ item.date | date("YYYY-MM-DD") }}</span>
                     <span>{{ item.date | date("HH:mm") }}</span>
                 </time>
             </a>
