@@ -6,7 +6,7 @@ syndication:
   - https://mastodon.alienlebarge.ch/@alienlebarge/108452748853311829
   - https://twitter.com/alienlebarge/status/1535210237937999872
 ---
-I really enjoyed reading @adactio article on how he writes alt texts and how to make them useful and not off-putting.
+I really enjoyed reading @adactio@twitter.com article on how he writes alt texts and how to make them useful and not off-putting.
 
 > That doesn’t mean it’s okay to have the same alt text for each image—they are all still different. But after I had that realisation I stopped being too hard on myself if I couldn’t come up with a completely new and original way to write the alt text.
 > 
