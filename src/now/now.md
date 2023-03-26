@@ -19,13 +19,18 @@ Lausanne area, Switzerland
 ## What I’m watching
 
 - The Mandalorian
-- Bad Batch
 - Orville
 
 ## What I'm listening to
 
 - I really enjoy listening to [radiooooo.com](https://radiooooo.com/){rel="external"}
 - You can check [my last.fm profil](https://www.last.fm/user/alienlebarge){rel="external"} for recent played tracks
+
+## What I'm playing
+
+- Splatoon 3
+- Minecraft (Java)
+- Waiting for Zelda Tears of the Kingdom
 
 ## What I’m making
 
@@ -51,4 +56,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: 2023-03-07 {.u-reference}
+last update: 2023-03-16 {.u-reference}

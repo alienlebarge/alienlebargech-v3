@@ -1,6 +1,12 @@
 <header class="o-prose{% if vocab and type != "note" %} | p-name{% endif %}">
     {# add `safe` to allow to have `<time>` tag for notes title #}
-    <h1 class="u-title">{{ title | safe }}</h1>
+    <h1 class="u-title">
+    {%- if title -%}
+        {{- title | safe -}}
+    {%- elif altTitle -%}
+        {{ altTitle | safe }}
+    {%- endif -%}
+    </h1>
     {% if summary -%}
         <p class="u-lede{% if vocab %} | p-summary{% endif %}">
             {{- summary -}}
