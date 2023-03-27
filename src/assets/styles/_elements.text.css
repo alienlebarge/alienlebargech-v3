@@ -42,20 +42,6 @@ a[aria-current] {
 
 
 
-/***
- * External links
- */
-a[rel="external"]::after {
-    --font-size: .69em;
-    display: inline-block; /* [1] */
-
-    font-size: var(--font-size);
-
-    content: "↗";
-    margin-inline-start: calc(.25 * var(--font-size));
-    vertical-align: super;
-}
-
 
 
 /***
