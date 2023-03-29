@@ -18,8 +18,10 @@ Lausanne area, Switzerland
 
 ## What I’m watching
 
-- The Mandalorian
-- Orville
+- [The Mandalorian](https://www.imdb.com/title/tt8111088/){rel="external"} (Season 3)
+- [Shadow and Bone](https://www.imdb.com/title/tt2403776/){rel="external"} (Season 2)
+- [Manifest](https://www.imdb.com/title/tt8421350/){rel="external"} (Season 1)
+- [The Orville](https://www.imdb.com/title/tt5691552/){rel="external"} (Season 1)
 
 ## What I'm listening to
 
@@ -56,4 +58,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: 2023-03-16 {.u-reference}
+last update: 2023-03-29 {.u-reference}
