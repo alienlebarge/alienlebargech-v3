@@ -5,15 +5,6 @@ categories:
 - Bastringue
 - Musique
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:10:"Bastringue";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Concert";}i:2;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}}
-  tweetbackscheck: '1234337007'
-  shorturls: a:7:{s:9:"permalink";s:47:"https://www.alienlebarge.ch/2007/05/10/baleinev/";s:7:"tinyurl";s:25:"https://tinyurl.com/apym6k";s:4:"isgd";s:17:"https://is.gd/j8A3";s:5:"bitly";s:18:"https://bit.ly/9E25";s:5:"snipr";s:22:"https://snipr.com/bofj2";s:5:"snurl";s:22:"https://snurl.com/bofj2";s:7:"snipurl";s:24:"https://snipurl.com/bofj2";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/affiche-baleinev07-nogroups.png" alt="Baleinev" />
 

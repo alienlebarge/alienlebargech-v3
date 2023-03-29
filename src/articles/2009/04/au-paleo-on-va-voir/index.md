@@ -9,12 +9,6 @@ tags:
 - Festival
 - Musique
 - Paléo
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453951598252033'
 ---
 <img class="alignnone size-medium wp-image-1130" title="Paleo" src="https://dlgjp9x71cipk.cloudfront.net/2009/04/paleo1-500x334.png" alt="Paleo" width="500" height="334" />
 

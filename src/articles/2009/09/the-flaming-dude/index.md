@@ -7,11 +7,6 @@ tags:
 - Flickr
 - Light Painting
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453900817817600'
 ---
 <img class="alignnone size-medium wp-image-1399" title="The flaming Dude" src="https://dlgjp9x71cipk.cloudfront.net/2009/09/theflamingdude1-500x334.png" alt="The flaming Dude" width="500" height="334" />
 

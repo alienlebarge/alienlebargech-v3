@@ -8,15 +8,6 @@ tags:
 - Ergon
 - Flickr
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  tmac_last_id: '256453850242883585'
 ---
 <img class="alignnone size-medium wp-image-1679" title="La nouvelle page photo" src="https://dlgjp9x71cipk.cloudfront.net/2010/06/4725345795_84b57e770b_o-500x386.png" alt="" width="500" height="386" />
 

@@ -9,19 +9,6 @@ tags:
 - icônes
 - Ressource
 - web
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '5869'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453608990728192'
 ---
 Dans mon travail (celui qui me fait gagner de l'argent), on est souvent à la recherche d’icônes. Voici une petite liste de sites offrant des icônes de bonne qualités que je visite régulièrement afin de trouver ce dont j'ai besoin. <!--more-->
 <ul>

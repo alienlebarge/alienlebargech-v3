@@ -3,12 +3,6 @@ date: 2007-08-06
 title: cocoment + IE = berk!
 categories:
 - Le site
-tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Le-site";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Social";}}
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/08/cocoie.png" alt="Cocoment et IE" />
 

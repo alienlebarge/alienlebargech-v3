@@ -12,19 +12,6 @@ tags:
 - Promotion
 - Sport
 - TV Möhlin
-status: publish
-published: true
-meta:
-  _thumbnail_id: '5835'
-  _edit_last: '1'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453615009533952'
 ---
 Première rencontre des finales d'ascension en LNB.
 

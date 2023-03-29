@@ -6,14 +6,6 @@ categories:
 tags:
 - Logiciel
 - Musique
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234329272'
-  shorturls: a:7:{s:9:"permalink";s:50:"https://www.alienlebarge.ch/2008/02/02/cover-sutra/";s:7:"tinyurl";s:25:"https://tinyurl.com/cw9xtz";s:4:"isgd";s:17:"https://is.gd/inmM";s:5:"bitly";s:18:"https://bit.ly/Os3J";s:5:"snipr";s:22:"https://snipr.com/banfa";s:5:"snurl";s:22:"https://snurl.com/banfa";s:7:"snipurl";s:24:"https://snipurl.com/banfa";}
-  twittercomments: a:3:{i:1190110860;s:7:"retweet";i:1188667321;s:7:"retweet";i:1188603561;s:7:"retweet";}
-  tweetcount: '3'
-  tmac_last_id: ''
 ---
  <img src="https://farm3.static.flickr.com/2169/2236879800_ec115f882b.jpg" alt="Cover Sutra" />
 <em><a href="https://www.flickr.com/photos/alienlebarge/2236879800/" title="photo sharing">Cover Sutra</a></em>

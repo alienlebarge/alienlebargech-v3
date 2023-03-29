@@ -6,10 +6,6 @@ categories:
 tags:
 - Couleur
 - Voiture
-status: publish
-published: true
-meta:
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2008/01/corsa.png" alt="Corsa" />
 

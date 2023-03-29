@@ -7,15 +7,6 @@ tags:
 - design
 - Publicité
 - Vidéo
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234596445'
-  shorturls: a:7:{s:9:"permalink";s:56:"https://www.alienlebarge.ch/2008/10/05/dans-la-publicite/";s:7:"tinyurl";s:25:"https://tinyurl.com/avm5u2";s:4:"isgd";s:17:"https://is.gd/ikgb";s:5:"bitly";s:20:"https://bit.ly/2MAMvU";s:5:"snipr";s:22:"https://snipr.com/b9xno";s:5:"snurl";s:22:"https://snurl.com/b9xno";s:7:"snipurl";s:24:"https://snipurl.com/b9xno";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454060394283008'
 ---
 <img class="alignnone size-medium wp-image-702" title="Dans la publicité" src="https://dlgjp9x71cipk.cloudfront.net/2008/10/publicite.png" alt="" width="500" height="281" />
 

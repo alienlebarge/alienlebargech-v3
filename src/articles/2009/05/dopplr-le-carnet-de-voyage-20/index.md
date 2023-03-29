@@ -9,12 +9,6 @@ tags:
 - Voyage
 - web
 - web2.0
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453945738792960'
 ---
 <img class="alignnone size-medium wp-image-1164" title="La page Dopplr de San Francisco" src="https://dlgjp9x71cipk.cloudfront.net/2009/05/dopplr-500x406.png" alt="La page Dopplr de San Francisco" width="500" height="406" />
 

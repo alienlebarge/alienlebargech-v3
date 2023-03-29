@@ -13,19 +13,6 @@ tags:
 - Maple Leaf
 - Sport
 - Union
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '5631'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453626845880320'
 ---
 Il y a une peu de retard dans les publication de photo. Voici les photos du match opposant Maple Leaf à Union dans le cadre de la Coupe Suisse de Broomball. <!--more-->
 

@@ -10,15 +10,6 @@ tags:
 - Ninja Tune
 - Vinyl
 - Warp Records
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: sauvez-le-vinyl
-  tmac_last_id: '256453864566452224'
 ---
 <img class="alignnone size-medium wp-image-1564" title="Vinyl Downloads" src="https://dlgjp9x71cipk.cloudfront.net/2010/04/Vinyldownloads-500x375.png" alt="" width="500" height="375" />
 

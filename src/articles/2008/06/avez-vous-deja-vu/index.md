@@ -7,15 +7,6 @@ categories:
 tags:
 - Alain Chabat
 - Humour
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234554064'
-  shorturls: a:7:{s:9:"permalink";s:56:"https://www.alienlebarge.ch/2008/06/28/avez-vous-deja-vu/";s:7:"tinyurl";s:25:"https://tinyurl.com/d9pcgp";s:4:"isgd";s:17:"https://is.gd/ikdU";s:5:"bitly";s:19:"https://bit.ly/12JyM";s:5:"snipr";s:22:"https://snipr.com/b9x9f";s:5:"snurl";s:22:"https://snurl.com/b9x9f";s:7:"snipurl";s:24:"https://snipurl.com/b9x9f";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img class="alignnone size-medium wp-image-547" title="avez-vous déjà vu ... ?" src="https://dlgjp9x71cipk.cloudfront.net/2008/06/avez-vous.png" alt="" width="500" height="281" />
 

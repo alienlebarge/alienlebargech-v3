@@ -7,22 +7,6 @@ tags:
 - Musique
 - Paléo
 - The Kills
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  video_url: https://youtu.be/KiLjuRG3hoE
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _thumbnail_id: '5872'
-  tmac_last_id: '256453610576166912'
-  _oembed_2926858fb2d8443084c5082d26dda5f8: <iframe width="1024" height="576" src="https://www.youtube.com/embed/KiLjuRG3hoE?fs=1&feature=oembed"
-    frameborder="0" allowfullscreen></iframe>
 ---
 Avec l'annonce du programme du <a title="Le site du festival" href="https://www.paleo.ch/">Paléo</a>, je me suis réécouté l'album "Blood Pressures" de <a title="Le site du groupe" href="https://www.thekills.tv/">The Kills</a>. Du coup, je partage avec vous ma chanson favorite qui tourne à nouveau en boucle. <!--more-->
 

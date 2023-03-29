@@ -19,12 +19,6 @@ tags:
 - Rolando
 - soTV
 - Tweetie
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453951598252033'
 ---
 <img class="alignnone size-full wp-image-1121" title="iPhone App" src="https://dlgjp9x71cipk.cloudfront.net/2009/04/iphoneapp.png" alt="iPhone App" width="500" height="281" />
 

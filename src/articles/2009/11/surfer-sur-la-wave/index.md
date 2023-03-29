@@ -8,11 +8,6 @@ tags:
 - Google
 - Google Wave
 - Internet
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453894874476545'
 ---
 <img class="alignnone size-medium wp-image-1414" title="Google Wave" src="https://dlgjp9x71cipk.cloudfront.net/2009/11/GoogleWave-500x292.png" alt="Google Wave" width="500" height="292" />
 

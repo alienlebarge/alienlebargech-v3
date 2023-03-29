@@ -12,14 +12,6 @@ tags:
 - Lightroom
 - Logiciel
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453873072500736'
 ---
 <img class="alignnone size-full wp-image-1532" title="LR3 vs A3" src="https://dlgjp9x71cipk.cloudfront.net/2010/03/LR3vsA3.jpg" alt="" width="500" height="333" />
 

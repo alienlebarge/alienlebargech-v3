@@ -4,15 +4,6 @@ title: Cartes de visite
 categories:
 - Personnel
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Design";}i:1;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}}
-  tweetbackscheck: '1234548129'
-  shorturls: a:7:{s:9:"permalink";s:55:"https://www.alienlebarge.ch/2007/05/24/cartes-de-visite/";s:7:"tinyurl";s:25:"https://tinyurl.com/dgo8bs";s:4:"isgd";s:17:"https://is.gd/ilS2";s:5:"bitly";s:20:"https://bit.ly/146IJy";s:5:"snipr";s:22:"https://snipr.com/bab6k";s:5:"snurl";s:22:"https://snurl.com/bab6k";s:7:"snipurl";s:24:"https://snipurl.com/bab6k";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/moo_card.png" alt="Moo Cards" />
 

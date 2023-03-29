@@ -9,18 +9,5 @@ categories:
 tags:
 - Mariage
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _thumbnail_id: '6021'
-  tmac_last_id: '256453595581534209'
 ---
 [gallery link="file" order="ASC" columns="4" orderby="post_date"]

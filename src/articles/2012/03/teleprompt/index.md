@@ -3,23 +3,6 @@ date: 2012-03-30
 title: Téléprompt
 categories:
 - Vidéo
-tags: []
-status: publish
-published: true
-meta:
-  layout: default
-  _edit_last: '1'
-  post_color: default
-  video_url: https://vimeo.com/11001923
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453622303424513'
-  _oembed_b1bc8692c883ed6d90d0a89b8b21d121: <iframe src="https://player.vimeo.com/video/11001923"
-    width="400" height="296" frameborder="0" webkitAllowFullScreen mozallowfullscreen
-    allowFullScreen></iframe>
 ---
 <a href="https://dlgjp9x71cipk.cloudfront.net/2012/03/1005447326_f318dae5b0_o.jpg">On était jeune et</a> ...
 Petite séquence archéologique. <!--more-->

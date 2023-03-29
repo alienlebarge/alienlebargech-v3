@@ -7,14 +7,6 @@ tags:
 - Blog
 - Interface
 - Service
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234588048'
-  shorturls: a:7:{s:9:"permalink";s:45:"https://www.alienlebarge.ch/2008/02/10/tumblr/";s:7:"tinyurl";s:25:"https://tinyurl.com/czpnw6";s:4:"isgd";s:17:"https://is.gd/iugg";s:5:"bitly";s:18:"https://bit.ly/bxFZ";s:5:"snipr";s:22:"https://snipr.com/bcm8p";s:5:"snurl";s:22:"https://snurl.com/bcm8p";s:7:"snipurl";s:24:"https://snipurl.com/bcm8p";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://farm3.static.flickr.com/2122/2254556974_7a66e6e387.jpg" alt="Tumblr" />
 <em><a href="https://www.flickr.com/photos/alienlebarge/2254556974/" title="photo sharing">Tumblr</a></em>

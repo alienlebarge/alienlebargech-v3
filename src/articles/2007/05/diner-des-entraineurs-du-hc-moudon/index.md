@@ -4,11 +4,6 @@ title: Dîner des entraîneurs du HC Moudon
 categories:
 - Galerie
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Galerie";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"Photographie";}}
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/entraineurshcmoudon.png" alt="Les entraîneurs" />
 

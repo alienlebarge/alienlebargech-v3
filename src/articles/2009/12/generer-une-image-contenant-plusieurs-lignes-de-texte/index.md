@@ -14,15 +14,6 @@ tags:
 - Texte
 - Typo3
 - TypoScript
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _syntaxhighlighter_encoded: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453886284529664'
 ---
 <img class="alignnone size-medium wp-image-1470" title="Champ résumé dans les propriétées de la page" src="https://dlgjp9x71cipk.cloudfront.net/2009/12/gifbuilder_typo3-500x281.jpg" alt="" width="500" height="281" />
 

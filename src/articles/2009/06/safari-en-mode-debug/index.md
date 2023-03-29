@@ -9,19 +9,6 @@ tags:
 - Debug
 - Programmation
 - Safari
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453924834398208'
-  hide_post_meta: default
-  unlink_post_title: default
-  hide_post_title: default
-  layout: default
-  hide_post_image: default
-  hide_post_date: default
-  post_color: default
 ---
 <img class="alignnone size-medium wp-image-1285" title="Safari en mode debug" src="https://dlgjp9x71cipk.cloudfront.net/2009/06/SafariDebug1-500x306.png" alt="Safari en mode debug" width="500" height="306" />
 

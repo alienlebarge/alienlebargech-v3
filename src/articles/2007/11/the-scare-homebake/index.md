@@ -7,14 +7,6 @@ categories:
 tags:
 - Concert
 - Musique
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234184252'
-  shorturls: a:7:{s:9:"permalink";s:57:"https://www.alienlebarge.ch/2007/11/06/the-scare-homebake/";s:7:"tinyurl";s:25:"https://tinyurl.com/de3j4v";s:4:"isgd";s:17:"https://is.gd/iU2G";s:5:"bitly";s:18:"https://bit.ly/EJbI";s:5:"snipr";s:22:"https://snipr.com/bkonk";s:5:"snurl";s:22:"https://snurl.com/bkonk";s:7:"snipurl";s:24:"https://snipurl.com/bkonk";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://farm1.static.flickr.com/34/70365314_449289b984.jpg" alt="The Scare @ Homebake" />
 <em><a href="https://www.flickr.com/photos/dreadfuldan/70365314/" title="photo sharing">The Scare @ Homebake</a></em>

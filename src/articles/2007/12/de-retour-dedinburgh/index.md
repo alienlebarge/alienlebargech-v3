@@ -1,6 +1,5 @@
 ---
 date: 2007-12-02
-
 title: De retour d'Edinburgh
 categories:
 - Voyage
@@ -9,14 +8,6 @@ tags:
 - Edinburgh
 - Flickr
 - Voyage
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234592641'
-  shorturls: a:7:{s:9:"permalink";s:59:"https://www.alienlebarge.ch/2007/12/02/de-retour-dedinburgh/";s:7:"tinyurl";s:25:"https://tinyurl.com/bzx3kg";s:4:"isgd";s:17:"https://is.gd/ijZI";s:5:"bitly";s:18:"https://bit.ly/ToAd";s:5:"snipr";s:22:"https://snipr.com/b9u1j";s:5:"snurl";s:22:"https://snurl.com/b9u1j";s:7:"snipurl";s:24:"https://snipurl.com/b9u1j";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://farm3.static.flickr.com/2063/2077740638_fd5fb84aa1.jpg" alt="Edinburgh's old town" />
 <em><a href="https://www.flickr.com/photos/alienlebarge/2077740638/" title="photo sharing">Edinburgh's old town</a></em>

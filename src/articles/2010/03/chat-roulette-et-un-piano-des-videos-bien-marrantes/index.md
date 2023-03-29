@@ -8,14 +8,6 @@ tags:
 - Chatroulette
 - Humour
 - Youtube
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453871503826944'
 ---
 <img class="alignnone size-full wp-image-1540" title="chatroulette" src="https://dlgjp9x71cipk.cloudfront.net/2010/03/chatroulette.jpg" alt="" width="500" height="506" />
 

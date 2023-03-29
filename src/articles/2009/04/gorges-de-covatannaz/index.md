@@ -8,12 +8,6 @@ tags:
 - Flickr
 - Gorges
 - Photographie
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453958061682688'
 ---
 <img src="https://farm4.static.flickr.com/3400/3437066353_6c81c34013.jpg" alt="Gorges de Covatannaz - 086" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/3437066353/">Gorges de Covatannaz - 086</a></em>

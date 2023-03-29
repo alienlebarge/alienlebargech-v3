@@ -7,17 +7,6 @@ categories:
 tags:
 - Musique
 - podcast
-status: publish
-published: true
-meta:
-  enclosure: "https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_003.mp3\r\n25085195\r\naudio/mpeg"
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Podcast";}}
-  _edit_last: '1'
-  tweetbackscheck: '1234547326'
-  shorturls: a:7:{s:9:"permalink";s:56:"https://www.alienlebarge.ch/2007/04/26/alb-broadcast-003/";s:7:"tinyurl";s:25:"https://tinyurl.com/crg4oh";s:4:"isgd";s:17:"https://is.gd/ikcD";s:5:"bitly";s:20:"https://bit.ly/1Km6zR";s:5:"snipr";s:22:"https://snipr.com/b9x2d";s:5:"snurl";s:22:"https://snurl.com/b9x2d";s:7:"snipurl";s:24:"https://snipurl.com/b9x2d";}
-  twittercomments: a:1:{i:1197438679;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: ''
 ---
 <a title="alb broadcast logo" href="https://dlgjp9x71cipk.cloudfront.net/2007/04/alb-broadcast-logo1.png"><img title="alb broadcast logo" src="https://dlgjp9x71cipk.cloudfront.net/2007/04/alb-broadcast-logo1.miniature.png" alt="alb broadcast logo" align="right" /></a>Le podcast nouveau est arrivé !
 

@@ -12,12 +12,6 @@ tags:
 - Photographie
 - Sac
 - Vente
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453912704454656'
 ---
 <p style="margin: 0.0px 0.0px 13.0px 0.0px; line-height: 19.0px; font: 13.0px Georgia;"><img class="alignnone size-medium wp-image-1346" title="Crumpler New Delhi 230" src="https://dlgjp9x71cipk.cloudfront.net/2009/08/crumpler-500x500.jpg" alt="Crumpler New Delhi 230" width="500" height="500" /></p>
 <p style="margin: 0.0px 0.0px 13.0px 0.0px; line-height: 19.0px; font: 13.0px Georgia;">Dernièrement, j'ai reçu un nouvel objectif. D'après mes calculs, celui-ci devait passer dans mon sac photo. Eh bien non ! Rien du tout. Faut dire qu'il est un chouia gros cet objectif.</p>

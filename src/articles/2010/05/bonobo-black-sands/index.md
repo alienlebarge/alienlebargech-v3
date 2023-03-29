@@ -8,14 +8,6 @@ tags:
 - Musique
 - Ninja Tune
 - Trip-Hop
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453862230224896'
 ---
 <img class="alignnone size-full wp-image-1614" title="Bonobo" src="https://dlgjp9x71cipk.cloudfront.net/2010/05/Bonobo.jpg" alt="" width="500" height="387" />
 

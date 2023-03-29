@@ -6,15 +6,6 @@ categories:
 tags:
 - Hébérgement
 - Serveur
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  tmac_last_id: '256453849211080706'
 ---
 <a title="P RI V E de alienlebarge, sur Flickr" href="https://www.flickr.com/photos/alienlebarge/4735379991/"><img src="https://farm5.static.flickr.com/4093/4735379991_c0000339ca.jpg" alt="P RI V E" width="500" height="333" /></a>
 

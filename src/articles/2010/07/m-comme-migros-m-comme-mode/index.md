@@ -8,14 +8,6 @@ tags:
 - Mode
 - Stars
 - Vétements
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453844618338305'
 ---
 <img class="alignnone size-full wp-image-2023" title="M-stars" src="https://dlgjp9x71cipk.cloudfront.net/2010/07/M-stars.png" alt="" width="500" height="303" />
 

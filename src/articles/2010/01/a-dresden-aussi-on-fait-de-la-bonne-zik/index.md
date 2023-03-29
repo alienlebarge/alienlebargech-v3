@@ -6,11 +6,6 @@ categories:
 tags:
 - Musique
 - The Hundred In The Hands
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453880060186624'
 ---
 <img class="alignnone size-full wp-image-1493" title="Dressed in Dresden" src="https://dlgjp9x71cipk.cloudfront.net/2010/01/hundredhands.jpg" alt="" width="500" height="375" />
 

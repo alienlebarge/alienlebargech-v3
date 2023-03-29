@@ -6,15 +6,6 @@ title: Scalpel, scalpel ... Bistourit, bistourit ... Perceuse à aire comprimée
 categories:
 - Personnel
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}}
-  tweetbackscheck: '1234531835'
-  shorturls: a:7:{s:9:"permalink";s:126:"https://www.alienlebarge.ch/2007/04/25/scalpel-scalpel-bistourit-bistourit-perceuse-a-aire-comprimee-perceuse-a-aire-comprimee/";s:7:"tinyurl";s:25:"https://tinyurl.com/bnvq9g";s:4:"isgd";s:17:"https://is.gd/iuvs";s:5:"bitly";s:18:"https://bit.ly/5Vil";s:5:"snipr";s:22:"https://snipr.com/bcnw9";s:5:"snurl";s:22:"https://snurl.com/bcnw9";s:7:"snipurl";s:24:"https://snipurl.com/bcnw9";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src='https://alienlebarge.ch/wordpress/wp-content/uploads/2007/04/platre.png' alt='La première griffe' />
 Bonne nouvelle !

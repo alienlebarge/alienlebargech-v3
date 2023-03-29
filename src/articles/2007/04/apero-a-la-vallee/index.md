@@ -5,15 +5,6 @@ title: Apéro à la Vallée
 categories:
 - Galerie
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Galerie";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"Photographie";}}
-  tweetbackscheck: '1234391956'
-  shorturls: a:7:{s:9:"permalink";s:56:"https://www.alienlebarge.ch/2007/04/29/apero-a-la-vallee/";s:7:"tinyurl";s:25:"https://tinyurl.com/dyq4ae";s:4:"isgd";s:17:"https://is.gd/imyq";s:5:"bitly";s:20:"https://bit.ly/43Pc5L";s:5:"snipr";s:22:"https://snipr.com/bagst";s:5:"snurl";s:22:"https://snurl.com/bagst";s:7:"snipurl";s:24:"https://snipurl.com/bagst";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/04/aperoalavallee.JPG" alt="Apero a la Vallee" />
 

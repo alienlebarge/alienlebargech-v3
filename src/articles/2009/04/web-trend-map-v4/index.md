@@ -7,12 +7,6 @@ tags:
 - Carte
 - Internet
 - web
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453958061682688'
 ---
 <img class="alignnone size-full wp-image-1102" title="Web Trend Map 4" src="https://dlgjp9x71cipk.cloudfront.net/2009/04/webtrendmap4.png" alt="Web Trend Map 4" width="500" height="281" />
 

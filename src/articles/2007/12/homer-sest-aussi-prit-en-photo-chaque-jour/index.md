@@ -6,14 +6,6 @@ categories:
 tags:
 - Vidéo
 - Youtube
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234461140'
-  shorturls: a:7:{s:9:"permalink";s:81:"https://www.alienlebarge.ch/2007/12/18/homer-sest-aussi-prit-en-photo-chaque-jour/";s:7:"tinyurl";s:25:"https://tinyurl.com/cbx6vo";s:4:"isgd";s:17:"https://is.gd/j5IN";s:5:"bitly";s:18:"https://bit.ly/dVus";s:5:"snipr";s:22:"https://snipr.com/bnfyr";s:5:"snurl";s:22:"https://snurl.com/bnfyr";s:7:"snipurl";s:24:"https://snipurl.com/bnfyr";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/12/homer.png" alt="Homer" />
 

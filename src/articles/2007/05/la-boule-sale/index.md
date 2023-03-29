@@ -4,15 +4,6 @@ title: La boule sale
 categories:
 - Informatique
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:5:"Apple";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"Informatique";}i:2;O:8:"stdClass":1:{s:3:"tag";s:3:"Mac";}}
-  tweetbackscheck: '1234151086'
-  shorturls: a:7:{s:9:"permalink";s:52:"https://www.alienlebarge.ch/2007/05/01/la-boule-sale/";s:7:"tinyurl";s:25:"https://tinyurl.com/coxlzp";s:4:"isgd";s:17:"https://is.gd/ikn2";s:5:"bitly";s:20:"https://bit.ly/3mc3xS";s:5:"snipr";s:22:"https://snipr.com/b9yso";s:5:"snurl";s:22:"https://snurl.com/b9yso";s:7:"snipurl";s:24:"https://snipurl.com/b9yso";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/myghtymouse.JPG" alt="Apple MightyMouse" />
 

@@ -8,15 +8,6 @@ tags:
 - Nike
 - Publicité
 - Sport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234562019'
-  shorturls: a:7:{s:9:"permalink";s:71:"https://www.alienlebarge.ch/2008/05/03/nikefootball-une-pub-qui-dechire/";s:7:"tinyurl";s:25:"https://tinyurl.com/bnypm2";s:4:"isgd";s:17:"https://is.gd/iu5L";s:5:"bitly";s:18:"https://bit.ly/as95";s:5:"snipr";s:22:"https://snipr.com/bckz0";s:5:"snurl";s:22:"https://snurl.com/bckz0";s:7:"snipurl";s:24:"https://snipurl.com/bckz0";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img class="alignnone size-medium wp-image-505" title="nikefootball" src="https://dlgjp9x71cipk.cloudfront.net/2008/05/nikefootball.png" alt="" width="500" height="281" />
 

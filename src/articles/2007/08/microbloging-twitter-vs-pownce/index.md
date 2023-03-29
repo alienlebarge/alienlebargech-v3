@@ -4,19 +4,6 @@ title: Microbloging, Twitter vs. Pownce
 categories:
 - Internet
 - Médias
-tags: []
-status: publish
-published: true
-meta:
-  _wp_old_slug: twitter-vs-pownce
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Internet";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Médias";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"Social";}}
-  cocomment_trackall: ''
-  _utw_tags_: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Internet";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Médias";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"Social";}}
-  tweetbackscheck: '1234186144'
-  shorturls: a:7:{s:9:"permalink";s:69:"https://www.alienlebarge.ch/2007/08/01/microbloging-twitter-vs-pownce/";s:7:"tinyurl";s:25:"https://tinyurl.com/bmfqbv";s:4:"isgd";s:17:"https://is.gd/iUdz";s:5:"bitly";s:19:"https://bit.ly/wIRsW";s:5:"snipr";s:22:"https://snipr.com/bkq51";s:5:"snurl";s:22:"https://snurl.com/bkq51";s:7:"snipurl";s:24:"https://snipurl.com/bkq51";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/08/twittervspownce.png" alt="Pownce vs Twitter" />
 

@@ -5,17 +5,6 @@ title: Interagir avec les doigts
 categories:
 - Technologie
 tags: []
-status: publish
-published: true
-meta:
-  cocomment_trackall: ''
-  _utw_tags_0: a:9:{i:0;O:8:"stdClass":1:{s:3:"tag";s:5:"Apple";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Design";}i:2;O:8:"stdClass":1:{s:3:"tag";s:9:"Ergonomie";}i:3;O:8:"stdClass":1:{s:3:"tag";s:12:"Informatique";}i:4;O:8:"stdClass":1:{s:3:"tag";s:9:"Interface";}i:5;O:8:"stdClass":1:{s:3:"tag";s:8:"Logiciel";}i:6;O:8:"stdClass":1:{s:3:"tag";s:3:"Mac";}i:7;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}i:8;O:8:"stdClass":1:{s:3:"tag";s:11:"Technologie";}}
-  _wp_old_slug: interagir-avec-les-surface
-  tweetbackscheck: '1234539718'
-  shorturls: a:7:{s:9:"permalink";s:64:"https://www.alienlebarge.ch/2007/05/31/interagir-avec-les-doigts/";s:7:"tinyurl";s:25:"https://tinyurl.com/ah2gwn";s:4:"isgd";s:17:"https://is.gd/irYe";s:5:"bitly";s:18:"https://bit.ly/S2yG";s:5:"snipr";s:22:"https://snipr.com/bc1ew";s:5:"snurl";s:22:"https://snurl.com/bc1ew";s:7:"snipurl";s:24:"https://snipurl.com/bc1ew";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/interface_c64.png" alt="Le comodor 64" />
 

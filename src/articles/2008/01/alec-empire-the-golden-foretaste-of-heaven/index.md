@@ -7,14 +7,6 @@ tags:
 - Alec Empire
 - Atari Teenage Riot
 - Musique
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234234857'
-  shorturls: a:7:{s:9:"permalink";s:81:"https://www.alienlebarge.ch/2008/01/28/alec-empire-the-golden-foretaste-of-heaven/";s:7:"tinyurl";s:25:"https://tinyurl.com/bvvwj8";s:4:"isgd";s:17:"https://is.gd/ikT3";s:5:"bitly";s:18:"https://bit.ly/1Oq2";s:5:"snipr";s:22:"https://snipr.com/ba3jp";s:5:"snurl";s:22:"https://snurl.com/ba3jp";s:7:"snipurl";s:24:"https://snipurl.com/ba3jp";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2008/01/alecempire.png" alt="Alec Empire" />
 

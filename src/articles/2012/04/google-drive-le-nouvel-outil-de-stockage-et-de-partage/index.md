@@ -11,19 +11,6 @@ tags:
 - Google Drive
 - Partage
 - Service
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _thumbnail_id: '5859'
-  tmac_last_id: '256453612883017728'
 ---
 <a title="Article sur le blog offciel de Google" href="https://googleblog.blogspot.com/2012/04/introducing-google-drive-yes-really.html">Google a annoncé hier</a> l'ouverture de <a title="Google Drive" href="https://drive.google.com/">Google Drive</a> son système de stockage collaboratif de documents. <!--more-->
 

@@ -5,14 +5,6 @@ categories:
 - Personnel
 tags:
 - Armée
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234459559'
-  shorturls: a:7:{s:9:"permalink";s:47:"https://www.alienlebarge.ch/2007/10/09/oui-chef/";s:7:"tinyurl";s:25:"https://tinyurl.com/akasa6";s:4:"isgd";s:17:"https://is.gd/iBz8";s:5:"bitly";s:20:"https://bit.ly/192yIo";s:5:"snipr";s:22:"https://snipr.com/bepd0";s:5:"snurl";s:22:"https://snurl.com/bepd0";s:7:"snipurl";s:24:"https://snipurl.com/bepd0";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://farm3.static.flickr.com/2260/1525706023_fe6a68cfc9.jpg" alt="Bttr Art 1/1" />
 <em><a href="https://www.flickr.com/photos/alienlebarge/1525706023/" title="photo sharing">Bttr Art 1/1</a></em>

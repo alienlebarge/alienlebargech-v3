@@ -8,15 +8,6 @@ tags:
 - Stockholm
 - Suède
 - Vacances
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234512536'
-  shorturls: a:7:{s:9:"permalink";s:48:"https://www.alienlebarge.ch/2008/11/09/stockholm/";s:7:"tinyurl";s:25:"https://tinyurl.com/c548dq";s:4:"isgd";s:17:"https://is.gd/ikgT";s:5:"bitly";s:18:"https://bit.ly/vGdL";s:5:"snipr";s:22:"https://snipr.com/b9xr1";s:5:"snurl";s:22:"https://snurl.com/b9xr1";s:7:"snipurl";s:24:"https://snipurl.com/b9xr1";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454045349335040'
 ---
 <img src="https://farm4.static.flickr.com/3223/3012892550_94e6c820eb.jpg" alt="Stockholm by night" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/3012892550/">Stockholm by night</a></em>

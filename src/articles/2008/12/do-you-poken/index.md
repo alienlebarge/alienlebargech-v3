@@ -11,15 +11,6 @@ tags:
 - Poken
 - Réseau
 - social
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234450796'
-  shorturls: a:7:{s:9:"permalink";s:51:"https://www.alienlebarge.ch/2008/12/21/do-you-poken/";s:7:"tinyurl";s:25:"https://tinyurl.com/chr7pc";s:4:"isgd";s:17:"https://is.gd/ikhS";s:5:"bitly";s:18:"https://bit.ly/1kzQ";s:5:"snipr";s:22:"https://snipr.com/b9xxq";s:5:"snurl";s:22:"https://snurl.com/b9xxq";s:7:"snipurl";s:24:"https://snipurl.com/b9xxq";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454008410079233'
 ---
 <img class="alignnone size-medium wp-image-920" title="Do you poken ?" src="https://dlgjp9x71cipk.cloudfront.net/2008/12/poken_bigbanner-500x329.jpg" alt="Do you poken ?" width="500" height="329" />
 

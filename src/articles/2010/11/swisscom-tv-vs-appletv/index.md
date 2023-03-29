@@ -1,6 +1,5 @@
 ---
 date: 2010-11-11
-
 title: Swisscom TV vs. AppleTV
 categories:
 - Informatique
@@ -8,15 +7,6 @@ tags:
 - appleTV
 - Swissom
 - Télévision
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: swisscom-tv-vs-apple-tv
-  tmac_last_id: '256453828705124353'
 ---
 <img class="alignnone size-full wp-image-2516" title="swisscomTV vs AppleTV" src="https://dlgjp9x71cipk.cloudfront.net/2010/11/swisscomTVAppleTV.png" alt="" width="500" height="281" />
 

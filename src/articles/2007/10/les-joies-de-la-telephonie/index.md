@@ -6,14 +6,6 @@ categories:
 tags:
 - Internet
 - Téléphonie
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1233978902'
-  shorturls: a:7:{s:9:"permalink";s:65:"https://www.alienlebarge.ch/2007/10/04/les-joies-de-la-telephonie/";s:7:"tinyurl";s:25:"https://tinyurl.com/cgf69q";s:4:"isgd";s:17:"https://is.gd/itrP";s:5:"bitly";s:19:"https://bit.ly/15KNs";s:5:"snipr";s:22:"https://snipr.com/bch3t";s:5:"snurl";s:22:"https://snurl.com/bch3t";s:7:"snipurl";s:24:"https://snipurl.com/bch3t";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://farm1.static.flickr.com/31/64027565_79b890c8c4.jpg" alt="Hotline" />
 <em><a href="https://www.flickr.com/photos/splorp/64027565/" title="photo sharing">Hotline</a></em>

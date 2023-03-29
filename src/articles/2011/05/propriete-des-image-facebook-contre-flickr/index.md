@@ -10,18 +10,6 @@ tags:
 - Flickr
 - Photographie
 - Propriété
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: '256453791879139329'
 ---
 Aujourd'hui, Flickr <a title="Artilce &quot;At Flickr, your photos are always yours&quot;" href="https://blog.flickr.net/en/2011/05/13/at-flickr-your-photos-are-always-yours/">publie un article sur la propriété des photos qui sont téléversées sur le site</a>.
 

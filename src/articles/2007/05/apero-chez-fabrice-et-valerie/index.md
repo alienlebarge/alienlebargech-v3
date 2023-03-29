@@ -4,15 +4,6 @@ title: Apéro chez Fabrice et Valérie
 categories:
 - Galerie
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Galerie";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"Photographie";}}
-  tweetbackscheck: '1234383473'
-  shorturls: a:7:{s:9:"permalink";s:68:"https://www.alienlebarge.ch/2007/05/14/apero-chez-fabrice-et-valerie/";s:7:"tinyurl";s:25:"https://tinyurl.com/ah5z8q";s:4:"isgd";s:17:"https://is.gd/jcOv";s:5:"bitly";s:19:"https://bit.ly/TPEpo";s:5:"snipr";s:22:"https://snipr.com/bphly";s:5:"snurl";s:22:"https://snurl.com/bphly";s:7:"snipurl";s:24:"https://snipurl.com/bphly";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/apeochezfabriceetvalerie.png" alt="Valérie qui boit de la bière !!!!!!" />
 

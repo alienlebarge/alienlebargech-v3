@@ -10,19 +10,6 @@ tags:
 - Fever
 - Flux
 - rss
-status: publish
-published: true
-meta:
-  _thumbnail_id: '5954'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _edit_last: '1'
-  tmac_last_id: '256453597833863168'
 ---
 Grand utilisateur de Google Reader, depuis quelques mois, je suis passé à <a href="https://www.feedafever.com/">Fever°</a> un agrégateur RSS d'un (presque) autre genre. <!--more-->
 

@@ -8,15 +8,6 @@ tags:
 - Publicité
 - Sport
 - Vidéo
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234526961'
-  shorturls: a:7:{s:9:"permalink";s:60:"https://www.alienlebarge.ch/2008/10/14/nike-by-david-fincher/";s:7:"tinyurl";s:25:"https://tinyurl.com/bq9wtp";s:4:"isgd";s:17:"https://is.gd/ikgg";s:5:"bitly";s:18:"https://bit.ly/hiuf";s:5:"snipr";s:22:"https://snipr.com/b9xog";s:5:"snurl";s:22:"https://snurl.com/b9xog";s:7:"snipurl";s:24:"https://snipurl.com/b9xog";}
-  twittercomments: a:1:{i:1176158748;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: '256454056871092224'
 ---
 <img class="alignnone size-medium wp-image-710" title="nike" src="https://dlgjp9x71cipk.cloudfront.net/2008/10/nike.png" alt="" width="500" height="281" />
 

@@ -3,16 +3,6 @@ date: 2007-09-02
 title: Le coeur a ses raisons
 categories:
 - Humour
-tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Humour";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"Télévision";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"Vidéo";}}
-  tweetbackscheck: '1234525224'
-  shorturls: a:7:{s:9:"permalink";s:61:"https://www.alienlebarge.ch/2007/09/02/le-coeur-a-ses-raisons/";s:7:"tinyurl";s:25:"https://tinyurl.com/bm2ht3";s:4:"isgd";s:17:"https://is.gd/iSxc";s:5:"bitly";s:18:"https://bit.ly/XLxD";s:5:"snipr";s:22:"https://snipr.com/bk702";s:5:"snurl";s:22:"https://snurl.com/bk702";s:7:"snipurl";s:24:"https://snipurl.com/bk702";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/09/lecoeurasesraisons.png" alt="Le Coeur A Ses Raisons" />
 

@@ -8,11 +8,6 @@ tags:
 - Photo Grancy
 - Photographie
 - Prix
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453889111494656'
 ---
 <img src="https://farm1.static.flickr.com/80/281333890_30b103a454.jpg" alt="Shot with Raynox macro converter" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/matthijs/281333890/">Shot with Raynox macro converter</a></em>

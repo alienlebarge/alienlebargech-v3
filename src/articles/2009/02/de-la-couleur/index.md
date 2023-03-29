@@ -8,11 +8,6 @@ tags:
 - css
 - design
 - Internet
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453979058352128'
 ---
 <img class="alignnone size-medium wp-image-1035" title="Colors Sheme Designer 3" src="https://dlgjp9x71cipk.cloudfront.net/2009/02/colorschemedesigner3-500x328.png" alt="Colors Sheme Designer 3" width="500" height="328" />
 

@@ -9,16 +9,6 @@ tags:
 - Blog
 - CMS
 - Wordpress
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234582351'
-  shorturls: a:7:{s:9:"permalink";s:51:"https://www.alienlebarge.ch/2008/03/30/wordpress-25/";s:7:"tinyurl";s:25:"https://tinyurl.com/cbuyq4";s:4:"isgd";s:17:"https://is.gd/isQh";s:5:"bitly";s:19:"https://bit.ly/10RC4";s:5:"snipr";s:22:"https://snipr.com/bcclk";s:5:"snurl";s:22:"https://snurl.com/bcclk";s:7:"snipurl";s:24:"https://snipurl.com/bcclk";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
-  _wp_old_slug: wordpress-2-5
 ---
 <img class="alignnone size-full wp-image-457" title="Wordpress 2.5" alt="" src="https://dlgjp9x71cipk.cloudfront.net/2008/03/wp25.png" width="500" height="281" />
 

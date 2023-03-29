@@ -9,16 +9,6 @@ tags:
 - Digitapéro
 - Personnel
 - Projet
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"digit.apéro";}i:1;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}i:2;O:8:"stdClass":1:{s:3:"tag";s:13:"Programmation";}i:3;O:8:"stdClass":1:{s:3:"tag";s:6:"Projet";}i:4;O:8:"stdClass":1:{s:3:"tag";s:7:"Vacance";}}
-  _edit_last: '1'
-  tweetbackscheck: '1234520471'
-  shorturls: a:7:{s:9:"permalink";s:50:"https://www.alienlebarge.ch/2007/05/22/mal-de-tete/";s:7:"tinyurl";s:25:"https://tinyurl.com/dfs45j";s:4:"isgd";s:17:"https://is.gd/iu5J";s:5:"bitly";s:20:"https://bit.ly/1yOhWM";s:5:"snipr";s:22:"https://snipr.com/bckys";s:5:"snurl";s:22:"https://snurl.com/bckys";s:7:"snipurl";s:24:"https://snipurl.com/bckys";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/digitapero_maldetete.png" alt="Mal de tête" />
 

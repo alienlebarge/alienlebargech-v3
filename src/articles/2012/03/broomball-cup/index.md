@@ -13,19 +13,6 @@ tags:
 - Cup
 - Photographie
 - Sport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '5605'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453630868209664'
 ---
 Malheureusement, je n'ai pas réussi à prendre plus de photos durant cette sympathique journée de la Cup à Malley. <!--more-->
 

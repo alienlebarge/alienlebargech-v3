@@ -6,22 +6,6 @@ categories:
 tags:
 - Musique
 - The National Fanfare of Kedebostany
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  video_url: https://vimeo.com/39540030
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453619468091392'
-  _oembed_5decda3b4ef235eb40d2cf29b39bf9c3: <iframe src="https://player.vimeo.com/video/39540030"
-    width="1024" height="576" frameborder="0" webkitAllowFullScreen mozallowfullscreen
-    allowFullScreen></iframe>
 ---
 J'avais adoré leur précédent "tube" <a href="https://vimeo.com/29029504">Kazak Rules</a>. <a title="Site web du groupe" href="https://www.kadebostany.com/">The National Fanfare of Kedebostany</a> reviennent avec un nouvel album et un single qui s'annonce très prometteur. <!--more-->
 

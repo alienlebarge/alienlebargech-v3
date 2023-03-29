@@ -13,10 +13,5 @@ tags:
 - Kadetten Schaffhausen Handball
 - Photographie
 - Sport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
 ---
 [Quelques photso prisent](https://www.flickr.com/photos/alienlebarge/sets/72157633024572568/) lors du match opposant Chambéry Savoie Handball à Kadetten Schaffhausen Handball.

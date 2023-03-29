@@ -7,16 +7,6 @@ tags:
 - Audio
 - Echallens
 - Loto
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  enclosure: "https://dlgjp9x71cipk.cloudfront.net/2009/01/loto.mp3\r\n1710939\r\naudio/mpeg\r\n"
-  tweetbackscheck: '1234558669'
-  shorturls: a:7:{s:9:"permalink";s:47:"https://www.alienlebarge.ch/2009/01/23/11-quine/";s:7:"tinyurl";s:25:"https://tinyurl.com/b3lgzv";s:4:"isgd";s:17:"https://is.gd/imWN";s:5:"bitly";s:19:"https://bit.ly/16o2F";s:5:"snipr";s:22:"https://snipr.com/bak2g";s:5:"snurl";s:22:"https://snurl.com/bak2g";s:7:"snipurl";s:24:"https://snipurl.com/bak2g";}
-  twittercomments: a:1:{i:1176619120;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: '256453988139024384'
 ---
 <img src="https://farm4.static.flickr.com/3128/3166365715_3999b59a83.jpg" alt="Loto" width="500" height="281" />
 <a title="Loto de alienlebarge, sur Flickr" href="https://www.flickr.com/photos/alienlebarge/3166365715/"><em>Loto</em></a>

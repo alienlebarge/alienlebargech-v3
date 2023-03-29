@@ -5,15 +5,6 @@ title: CSSedit 2.5
 categories:
 - Informatique
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"Informatique";}i:1;O:8:"stdClass":1:{s:3:"tag";s:8:"Internet";}}
-  tweetbackscheck: '1234525617'
-  shorturls: a:7:{s:9:"permalink";s:49:"https://www.alienlebarge.ch/2007/04/26/cssedit-25/";s:7:"tinyurl";s:25:"https://tinyurl.com/ce7fz2";s:4:"isgd";s:17:"https://is.gd/ikcI";s:5:"bitly";s:18:"https://bit.ly/mXgg";s:5:"snipr";s:22:"https://snipr.com/b9x2o";s:5:"snurl";s:22:"https://snurl.com/b9x2o";s:7:"snipurl";s:24:"https://snipurl.com/b9x2o";}
-  twittercomments: a:1:{i:1175747616;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/04/cssedit.png" title="Logo de CSSedit" alt="Logo de CSSedit" align="right" />Il était une fois dans la forêt, là où vivent les trolls et les elfes, une petite maison. Dans cette maison, on trouvait les développeurs de <a href="https://www.macrabbit.com/" title="www.macrabbit.com">MacRabbit</a>.
 

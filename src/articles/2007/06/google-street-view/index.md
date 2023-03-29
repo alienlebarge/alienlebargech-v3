@@ -3,17 +3,6 @@ date: 2007-06-01
 title: Google Street View
 categories:
 - Technologie
-tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Géoinformation";}i:1;O:8:"stdClass":1:{s:3:"tag";s:8:"Internet";}i:2;O:8:"stdClass":1:{s:3:"tag";s:11:"Technologie";}}
-  cocomment_trackall: ''
-  tweetbackscheck: '1234532589'
-  shorturls: a:7:{s:9:"permalink";s:57:"https://www.alienlebarge.ch/2007/06/01/google-street-view/";s:7:"tinyurl";s:25:"https://tinyurl.com/ahnkgu";s:4:"isgd";s:17:"https://is.gd/iRsu";s:5:"bitly";s:18:"https://bit.ly/FJyf";s:5:"snipr";s:22:"https://snipr.com/bjo93";s:5:"snurl";s:22:"https://snurl.com/bjo93";s:7:"snipurl";s:24:"https://snipurl.com/bjo93";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/06/googlestreetview.png" alt="Un Cable-care à San Fransisco" />
 

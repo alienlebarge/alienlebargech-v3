@@ -8,11 +8,6 @@ tags:
 - CM2010
 - Football
 - France
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453891997192192'
 ---
 <img class="alignnone size-medium wp-image-1421" title="Les Unes de la presse Irlandaise" src="https://dlgjp9x71cipk.cloudfront.net/2009/11/69714_presseeire-une-500x217.jpg" alt="Les Unes de la presse Irlandaise" width="500" height="217" />
 

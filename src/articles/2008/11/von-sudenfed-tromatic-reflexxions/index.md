@@ -8,15 +8,6 @@ tags:
 - Musique
 - Tromatic Reflexxions
 - Von Südenfed
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234511806'
-  shorturls: a:7:{s:9:"permalink";s:72:"https://www.alienlebarge.ch/2008/11/24/von-sudenfed-tromatic-reflexxions/";s:7:"tinyurl";s:25:"https://tinyurl.com/abj5nw";s:4:"isgd";s:17:"https://is.gd/ik3N";s:5:"bitly";s:20:"https://bit.ly/3z5VOK";s:5:"snipr";s:22:"https://snipr.com/b9v72";s:5:"snurl";s:22:"https://snurl.com/b9v72";s:7:"snipurl";s:24:"https://snipurl.com/b9v72";}
-  twittercomments: a:1:{i:1186480801;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: '256454042316840960'
 ---
 <img class="alignnone size-medium wp-image-791" title="Von Südenfed" src="https://dlgjp9x71cipk.cloudfront.net/2008/11/vonsudenfed.png" alt="" width="500" height="281" />
 

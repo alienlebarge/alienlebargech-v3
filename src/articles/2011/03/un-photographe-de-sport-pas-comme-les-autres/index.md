@@ -7,14 +7,6 @@ categories:
 tags:
 - Photographie
 - Sport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453797935726592'
 ---
 <a title="World Cup 2010 South Africa: Spain v Portugal de toksuede, sur Flickr" href="https://www.flickr.com/photos/ryusha/4746784913/"><img src="https://farm5.static.flickr.com/4079/4746784913_a85677c2e2.jpg" alt="World Cup 2010 South Africa: Spain v Portugal" width="500" height="333" /></a>
 

@@ -11,19 +11,6 @@ tags:
 - TemplaVoilà
 - Typo3
 - TypoScript
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _syntaxhighlighter_encoded: '1'
-  tmac_last_id: '256453638317281280'
 ---
 Dernièrement j'ai eu le cas d'un mapping TemplaVoilà avec <a href="https://www.typo3.org">Typo3</a> dans lequel il fallait que les éléments de contenu aient des titres de niveau deux et de niveau trois dans la colonne latérale.<!--more-->
 

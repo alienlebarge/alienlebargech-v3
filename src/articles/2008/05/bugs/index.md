@@ -7,15 +7,6 @@ tags:
 - Bug
 - Le site
 - Tarski
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234438367'
-  shorturls: a:7:{s:9:"permalink";s:43:"https://www.alienlebarge.ch/2008/05/21/bugs/";s:7:"tinyurl";s:25:"https://tinyurl.com/bnjtp9";s:4:"isgd";s:17:"https://is.gd/iJSc";s:5:"bitly";s:19:"https://bit.ly/13crL";s:5:"snipr";s:22:"https://snipr.com/bgtr1";s:5:"snurl";s:22:"https://snurl.com/bgtr1";s:7:"snipurl";s:24:"https://snipurl.com/bgtr1";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://farm1.static.flickr.com/47/145797353_4a36be9df3.jpg" alt="baby bugs" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/getthebubbles/145797353/">baby bugs</a></em>

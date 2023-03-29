@@ -5,14 +5,6 @@ categories:
 - Géographie
 tags:
 - Géographie
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234603437'
-  shorturls: a:7:{s:9:"permalink";s:47:"https://www.alienlebarge.ch/2008/03/09/busingen/";s:7:"tinyurl";s:25:"https://tinyurl.com/dbmtkl";s:4:"isgd";s:17:"https://is.gd/iu25";s:5:"bitly";s:20:"https://bit.ly/1KDA9o";s:5:"snipr";s:22:"https://snipr.com/bckjv";s:5:"snurl";s:22:"https://snurl.com/bckjv";s:7:"snipurl";s:24:"https://snipurl.com/bckjv";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2008/03/busingen.png" alt="Büsingen" />
 

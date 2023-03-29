@@ -7,11 +7,6 @@ tags:
 - Bug
 - Bugtracker
 - Rapport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  dsq_thread_id: '948010227'
 ---
 Tous les jours, je traite des bugs et des demandes de fonctionnalités pour des sites web. Il ne se passe pas un jour sans tomber sur une description des bug à laquelle je ne comprend rien (ou pas grand chose), où le me faut investiguer pour comprendre qu'elle est le problème ou même demander à mes collègues si eux comprennent ce qui y est décrit.
 

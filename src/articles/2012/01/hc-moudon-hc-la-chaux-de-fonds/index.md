@@ -12,19 +12,6 @@ tags:
 - HC La Chaux-de-Fonds
 - HC Moudon
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _thumbnail_id: '5224'
-  tmac_last_id: '256453663235665920'
 ---
 Les photos de la rencontre du HC Moudon perdue face au HC La Chaux-de-Fonds.<!--more-->
 

@@ -3,17 +3,6 @@ date: 2007-06-01
 title: Cross Processing
 categories:
 - Photographie
-tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Lomographie";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"Photographie";}}
-  cocomment_trackall: ''
-  tweetbackscheck: '1233949841'
-  shorturls: a:7:{s:9:"permalink";s:55:"https://www.alienlebarge.ch/2007/06/01/cross-processing/";s:7:"tinyurl";s:25:"https://tinyurl.com/bnm6yl";s:4:"isgd";s:17:"https://is.gd/iBRA";s:5:"bitly";s:19:"https://bit.ly/13cd6";s:5:"snipr";s:22:"https://snipr.com/ber9p";s:5:"snurl";s:22:"https://snurl.com/ber9p";s:7:"snipurl";s:24:"https://snipurl.com/ber9p";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/06/xprocess.png" alt="X Process" />
 

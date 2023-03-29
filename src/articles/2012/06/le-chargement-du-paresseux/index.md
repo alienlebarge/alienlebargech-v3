@@ -14,19 +14,6 @@ tags:
 - Plugin
 - Responsive
 - web
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _wp_old_slug: le-chargement-du-pareseux
-  tmac_last_id: '256453602237890560'
 ---
 Un nouvelle technique fait son apparition dans le <a title="Définition du Responsive design sur wikipedia" href="https://fr.wikipedia.org/wiki/Responsive_Web_Design"><span lang="en">responsive design</span></a>. <!--more-->
 

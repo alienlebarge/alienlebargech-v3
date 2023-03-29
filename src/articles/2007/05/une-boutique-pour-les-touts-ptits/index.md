@@ -4,15 +4,6 @@ title: Une boutique pour les touts p'tits
 categories:
 - Mode
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Business";}i:1;O:8:"stdClass":1:{s:3:"tag";s:16:"Magasin-en-ligne";}i:2;O:8:"stdClass":1:{s:3:"tag";s:9:"Marketing";}i:3;O:8:"stdClass":1:{s:3:"tag";s:4:"Mode";}i:4;O:8:"stdClass":1:{s:3:"tag";s:8:"T-shirts";}}
-  tweetbackscheck: '1233953767'
-  shorturls: a:7:{s:9:"permalink";s:72:"https://www.alienlebarge.ch/2007/05/10/une-boutique-pour-les-touts-ptits/";s:7:"tinyurl";s:25:"https://tinyurl.com/dmugmd";s:4:"isgd";s:17:"https://is.gd/iFrn";s:5:"bitly";s:18:"https://bit.ly/Ub88";s:5:"snipr";s:22:"https://snipr.com/bfjpi";s:5:"snurl";s:22:"https://snurl.com/bfjpi";s:7:"snipurl";s:24:"https://snipurl.com/bfjpi";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/sirokipik.png" alt="Sirokipic" />
 

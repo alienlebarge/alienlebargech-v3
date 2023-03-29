@@ -7,12 +7,6 @@ tags:
 - Album
 - La Roux
 - Musique
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453919344062464'
 ---
 <img class="alignnone size-medium wp-image-1332" title="La Roux" src="https://dlgjp9x71cipk.cloudfront.net/2009/07/LaRoux-500x280.png" alt="La Roux" width="500" height="280" />
 

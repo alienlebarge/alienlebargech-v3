@@ -8,11 +8,6 @@ tags:
 - Exposition
 - Flickr
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453900817817600'
 ---
 <img class="alignnone size-medium wp-image-1403" title="Flickr Expo" src="https://dlgjp9x71cipk.cloudfront.net/2009/09/flickrExpo-500x199.png" alt="Flickr Expo" width="500" height="199" />
 

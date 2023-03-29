@@ -10,12 +10,6 @@ tags:
 - Photographie
 - Sigma
 - Zoom
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453939678027777'
 ---
 <img class="alignnone size-full wp-image-1209" title="Canon 450d équipé d'un 70-200 f4" src="https://dlgjp9x71cipk.cloudfront.net/2009/05/450d70200.png" alt="Canon 450d équipé d'un 70-200 f4" width="500" height="281" />
 

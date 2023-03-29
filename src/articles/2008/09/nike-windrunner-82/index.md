@@ -10,15 +10,6 @@ tags:
 - Madona
 - Mode
 - Nike
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234606296'
-  shorturls: a:7:{s:9:"permalink";s:57:"https://www.alienlebarge.ch/2008/09/21/nike-windrunner-82/";s:7:"tinyurl";s:25:"https://tinyurl.com/bj3xdm";s:4:"isgd";s:17:"https://is.gd/ikeL";s:5:"bitly";s:18:"https://bit.ly/9hf4";s:5:"snipr";s:22:"https://snipr.com/b9xek";s:5:"snurl";s:22:"https://snurl.com/b9xek";s:7:"snipurl";s:24:"https://snipurl.com/b9xek";}
-  twittercomments: a:20:{i:1184059571;s:7:"retweet";i:1183565477;s:7:"retweet";i:1183564262;s:7:"retweet";i:1179084292;s:7:"retweet";i:1177889825;s:7:"retweet";i:1176727371;s:7:"retweet";i:1176454040;s:7:"retweet";i:1176399702;s:7:"retweet";i:1176171343;s:7:"retweet";i:1176161922;s:7:"retweet";i:1176153689;s:7:"retweet";i:1176147697;s:7:"retweet";i:1176131718;s:7:"retweet";i:1176121272;s:7:"retweet";i:1176120967;s:7:"retweet";i:1176118780;s:7:"retweet";i:1176073327;s:7:"retweet";i:1175959402;s:7:"retweet";i:1175954362;s:7:"retweet";i:1175952567;s:7:"retweet";}
-  tweetcount: '52'
-  tmac_last_id: ''
 ---
 <a href="https://dlgjp9x71cipk.cloudfront.net/2008/09/nike.png"><img class="alignnone size-medium wp-image-620" title="Nike" src="https://dlgjp9x71cipk.cloudfront.net/2008/09/nike.png" alt="" width="500" height="281" /></a>
 

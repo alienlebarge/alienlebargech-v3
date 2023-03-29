@@ -11,19 +11,6 @@ tags:
 - Handball
 - HC Moudon
 - Photographie
-status: publish
-published: true
-meta:
-  hide_post_image: default
-  hide_post_meta: default
-  hide_post_date: default
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  _edit_last: '1'
-  _thumbnail_id: '5306'
-  tmac_last_id: '256453657585913856'
 ---
 Avec cette victoire face au CH Fribourg, Moudon continu de bétonner sa première place. <!--more-->
 

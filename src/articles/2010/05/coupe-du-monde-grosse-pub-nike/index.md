@@ -10,14 +10,6 @@ tags:
 - Nike
 - Publicité
 - Sport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453859130621953'
 ---
 <img class="alignnone size-medium wp-image-1632" title="pub Nike" src="https://dlgjp9x71cipk.cloudfront.net/2010/05/pubNike-500x267.png" alt="" width="500" height="267" />
 

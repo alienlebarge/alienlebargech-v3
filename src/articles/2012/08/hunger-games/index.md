@@ -7,19 +7,6 @@ tags:
 - Film
 - Hunger Games
 - Livre
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '6040'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453592393863170'
 ---
 Depuis quelques temps, <a href="https://www.alienlebarge.ch/2012/08/02/le-kindle-ma-reconcilie-avec-la-lecture/">je me suis remis à lire</a>. Dernièrement, j'ai complètement croché sur le livre "Hunger Games"
 

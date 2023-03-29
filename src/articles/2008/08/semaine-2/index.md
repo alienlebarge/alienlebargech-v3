@@ -6,15 +6,6 @@ categories:
 tags:
 - Armée
 - Personnel
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234591459'
-  shorturls: a:7:{s:9:"permalink";s:48:"https://www.alienlebarge.ch/2008/08/31/semaine-2/";s:7:"tinyurl";s:25:"https://tinyurl.com/c6hpx8";s:4:"isgd";s:17:"https://is.gd/ikeD";s:5:"bitly";s:20:"https://bit.ly/1O2Ncx";s:5:"snipr";s:22:"https://snipr.com/b9xdu";s:5:"snurl";s:22:"https://snurl.com/b9xdu";s:7:"snipurl";s:24:"https://snipurl.com/b9xdu";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://farm4.static.flickr.com/3293/2810770612_75c14b36de.jpg" alt="Plouf" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/2810770612/">Plouf</a></em>

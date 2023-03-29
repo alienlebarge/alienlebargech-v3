@@ -8,15 +8,6 @@ tags:
 - Bavois
 - Cantonale
 - FVJC
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234018354'
-  shorturls: a:7:{s:9:"permalink";s:64:"https://www.alienlebarge.ch/2008/07/17/premier-jour-de-cantonale/";s:7:"tinyurl";s:25:"https://tinyurl.com/apsuhm";s:4:"isgd";s:17:"https://is.gd/ike8";s:5:"bitly";s:20:"https://bit.ly/3mTC7x";s:5:"snipr";s:22:"https://snipr.com/b9xap";s:5:"snurl";s:22:"https://snurl.com/b9xap";s:7:"snipurl";s:24:"https://snipurl.com/b9xap";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://farm4.static.flickr.com/3126/2675724841_5367f3b5b2.jpg" alt="Premier jour de Cantonale" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/2675724841/">Premier jour de Cantonale</a></em>

@@ -9,21 +9,6 @@ tags:
 - Musique
 - U&amp;I
 - Warp Records
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_image: default
-  hide_post_meta: default
-  hide_post_date: default
-  video_url: https://youtu.be/i3G05r0po1Q
-  hide_post_title: default
-  unlink_post_title: default
-  tmac_last_id: '256453655081922560'
-  _oembed_a86ae2d7ac5ae1fe395a5fcccdc9419f: <iframe width="1024" height="576" src="https://www.youtube.com/embed/i3G05r0po1Q?fs=1&feature=oembed"
-    frameborder="0" allowfullscreen></iframe>
 ---
 <a title="Lien vers la présentation de l'album sur le site de Warp Records" href="https://warp.net/records/releases/leila/u-and-i">U&amp;I</a>, le dernier album de Leila est sorti. Il s'annonce beacoup plus pêchu que le précédent et ce n'est pas pour me déplaire.<!--more-->
 

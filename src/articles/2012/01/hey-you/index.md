@@ -7,19 +7,6 @@ tags:
 - Hey you!
 - Musique
 - THESHINING
-status: publish
-published: true
-meta:
-  hide_post_image: default
-  hide_post_date: default
-  hide_post_meta: default
-  unlink_post_title: default
-  hide_post_title: default
-  audio_url: https://dlgjp9x71cipk.cloudfront.net/2012/01/Hey_You.mp3
-  post_color: default
-  layout: default
-  _edit_last: '1'
-  tmac_last_id: '256453666372988928'
 ---
 J'adore ce morceau ! <!--more-->Pour l'instant, ce groupe que je découvre n'a sortie qu'un single. Il est disponible sur <a href="https://bleep.com/index.php?page=release_details&amp;releaseid=33301">Bleep</a>
 

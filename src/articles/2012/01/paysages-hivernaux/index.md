@@ -10,19 +10,6 @@ tags:
 - Hiver
 - Paysage
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '4991'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453670009466882'
 ---
 Quelques paysages hivernaux.
 

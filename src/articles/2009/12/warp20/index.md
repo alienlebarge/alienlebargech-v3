@@ -4,13 +4,6 @@ date: 2009-12-08
 title: Warp20
 categories:
 - Musique
-tags: []
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: '1443'
-  tmac_last_id: '256453886284529664'
 ---
 <img class="alignnone size-medium wp-image-1442" title="warp20" src="https://dlgjp9x71cipk.cloudfront.net/2009/12/warp20-500x289.jpg" alt="warp20" width="500" height="289" />
 
