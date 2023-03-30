@@ -5,15 +5,6 @@ title: Encore une bonne nouvelle
 categories:
 - Galerie
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Galerie";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"Photographie";}}
-  tweetbackscheck: '1234158603'
-  shorturls: a:7:{s:9:"permalink";s:64:"https://www.alienlebarge.ch/2007/04/26/encore-une-bonne-nouvelle/";s:7:"tinyurl";s:25:"https://tinyurl.com/dexqc3";s:4:"isgd";s:17:"https://is.gd/ikcJ";s:5:"bitly";s:18:"https://bit.ly/DGGL";s:5:"snipr";s:22:"https://snipr.com/b9x32";s:5:"snurl";s:22:"https://snurl.com/b9x32";s:7:"snipurl";s:24:"https://snipurl.com/b9x32";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 Etant donnée que j'arrivais à la limite des capacités du serveurs (5gigas) avec mes photos. Elle ont toutes été effacées afin de faire de la place.
 Mais ne vous inquiétez, je vais remmettre les dernières collections en ligne.

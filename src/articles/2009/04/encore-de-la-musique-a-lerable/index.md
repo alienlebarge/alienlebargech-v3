@@ -8,12 +8,6 @@ tags:
 - La Patère Rose
 - Musique
 - Québec
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453958061682688'
 ---
 <img class="alignnone size-medium wp-image-1104" title="La Patère Rose" src="https://dlgjp9x71cipk.cloudfront.net/2009/04/lapatererose-500x213.png" alt="La Patère Rose" width="500" height="213" />
 

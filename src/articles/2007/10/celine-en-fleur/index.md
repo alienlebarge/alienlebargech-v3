@@ -7,14 +7,6 @@ tags:
 - Fréjus
 - Photographie
 - Vacances
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234591935'
-  shorturls: a:7:{s:9:"permalink";s:54:"https://www.alienlebarge.ch/2007/10/03/celine-en-fleur/";s:7:"tinyurl";s:25:"https://tinyurl.com/bge8hz";s:4:"isgd";s:17:"https://is.gd/iAIY";s:5:"bitly";s:20:"https://bit.ly/3SqBB8";s:5:"snipr";s:22:"https://snipr.com/bel5q";s:5:"snurl";s:22:"https://snurl.com/bel5q";s:7:"snipurl";s:24:"https://snipurl.com/bel5q";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://farm2.static.flickr.com/1404/1424240187_f53132214f.jpg" alt="Céline en fleur" />
 <em><a href="https://www.flickr.com/photos/alienlebarge/1424240187/" title="photo sharing">Céline en fleur</a></em>

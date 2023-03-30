@@ -6,19 +6,6 @@ categories:
 - Matériel
 - Photographie
 tags: []
-status: publish
-published: true
-meta:
-  tmac_last_id: '256453585695555584'
-  _thumbnail_id: '6119'
-  hide_post_image: default
-  hide_post_date: default
-  hide_post_meta: default
-  unlink_post_title: default
-  hide_post_title: default
-  post_color: default
-  layout: default
-  _edit_last: '1'
 ---
 L'a<a href="https://www.autographer.com/">utographer</a>, est un concept d’appareil photo plutôt intéressant. <!--more-->
 

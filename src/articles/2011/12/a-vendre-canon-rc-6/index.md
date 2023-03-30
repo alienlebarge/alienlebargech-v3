@@ -9,22 +9,6 @@ tags:
 - RC-6
 - Télécommande
 - Vente
-status: publish
-published: true
-meta:
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  layout: default
-  post_color: default
-  hide_post_title: default
-  _edit_last: '1'
-  soy_box_size: Tiny (135px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'No'
-  soy_post_style: Normal
-  tmac_last_id: '256453699273105408'
 ---
 Je  vends ma télécommande Canon. Elle permet de déclencher à distance le miroir de votre appareil. Croyez moi, elle vous rendra de fiers services. Je l'ai utilisé avec un 450d et un 7d. Elle a toujours fonctionné comme un charme.
 

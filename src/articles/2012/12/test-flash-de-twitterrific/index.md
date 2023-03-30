@@ -10,10 +10,6 @@ tags:
 - ios
 - iPhone
 - twitter
-status: publish
-published: true
-meta:
-  _edit_last: '1'
 ---
 <a href="https://iconfactory.com/">Iconfactory</a> a sortie la nuit passée (le 5 décembre) la refonte de son client Twitter <a href="https://twitterrific.com/ios">Twitterrific</a>.
 

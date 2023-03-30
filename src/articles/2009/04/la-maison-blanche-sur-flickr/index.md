@@ -9,12 +9,6 @@ tags:
 - Photographie
 - Président
 - USA
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453945738792960'
 ---
 <img src="https://farm4.static.flickr.com/3620/3484005421_241a54a0e9.jpg" alt="P020109PS-0319" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/whitehouse/3484005421/">P020109PS-0319</a></em>

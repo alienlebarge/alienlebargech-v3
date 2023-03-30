@@ -7,22 +7,6 @@ categories:
 tags:
 - Mara Tremblay
 - Musique
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  video_url: https://vimeo.com/33785670
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453674639962113'
-  _oembed_4dfd758d16af9dce0255d38d3c839442: <iframe src="https://player.vimeo.com/video/33785670"
-    width="1024" height="576" frameborder="0" webkitAllowFullScreen mozallowfullscreen
-    allowFullScreen></iframe>
 ---
 Fin 2011, Mara Tremblay a sorti un album éponyme dans lequel elle revisite ses anciens titre.
 Un peu de douceur de temps en temps ça fait du bien.

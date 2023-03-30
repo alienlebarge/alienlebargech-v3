@@ -11,15 +11,6 @@ tags:
 - Musique
 - TM-1
 - Turbomidi
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234600913'
-  shorturls: a:7:{s:9:"permalink";s:78:"https://www.alienlebarge.ch/2008/11/09/probleme-de-midi-entre-la-md-et-la-tm-1/";s:7:"tinyurl";s:25:"https://tinyurl.com/dj3rcq";s:4:"isgd";s:17:"https://is.gd/ijWi";s:5:"bitly";s:20:"https://bit.ly/1KO5WC";s:5:"snipr";s:22:"https://snipr.com/b9t71";s:5:"snurl";s:22:"https://snurl.com/b9t71";s:7:"snipurl";s:24:"https://snipurl.com/b9t71";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454045349335040'
 ---
 <img src="https://farm3.static.flickr.com/2258/2121076338_44962f2957.jpg" alt="Elektron Sps-1 #03" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/ezcrope/2121076338/">Elektron Sps-1 #03</a></em>

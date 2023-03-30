@@ -5,13 +5,6 @@ title: No noise
 categories:
 - Non classé
 tags: []
-status: pending
-published: false
-meta:
-  geo_public: '1'
-  _edit_last: '1'
-  geo_latitude: '46.529184'
-  geo_longitude: '6.592374'
 ---
 Le bruit qui entour l’information est omniprésent. Il y a quelques années, cela ne me dérangeais pas plus que ça. Mais j’y suis maintenant très sensible.
 

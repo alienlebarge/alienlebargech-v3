@@ -11,15 +11,6 @@ tags:
 - Canon
 - Objectif
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  tmac_last_id: '256453834581368832'
 ---
 <img class="alignnone size-medium wp-image-2433" title="60D" src="https://dlgjp9x71cipk.cloudfront.net/2010/08/60D2-500x353.jpg" alt="" width="500" height="353" />
 

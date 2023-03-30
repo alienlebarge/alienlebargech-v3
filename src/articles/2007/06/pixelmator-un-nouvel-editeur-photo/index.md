@@ -3,17 +3,6 @@ date: 2007-06-14
 title: Pixelmator, un nouvel éditeur photo
 categories:
 - Logiciel
-tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"Informatique";}i:1;O:8:"stdClass":1:{s:3:"tag";s:8:"Logiciel";}i:2;O:8:"stdClass":1:{s:3:"tag";s:3:"Mac";}}
-  cocomment_trackall: ''
-  tweetbackscheck: '1233908887'
-  shorturls: a:7:{s:9:"permalink";s:73:"https://www.alienlebarge.ch/2007/06/14/pixelmator-un-nouvel-editeur-photo/";s:7:"tinyurl";s:25:"https://tinyurl.com/c3hrdc";s:4:"isgd";s:17:"https://is.gd/itkK";s:5:"bitly";s:18:"https://bit.ly/mReB";s:5:"snipr";s:22:"https://snipr.com/bcg9u";s:5:"snurl";s:22:"https://snurl.com/bcg9u";s:7:"snipurl";s:24:"https://snipurl.com/bcg9u";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/06/pixelmator.png" alt="Pixelmator" />
 

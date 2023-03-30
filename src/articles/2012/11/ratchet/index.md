@@ -11,10 +11,6 @@ tags:
 - html
 - mobile
 - Ratchet
-status: publish
-published: true
-meta:
-  _edit_last: '1'
 ---
 <p>On connaissait <a href="https://twitter.github.com/bootstrap/">Bootstrap</a>, le framework CSS et JS qui permet de construire rapidement un site. Et bien voici qu'apparait son pendant mobile; <a href="https://maker.github.com/ratchet/">Ratchet</a>.</p>
 

@@ -10,14 +10,6 @@ tags:
 - OmniFocus
 - Plaxo
 - Synchronisation
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234594849'
-  shorturls: a:7:{s:9:"permalink";s:57:"https://www.alienlebarge.ch/2008/03/15/ma-synchronisation/";s:7:"tinyurl";s:25:"https://tinyurl.com/c7jmv9";s:4:"isgd";s:17:"https://is.gd/isna";s:5:"bitly";s:20:"https://bit.ly/3kIW7D";s:5:"snipr";s:22:"https://snipr.com/bc7lx";s:5:"snurl";s:22:"https://snurl.com/bc7lx";s:7:"snipurl";s:24:"https://snipurl.com/bc7lx";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://farm2.static.flickr.com/1303/948693394_8d79e2136c.jpg" alt="Joy, diptych" />
 <em><a href="https://www.flickr.com/photos/guyr/948693394/" title="photo sharing">Joy, diptych</a></em>

@@ -12,10 +12,5 @@ tags:
 - Photographie
 - Sport
 - USY Yverdon
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
 ---
 [Les photos](https://www.flickr.com/photos/alienlebarge/sets/72157628980776367/) du match opposant le HBC West à USY Yverdon.

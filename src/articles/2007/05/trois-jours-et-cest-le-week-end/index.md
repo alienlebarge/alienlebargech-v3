@@ -4,13 +4,6 @@ title: Trois jours et c'est le week-end
 categories:
 - Musique
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Bootleg";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}}
-  enclosure: "https://www.musicremixed.org/dunproofin/Dunproofin-FiddyFiddyFiddyFiddy.mp3\r\n8138880\r\naudio/mpeg\r\n"
-  _edit_last: '1'
-  tmac_last_id: ''
 ---
 alors on se donne du courage !
 

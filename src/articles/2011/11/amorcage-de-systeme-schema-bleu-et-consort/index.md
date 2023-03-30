@@ -14,15 +14,6 @@ tags:
 - Grid
 - html
 - Typographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: '256453717308616704'
 ---
 Vous le savez certainement, dans la vraie vie (celle où on ne "like" et "+1" pas) mon boulot c'est de développer, maintenir, administrer, faire évoluer, etc. des sites web.
 

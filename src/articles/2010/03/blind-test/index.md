@@ -4,19 +4,6 @@ title: Blind test
 categories:
 - Jeux
 - Musique
-tags: []
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  enclosure: |
-    https://dlgjp9x71cipk.cloudfront.net/2010/03/blindtest.mp3
-    1367353
-    audio/mpeg
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453868337111040'
 ---
 <img class="alignnone size-full wp-image-1545" title="4435350087_b882dcde30" src="https://dlgjp9x71cipk.cloudfront.net/2010/03/4435350087_b882dcde30.jpg" alt="" width="500" height="333" />
 

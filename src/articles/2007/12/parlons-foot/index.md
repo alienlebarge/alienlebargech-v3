@@ -7,14 +7,6 @@ categories:
 tags:
 - Football
 - Humour
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234597894'
-  shorturls: a:7:{s:9:"permalink";s:51:"https://www.alienlebarge.ch/2007/12/11/parlons-foot/";s:7:"tinyurl";s:25:"https://tinyurl.com/atlnej";s:4:"isgd";s:17:"https://is.gd/iB7i";s:5:"bitly";s:18:"https://bit.ly/AA8v";s:5:"snipr";s:22:"https://snipr.com/ben1e";s:5:"snurl";s:22:"https://snurl.com/ben1e";s:7:"snipurl";s:24:"https://snipurl.com/ben1e";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://farm1.static.flickr.com/209/473931318_2ae4f82d62.jpg" alt="Gooooal!" />
 <em><a href="https://www.flickr.com/photos/aaleksander/473931318/" title="photo sharing">Gooooal!</a></em>

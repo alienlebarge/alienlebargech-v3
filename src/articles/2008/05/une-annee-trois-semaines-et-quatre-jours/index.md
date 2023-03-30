@@ -8,15 +8,6 @@ tags:
 - Fracture
 - Malléole
 - Personnel
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234275000'
-  shorturls: a:7:{s:9:"permalink";s:79:"https://www.alienlebarge.ch/2008/05/18/une-annee-trois-semaines-et-quatre-jours/";s:7:"tinyurl";s:25:"https://tinyurl.com/co5euv";s:4:"isgd";s:17:"https://is.gd/iwMC";s:5:"bitly";s:18:"https://bit.ly/jyzA";s:5:"snipr";s:22:"https://snipr.com/bd7fj";s:5:"snurl";s:22:"https://snurl.com/bd7fj";s:7:"snipurl";s:24:"https://snipurl.com/bd7fj";}
-  twittercomments: a:1:{i:1180687689;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: ''
 ---
 <img src="https://farm1.static.flickr.com/191/519615576_b06608e680.jpg" alt="(em)Plâtre" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/519615576/">(em)Plâtre</a></em>

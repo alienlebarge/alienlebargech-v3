@@ -9,11 +9,6 @@ tags:
 - navbar
 - Typo3
 - TypoScript
-status: publish
-published: true
-meta:
-  _wpas_done_all: '1'
-  _edit_last: '1'
 ---
 Je viens de mettre à jour le typoscript qui permet de créer une <a title="Barre de de navigation Bootstrap" href="https://twitter.github.com/bootstrap/components.html#navbar"><em>navbar</em> pour Bootstrap</a>. Il prend en compte les nouveautés de la version 2.2.2 comme les menus à trois niveaux.
 

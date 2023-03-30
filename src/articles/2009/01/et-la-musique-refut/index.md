@@ -13,15 +13,6 @@ tags:
 - Personnel
 - Son
 - Vinyl
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234416635'
-  shorturls: a:7:{s:9:"permalink";s:58:"https://www.alienlebarge.ch/2009/01/08/et-la-musique-refut/";s:7:"tinyurl";s:25:"https://tinyurl.com/bwfqxg";s:4:"isgd";s:17:"https://is.gd/iki7";s:5:"bitly";s:19:"https://bit.ly/11Zfx";s:5:"snipr";s:22:"https://snipr.com/b9xz8";s:5:"snurl";s:22:"https://snurl.com/b9xz8";s:7:"snipurl";s:24:"https://snipurl.com/b9xz8";}
-  twittercomments: a:1:{i:1175905399;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: '256454003192389632'
 ---
 <img src="https://farm4.static.flickr.com/3470/3180520996_a011c2bb3e.jpg" alt="Vinyl" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/3180520996/">Vinyl</a></em>

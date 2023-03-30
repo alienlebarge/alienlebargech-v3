@@ -3,17 +3,6 @@ date: 2007-07-25
 title: WiiFit
 categories:
 - Jeux
-tags: []
-status: publish
-published: true
-meta:
-  cocomment_trackall: ''
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:9:"Interface";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"Jeux";}i:2;O:8:"stdClass":1:{s:3:"tag";s:3:"Wii";}}
-  tweetbackscheck: '1233770074'
-  shorturls: a:7:{s:9:"permalink";s:45:"https://www.alienlebarge.ch/2007/07/25/wiifit/";s:7:"tinyurl";s:25:"https://tinyurl.com/dxmdnt";s:4:"isgd";s:17:"https://is.gd/insP";s:5:"bitly";s:20:"https://bit.ly/1oLtei";s:5:"snipr";s:22:"https://snipr.com/bao99";s:5:"snurl";s:22:"https://snurl.com/bao99";s:7:"snipurl";s:24:"https://snipurl.com/bao99";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/07/wiifit.png" alt="WiiFit" />
 

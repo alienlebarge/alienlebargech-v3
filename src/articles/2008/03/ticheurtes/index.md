@@ -7,14 +7,6 @@ tags:
 - Humour
 - Mode
 - T-shirts
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234472396'
-  shorturls: a:7:{s:9:"permalink";s:49:"https://www.alienlebarge.ch/2008/03/25/ticheurtes/";s:7:"tinyurl";s:25:"https://tinyurl.com/cwx4kg";s:4:"isgd";s:17:"https://is.gd/iNRF";s:5:"bitly";s:20:"https://bit.ly/4CEnJw";s:5:"snipr";s:22:"https://snipr.com/bibp5";s:5:"snurl";s:22:"https://snurl.com/bibp5";s:7:"snipurl";s:24:"https://snipurl.com/bibp5";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://dlgjp9x71cipk.cloudfront.net/2008/03/tshirts_graphein.png" alt="Des t-shirts bien romand" />
 

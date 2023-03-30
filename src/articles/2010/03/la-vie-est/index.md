@@ -8,22 +8,5 @@ categories:
 tags:
 - Flickr
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _thumbnail_id: '5256'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  lightbox_link: https://dlgjp9x71cipk.cloudfront.net/2010/03/la_vie_est_belle.jpg
-  tmac_last_id: '256453865128484864'
 ---
 Vous trouvez pas ?

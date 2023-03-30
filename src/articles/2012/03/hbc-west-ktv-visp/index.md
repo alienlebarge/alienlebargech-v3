@@ -13,19 +13,6 @@ tags:
 - KTV Visp
 - Photographie
 - Sport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '5620'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453628511002624'
 ---
 Après une journée de <a title="Broomball Cup" href="https://www.alienlebarge.ch/2012/03/06/broomball-cup/">Broom</a>', un petit tour à la salle de Marcolet pour immortaliser la rencontre face à Viège.<!--more-->
 

@@ -4,17 +4,6 @@ title: Cathédrale de Lausanne (festival de la cité)
 categories:
 - Personnel
 - Photographie
-tags: []
-status: publish
-published: true
-meta:
-  cocomment_trackall: ''
-  _utw_tags_0: a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Concert";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Flickr";}i:2;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}i:3;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}i:4;O:8:"stdClass":1:{s:3:"tag";s:12:"Photographie";}}
-  tweetbackscheck: '1234211221'
-  shorturls: a:7:{s:9:"permalink";s:61:"https://www.alienlebarge.ch/2007/07/09/cathedrale-de-lausanne/";s:7:"tinyurl";s:25:"https://tinyurl.com/aa2aos";s:4:"isgd";s:17:"https://is.gd/iSTa";s:5:"bitly";s:18:"https://bit.ly/5Ap2";s:5:"snipr";s:22:"https://snipr.com/bkckv";s:5:"snurl";s:22:"https://snurl.com/bkckv";s:7:"snipurl";s:24:"https://snipurl.com/bkckv";}
-  twittercomments: a:1:{i:1179339951;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: ''
 ---
  <img src="https://farm2.static.flickr.com/1194/752247013_c7bcb99a06.jpg" alt="Cathédrale de Lausanne" />
 <em><a href="https://www.flickr.com/photos/alienlebarge/752247013/" title="photo sharing">Cathédrale de Lausanne</a></em>

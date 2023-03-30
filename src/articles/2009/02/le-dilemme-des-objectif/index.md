@@ -7,11 +7,6 @@ tags:
 - Canon
 - Objectif
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453979133837312'
 ---
 <img class="alignnone size-full wp-image-1025" title="Objectifs 85mm et 100mm" src="https://dlgjp9x71cipk.cloudfront.net/2009/02/lense85100.png" alt="Objectifs 85mm et 100mm" width="500" height="281" />
 

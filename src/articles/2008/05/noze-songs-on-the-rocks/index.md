@@ -6,16 +6,6 @@ categories:
 tags:
 - Musique
 - Nôze
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  enclosure: "https://dlgjp9x71cipk.cloudfront.net/2008/05/inconnu.mp3\r\n9894497\r\naudio/mpeg\r\n"
-  tweetbackscheck: '1234450561'
-  shorturls: a:7:{s:9:"permalink";s:62:"https://www.alienlebarge.ch/2008/05/10/noze-songs-on-the-rocks/";s:7:"tinyurl";s:25:"https://tinyurl.com/d94sjb";s:4:"isgd";s:17:"https://is.gd/iVmm";s:5:"bitly";s:18:"https://bit.ly/aJ8F";s:5:"snipr";s:22:"https://snipr.com/bkwtw";s:5:"snurl";s:22:"https://snurl.com/bkwtw";s:7:"snipurl";s:24:"https://snipurl.com/bkwtw";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://farm3.static.flickr.com/2201/2179898831_ae56709cd7.jpg" alt="Nôze" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/disk_ctm/2179898831/">Nôze</a></em>

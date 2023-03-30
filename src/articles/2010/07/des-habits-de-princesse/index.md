@@ -7,14 +7,6 @@ tags:
 - Mode. Mélazic
 - Princesse
 - T-shirts
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453843058032640'
 ---
 <img class="alignnone size-medium wp-image-2143" title="Bouder (V.): Activité régulière pratiquée par les Princesses pour obtenir ce qu'elles désirent; syn.: Faire sa Princesse" src="https://dlgjp9x71cipk.cloudfront.net/2010/07/princesse-500x265.jpg" alt="" width="500" height="265" />
 

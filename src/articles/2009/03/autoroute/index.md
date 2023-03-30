@@ -8,21 +8,6 @@ categories:
 tags:
 - Autoroute
 - Photographie
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  layout: default
-  _thumbnail_id: '5260'
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  lightbox_link: https://dlgjp9x71cipk.cloudfront.net/2009/03/3370777781_42cf1e6c83_b.jpg
-  tmac_last_id: '256453963392626689'
 ---
 Hier soir, j'ai pris ma voiture dans l'idée d'aller faire quelques photos de nuit. Après 15km en bagnole et une trentaine de prises de vue, j'en ai ressorti une seul de potable.
 

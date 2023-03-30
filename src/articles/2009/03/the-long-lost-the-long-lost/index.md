@@ -8,16 +8,6 @@ tags:
 - Musique
 - Ninja Tune
 - The Long Lost
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  enclosure: |
-    https://dlgjp9x71cipk.cloudfront.net/2009/03/tll.mp3
-    8159232
-    audio/mpeg
-  tmac_last_id: '256453975665168385'
 ---
 <img class="alignnone size-full wp-image-1051" title="The Long Lost" src="https://dlgjp9x71cipk.cloudfront.net/2009/03/thelonglost.png" alt="The Long Lost" width="500" height="281" />
 

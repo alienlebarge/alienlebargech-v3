@@ -6,15 +6,6 @@ categories:
 tags:
 - Personnel
 - Voiture
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234572858'
-  shorturls: a:7:{s:9:"permalink";s:48:"https://www.alienlebarge.ch/2008/04/14/titinne-4/";s:7:"tinyurl";s:25:"https://tinyurl.com/ap98c4";s:4:"isgd";s:17:"https://is.gd/iqpt";s:5:"bitly";s:18:"https://bit.ly/YifE";s:5:"snipr";s:22:"https://snipr.com/bbfla";s:5:"snurl";s:22:"https://snurl.com/bbfla";s:7:"snipurl";s:24:"https://snipurl.com/bbfla";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://farm3.static.flickr.com/2136/2410329341_66141df62e.jpg" alt="Promenade à Yverdon" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/2410329341/">Promenade à Yverdon</a></em>

@@ -1,14 +1,6 @@
 ---
 date: 2009-12-30
-
 title: Mes photos favorites 2009
-categories:
-- Non classé
-tags: []
-status: draft
-published: false
-meta:
-  _edit_last: '1'
 ---
 Janvier
 

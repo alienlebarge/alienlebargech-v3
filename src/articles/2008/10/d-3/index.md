@@ -8,15 +8,6 @@ tags:
 - Poitiers
 - Stockholm
 - Vacances
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234561952'
-  shorturls: a:7:{s:9:"permalink";s:42:"https://www.alienlebarge.ch/2008/10/15/d-3/";s:7:"tinyurl";s:25:"https://tinyurl.com/aoryjj";s:4:"isgd";s:17:"https://is.gd/ikgl";s:5:"bitly";s:18:"https://bit.ly/gUHj";s:5:"snipr";s:22:"https://snipr.com/b9xor";s:5:"snurl";s:22:"https://snurl.com/b9xor";s:7:"snipurl";s:24:"https://snipurl.com/b9xor";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454054853623808'
 ---
 <img src="https://farm3.static.flickr.com/2388/1697732827_f87dc78c44.jpg" alt="Futuroscope at Night" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/mance/1697732827/">Futuroscope at Night</a></em>

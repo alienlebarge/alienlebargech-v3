@@ -1,14 +1,6 @@
 ---
 date: 2010-08-25
-
 title: Photographiez du handball
-categories:
-- Non classé
-tags: []
-status: draft
-published: false
-meta:
-  _edit_last: '1'
 ---
 Parmis mes hobbie, vous l’aurez certainement remarquez j’ai la photographie. Et il m’arrive très souvent de photographier du handball. Je souhaite partager avec vous mon expérience à ce sujet que cela soit du point de vue du matériel, des réglages et où se positionner.
 <h2>Le matériel</h2>

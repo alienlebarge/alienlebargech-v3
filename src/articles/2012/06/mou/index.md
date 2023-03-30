@@ -9,19 +9,6 @@ tags:
 - Markdown
 - Mou
 - Syntaxe
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _thumbnail_id: '5944'
-  tmac_last_id: '256453601025736704'
 ---
 <a title="Mou" href="https://mouapp.com/">Mou</a>, un éditeur markdown pour les développeurs web.<!--more-->
 

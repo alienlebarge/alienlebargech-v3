@@ -7,19 +7,6 @@ tags:
 - Bleep
 - Compilation
 - Musique
-status: publish
-published: true
-meta:
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: 'yes'
-  _edit_last: '1'
-  _thumbnail_id: '4709'
-  tmac_last_id: '256453681812209664'
 ---
 Chaque année Bleep compile les 100 meilleures titres de son catalogue des douze derniers mois.<!--more-->
 

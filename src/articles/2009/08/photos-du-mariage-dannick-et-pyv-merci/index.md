@@ -9,12 +9,6 @@ tags:
 - Mariage
 - Photographie
 - Pierre-Yves
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: merci-2
-  tmac_last_id: '256453910204649472'
 ---
 <img src="https://farm3.static.flickr.com/2606/3833459479_841d62fcd1.jpg" alt="Entre de bonnes mains" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/3833459479/">Entre de bonnes mains</a></em>

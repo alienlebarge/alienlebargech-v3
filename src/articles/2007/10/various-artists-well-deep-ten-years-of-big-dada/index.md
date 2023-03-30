@@ -8,14 +8,6 @@ tags:
 - Compilation
 - Hip-Hop
 - Musique
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234461214'
-  shorturls: a:7:{s:9:"permalink";s:86:"https://www.alienlebarge.ch/2007/10/27/various-artists-well-deep-ten-years-of-big-dada/";s:7:"tinyurl";s:25:"https://tinyurl.com/brjk9u";s:4:"isgd";s:17:"https://is.gd/ivy8";s:5:"bitly";s:18:"https://bit.ly/HGnk";s:5:"snipr";s:22:"https://snipr.com/bcwa4";s:5:"snurl";s:22:"https://snurl.com/bcwa4";s:7:"snipurl";s:24:"https://snipurl.com/bcwa4";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/10/bigdada.png" alt="Various Artists - Well Deep: Ten Years Of Big Dada" />
 

@@ -8,16 +8,6 @@ categories:
 tags:
 - Digitapéro
 - Projet
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Design";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"digit.apéro";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"Projet";}}
-  _edit_last: '1'
-  tweetbackscheck: '1234093091'
-  shorturls: a:7:{s:9:"permalink";s:54:"https://www.alienlebarge.ch/2007/04/28/brainstorming-2/";s:7:"tinyurl";s:25:"https://tinyurl.com/bc79gt";s:4:"isgd";s:17:"https://is.gd/itxb";s:5:"bitly";s:18:"https://bit.ly/EJk6";s:5:"snipr";s:22:"https://snipr.com/bchsa";s:5:"snurl";s:22:"https://snurl.com/bchsa";s:7:"snipurl";s:24:"https://snipurl.com/bchsa";}
-  twittercomments: a:1:{i:1179753452;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/04/brainstorming2.png" alt="Le résultat véctorisé du brainstorming" />
 

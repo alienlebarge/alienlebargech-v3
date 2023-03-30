@@ -10,22 +10,6 @@ tags:
 - Musique
 - Party
 - Zoo
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234367885'
-  shorturls: a:7:{s:9:"permalink";s:83:"https://www.alienlebarge.ch/2005/03/19/feedback-bns-citizen-night-zoo-ge-19-03-2005/";s:7:"tinyurl";s:25:"https://tinyurl.com/cfl2r7";s:4:"isgd";s:17:"https://is.gd/izBH";s:5:"bitly";s:18:"https://bit.ly/l2xI";s:5:"snipr";s:22:"https://snipr.com/be616";s:5:"snurl";s:22:"https://snurl.com/be616";s:7:"snipurl";s:24:"https://snipurl.com/be616";}
-  twittercomments: a:7:{i:1183180806;s:7:"retweet";i:1183029778;s:7:"retweet";i:1182096918;s:7:"retweet";i:1182060864;s:7:"retweet";i:1182027455;s:7:"retweet";i:1182021811;s:7:"retweet";i:1182021808;s:7:"retweet";}
-  tweetcount: '12'
-  hide_post_meta: default
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: ''
 ---
 Voici le Feedback de DJ Terrorist paru sur <a title="L'article sur electronim.net" href="https://electronism.net/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=3736">ELM</a> de la soirée "BNS Citizen Night" au Zoo.
 

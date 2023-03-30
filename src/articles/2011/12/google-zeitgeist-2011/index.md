@@ -10,21 +10,6 @@ tags:
 - Google
 - Vidéo
 - Zeitgeist
-status: publish
-published: true
-meta:
-  hide_post_date: default
-  hide_post_image: default
-  hide_post_meta: default
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  video_url: https://youtu.be/SAIEamakLoY
-  hide_post_title: default
-  unlink_post_title: default
-  tmac_last_id: '256453685054431232'
-  _oembed_935aa5d1811d10459cc75dc5057906a8: <iframe width="1024" height="576" src="https://www.youtube.com/embed/SAIEamakLoY?fs=1&feature=oembed"
-    frameborder="0" allowfullscreen></iframe>
 ---
 Google retrace les évènements de l'année 2011 dans une vidéo (légèrement pro américains et pro Google).
 

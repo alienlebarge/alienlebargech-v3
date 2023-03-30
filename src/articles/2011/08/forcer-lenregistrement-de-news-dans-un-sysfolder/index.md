@@ -7,16 +7,6 @@ tags:
 - TSconfig
 - tt_news
 - Typo3
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _syntaxhighlighter_encoded: '1'
-  soy_box_size: Tiny (135px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: '256453749923540994'
 ---
 J'ai récemment découvert cette petite astuce bien pratique pour tt_news dans Typo3.
 

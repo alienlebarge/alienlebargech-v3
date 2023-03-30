@@ -5,17 +5,6 @@ categories:
 - Personnel
 - Photographie
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Flickr";}i:1;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}i:2;O:8:"stdClass":1:{s:3:"tag";s:12:"Photographie";}}
-  cocomment_trackall: ''
-  _wp_old_slug: platre
-  tweetbackscheck: '1234162881'
-  shorturls: a:7:{s:9:"permalink";s:47:"https://www.alienlebarge.ch/2007/05/29/emplatre/";s:7:"tinyurl";s:25:"https://tinyurl.com/c4zrcr";s:4:"isgd";s:17:"https://is.gd/imo2";s:5:"bitly";s:19:"https://bit.ly/11OSr";s:5:"snipr";s:22:"https://snipr.com/bafaa";s:5:"snurl";s:22:"https://snurl.com/bafaa";s:7:"snipurl";s:24:"https://snipurl.com/bafaa";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <p>
 <img src="https://farm1.static.flickr.com/191/519615576_b06608e680.jpg" alt="Plâtre" /><br /><i><a href="https://www.flickr.com/photos/alienlebarge/519615576/" title="photo sharing">Plâtre</a></i>

@@ -9,15 +9,6 @@ tags:
 - Mise au point
 - Photographie
 - Réglage
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  tmac_last_id: '256453818949185536'
 ---
 <img class="alignnone" title="Sharp image" src="https://www.digital-photography-school.com/wp-content/uploads/2010/12/IMG_5901.jpg" alt="" width="500" height="333" />
 

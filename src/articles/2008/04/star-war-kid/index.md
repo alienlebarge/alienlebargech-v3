@@ -6,15 +6,6 @@ categories:
 tags:
 - Humour
 - Vidéo
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234444920'
-  shorturls: a:7:{s:9:"permalink";s:51:"https://www.alienlebarge.ch/2008/04/09/star-war-kid/";s:7:"tinyurl";s:25:"https://tinyurl.com/dcxdzc";s:4:"isgd";s:17:"https://is.gd/isgy";s:5:"bitly";s:20:"https://bit.ly/1q79Yi";s:5:"snipr";s:22:"https://snipr.com/bc64i";s:5:"snurl";s:22:"https://snurl.com/bc64i";s:7:"snipurl";s:24:"https://snipurl.com/bc64i";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img class="alignnone size-full wp-image-492" title="starwarkid" src="https://dlgjp9x71cipk.cloudfront.net/2008/04/starwarkid.png" alt="Star War Kid" width="500" height="281" />
 

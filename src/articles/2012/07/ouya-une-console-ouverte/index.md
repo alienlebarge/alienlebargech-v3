@@ -9,19 +9,6 @@ tags:
 - Jeux
 - Open Source
 - Ouya
-status: publish
-published: true
-meta:
-  _thumbnail_id: '5989'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453597833863168'
-  _edit_last: '1'
 ---
 Encore un projet qui fait parler de lui sur Kickstarter la plateforme de financement participatif (<a title="Définition du crowfunding" href="https://fr.wikipedia.org/wiki/Crowdfunding">crowfunding</a>).
 

@@ -12,23 +12,6 @@ tags:
 - Skaftafell
 - Svartifoss
 - Voyage
-status: publish
-published: true
-meta:
-  unlink_post_title: default
-  hide_post_title: default
-  _thumbnail_id: '3984'
-  layout: default
-  post_color: black
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: 'yes'
-  _edit_last: '1'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: '256453736220721152'
 ---
 Après <a href="https://www.clicclac.ch/2011/09/02/skogafoss/">les chutes de la veille</a> et avoir passé une nuit à Vìk dans <a href="https://www.hihostels.com/dba/hostels-V%C3%ADk-026025.en.htm">une auberge de jeunesse</a> que nous ne recommenderons pas, nous voici dans le parc du Skaftafell. <!--more-->
 

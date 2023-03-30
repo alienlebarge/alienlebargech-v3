@@ -1,6 +1,5 @@
 ---
 date: 2010-02-09
-
 title: Canon annonce le 550d
 categories:
 - Photographie
@@ -8,14 +7,6 @@ tags:
 - 550d
 - Canon
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453874146230272'
 ---
 <a href="https://dlgjp9x71cipk.cloudfront.net/2010/02/canon_eos_550d_front_500tn.jpg"><img class="alignnone size-full wp-image-1523" title="Canon EOS 550d" src="https://dlgjp9x71cipk.cloudfront.net/2010/02/canon_eos_550d_front_500tn.jpg" alt="" width="500" height="375" /></a>
 

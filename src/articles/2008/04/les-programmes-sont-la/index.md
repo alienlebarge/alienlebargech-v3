@@ -8,15 +8,6 @@ tags:
 - Musique
 - Paléo
 - Programme
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234357955'
-  shorturls: a:7:{s:9:"permalink";s:61:"https://www.alienlebarge.ch/2008/04/20/les-programmes-sont-la/";s:7:"tinyurl";s:25:"https://tinyurl.com/czqvdg";s:4:"isgd";s:17:"https://is.gd/it3Y";s:5:"bitly";s:18:"https://bit.ly/7XZS";s:5:"snipr";s:22:"https://snipr.com/bceab";s:5:"snurl";s:22:"https://snurl.com/bceab";s:7:"snipurl";s:24:"https://snipurl.com/bceab";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://farm2.static.flickr.com/1392/896113717_c135087af6.jpg" alt="Arctic Monkeys @ Paleo Festival, Suisse | 24.07.2007" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/le-hiboo/896113717/">Arctic Monkeys @ Paleo Festival, Suisse | 24.07.2007</a></em>

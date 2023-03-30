@@ -3,13 +3,6 @@ date: 2007-07-25
 title: Merci général...
 categories:
 - Personnel
-tags: []
-status: publish
-published: true
-meta:
-  cocomment_trackall: ''
-  _utw_tags_0: a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}}
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/07/merci.png" alt="Merci !" />
 

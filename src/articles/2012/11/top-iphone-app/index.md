@@ -13,11 +13,6 @@ tags:
 - Spotify
 - Taskpaper
 - Tweetbot
-status: publish
-published: true
-meta:
-  _wp_old_slug: top-iphone-app-2
-  _edit_last: '1'
 ---
 Il y a des applications très belles avec une interface léchée, mais il ne s’agit pas forcément des plus pratiques. Je ne vais pas vous parler des plus belles applications iPhone, mais de celle que j’utilise quotidiennement, celle que j’ouvre régulièrement. <!--more-->
 <h2>Tweetbot</h2>

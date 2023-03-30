@@ -10,19 +10,6 @@ tags:
 - B1
 - FC Vignoble
 - MJOR
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '4839'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: 'yes'
-  tmac_last_id: '256453736220721152'
 ---
 Les photos du match des B1 du <a title="Le site du MJOR" href="https://www.mjor.ch">MJOR</a> qui affrontaient le FC Vignoble.
 

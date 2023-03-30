@@ -7,19 +7,6 @@ tags:
 - capture
 - Clip
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '5877'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453607073927168'
 ---
 <a title="Message Twitter d'elegend" href="https://twitter.com/#!/elegend/status/200882217407348736">Elegend m'a fait découvrir Capture</a>. Il s'agit d'un système permettant de fixer son appareil photos à n'importe quelle sangle ou ceinture. <!--more-->
 

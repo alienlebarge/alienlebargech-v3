@@ -8,18 +8,6 @@ tags:
 - Dessin
 - Identik
 - Jeux
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  hide_post_image: 'yes'
-  hide_post_date: default
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  tmac_last_id: '256453678389669888'
 ---
 Pour Noël, on s'est offert un nouveau jeu de société. On en avait entendu parlé comme un jeu provoquant des franches rigolades. On n'a pas été déçu. <!--more-->
 

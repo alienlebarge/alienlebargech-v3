@@ -9,12 +9,6 @@ tags:
 - Logiciel
 - Messagerie
 - Pidgin
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453928185647104'
 ---
 <img class="alignnone size-full wp-image-1267" title="Logo de Pidgin" src="https://dlgjp9x71cipk.cloudfront.net/2009/06/logo_pidgin.png" alt="Logo de Pidgin" width="500" height="281" />
 

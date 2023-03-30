@@ -9,11 +9,6 @@ tags:
 - Conseil
 - Objectifs
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453905444134912'
 ---
 <img src="https://farm1.static.flickr.com/26/66759796_b68fb2603e.jpg" alt="Sometimes a Spy gets Spied!!! Spy shot of me &amp; my bazooka lens *Lol" /><em>
 </em>

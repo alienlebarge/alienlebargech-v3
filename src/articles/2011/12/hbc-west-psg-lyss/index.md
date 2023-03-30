@@ -12,20 +12,6 @@ tags:
 - Photographie
 - PSG Lyss
 - Sport
-status: publish
-published: true
-meta:
-  lightbox_link: ''
-  _edit_last: '1'
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: 'yes'
-  _thumbnail_id: '4385'
-  layout: default
-  tmac_last_id: '256453699273105408'
 ---
 Voici les dernières photo de la rencontre opposant le HBS West au PSG Lyss. Les locaux l'ont emporté 26:19 sur les Seelandais.<!--more-->
 

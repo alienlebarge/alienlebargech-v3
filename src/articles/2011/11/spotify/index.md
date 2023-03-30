@@ -1,18 +1,6 @@
 ---
 date: 2011-11-17
 title: Spotify
-categories:
-- Non classé
-tags: []
-status: draft
-published: false
-meta:
-  _edit_last: '1'
-  soy_vid_url: https://youtu.be/3xXnMPR-jOU
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
 ---
 Depuis hier, Spotify est disponible dans notre pays (la suisse). J'ai donc testé ce service avec beaucoup d'intérêt.
 

@@ -4,15 +4,6 @@ title: Irfen -400
 categories:
 - Photographie
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Flickr";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"Photographie";}}
-  tweetbackscheck: '1234530051'
-  shorturls: a:7:{s:9:"permalink";s:48:"https://www.alienlebarge.ch/2007/05/07/irfen-400/";s:7:"tinyurl";s:25:"https://tinyurl.com/d9hl35";s:4:"isgd";s:17:"https://is.gd/iltE";s:5:"bitly";s:19:"https://bit.ly/wILXq";s:5:"snipr";s:22:"https://snipr.com/ba895";s:5:"snurl";s:22:"https://snurl.com/ba895";s:7:"snipurl";s:24:"https://snipurl.com/ba895";}
-  twittercomments: a:3:{i:1176375815;s:7:"retweet";i:1176371165;s:7:"retweet";i:1176361037;s:7:"retweet";}
-  tweetcount: '3'
-  tmac_last_id: ''
 ---
 <p>
 <img src="https://farm1.static.flickr.com/221/488808306_4a74428a2b.jpg" alt="Irfen -400" /><br /><i><a href="https://www.flickr.com/photos/alienlebarge/488808306/" title="photo sharing">Irfen -400</a></i>

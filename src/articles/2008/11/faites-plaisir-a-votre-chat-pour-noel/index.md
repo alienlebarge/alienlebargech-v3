@@ -9,15 +9,6 @@ tags:
 - Carton
 - Chat
 - Humour
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234587944'
-  shorturls: a:7:{s:9:"permalink";s:76:"https://www.alienlebarge.ch/2008/11/29/faites-plaisir-a-votre-chat-pour-noel/";s:7:"tinyurl";s:25:"https://tinyurl.com/dmxwv2";s:4:"isgd";s:17:"https://is.gd/ikh4";s:5:"bitly";s:19:"https://bit.ly/14DqN";s:5:"snipr";s:22:"https://snipr.com/b9xsm";s:5:"snurl";s:22:"https://snurl.com/b9xsm";s:7:"snipurl";s:24:"https://snipurl.com/b9xsm";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454030589575168'
 ---
 <img class="alignnone size-medium wp-image-814" title="Cat play house" src="https://dlgjp9x71cipk.cloudfront.net/2008/11/cadeauchat.png" alt="" width="500" height="281" />
 

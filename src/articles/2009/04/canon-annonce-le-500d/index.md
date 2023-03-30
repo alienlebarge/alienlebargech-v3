@@ -7,12 +7,6 @@ tags:
 - 500d
 - Canon
 - Photographie
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453958061682688'
 ---
 <img class="alignnone size-medium wp-image-1099" title="Canon 500d" src="https://dlgjp9x71cipk.cloudfront.net/2009/04/eos500d-500x374.jpg" alt="Canon 500d" width="500" height="374" />
 

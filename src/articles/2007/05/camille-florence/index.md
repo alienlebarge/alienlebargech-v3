@@ -4,15 +4,6 @@ title: Camille & Florence
 categories:
 - Galerie
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Galerie";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"Photographie";}}
-  tweetbackscheck: '1234060955'
-  shorturls: a:7:{s:9:"permalink";s:55:"https://www.alienlebarge.ch/2007/05/06/camille-florence/";s:7:"tinyurl";s:25:"https://tinyurl.com/bc656c";s:4:"isgd";s:17:"https://is.gd/iMGm";s:5:"bitly";s:18:"https://bit.ly/UeXy";s:5:"snipr";s:22:"https://snipr.com/bhtfj";s:5:"snurl";s:22:"https://snurl.com/bhtfj";s:7:"snipurl";s:24:"https://snipurl.com/bhtfj";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/camilleetflorence.JPG" alt="Camille et Florence" />
 

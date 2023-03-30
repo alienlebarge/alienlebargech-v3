@@ -7,14 +7,6 @@ tags:
 - Beth Jeans Hougton
 - Folk
 - Musique
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453877078044672'
 ---
 <img class="alignnone size-full wp-image-1503" title="Beth Jeans Houghton" src="https://dlgjp9x71cipk.cloudfront.net/2010/01/Beth_Jeans_Houghton.png" alt="" width="498" height="282" />
 

@@ -13,11 +13,6 @@ tags:
 - ins
 - Mise à jour
 - Update
-status: publish
-published: true
-meta:
-  _wpas_done_all: '1'
-  _edit_last: '1'
 ---
 Lorsqu'on fait une mise à jour d'un article sur un blog, on a pour habitude de rajouter "(Màj)" dans le titre puis la modification dans le corps précédé d'un titre du genre "Mise à jour du 4 janvier 2012".
 

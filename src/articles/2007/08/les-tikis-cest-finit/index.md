@@ -3,16 +3,6 @@ date: 2007-08-30
 title: Les Tikis c'est finit
 categories:
 - Personnel
-tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Flickr";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Humour";}i:2;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}i:3;O:8:"stdClass":1:{s:3:"tag";s:12:"Photographie";}}
-  tweetbackscheck: '1234481472'
-  shorturls: a:7:{s:9:"permalink";s:59:"https://www.alienlebarge.ch/2007/08/30/les-tikis-cest-finit/";s:7:"tinyurl";s:25:"https://tinyurl.com/cmwl7m";s:4:"isgd";s:17:"https://is.gd/ixaH";s:5:"bitly";s:18:"https://bit.ly/3CkW";s:5:"snipr";s:22:"https://snipr.com/bdbdp";s:5:"snurl";s:22:"https://snurl.com/bdbdp";s:7:"snipurl";s:24:"https://snipurl.com/bdbdp";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://farm2.static.flickr.com/1208/1279020340_cb11eefc84.jpg" alt="Les Tikis c'est finit" />
 <em><a href="https://www.flickr.com/photos/alienlebarge/1279020340/" title="photo sharing">Les Tikis c'est finit</a></em>

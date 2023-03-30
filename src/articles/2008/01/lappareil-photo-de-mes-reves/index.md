@@ -7,14 +7,6 @@ categories:
 tags:
 - Leica
 - Photographie
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234233284'
-  shorturls: a:7:{s:9:"permalink";s:67:"https://www.alienlebarge.ch/2008/01/06/lappareil-photo-de-mes-reves/";s:7:"tinyurl";s:25:"https://tinyurl.com/dg7wrl";s:4:"isgd";s:17:"https://is.gd/iD8K";s:5:"bitly";s:19:"https://bit.ly/tKhUq";s:5:"snipr";s:22:"https://snipr.com/bez8z";s:5:"snurl";s:22:"https://snurl.com/bez8z";s:7:"snipurl";s:24:"https://snipurl.com/bez8z";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2008/01/leica-m8.png" alt="Leica M8" />
 

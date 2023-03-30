@@ -5,15 +5,6 @@ title: Des vidéos en gris-vert
 categories:
 - Personnel
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Vidéo";}}
-  tweetbackscheck: '1233885081'
-  shorturls: a:7:{s:9:"permalink";s:62:"https://www.alienlebarge.ch/2007/05/23/des-videos-en-gris-vert/";s:7:"tinyurl";s:25:"https://tinyurl.com/cl7qsm";s:4:"isgd";s:17:"https://is.gd/iyPk";s:5:"bitly";s:19:"https://bit.ly/11J70";s:5:"snipr";s:22:"https://snipr.com/bdutx";s:5:"snurl";s:22:"https://snurl.com/bdutx";s:7:"snipurl";s:24:"https://snipurl.com/bdutx";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/videoart.png" alt="Vidéo Art" />
 

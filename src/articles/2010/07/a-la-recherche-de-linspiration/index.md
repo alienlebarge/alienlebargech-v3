@@ -11,14 +11,6 @@ tags:
 - MJOR
 - Refonte
 - web
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453841145446400'
 ---
 <img class="alignnone size-full wp-image-2303" title="Wireframe" src="https://dlgjp9x71cipk.cloudfront.net/2010/07/L1180912.jpg" alt="" width="500" height="281" />
 

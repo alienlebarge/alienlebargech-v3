@@ -4,17 +4,6 @@ title: Gmail, campagne virale
 categories:
 - Médias
 - Publicité
-tags: []
-status: publish
-published: true
-meta:
-  cocomment_trackall: ''
-  _utw_tags_0: a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Internet";}i:1;O:8:"stdClass":1:{s:3:"tag";s:9:"Marketing";}i:2;O:8:"stdClass":1:{s:3:"tag";s:7:"Médias";}i:3;O:8:"stdClass":1:{s:3:"tag";s:10:"Publicité";}i:4;O:8:"stdClass":1:{s:3:"tag";s:6:"Vidéo";}}
-  tweetbackscheck: '1234285277'
-  shorturls: a:7:{s:9:"permalink";s:60:"https://www.alienlebarge.ch/2007/07/30/gmail-campagne-virale/";s:7:"tinyurl";s:25:"https://tinyurl.com/avha3d";s:4:"isgd";s:17:"https://is.gd/iNRv";s:5:"bitly";s:18:"https://bit.ly/ky1a";s:5:"snipr";s:22:"https://snipr.com/bibob";s:5:"snurl";s:22:"https://snurl.com/bibob";s:7:"snipurl";s:24:"https://snipurl.com/bibob";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/07/gmail.png" alt="Gmail" />
 

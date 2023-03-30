@@ -5,15 +5,6 @@ categories:
 - Internet
 - Mode
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Internet";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"Mode";}i:2;O:8:"stdClass":1:{s:3:"tag";s:8:"T-shirts";}}
-  tweetbackscheck: '1234319335'
-  shorturls: a:7:{s:9:"permalink";s:76:"https://www.alienlebarge.ch/2007/05/03/nouvelle-boutique-de-t-shirt-en-ligne/";s:7:"tinyurl";s:25:"https://tinyurl.com/ann7j2";s:4:"isgd";s:17:"https://is.gd/iRO7";s:5:"bitly";s:18:"https://bit.ly/Nefs";s:5:"snipr";s:22:"https://snipr.com/bjueu";s:5:"snurl";s:22:"https://snurl.com/bjueu";s:7:"snipurl";s:24:"https://snipurl.com/bjueu";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <a href="https://dlgjp9x71cipk.cloudfront.net/2007/05/saga_africa.png" title="Saga Africaaaaaaa"><img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/saga_africa.miniature.png" title="Saga Africaaaaaaa" alt="Saga Africaaaaaaa" align="right" /></a>Une Nième boutique de T-shirt a vu le jour sur le net. Le principe est toujours le même : des illustrateurs proposent des projets qui sont soumis à votation, le plus plébiscité l'emporte et se retrouve imprimé sur tissu.
 

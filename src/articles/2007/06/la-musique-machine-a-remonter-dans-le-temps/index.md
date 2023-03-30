@@ -4,17 +4,6 @@ title: 'La musique : machine à remonter dans le temps'
 categories:
 - Musique
 - Personnel
-tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}i:1;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}}
-  cocomment_trackall: ''
-  tweetbackscheck: '1234430539'
-  shorturls: a:7:{s:9:"permalink";s:82:"https://www.alienlebarge.ch/2007/06/01/la-musique-machine-a-remonter-dans-le-temps/";s:7:"tinyurl";s:25:"https://tinyurl.com/bpc6eg";s:4:"isgd";s:17:"https://is.gd/jgsh";s:5:"bitly";s:20:"https://bit.ly/13b3gN";s:5:"snipr";s:22:"https://snipr.com/bqqpf";s:5:"snurl";s:22:"https://snurl.com/bqqpf";s:7:"snipurl";s:24:"https://snipurl.com/bqqpf";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/06/pluxus.png" alt="Pluxus" />
 

@@ -7,12 +7,6 @@ tags:
 - Sondage
 - Swisscom
 - Téléphonie
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453922036797440'
 ---
 <img class="alignnone size-medium wp-image-1288" title="Sondage Swisscom" src="https://dlgjp9x71cipk.cloudfront.net/2009/06/SondageSwisscom-500x379.png" alt="Sondage Swisscom" width="500" height="379" />
 

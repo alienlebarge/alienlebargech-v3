@@ -11,12 +11,6 @@ tags:
 - Layout
 - Programmation
 - web
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453919344062464'
 ---
 <img class="alignnone size-medium wp-image-1317" title="Code Readability" src="https://dlgjp9x71cipk.cloudfront.net/2009/07/codereadability-500x205.png" alt="Code Readability" width="500" height="205" />
 

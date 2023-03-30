@@ -13,11 +13,6 @@ tags:
 - Sublime Text
 - Windows
 - XP
-status: publish
-published: true
-meta:
-  _wpas_done_all: '1'
-  _edit_last: '1'
 ---
 <em>Avant toute chose, cet article s'adresse aux personnes travaillant avec <a href="https://www.sublimetext.com/2">Sublime Text 2</a> sous Windows XP.</em>
 Plutôt que d'utiliser un programme de compilation comme <a href="https://winless.org/">WinLess</a> afin de compiler les fichier <a href="https://lesscss.org/"><code>LESS</code></a> en CSS. Voici une technique afin de le faire directement dans <a href="https://www.sublimetext.com/2">Sublime Text 2</a>. Cela vous fera certainement gagner du temps pendant le dévelopement.

@@ -11,15 +11,6 @@ tags:
 - Internet
 - Mal voyant
 - web
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234571339'
-  shorturls: a:7:{s:9:"permalink";s:80:"https://www.alienlebarge.ch/2009/01/23/le-web-pour-les-mal-voyants-ma-revelation/";s:7:"tinyurl";s:25:"https://tinyurl.com/azutlo";s:4:"isgd";s:17:"https://is.gd/ikSi";s:5:"bitly";s:19:"https://bit.ly/12FAh";s:5:"snipr";s:22:"https://snipr.com/ba3fc";s:5:"snurl";s:22:"https://snurl.com/ba3fc";s:7:"snipurl";s:24:"https://snipurl.com/ba3fc";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256453994241744896'
 ---
 <img class="size-full wp-image-992" title="Braille" src="https://dlgjp9x71cipk.cloudfront.net/2009/01/braille.png" alt="Une personne qui lit du braille" width="500" height="281" />
 

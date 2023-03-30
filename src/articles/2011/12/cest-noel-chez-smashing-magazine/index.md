@@ -12,19 +12,6 @@ tags:
 - eBook
 - Ressource
 - Smashing Magazine
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  link_url: https://www.smashingmagazine.com/2011/12/15/the-smashing-deals-countdown-for-christmas/
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453685054431232'
 ---
 C'est la saison. Chaque site y va de sont lot de cadeaux (comprenez "articles à prix réduits") pour les fêtes.
 

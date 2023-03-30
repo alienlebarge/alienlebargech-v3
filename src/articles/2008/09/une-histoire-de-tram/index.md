@@ -10,19 +10,6 @@ tags:
 - TL
 - Tram
 - Transport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234437587'
-  shorturls: a:7:{s:9:"permalink";s:59:"https://www.alienlebarge.ch/2008/09/27/une-histoire-de-tram/";s:7:"tinyurl";s:25:"https://tinyurl.com/bxh8vy";s:4:"isgd";s:17:"https://is.gd/ikeR";s:5:"bitly";s:18:"https://bit.ly/ONF0";s:5:"snipr";s:22:"https://snipr.com/b9xf8";s:5:"snurl";s:22:"https://snurl.com/b9xf8";s:7:"snipurl";s:24:"https://snipurl.com/b9xf8";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: ''
 ---
 <img class="size-medium wp-image-630" title="Saint-François, 1945" src="https://dlgjp9x71cipk.cloudfront.net/2008/09/l1110866-500x332.jpg" alt="Saint-François, 1945" width="500" height="332" />
 

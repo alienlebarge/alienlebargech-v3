@@ -1,6 +1,5 @@
 ---
 date: 2010-01-06
-
 title: Reveillez le photographe flémard qui est en vous
 categories:
 - Informatique
@@ -12,11 +11,6 @@ tags:
 - Geotagging
 - Photographie
 - Wi-Fi
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453883273048064'
 ---
 <img class="alignnone size-medium wp-image-1489" title="Eye-Fi" src="https://dlgjp9x71cipk.cloudfront.net/2010/01/Eye-Fi-500x331.png" alt="" width="500" height="331" />
 

@@ -9,17 +9,5 @@ tags:
 - Lightroom
 - Logiciel
 - Photographie
-status: publish
-published: true
-meta:
-  hide_post_image: default
-  hide_post_date: default
-  hide_post_meta: default
-  unlink_post_title: default
-  hide_post_title: default
-  post_color: default
-  _edit_last: '1'
-  layout: default
-  tmac_last_id: '256453631618998272'
 ---
 La version finale de <a title="La page de description de Lightroom sur le site d'Adobe" href="https://www.adobe.com/ch_fr/products/photoshop-lightroom.html">Lightroom 4</a> est arrivée. Les prix est pratiquement divisé par deux. Il faut compter environ 160 CHF pour la version complète et 85 CHF pour la mise à jour.

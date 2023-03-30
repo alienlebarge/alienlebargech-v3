@@ -9,21 +9,6 @@ tags:
 - Digital Rev
 - Lego
 - Photographie
-status: publish
-published: true
-meta:
-  layout: default
-  post_color: default
-  unlink_post_title: default
-  hide_post_title: default
-  video_url: https://youtu.be/wX76k-chflo
-  _edit_last: '1'
-  hide_post_date: default
-  hide_post_image: default
-  hide_post_meta: default
-  tmac_last_id: '256453678951714817'
-  _oembed_19c9e6c1de37711c0d1e181c73c936b8: <iframe width="1024" height="576" src="https://www.youtube.com/embed/wX76k-chflo?fs=1&feature=oembed"
-    frameborder="0" allowfullscreen></iframe>
 ---
 L’appareil photo ne fait pas le photographe.
 

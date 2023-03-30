@@ -12,19 +12,6 @@ tags:
 - BBC Bills
 - Broomball
 - Sport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '5528'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453631618998272'
 ---
 Quart de final face à Black Hawks. Bills s'envole vers la demi-final de la coupe suisse en remportant la partie 0-2.
 

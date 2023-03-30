@@ -8,20 +8,6 @@ tags:
 - Groupe
 - Photographie
 - Technique
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  _thumbnail_id: '2552'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: '256453828315058176'
 ---
 Depuis quelque temps, on me demande de faire des photos d'équipe. Dernièrement, j'en ai fait une une où j'ai oublié pas mal de « basiques ». Autant dire que je n'en suis pas satisfait. Voici quelques points auxquels il faut faire attention lors de telle prise de vue.
 

@@ -9,19 +9,6 @@ tags:
 - Canon
 - Objectif
 - Photographie
-status: publish
-published: true
-meta:
-  _thumbnail_id: '4818'
-  layout: default
-  post_color: default
-  _edit_last: '1'
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453676170891264'
 ---
 Il est arrivé hier et je me réjouis de tester ce nouveau précieux.
 

@@ -4,15 +4,6 @@ title: Configuration d'une borne airport pour Coda
 categories:
 - Informatique
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:5:"Apple";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"Informatique";}i:2;O:8:"stdClass":1:{s:3:"tag";s:8:"Internet";}i:3;O:8:"stdClass":1:{s:3:"tag";s:8:"Logiciel";}i:4;O:8:"stdClass":1:{s:3:"tag";s:13:"Programmation";}}
-  tweetbackscheck: '1234536636'
-  shorturls: a:7:{s:9:"permalink";s:81:"https://www.alienlebarge.ch/2007/05/17/configuration-dune-borne-airport-pour-coda/";s:7:"tinyurl";s:25:"https://tinyurl.com/dbszuw";s:4:"isgd";s:17:"https://is.gd/iljn";s:5:"bitly";s:20:"https://bit.ly/4a0BUY";s:5:"snipr";s:22:"https://snipr.com/ba6ub";s:5:"snurl";s:22:"https://snurl.com/ba6ub";s:7:"snipurl";s:24:"https://snipurl.com/ba6ub";}
-  twittercomments: a:1:{i:1187391830;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/airportandcoda.png" alt="Airport + Coda" />
 

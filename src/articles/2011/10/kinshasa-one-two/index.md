@@ -8,26 +8,6 @@ tags:
 - Damon Albarn
 - DRC Music
 - Musique
-status: publish
-published: true
-meta:
-  soy_vid_url: https://youtu.be/a2nZ4zOJ_Ig
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  video_url: https://youtu.be/a2nZ4zOJ_Ig
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453730042515456'
-  _oembed_19c80fa8a4dee0970b56db78911ab3bd: <iframe width="1024" height="576" src="https://www.youtube.com/embed/a2nZ4zOJ_Ig?fs=1&feature=oembed"
-    frameborder="0" allowfullscreen></iframe>
 ---
 Quand un collectif de musicien mené par Damon Albarn se rend au Congo pour réaliser un album en cinq jours sur la base de la musique traditionnelle congolaise, cela nous donne un disque déroutant à connotation électronique, mais a possédé pour tout ceux qui veulent s'ouvrir l'esprit.<!--more-->
 

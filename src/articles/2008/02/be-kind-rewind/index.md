@@ -5,14 +5,6 @@ categories:
 - Cinéma
 tags:
 - Cinéma
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234595823'
-  shorturls: a:7:{s:9:"permalink";s:53:"https://www.alienlebarge.ch/2008/02/25/be-kind-rewind/";s:7:"tinyurl";s:25:"https://tinyurl.com/bl8frz";s:4:"isgd";s:17:"https://is.gd/irUa";s:5:"bitly";s:18:"https://bit.ly/fQYD";s:5:"snipr";s:22:"https://snipr.com/bc0av";s:5:"snurl";s:22:"https://snurl.com/bc0av";s:7:"snipurl";s:24:"https://snipurl.com/bc0av";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2008/02/bekindrewind.png" alt="Be Kind Rewind" />
 

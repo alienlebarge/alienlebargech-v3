@@ -4,15 +4,6 @@ title: Def Tour
 categories:
 - Galerie
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Galerie";}i:1;O:8:"stdClass":1:{s:3:"tag";s:12:"Photographie";}}
-  tweetbackscheck: '1234561305'
-  shorturls: a:7:{s:9:"permalink";s:47:"https://www.alienlebarge.ch/2007/05/21/def-tour/";s:7:"tinyurl";s:25:"https://tinyurl.com/d6o2k3";s:4:"isgd";s:17:"https://is.gd/ikcY";s:5:"bitly";s:20:"https://bit.ly/3fGYeE";s:5:"snipr";s:22:"https://snipr.com/b9x4m";s:5:"snurl";s:22:"https://snurl.com/b9x4m";s:7:"snipurl";s:24:"https://snipurl.com/b9x4m";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/deftour.png" alt="Def Tour" />
 

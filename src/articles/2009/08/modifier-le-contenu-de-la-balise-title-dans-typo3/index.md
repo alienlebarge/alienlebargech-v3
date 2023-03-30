@@ -10,11 +10,6 @@ tags:
 - Titre
 - Typo3
 - TypoScript
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453910204649472'
 ---
 Et ouais, voici le premier article concernant Typo3.
 

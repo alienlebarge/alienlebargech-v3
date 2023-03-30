@@ -7,15 +7,6 @@ categories:
 tags:
 - Musique
 - Personnel
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234586531'
-  shorturls: a:7:{s:9:"permalink";s:71:"https://www.alienlebarge.ch/2008/05/06/coup-de-coeur-musicaux-du-moment/";s:7:"tinyurl";s:25:"https://tinyurl.com/b9jeq5";s:4:"isgd";s:17:"https://is.gd/iFiv";s:5:"bitly";s:18:"https://bit.ly/FxcO";s:5:"snipr";s:22:"https://snipr.com/bfi2l";s:5:"snurl";s:22:"https://snurl.com/bfi2l";s:7:"snipurl";s:24:"https://snipurl.com/bfi2l";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://farm1.static.flickr.com/101/290219619_0ce594b084.jpg" alt="Jamie Lidell  @ Safari Sam's - Hollywood" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/emayoh/290219619/">Jamie Lidell  @ Safari Sam's - Hollywood</a></em>

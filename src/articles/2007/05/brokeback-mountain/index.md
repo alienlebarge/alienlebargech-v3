@@ -5,15 +5,6 @@ categories:
 - Humour
 - Publicité
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Humour";}i:1;O:8:"stdClass":1:{s:3:"tag";s:10:"Publicité";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"Vidéo";}}
-  tweetbackscheck: '1234415222'
-  shorturls: a:7:{s:9:"permalink";s:57:"https://www.alienlebarge.ch/2007/05/07/brokeback-mountain/";s:7:"tinyurl";s:25:"https://tinyurl.com/cc2jy6";s:4:"isgd";s:17:"https://is.gd/iOQb";s:5:"bitly";s:18:"https://bit.ly/M2fh";s:5:"snipr";s:22:"https://snipr.com/bilxj";s:5:"snurl";s:22:"https://snurl.com/bilxj";s:7:"snipurl";s:24:"https://snipurl.com/bilxj";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 J'adore cette pub.
 

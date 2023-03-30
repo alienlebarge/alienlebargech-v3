@@ -8,12 +8,6 @@ tags:
 - Bleep
 - Compilation
 - Musique
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453930819665920'
 ---
 <img class="alignnone size-medium wp-image-1237" title="Bleep Compilation" src="https://dlgjp9x71cipk.cloudfront.net/2009/06/showcase_header_jpg-500x262.jpg" alt="Bleep Compilation" width="500" height="262" />
 

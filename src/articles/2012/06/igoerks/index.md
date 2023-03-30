@@ -4,17 +4,6 @@ title: Igoerks
 categories:
 - Non classé
 tags: []
-status: draft
-published: false
-meta:
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  _edit_last: '1'
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
 ---
 Igoerks se présentait pour la première fois sur scène dans le cadre de la fête de la musique. Deux dates et deux lieux étaient entourés de rouge dans l'agenda. Je n'ai malheureusement pas pu me rendre à Nyon pour leur premier rendez-vous avec le publique. Mais je me suis rattrapé à Lausanne quelques jours plus tard.
 

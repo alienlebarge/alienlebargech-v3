@@ -6,20 +6,6 @@ categories:
 - Mariage
 - Photographie
 - Portfolio
-tags: []
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '4927'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: 'yes'
-  tmac_last_id: '256453907256074241'
 ---
 Une sélection de photos prise au mariage de A&amp;P.
 

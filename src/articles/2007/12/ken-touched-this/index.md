@@ -7,15 +7,6 @@ tags:
 - Marketing
 - Publicité
 - Vidéo
-status: publish
-published: true
-meta:
-  _wp_old_slug: ken-touch-this
-  tweetbackscheck: '1234451172'
-  shorturls: a:7:{s:9:"permalink";s:55:"https://www.alienlebarge.ch/2007/12/11/ken-touched-this/";s:7:"tinyurl";s:25:"https://tinyurl.com/atgael";s:4:"isgd";s:17:"https://is.gd/ikpb";s:5:"bitly";s:18:"https://bit.ly/BuZu";s:5:"snipr";s:22:"https://snipr.com/b9zac";s:5:"snurl";s:22:"https://snurl.com/b9zac";s:7:"snipurl";s:24:"https://snipurl.com/b9zac";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/12/kentouchthis.png" alt="Ken touch this" />
 

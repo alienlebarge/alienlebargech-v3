@@ -6,12 +6,6 @@ categories:
 tags:
 - Flickr
 - Photographie
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453958061682688'
 ---
 <img src="https://farm4.static.flickr.com/3141/3112710601_b433c08431.jpg" alt="Survival Instinct..." />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/rerinha/3112710601/">Survival Instinct...</a></em>

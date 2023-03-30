@@ -11,12 +11,6 @@ tags:
 - Montreux
 - Musique
 - Programme
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453958061682688'
 ---
 <img src="https://farm4.static.flickr.com/3120/2675363336_575ca4891b.jpg" alt="Montreux Jazz" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/28149885@N03/2675363336/">Montreux Jazz</a></em>

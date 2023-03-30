@@ -6,14 +6,6 @@ categories:
 tags:
 - iPod
 - iPod Touch
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234523312'
-  shorturls: a:7:{s:9:"permalink";s:66:"https://www.alienlebarge.ch/2008/01/15/le-deuxieme-effet-ikisscool/";s:7:"tinyurl";s:25:"https://tinyurl.com/ajtf9z";s:4:"isgd";s:17:"https://is.gd/isao";s:5:"bitly";s:18:"https://bit.ly/xNMg";s:5:"snipr";s:22:"https://snipr.com/bc4iv";s:5:"snurl";s:22:"https://snurl.com/bc4iv";s:7:"snipurl";s:24:"https://snipurl.com/bc4iv";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://dlgjp9x71cipk.cloudfront.net/2008/01/itouch_emplacement.png" alt="Vous êtes pas ici" />
 

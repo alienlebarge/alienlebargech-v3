@@ -4,15 +4,6 @@ title: Un canadien qui s'appel Gonzales ...
 categories:
 - Musique
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:3:"DVD";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}}
-  tweetbackscheck: '1234524608'
-  shorturls: a:7:{s:9:"permalink";s:70:"https://www.alienlebarge.ch/2007/05/03/un-canadien-qui-sappel-gonzales/";s:7:"tinyurl";s:25:"https://tinyurl.com/d42ozn";s:4:"isgd";s:17:"https://is.gd/jgyy";s:5:"bitly";s:19:"https://bit.ly/LNbNt";s:5:"snipr";s:22:"https://snipr.com/bqrk8";s:5:"snurl";s:22:"https://snurl.com/bqrk8";s:7:"snipurl";s:24:"https://snipurl.com/bqrk8";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 ...cherchez l'erreur !
 

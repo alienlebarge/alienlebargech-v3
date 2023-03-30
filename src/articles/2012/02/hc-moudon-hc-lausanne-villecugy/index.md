@@ -13,19 +13,6 @@ tags:
 - HC Moudon
 - Photographie
 - Sport
-status: publish
-published: true
-meta:
-  _thumbnail_id: '5448'
-  _edit_last: '1'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453643551772673'
 ---
 Les voilà enfin les photos les photos de la semaine passée. <!--more-->
 

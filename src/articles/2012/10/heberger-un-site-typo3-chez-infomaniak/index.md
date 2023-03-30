@@ -9,11 +9,6 @@ tags:
 - Hébérgement
 - Infomaniak
 - Typo3
-status: publish
-published: true
-meta:
-  _wp_old_slug: typo3-chez-infomaniak-2
-  _edit_last: '1'
 ---
 Depuis maintenant plus d’une année, je gère un site <a title="TYPO3" href="https://www.typo3.org">TYPO3</a> hébérgé chez <a title="Infomaniak" href="https://www.infomaniak.ch">Infomaniak</a>. Il est temps de faire un petit retour sur expérience. <!--more-->
 

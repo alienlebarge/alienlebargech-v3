@@ -4,15 +4,6 @@ title: Two / Three
 categories:
 - Musique
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Critique";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}}
-  tweetbackscheck: '1234010484'
-  shorturls: a:7:{s:9:"permalink";s:48:"https://www.alienlebarge.ch/2007/05/23/two-three/";s:7:"tinyurl";s:25:"https://tinyurl.com/cj9cjd";s:4:"isgd";s:17:"https://is.gd/iwdl";s:5:"bitly";s:20:"https://bit.ly/2tFgeO";s:5:"snipr";s:22:"https://snipr.com/bd1vt";s:5:"snurl";s:22:"https://snurl.com/bd1vt";s:7:"snipurl";s:24:"https://snipurl.com/bd1vt";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/dabrye.png" alt="Dabrye" />
 

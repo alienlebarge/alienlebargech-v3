@@ -10,18 +10,6 @@ tags:
 - Flickr
 - Lightroom
 - Mots-clefs
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453673226469376'
 ---
 Lightroom gère mal la mise à jour des mots clés avec les exportations sur Flickr.
 

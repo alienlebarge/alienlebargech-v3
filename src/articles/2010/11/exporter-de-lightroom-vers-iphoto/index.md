@@ -11,15 +11,6 @@ tags:
 - iPhoto
 - Lightroom
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  tmac_last_id: '256453822757625856'
 ---
 <img class="alignnone size-large wp-image-2579" title="Exporter un fichier" src="https://dlgjp9x71cipk.cloudfront.net/2010/11/Exporter-un-fichier-994x1024.png" alt="" width="500" height="515" />
 

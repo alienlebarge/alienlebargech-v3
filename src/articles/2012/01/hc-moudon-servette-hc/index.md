@@ -12,20 +12,6 @@ tags:
 - Handball
 - HC Moudon
 - Servette HC
-status: publish
-published: true
-meta:
-  _thumbnail_id: '5411'
-  _edit_last: '1'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _wp_old_slug: hc-moudon-hc-servette
-  tmac_last_id: '256453648173895680'
 ---
 Je les avaient un peu oubliées les photos de la rencontre de Moudon face à Servette. Et bien les voilà ... <!--more-->
 
