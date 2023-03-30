@@ -33,12 +33,18 @@ hr {
    #PRE
    ------------------------------------- */
 
+/**
+ * 1. Enable programming ligatures
+ */
+
 pre {
     display: block;
 
     color: var(--color-gray-shade-1);
 
     background-color: var(--color-gray-shade-6);
+
+    font-feature-settings: "dlig"; /* [1] */
 
     overflow-x: scroll;
     padding-block: var(--space-2xs);

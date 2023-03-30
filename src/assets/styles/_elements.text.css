@@ -132,10 +132,15 @@ abbr {
    #CODE
    ------------------------------------- */
 
+/**
+ * 1. Enable programming ligatures
+ */
+
 code,
 samp,
 var {
     font-family: var(--font-family-monospace);
+    font-feature-settings: "dlig"; /* [1] */
     font-variant-numeric: tabular-nums;
     hanging-punctuation: none;
 }
