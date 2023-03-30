@@ -9,19 +9,6 @@ tags:
 - Malapaluz
 - Poussette
 - Promenade
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _wp_old_slug: ballade-le-long-du-talents
-  tmac_last_id: '256453624203452416'
 ---
 Depuis que nous sommes parents, nous sommes souvent à la recherche de ballade sympathique à faire avec une poussette. Malheureusement, les sites internet de ballades ou même les livres ne proposent que rarement des ballades à proximité de chez nous ou d'une distance qui nous convienne.
 Nous avons donc décidé de partager avec vous celle que nous découvrons en nous disant que nous ne devons pas être les mêmes parents dans ce cas. <!--more-->

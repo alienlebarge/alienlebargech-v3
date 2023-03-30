@@ -6,14 +6,6 @@ categories:
 tags:
 - Personnel
 - Travail
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234045696'
-  shorturls: a:7:{s:9:"permalink";s:46:"https://www.alienlebarge.ch/2008/03/08/new-job/";s:7:"tinyurl";s:25:"https://tinyurl.com/ary3nk";s:4:"isgd";s:17:"https://is.gd/isYz";s:5:"bitly";s:18:"https://bit.ly/UGkd";s:5:"snipr";s:22:"https://snipr.com/bcdlf";s:5:"snurl";s:22:"https://snurl.com/bcdlf";s:7:"snipurl";s:24:"https://snipurl.com/bcdlf";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://farm3.static.flickr.com/2089/2313333977_085582e7e4.jpg" alt="Nouveau bureau" />
 <em><a href="https://www.flickr.com/photos/alienlebarge/2313333977/" title="photo sharing">Nouveau bureau</a></em>

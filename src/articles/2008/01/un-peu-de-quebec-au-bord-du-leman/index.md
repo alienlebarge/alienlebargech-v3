@@ -11,14 +11,6 @@ tags:
 - Musique
 - Québec
 - Tricot Machine
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234462038'
-  shorturls: a:7:{s:9:"permalink";s:72:"https://www.alienlebarge.ch/2008/01/08/un-peu-de-quebec-au-bord-du-leman/";s:7:"tinyurl";s:25:"https://tinyurl.com/athg57";s:4:"isgd";s:17:"https://is.gd/itQR";s:5:"bitly";s:20:"https://bit.ly/3EJ83e";s:5:"snipr";s:22:"https://snipr.com/bcj7m";s:5:"snurl";s:22:"https://snurl.com/bcj7m";s:7:"snipurl";s:24:"https://snipurl.com/bcj7m";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://farm2.static.flickr.com/1203/622472987_2b9080c01f.jpg" alt="Le drapeau du Québec s'affiche à la St-Jean 0440" />
 <em><a href="https://www.flickr.com/photos/zecanadablog/622472987/" title="photo sharing">Le drapeau du Québec s'affiche à la St-Jean 0440</a></em>

@@ -9,11 +9,6 @@ tags:
 - Logiciel
 - NetNewsWire
 - rss
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453904362004480'
 ---
 <img class="alignnone size-full wp-image-1395" title="NetNewsWire" src="https://dlgjp9x71cipk.cloudfront.net/2009/08/netnewswire.png" alt="NetNewsWire" width="500" height="281" />
 

@@ -3,17 +3,6 @@ date: 2007-08-06
 title: Dédicace
 categories:
 - Mode
-tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Design";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"Mode";}i:2;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}i:3;O:8:"stdClass":1:{s:3:"tag";s:8:"T-shirts";}}
-  _wp_old_slug: dedicasse
-  tweetbackscheck: '1234211915'
-  shorturls: a:7:{s:9:"permalink";s:47:"https://www.alienlebarge.ch/2007/08/06/dedicace/";s:7:"tinyurl";s:25:"https://tinyurl.com/cy9opd";s:4:"isgd";s:17:"https://is.gd/iQ0k";s:5:"bitly";s:20:"https://bit.ly/2r1L4T";s:5:"snipr";s:22:"https://snipr.com/bj104";s:5:"snurl";s:22:"https://snurl.com/bj104";s:7:"snipurl";s:24:"https://snipurl.com/bj104";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/08/dejeuner.png" alt="T-shirt" />
 

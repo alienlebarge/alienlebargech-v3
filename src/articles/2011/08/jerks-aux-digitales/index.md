@@ -10,22 +10,6 @@ tags:
 - Les Digitales
 - Live
 - Musique
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  soy_box_size: Tiny (135px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  hide_post_image: default
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  tmac_last_id: '256453749923540994'
 ---
 Un peu de pub pour la famille ne fait pas de mal.
 

@@ -7,10 +7,6 @@ tags:
 - application Cache
 - Cache
 - chrome
-status: publish
-published: true
-meta:
-  _edit_last: '1'
 ---
 Ces temps, je suis en plein dans le développement d'une application mobile. De ce fait, je dois m'appuyer sur les différents systèmes de cache à disposition. Chrome est le navigateur que j'utilise pour mes tests. Ne me souvenant jamais des différents raccourcis pour vider les caches, j'ai décidé de les écrire une bonne fois pour toutes.
 <ul>

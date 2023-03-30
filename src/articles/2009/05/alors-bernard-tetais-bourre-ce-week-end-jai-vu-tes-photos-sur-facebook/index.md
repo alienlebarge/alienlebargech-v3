@@ -10,12 +10,6 @@ tags:
 - Photographie
 - Profil
 - social
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453942530170881'
 ---
 <img class="alignnone size-full wp-image-1182" title="M et Mme X et Mlle (plus pour longtemps) Y" src="https://dlgjp9x71cipk.cloudfront.net/2009/05/sante.png" alt="M et Mme X et Mlle (plus pour longtemps) Y" width="500" height="375" />
 

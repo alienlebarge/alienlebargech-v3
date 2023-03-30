@@ -12,23 +12,6 @@ tags:
 - Islande
 - Parc
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  _thumbnail_id: '3600'
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: 'yes'
-  post_color: black
-  layout: default
-  tmac_last_id: '256453749923540994'
 ---
 <a href="https://www.alienlebarge.ch/2011/07/16/islandic-horse/">Comme promis</a>, voici quelques photographies de notre récent voyage en Islande.
 

@@ -9,11 +9,6 @@ tags:
 - Jeux
 - Musique
 - Vidéo
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453979133837312'
 ---
 <img class="alignnone size-full wp-image-1029" title="dp" src="https://dlgjp9x71cipk.cloudfront.net/2009/02/dp.png" alt="dp" width="500" height="281" />
 

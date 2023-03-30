@@ -4,16 +4,6 @@ title: Para One signe la BO de Naissance des Pieuvres
 categories:
 - Cinéma
 - Musique
-tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Cinéma";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"Vidéo";}}
-  tweetbackscheck: '1234440299'
-  shorturls: a:7:{s:9:"permalink";s:85:"https://www.alienlebarge.ch/2007/08/22/para-one-signe-la-bo-de-naissance-des-pieuvres/";s:7:"tinyurl";s:25:"https://tinyurl.com/b8oa69";s:4:"isgd";s:17:"https://is.gd/ikdd";s:5:"bitly";s:20:"https://bit.ly/16kCJi";s:5:"snipr";s:22:"https://snipr.com/b9x68";s:5:"snurl";s:22:"https://snurl.com/b9x68";s:7:"snipurl";s:24:"https://snipurl.com/b9x68";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/08/pieuvres.png" alt="La naissance des pieuvres" />
 

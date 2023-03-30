@@ -8,16 +8,6 @@ tags:
 - DJ
 - Musique
 - Vinyl
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  enclosure: "https://www.alienlebarge.ch/filebrowser/musique/djset/alienlebarge_-_Piste_Vita_mix.mp3\r\n23504683\r\naudio/mpeg\r\n"
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  tmac_last_id: '256453825324539904'
 ---
 <a title="Vinyl de alienlebarge, sur Flickr" href="https://www.flickr.com/photos/alienlebarge/3180520996/"><img src="https://farm4.static.flickr.com/3470/3180520996_a011c2bb3e.jpg" alt="Vinyl" width="500" height="281" /></a>
 

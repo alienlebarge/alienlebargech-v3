@@ -4,15 +4,6 @@ title: Un peu de classement
 categories:
 - Personnel
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Cinema";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"Jeux";}i:2;O:8:"stdClass":1:{s:3:"tag";s:5:"Livre";}i:3;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}i:4;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}}
-  tweetbackscheck: '1234220210'
-  shorturls: a:7:{s:9:"permalink";s:59:"https://www.alienlebarge.ch/2007/05/25/un-peu-de-classement/";s:7:"tinyurl";s:25:"https://tinyurl.com/cfm5ak";s:4:"isgd";s:17:"https://is.gd/iwku";s:5:"bitly";s:19:"https://bit.ly/13OTB";s:5:"snipr";s:22:"https://snipr.com/bd2xm";s:5:"snurl";s:22:"https://snurl.com/bd2xm";s:7:"snipurl";s:24:"https://snipurl.com/bd2xm";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/classement.png" alt="Classement" />
 

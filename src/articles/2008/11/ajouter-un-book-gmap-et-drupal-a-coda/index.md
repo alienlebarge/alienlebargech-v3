@@ -13,15 +13,6 @@ tags:
 - Panic
 - Programmation
 - Ressource
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234598052'
-  shorturls: a:7:{s:9:"permalink";s:76:"https://www.alienlebarge.ch/2008/11/01/ajouter-un-book-gmap-et-drupal-a-coda/";s:7:"tinyurl";s:25:"https://tinyurl.com/dmlyud";s:4:"isgd";s:17:"https://is.gd/ikgC";s:5:"bitly";s:18:"https://bit.ly/tMAv";s:5:"snipr";s:22:"https://snipr.com/b9xpd";s:5:"snurl";s:22:"https://snurl.com/b9xpd";s:7:"snipurl";s:24:"https://snipurl.com/b9xpd";}
-  twittercomments: a:1:{i:1186824306;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: '256454045349335040'
 ---
 <img class="alignnone size-medium wp-image-724" title="Coda Books" src="https://dlgjp9x71cipk.cloudfront.net/2008/11/codabooks.png" alt="" width="500" height="281" />
 

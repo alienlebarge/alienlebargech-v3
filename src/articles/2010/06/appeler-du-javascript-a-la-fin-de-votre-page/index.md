@@ -1,6 +1,5 @@
 ---
 date: 2010-06-17
-
 title: Appeler du JavaScript à la fin de votre page
 categories:
 - Typo3
@@ -13,16 +12,6 @@ tags:
 - Typo3
 - TypoScript
 - web
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _syntaxhighlighter_encoded: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  tmac_last_id: '256453852868513792'
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2010/06/alienlebarge-·-utility-futility1-500x367.png" alt="" title="ySlow" width="500" height="367" class="alignnone size-medium wp-image-1674" />
 <p>Lorsque vous passez votre site dans YSlow, celui-ci vous dit de placer vos JavaScript à la fin de vos page.</p>

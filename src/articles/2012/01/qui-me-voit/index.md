@@ -7,19 +7,6 @@ tags:
 - Marketing
 - Publicité
 - T-shirts
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _thumbnail_id: '5278'
-  tmac_last_id: '256453660207353856'
 ---
 Histoire de faire un petit coup de pub pour le site, je me suis fait un t-shirt clicclac.ch. Vous l'avez vu ? <!--more-->
 

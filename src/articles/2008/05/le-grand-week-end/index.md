@@ -6,15 +6,6 @@ categories:
 tags:
 - Parc Aventure
 - Personnel
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234185435'
-  shorturls: a:7:{s:9:"permalink";s:56:"https://www.alienlebarge.ch/2008/05/03/le-grand-week-end/";s:7:"tinyurl";s:25:"https://tinyurl.com/awhc58";s:4:"isgd";s:17:"https://is.gd/iBIs";s:5:"bitly";s:18:"https://bit.ly/OPrk";s:5:"snipr";s:22:"https://snipr.com/beqc4";s:5:"snurl";s:22:"https://snurl.com/beqc4";s:7:"snipurl";s:24:"https://snipurl.com/beqc4";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500" height="283" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="intl_lang=fr-fr&amp;photo_secret=0353e5de1e&amp;photo_id=2461328754" /><param name="bgcolor" value="#000000" /><param name="allowFullScreen" value="true" /><param name="src" value="https://www.flickr.com/apps/video/stewart.swf?v=49235" /><embed type="application/x-shockwave-flash" width="500" height="283" src="https://www.flickr.com/apps/video/stewart.swf?v=49235" allowfullscreen="true" bgcolor="#000000" flashvars="intl_lang=fr-fr&amp;photo_secret=0353e5de1e&amp;photo_id=2461328754"></embed></object> 
 

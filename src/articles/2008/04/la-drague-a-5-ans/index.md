@@ -6,15 +6,6 @@ categories:
 tags:
 - Drague
 - Humour
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234602201'
-  shorturls: a:7:{s:9:"permalink";s:56:"https://www.alienlebarge.ch/2008/04/03/la-drague-a-5-ans/";s:7:"tinyurl";s:25:"https://tinyurl.com/cklzyc";s:4:"isgd";s:17:"https://is.gd/iK8r";s:5:"bitly";s:18:"https://bit.ly/YxHH";s:5:"snipr";s:22:"https://snipr.com/bgw5o";s:5:"snurl";s:22:"https://snurl.com/bgw5o";s:7:"snipurl";s:24:"https://snipurl.com/bgw5o";}
-  twittercomments: a:4:{i:1191155939;s:7:"retweet";i:1186847161;s:7:"retweet";i:1186678639;s:7:"retweet";i:1186662253;s:7:"retweet";}
-  tweetcount: '4'
-  tmac_last_id: ''
 ---
 <img class="alignnone size-full wp-image-486" title="Smile" src="https://dlgjp9x71cipk.cloudfront.net/2008/04/petitnicolas.png" alt="Smile" width="500" height="281" />
 

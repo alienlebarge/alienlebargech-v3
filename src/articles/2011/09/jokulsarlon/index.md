@@ -10,23 +10,6 @@ tags:
 - Jökulsárlón
 - Lac
 - Voyage
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  soy_box_size: Medium (485px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  _thumbnail_id: '4008'
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  unlink_post_title: default
-  layout: default
-  post_color: black
-  hide_post_title: default
-  tmac_last_id: '256453733284712448'
 ---
 On continue <a href="https://www.clicclac.ch/2011/09/03/skaftafell/">nos pérégrinations islandaises</a>.
 

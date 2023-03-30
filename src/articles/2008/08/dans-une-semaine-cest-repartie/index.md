@@ -6,16 +6,6 @@ categories:
 tags:
 - Armée
 - Personnel
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  enclosure: "https://dlgjp9x71cipk.cloudfront.net/2008/08/reportage-fabienne-tabar_-une-ecole-de-recrue-300608.mp3\r\n7169464\r\naudio/mpeg\r\n"
-  tweetbackscheck: '1234326044'
-  shorturls: a:7:{s:9:"permalink";s:69:"https://www.alienlebarge.ch/2008/08/10/dans-une-semaine-cest-repartie/";s:7:"tinyurl";s:25:"https://tinyurl.com/aed9mx";s:4:"isgd";s:17:"https://is.gd/ikew";s:5:"bitly";s:20:"https://bit.ly/4u0wAL";s:5:"snipr";s:22:"https://snipr.com/b9xd0";s:5:"snurl";s:22:"https://snurl.com/b9xd0";s:7:"snipurl";s:24:"https://snipurl.com/b9xd0";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://farm3.static.flickr.com/2324/1852433831_62aad4ae27.jpg" alt="M109 @ night" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/1852433831/">M109 @ night</a></em>

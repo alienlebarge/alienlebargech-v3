@@ -5,16 +5,6 @@ categories:
 - Sport
 - Technologie
 tags: []
-status: publish
-published: true
-meta:
-  cocomment_trackall: ''
-  _utw_tags_0: a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Humour";}i:1;O:8:"stdClass":1:{s:3:"tag";s:3:"Mac";}i:2;O:8:"stdClass":1:{s:3:"tag";s:5:"Sport";}i:3;O:8:"stdClass":1:{s:3:"tag";s:11:"Technologie";}}
-  tweetbackscheck: '1234557136'
-  shorturls: a:7:{s:9:"permalink";s:43:"https://www.alienlebarge.ch/2007/07/26/puma/";s:7:"tinyurl";s:25:"https://tinyurl.com/akjemv";s:4:"isgd";s:17:"https://is.gd/iuVf";s:5:"bitly";s:18:"https://bit.ly/irKg";s:5:"snipr";s:22:"https://snipr.com/bcrgh";s:5:"snurl";s:22:"https://snurl.com/bcrgh";s:7:"snipurl";s:24:"https://snipurl.com/bcrgh";}
-  twittercomments: a:2:{i:1193013628;s:7:"retweet";i:1192046325;s:7:"retweet";}
-  tweetcount: '2'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/07/pumaplus.png" alt="Puma+" />
 

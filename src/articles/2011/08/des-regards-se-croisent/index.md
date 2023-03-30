@@ -10,24 +10,6 @@ tags:
 - Marécottes
 - Photographie
 - Piscine
-status: publish
-published: true
-meta:
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  lightbox_link: https://dlgjp9x71cipk.cloudfront.net/2011/08/20082011-IMG_0729-Modifier.jpg
-  _thumbnail_id: '3955'
-  _edit_last: '1'
-  soy_box_size: Medium (485px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: '256453749923540994'
 ---
 Photo infrarouge de la piscine des Marécottes.
 

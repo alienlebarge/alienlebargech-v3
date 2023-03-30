@@ -10,19 +10,6 @@ tags:
 - Matériel
 - Photographie
 - Sangle
-status: publish
-published: true
-meta:
-  hide_post_image: 'yes'
-  _thumbnail_id: '4621'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  _edit_last: '1'
-  tmac_last_id: '256453692532862976'
 ---
 Luma Labs <a title="An open letter to our customers, past and future" href="https://lu.ma/blogs/news/4540122-an-open-letter-to-our-customers-past-and-future">annonce sur sont site</a> qu'ils stoppent la production de leurs sangles Loop et LoopIt. Tous ceci pour une question brevet.
 

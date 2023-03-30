@@ -11,12 +11,6 @@ tags:
 - Suisse
 - Technique
 - Tutoriel
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453912704454656'
 ---
 <img class="alignnone size-full wp-image-1342" title="Firework" src="https://dlgjp9x71cipk.cloudfront.net/2009/07/firework.jpg" alt="Firework" width="500" height="324" />
 

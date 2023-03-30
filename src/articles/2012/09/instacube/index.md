@@ -11,19 +11,6 @@ tags:
 - Instagram
 - Kickstarter
 - Photographie
-status: publish
-published: true
-meta:
-  _thumbnail_id: '6105'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453587989852161'
-  _edit_last: '1'
 ---
 Si vous êtes un fervent utilisateur d'<a href="https://www.instagram.com/">Instagram</a>, vous aimerez certainement ce projet de <a title="Site de la société Design 2 Matter" href="https://d2m-inc.com/"><abbr title="Design To Matter">D2M</abbr></a>. <!--more-->
 

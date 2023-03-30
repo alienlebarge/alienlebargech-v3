@@ -8,23 +8,6 @@ tags:
 - Modeselektor
 - Monkeytown
 - Musique
-status: publish
-published: true
-meta:
-  soy_post_style: Normal
-  soy_show_desc: 'Yes'
-  soy_show_title: 'Yes'
-  _thumbnail_id: '4045'
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  soy_box_size: Default (310px)
-  tmac_last_id: '256453730298363904'
 ---
 Le Duo berlinois sort son troisième album studio. Celui-ci fait la part belle aux collaborations (prestigieuses !).<!--more-->
 

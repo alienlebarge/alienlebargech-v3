@@ -4,16 +4,6 @@ title: Doigts de pied en éventail
 categories:
 - Personnel
 tags: []
-status: publish
-published: true
-meta:
-  cocomment_trackall: ''
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:9:"Personnel";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Vacance";}}
-  tweetbackscheck: '1234353761'
-  shorturls: a:7:{s:9:"permalink";s:65:"https://www.alienlebarge.ch/2007/07/13/doigts-de-pied-en-eventail/";s:7:"tinyurl";s:25:"https://tinyurl.com/b6uatu";s:4:"isgd";s:17:"https://is.gd/j9Aw";s:5:"bitly";s:18:"https://bit.ly/4gP4";s:5:"snipr";s:22:"https://snipr.com/bopn7";s:5:"snurl";s:22:"https://snurl.com/bopn7";s:7:"snipurl";s:24:"https://snipurl.com/bopn7";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/07/tunesia.png" alt="Tunisie" />
 

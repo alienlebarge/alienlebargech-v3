@@ -7,15 +7,6 @@ tags:
 - Concert
 - Modeselektor
 - Musique
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234540107'
-  shorturls: a:7:{s:9:"permalink";s:63:"https://www.alienlebarge.ch/2008/05/23/modeselektor-ce-week-end/";s:7:"tinyurl";s:25:"https://tinyurl.com/b86sp6";s:4:"isgd";s:17:"https://is.gd/iHkS";s:5:"bitly";s:18:"https://bit.ly/P3R0";s:5:"snipr";s:22:"https://snipr.com/bg461";s:5:"snurl";s:22:"https://snurl.com/bg461";s:7:"snipurl";s:24:"https://snipurl.com/bg461";}
-  twittercomments: a:1:{i:1174515354;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: ''
 ---
 <img src="https://farm1.static.flickr.com/70/191628195_37cb0a2cb2.jpg" alt="Modeselektor (BPitch Control / Berlin)" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/loewenhertz/191628195/">Modeselektor (BPitch Control / Berlin)</a></em>

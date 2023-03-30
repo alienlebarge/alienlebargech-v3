@@ -7,15 +7,6 @@ tags:
 - Blog
 - Humour
 - Liens
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234587697'
-  shorturls: a:7:{s:9:"permalink";s:78:"https://www.alienlebarge.ch/2008/11/27/quelques-liens-pour-sauver-vos-journees/";s:7:"tinyurl";s:25:"https://tinyurl.com/alrzss";s:4:"isgd";s:17:"https://is.gd/ikh0";s:5:"bitly";s:18:"https://bit.ly/TP80";s:5:"snipr";s:22:"https://snipr.com/b9xs4";s:5:"snurl";s:22:"https://snurl.com/b9xs4";s:7:"snipurl";s:24:"https://snipurl.com/b9xs4";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454033169063936'
 ---
 <img class="alignnone size-medium wp-image-810" title="I must go my planet need me" src="https://dlgjp9x71cipk.cloudfront.net/2008/11/imustgomyp128595871512198295.jpg" alt="" width="500" height="375" />
 

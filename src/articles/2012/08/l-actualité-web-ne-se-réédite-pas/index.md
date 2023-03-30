@@ -5,16 +5,6 @@ categories:
 - Non classé
 tags: []
 status: draft
-published: false
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
 ---
 La réédition de news ou articles déjà parrues n'est pas une bonne pratique sur le web. <!--more-->
 <h2>Les clients RSS mettent les articles en cache !</h2>

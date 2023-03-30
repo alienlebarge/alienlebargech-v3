@@ -6,12 +6,6 @@ categories:
 tags:
 - Internet
 - twitter
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453963392626689'
 ---
 <img class="alignnone size-full wp-image-1071" title="Twitter" src="https://dlgjp9x71cipk.cloudfront.net/2009/03/twitter.png" alt="Twitter" width="500" height="281" />
 

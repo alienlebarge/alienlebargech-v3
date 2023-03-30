@@ -11,19 +11,6 @@ tags:
 - Critique
 - DJ
 - TMA-1
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  hide_post_image: default
-  hide_post_date: default
-  _thumbnail_id: '5382'
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_title: default
-  post_color: default
-  layout: default
-  tmac_last_id: '256453651198009344'
 ---
 Un petit retour d'expérience après quelques jours d'utilisation du TMA-1. <!--more-->
 

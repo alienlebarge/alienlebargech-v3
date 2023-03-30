@@ -5,14 +5,6 @@ categories:
 - Personnel
 tags:
 - Armée
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234258178'
-  shorturls: a:7:{s:9:"permalink";s:59:"https://www.alienlebarge.ch/2007/10/19/une-semaine-de-faite/";s:7:"tinyurl";s:25:"https://tinyurl.com/avm24f";s:4:"isgd";s:17:"https://is.gd/iOvR";s:5:"bitly";s:18:"https://bit.ly/hVX7";s:5:"snipr";s:22:"https://snipr.com/biith";s:5:"snurl";s:22:"https://snurl.com/biith";s:7:"snipurl";s:24:"https://snipurl.com/biith";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://farm3.static.flickr.com/2405/1638294332_df250bc6c6.jpg" alt="Le pont vu d'en-bas" />
 <em><a href="https://www.flickr.com/photos/alienlebarge/1638294332/" title="photo sharing">Le pont vu d'en-bas</a></em>

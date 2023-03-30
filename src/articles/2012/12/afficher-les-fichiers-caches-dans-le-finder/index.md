@@ -9,11 +9,6 @@ tags:
 - Finder
 - Mac
 - OSX
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
 ---
 Afin d'éditer les fichiers <code>.htaccess</code> et autres <code>.gitconfig</code>, il est toujours utile de les afficher dans le Finder.
 Voici la marche à suivre :

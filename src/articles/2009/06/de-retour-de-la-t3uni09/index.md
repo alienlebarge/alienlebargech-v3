@@ -10,12 +10,6 @@ tags:
 - CMS
 - Typo3
 - Université
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453921910960128'
 ---
 <img class="alignnone size-full wp-image-1291" title="T3unifr09" src="https://dlgjp9x71cipk.cloudfront.net/2009/06/T3unifr09.jpg" alt="T3unifr09" width="500" height="333" />
 

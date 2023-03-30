@@ -9,11 +9,6 @@ tags:
 - Photographie
 - Télémètre
 - X1
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453891997192192'
 ---
 <img class="alignnone size-medium wp-image-1425" title="Leica M9" src="https://dlgjp9x71cipk.cloudfront.net/2009/11/leica-m9-550x468-500x425.jpg" alt="Leica M9" width="500" height="425" />
 

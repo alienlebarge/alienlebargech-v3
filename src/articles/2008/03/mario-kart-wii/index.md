@@ -8,15 +8,6 @@ tags:
 - Mario
 - Nintendo
 - Wii
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234246179'
-  shorturls: a:7:{s:9:"permalink";s:53:"https://www.alienlebarge.ch/2008/03/29/mario-kart-wii/";s:7:"tinyurl";s:25:"https://tinyurl.com/b53aov";s:4:"isgd";s:17:"https://is.gd/iJzG";s:5:"bitly";s:18:"https://bit.ly/uIXI";s:5:"snipr";s:22:"https://snipr.com/bgqzv";s:5:"snurl";s:22:"https://snurl.com/bgqzv";s:7:"snipurl";s:24:"https://snipurl.com/bgqzv";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://dlgjp9x71cipk.cloudfront.net/2008/03/mariokartwii.png" alt="Mario Kart Wii" />
 

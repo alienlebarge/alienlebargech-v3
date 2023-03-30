@@ -9,15 +9,6 @@ tags:
 - Internet
 - Le site
 - Wordpress
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234600137'
-  shorturls: a:7:{s:9:"permalink";s:63:"https://www.alienlebarge.ch/2008/12/10/wordpress-27-ca-demenage/";s:7:"tinyurl";s:25:"https://tinyurl.com/cjkyzu";s:4:"isgd";s:17:"https://is.gd/ikg8";s:5:"bitly";s:18:"https://bit.ly/oZnA";s:5:"snipr";s:22:"https://snipr.com/b9xnh";s:5:"snurl";s:22:"https://snurl.com/b9xnh";s:7:"snipurl";s:24:"https://snipurl.com/b9xnh";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454017411067905'
 ---
 <img class="alignnone size-full wp-image-883" title="Wordpress 2.7" src="https://dlgjp9x71cipk.cloudfront.net/2008/12/wp.png" alt="Wordpress 2.7" width="500" height="281" />Qu'on se le dise, <a href="https://www.wordpress.org">Wordpress</a> est en train de devenir un standard web. Bientôt, en plus de vous demander si vous savez le PHP ou les CSS, on vous posera la question si vous savez utiliser Wordpress lorsque vous présenterez pour une place ayant trait au web.
 

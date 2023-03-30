@@ -9,15 +9,6 @@ tags:
 - Hiver
 - Luge
 - Sport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234463862'
-  shorturls: a:7:{s:9:"permalink";s:64:"https://www.alienlebarge.ch/2009/01/18/luge-davos-le-test-ultime/";s:7:"tinyurl";s:25:"https://tinyurl.com/akesvt";s:4:"isgd";s:17:"https://is.gd/ilmv";s:5:"bitly";s:20:"https://bit.ly/32RySQ";s:5:"snipr";s:22:"https://snipr.com/ba78b";s:5:"snurl";s:22:"https://snurl.com/ba78b";s:7:"snipurl";s:24:"https://snipurl.com/ba78b";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256453994241744896'
 ---
 <img class="alignnone" title="La photo d'une luge Davos" src="https://farm4.static.flickr.com/3362/3206259790_de55995432.jpg" alt="Davos original" width="500" height="281" /> 
 

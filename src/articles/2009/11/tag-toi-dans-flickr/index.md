@@ -8,11 +8,6 @@ tags:
 - Flickr
 - Photographie
 - social
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453894874476545'
 ---
 <img class="alignnone size-medium wp-image-1418" title="Flickr Tag" src="https://dlgjp9x71cipk.cloudfront.net/2009/11/FlickrTag-499x404.png" alt="Flickr Tag" width="499" height="404" />
 

@@ -3,16 +3,6 @@ date: 2007-08-13
 title: Monkey Swallows The Univers - The Casket Letter
 categories:
 - Musique
-tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Critique";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}}
-  tweetbackscheck: '1234026778'
-  shorturls: a:7:{s:9:"permalink";s:84:"https://www.alienlebarge.ch/2007/08/13/monkey-swallows-the-univers-the-casket-letter/";s:7:"tinyurl";s:25:"https://tinyurl.com/b5s3hk";s:4:"isgd";s:17:"https://is.gd/iyCb";s:5:"bitly";s:18:"https://bit.ly/Tlvn";s:5:"snipr";s:22:"https://snipr.com/bdrps";s:5:"snurl";s:22:"https://snurl.com/bdrps";s:7:"snipurl";s:24:"https://snipurl.com/bdrps";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/08/monkeyswallow.png" alt="Monkey Swallows The Univers" />
 

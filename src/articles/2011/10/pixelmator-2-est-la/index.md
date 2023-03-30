@@ -6,24 +6,6 @@ categories:
 tags:
 - Logiciel
 - Pixelmator
-status: publish
-published: true
-meta:
-  hide_post_date: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_image: default
-  lightbox_link: ''
-  layout: default
-  post_color: default
-  _edit_last: '1'
-  soy_box_size: Tiny (135px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  _thumbnail_id: '4065'
-  tmac_last_id: '256453718789214209'
 ---
 La nouvelle mouture du concurrent de Photoshop est <a href="https://www.pixelmator.com/buy">disponible depuis aujourd'hui sur l'App Store</a>.<!--more-->
 

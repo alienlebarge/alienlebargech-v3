@@ -7,15 +7,6 @@ tags:
 - Be Your Own Pet
 - Musique
 - Rock
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234067759'
-  shorturls: a:7:{s:9:"permalink";s:66:"https://www.alienlebarge.ch/2008/07/20/be-your-own-pet-get-awkward/";s:7:"tinyurl";s:25:"https://tinyurl.com/alfy4h";s:4:"isgd";s:17:"https://is.gd/ikea";s:5:"bitly";s:18:"https://bit.ly/tj70";s:5:"snipr";s:22:"https://snipr.com/b9xay";s:5:"snurl";s:22:"https://snurl.com/b9xay";s:7:"snipurl";s:24:"https://snipurl.com/b9xay";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  
 

@@ -4,15 +4,6 @@ title: Un rien peu rendre heureux
 categories:
 - Programmation
 tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"digit.apéro";}i:1;O:8:"stdClass":1:{s:3:"tag";s:13:"Programmation";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"Projet";}}
-  tweetbackscheck: '1234101755'
-  shorturls: a:7:{s:9:"permalink";s:65:"https://www.alienlebarge.ch/2007/05/08/un-rien-peu-rendre-heureux/";s:7:"tinyurl";s:25:"https://tinyurl.com/aksarl";s:4:"isgd";s:17:"https://is.gd/iwVq";s:5:"bitly";s:18:"https://bit.ly/CdKk";s:5:"snipr";s:22:"https://snipr.com/bd8sk";s:5:"snurl";s:22:"https://snurl.com/bd8sk";s:7:"snipurl";s:24:"https://snipurl.com/bd8sk";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/le_layout_2.png" alt="Le layout 2" />
 

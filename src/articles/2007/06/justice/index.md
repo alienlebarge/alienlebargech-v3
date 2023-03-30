@@ -3,17 +3,6 @@ date: 2007-06-20
 title: Justice - †
 categories:
 - Musique
-tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Critique";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}}
-  cocomment_trackall: ''
-  tweetbackscheck: '1234180522'
-  shorturls: a:7:{s:9:"permalink";s:56:"https://www.alienlebarge.ch/2007/06/20/justice-%e2%80%a0/";s:7:"tinyurl";s:25:"https://tinyurl.com/c6bw3k";s:4:"isgd";s:17:"https://is.gd/iNRK";s:5:"bitly";s:19:"https://bit.ly/16qLb";s:5:"snipr";s:22:"https://snipr.com/bibpp";s:5:"snurl";s:22:"https://snurl.com/bibpp";s:7:"snipurl";s:24:"https://snipurl.com/bibpp";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
  <img src="https://dlgjp9x71cipk.cloudfront.net/2007/06/justice.png" alt="Justice" />
 

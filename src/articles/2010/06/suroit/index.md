@@ -8,23 +8,6 @@ tags:
 - Folk
 - Orbe
 - Suroît
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  _thumbnail_id: '1652'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453855720665089'
 ---
 En ouvrant le programme du <a title="Site du festival de Pully" href="https://www.pully-quebec.ch/">festival Pully à l'heure du Québec</a>, qu'elle ne fut pas ma surprise qu'une soirée avait lieu à Orbe à quelques centaines de mètres de chez nous. À l'affiche ce soir-là : <a title="Site internet de Suroît" href="https://www.suroit.mu/">Suroît</a>. Après quelques recherches, j'ai appris qu'il venait des Îles de la Madelaine et qu'ils avaient l'habitude de jouer devant quelques milliers de personnes. On s'est dit que ça devait être pas mal.
 

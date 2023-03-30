@@ -9,15 +9,6 @@ tags:
 - Hip-Hop
 - Musique
 - Ninja Tune
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234442293'
-  shorturls: a:7:{s:9:"permalink";s:69:"https://www.alienlebarge.ch/2008/06/28/daedelus-love-to-make-music-to/";s:7:"tinyurl";s:25:"https://tinyurl.com/cnaf53";s:4:"isgd";s:17:"https://is.gd/ikdY";s:5:"bitly";s:18:"https://bit.ly/y6Gu";s:5:"snipr";s:22:"https://snipr.com/b9x9l";s:5:"snurl";s:22:"https://snurl.com/b9x9l";s:7:"snipurl";s:24:"https://snipurl.com/b9x9l";}
-  twittercomments: a:1:{i:1187367317;s:7:"retweet";}
-  tweetcount: '1'
-  tmac_last_id: ''
 ---
 <img class="alignnone size-medium wp-image-545" title="Daedelus" src="https://dlgjp9x71cipk.cloudfront.net/2008/06/daedelus.png" alt="Daedelus" width="500" height="281" />
 

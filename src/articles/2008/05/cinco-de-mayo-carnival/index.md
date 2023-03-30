@@ -6,15 +6,6 @@ categories:
 tags:
 - art
 - Vidéo
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234357264'
-  shorturls: a:7:{s:9:"permalink";s:61:"https://www.alienlebarge.ch/2008/05/12/cinco-de-mayo-carnival/";s:7:"tinyurl";s:25:"https://tinyurl.com/aqdww3";s:4:"isgd";s:17:"https://is.gd/iAcI";s:5:"bitly";s:18:"https://bit.ly/FgL1";s:5:"snipr";s:22:"https://snipr.com/beg1w";s:5:"snurl";s:22:"https://snurl.com/beg1w";s:7:"snipurl";s:24:"https://snipurl.com/beg1w";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img class="alignnone size-medium wp-image-517" title="gdroue" src="https://dlgjp9x71cipk.cloudfront.net/2008/05/gdroue.png" alt="" width="500" height="281" />
 

@@ -8,19 +8,6 @@ tags:
 - Nintendo
 - Open Source
 - Zelda
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  unlink_post_title: default
-  layout: default
-  post_color: default
-  hide_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _thumbnail_id: '4718'
-  tmac_last_id: '256453681443127296'
 ---
 Des heures que j'y avais passé à balader Link dans le Royaume d'Hyrule. Et bien, il est de retour ... mais en open source.
 

@@ -7,10 +7,6 @@ categories:
 tags:
 - GTD
 - Logiciel
-status: publish
-published: true
-meta:
-  _edit_last: '1'
 ---
 De la gestion de tâche simple et sans prise de tête.
 

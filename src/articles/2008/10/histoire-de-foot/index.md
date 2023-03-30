@@ -7,15 +7,6 @@ tags:
 - Football
 - Histoire
 - Sport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234527317'
-  shorturls: a:7:{s:9:"permalink";s:55:"https://www.alienlebarge.ch/2008/10/12/histoire-de-foot/";s:7:"tinyurl";s:25:"https://tinyurl.com/bl77bb";s:4:"isgd";s:17:"https://is.gd/ikgd";s:5:"bitly";s:18:"https://bit.ly/i0oj";s:5:"snipr";s:22:"https://snipr.com/b9xo4";s:5:"snurl";s:22:"https://snurl.com/b9xo4";s:7:"snipurl";s:24:"https://snipurl.com/b9xo4";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454057500237826'
 ---
 <img src="https://farm3.static.flickr.com/2099/2269677435_f9e848f4ea.jpg" alt="Feature: Sport" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/8890112@N05/2269677435/">Feature: Sport</a></em>

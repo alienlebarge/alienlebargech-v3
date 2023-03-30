@@ -3,16 +3,6 @@ date: 2010-11-09
 title: La liaison est rétablie
 categories:
 - Personnel
-tags: []
-status: publish
-published: true
-meta:
-  ratings_average: '0'
-  ratings_score: '0'
-  _wp_old_slug: ''
-  ratings_users: '0'
-  _edit_last: '1'
-  tmac_last_id: '256453832165449729'
 ---
 <img src="https://farm2.static.flickr.com/1405/5118542586_1cb1c98777.jpg" alt="Pointe à la Renomée" />
 

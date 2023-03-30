@@ -8,19 +8,6 @@ tags:
 - Livre
 - Photographie
 - Ressource
-status: publish
-published: true
-meta:
-  layout: default
-  _edit_last: '1'
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  link_url: https://www.digital-photography-school.com/12-days-of-christmas
-  tmac_last_id: '256453688942530562'
 ---
 <abbr title="Digital Photography School">dPs</abbr> propose chaque jours jusqu'à Noël <a href="https://www.digital-photography-school.com/12-days-of-christmas">des bundles de livres éléctroniques</a> sur les techniques de photographie.<!--more-->Personnellement, je n'ai jamais acheté de livre chez eux (il faut que je finisse ceux que j'ai en papier). Mais les prix proposés sont très intéressants.
 

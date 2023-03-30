@@ -10,16 +10,6 @@ tags:
 - Programmation
 - Projet
 - SQL
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"digit.apéro";}i:1;O:8:"stdClass":1:{s:3:"tag";s:13:"Programmation";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"Projet";}i:3;O:8:"stdClass":1:{s:3:"tag";s:3:"SQL";}}
-  _edit_last: '1'
-  tweetbackscheck: '1234601813'
-  shorturls: a:7:{s:9:"permalink";s:71:"https://www.alienlebarge.ch/2007/05/16/pas-deux-fois-les-memes-a-lapero/";s:7:"tinyurl";s:25:"https://tinyurl.com/cm3zjq";s:4:"isgd";s:17:"https://is.gd/iobZ";s:5:"bitly";s:18:"https://bit.ly/gdgn";s:5:"snipr";s:22:"https://snipr.com/bausc";s:5:"snurl";s:22:"https://snurl.com/bausc";s:7:"snipurl";s:24:"https://snipurl.com/bausc";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/05/exclusiviteapero.JPG" alt="Requêtes SQL" />
 

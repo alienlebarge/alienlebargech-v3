@@ -6,14 +6,6 @@ categories:
 tags:
 - Concours
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453868337111040'
 ---
 <p><img src="https://farm3.static.flickr.com/2678/4447227613_43e0ec37da.jpg" alt="wake up by Noub'" width="500" height="333" /></p>
 <p>Je n'avais encore jamais participé à un concours photo. La peur de ne pas être à la hauteur ou de faire "mal" me rebutait à me soumettre au jugement d'autrui. Mais voilà, je me suis dit que ça serrait bien une fois d'un faire un et que pour apprendre c'est très d'accepter la critique (même si j'aime pas ça).</p>

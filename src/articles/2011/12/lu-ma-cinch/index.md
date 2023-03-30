@@ -9,19 +9,6 @@ tags:
 - Luma Labs
 - Photographie
 - Sangle
-status: publish
-published: true
-meta:
-  hide_post_image: 'yes'
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  _thumbnail_id: '4676'
-  tmac_last_id: '256453682114199552'
 ---
 Dans <a title="La guerre des sangles" href="https://www.alienlebarge.ch/2011/12/14/la-guerre-des-sangles/">un précédent article</a>, je parlais du fait que l'équipe de Lu.ma planchait sur un nouveau produit. Il viennent de lever le voile. <!--more-->
 

@@ -8,15 +8,6 @@ tags:
 - Français
 - Musique
 - Québec
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234453691'
-  shorturls: a:7:{s:9:"permalink";s:54:"https://www.alienlebarge.ch/2008/11/25/coeur-de-pirate/";s:7:"tinyurl";s:25:"https://tinyurl.com/ap3ktd";s:4:"isgd";s:17:"https://is.gd/ilDR";s:5:"bitly";s:18:"https://bit.ly/t5eR";s:5:"snipr";s:22:"https://snipr.com/ba9ib";s:5:"snurl";s:22:"https://snurl.com/ba9ib";s:7:"snipurl";s:24:"https://snipurl.com/ba9ib";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454036037967872'
 ---
 <img class="alignnone size-medium wp-image-807" title="Coeur de Pirate" src="https://dlgjp9x71cipk.cloudfront.net/2008/11/coeurdepirate1.png" alt="" width="500" height="281" />
 

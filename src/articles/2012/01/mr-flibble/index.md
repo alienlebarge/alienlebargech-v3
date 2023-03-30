@@ -8,19 +8,6 @@ tags:
 - Flickr
 - Mr. Flibble
 - Portrait
-status: publish
-published: true
-meta:
-  hide_post_date: default
-  hide_post_meta: default
-  unlink_post_title: default
-  hide_post_title: default
-  post_color: default
-  layout: default
-  _edit_last: '1'
-  hide_post_image: 'yes'
-  _thumbnail_id: '5099'
-  tmac_last_id: '256453667954237441'
 ---
 Chaque jour, Mr. Flibble poste sur <a title="Compte Flickr de Mr. Flibble" href="https://www.flickr.com/photos/flibble/">son compte Flickr</a> un autoportrait. Toujours déjantées et pleines d'humour, ses photos vous tireront le rictus à coup sûr.
 

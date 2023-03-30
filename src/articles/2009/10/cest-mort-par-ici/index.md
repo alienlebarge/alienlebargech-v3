@@ -5,11 +5,6 @@ categories:
 - Personnel
 tags:
 - Vacances
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453898083123201'
 ---
 <img class="alignnone size-full wp-image-1409" title="allo, y a qqun au bout du tuyau ?" src="https://dlgjp9x71cipk.cloudfront.net/2009/10/2824871650_3a74fc4d77.jpg" alt="allo, y a qqun au bout du tuyau ?" width="500" height="375" />
 

@@ -7,14 +7,6 @@ tags:
 - Ecosse
 - Edinburgh
 - Vacances
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234332576'
-  shorturls: a:7:{s:9:"permalink";s:48:"https://www.alienlebarge.ch/2007/11/22/edinburgh/";s:7:"tinyurl";s:25:"https://tinyurl.com/2w5z75";s:4:"isgd";s:17:"https://is.gd/iJIE";s:5:"bitly";s:20:"https://bit.ly/1yDHqm";s:5:"snipr";s:22:"https://snipr.com/bgs86";s:5:"snurl";s:22:"https://snurl.com/bgs86";s:7:"snipurl";s:24:"https://snipurl.com/bgs86";}
-  twittercomments: a:2:{i:1175274867;s:7:"retweet";i:1175272906;s:7:"retweet";}
-  tweetcount: '2'
-  tmac_last_id: ''
 ---
  <img src="https://farm1.static.flickr.com/159/432310909_9f48e0e7ee.jpg" alt="Edinburgh Castle" />
 <em><a href="https://www.flickr.com/photos/scooterjohn/432310909/" title="photo sharing">Edinburgh Castle</a></em>

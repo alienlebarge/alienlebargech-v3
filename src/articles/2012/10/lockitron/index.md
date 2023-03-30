@@ -5,18 +5,6 @@ categories:
 - Matériel
 - Non classé
 tags: []
-status: publish
-published: true
-meta:
-  tmac_last_id: '256453582939889664'
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
 ---
 <a href="https://lockitron.com/">Lockitron</a> permet de fermer (et ouvrir) les portes au moyen d'un smartphone et ceci à distance. <!--more-->
 

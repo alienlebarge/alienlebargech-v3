@@ -4,19 +4,6 @@ title: Ribcap
 categories:
 - Non classé
 tags: []
-status: publish
-published: true
-meta:
-  layout: default
-  _edit_last: '1'
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _thumbnail_id: '5586'
-  tmac_last_id: '256453631618998272'
 ---
 C'est la fin de la saison de ski, mais parlons bonnet et casque.<!--more-->
 

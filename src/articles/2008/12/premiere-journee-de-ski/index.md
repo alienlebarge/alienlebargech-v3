@@ -9,15 +9,6 @@ tags:
 - Personnel
 - Ski
 - Sport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234596878'
-  shorturls: a:7:{s:9:"permalink";s:62:"https://www.alienlebarge.ch/2008/12/14/premiere-journee-de-ski/";s:7:"tinyurl";s:25:"https://tinyurl.com/de58qz";s:4:"isgd";s:17:"https://is.gd/iCLH";s:5:"bitly";s:20:"https://bit.ly/3uZQab";s:5:"snipr";s:22:"https://snipr.com/bewjm";s:5:"snurl";s:22:"https://snurl.com/bewjm";s:7:"snipurl";s:24:"https://snipurl.com/bewjm";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454014701535232'
 ---
 <img src="https://farm4.static.flickr.com/3068/3107465364_530ee60baa.jpg" alt="ski" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/3107465364/">ski</a></em>

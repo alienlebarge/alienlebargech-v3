@@ -7,12 +7,6 @@ tags:
 - css
 - design
 - Le site
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453924834398208'
 ---
 <img class="alignnone size-medium wp-image-1278" title="Un menu déroulant et c'est la fête" src="https://dlgjp9x71cipk.cloudfront.net/2009/06/tarski-500x375.jpg" alt="Un menu déroulant et c'est la fête" width="500" height="375" />
 

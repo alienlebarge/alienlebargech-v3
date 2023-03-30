@@ -13,23 +13,6 @@ tags:
 - HC Krienz
 - Photographie
 - Sport
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '3836'
-  soy_box_size: Medium (485px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: 'yes'
-  layout: default
-  post_color: black
-  tmac_last_id: '256453749923540994'
 ---
 La West Handball Cup s'est tenu la semaine passée à Crissier.
 

@@ -6,15 +6,6 @@ categories:
 tags:
 - Armée
 - Personnel
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234447758'
-  shorturls: a:7:{s:9:"permalink";s:48:"https://www.alienlebarge.ch/2008/09/10/semaine-3/";s:7:"tinyurl";s:25:"https://tinyurl.com/alnxex";s:4:"isgd";s:17:"https://is.gd/ikeJ";s:5:"bitly";s:18:"https://bit.ly/7JCa";s:5:"snipr";s:22:"https://snipr.com/b9xe7";s:5:"snurl";s:22:"https://snurl.com/b9xe7";s:7:"snipurl";s:24:"https://snipurl.com/b9xe7";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://farm4.static.flickr.com/3271/2830907030_02cc8653ed.jpg" alt="CR 2008" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/2830907030/">CR 2008</a></em>

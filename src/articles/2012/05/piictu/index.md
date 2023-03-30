@@ -12,19 +12,6 @@ tags:
 - Photographie
 - Piictu
 - social
-status: publish
-published: true
-meta:
-  hide_post_image: default
-  hide_post_date: default
-  hide_post_meta: default
-  unlink_post_title: default
-  hide_post_title: default
-  post_color: default
-  layout: default
-  _thumbnail_id: '5883'
-  _edit_last: '1'
-  tmac_last_id: '256453605714968576'
 ---
 L'application iPhone <a title="Site de Piictu" href="https://piictu.com/">Piictu</a> fait beaucoup de bruit ces jours. Le rachat d'<a title="Site web d'Instagram" href="https://instagr.am/">Instagram</a> par <a title="Facebook" href="https://www.facebook.com">Facebook</a> n'est surement pas étranger à tout ça. Après 10 minutes d'utilisation, je vais tenter de vous présenter cette application ;-)<!--more-->
 

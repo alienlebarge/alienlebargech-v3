@@ -3,18 +3,6 @@ date: 2007-07-12
 title: Flickr loves you
 categories:
 - Internet
-tags: []
-status: publish
-published: true
-meta:
-  cocomment_trackall: ''
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Design";}i:1;O:8:"stdClass":1:{s:3:"tag";s:8:"Internet";}}
-  _wp_old_slug: flickr-love-you
-  tweetbackscheck: '1234354000'
-  shorturls: a:7:{s:9:"permalink";s:55:"https://www.alienlebarge.ch/2007/07/12/flickr-loves-you/";s:7:"tinyurl";s:25:"https://tinyurl.com/aszu3r";s:4:"isgd";s:17:"https://is.gd/iNzs";s:5:"bitly";s:18:"https://bit.ly/Qbza";s:5:"snipr";s:22:"https://snipr.com/bi7se";s:5:"snurl";s:22:"https://snurl.com/bi7se";s:7:"snipurl";s:24:"https://snipurl.com/bi7se";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/07/flickr_love_you.png" alt="Flickr love you" />
 

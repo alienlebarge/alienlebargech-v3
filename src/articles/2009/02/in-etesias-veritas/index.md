@@ -8,12 +8,6 @@ tags:
 - Etiquette
 - Packaging
 - Vin
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453975665168385'
 ---
 <img class="alignnone size-full wp-image-1046" title="Syrah et Pinot Noir" src="https://dlgjp9x71cipk.cloudfront.net/2009/02/vin.png" alt="Syrah et Pinot Noir" width="500" height="281" />
 

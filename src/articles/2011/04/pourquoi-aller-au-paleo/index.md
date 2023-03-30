@@ -1,6 +1,5 @@
 ---
 date: 2011-04-05
-
 title: Pourquoi aller au Paléo ?
 categories:
 - Musique
@@ -8,18 +7,6 @@ tags:
 - Festival
 - Musique
 - Paléo
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: '256453796794880001'
 ---
 <img class="alignnone size-medium wp-image-2951" title="Paléo" src="https://dlgjp9x71cipk.cloudfront.net/2011/04/paleo_2006_large-500x333.jpg" alt="" width="500" height="333" />
 

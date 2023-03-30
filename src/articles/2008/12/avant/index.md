@@ -9,16 +9,6 @@ tags:
 - Avent
 - Fête
 - Noël
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  enclosure: "https://dlgjp9x71cipk.cloudfront.net/2008/12/120minnoel.mp3\r\n3890551\r\naudio/mpeg\r\n"
-  tweetbackscheck: '1234601390'
-  shorturls: a:7:{s:9:"permalink";s:44:"https://www.alienlebarge.ch/2008/12/04/avant/";s:7:"tinyurl";s:25:"https://tinyurl.com/dzymwe";s:4:"isgd";s:17:"https://is.gd/ikhc";s:5:"bitly";s:20:"https://bit.ly/30Pdsl";s:5:"snipr";s:22:"https://snipr.com/b9xt9";s:5:"snurl";s:22:"https://snurl.com/b9xt9";s:7:"snipurl";s:24:"https://snipurl.com/b9xt9";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454017847263232'
 ---
 <img src="https://farm4.static.flickr.com/3235/3086973394_21148fe562.jpg" alt="aCal" width="500" height="281" />
 <a title="aCal de alienlebarge, sur Flickr" href="https://www.flickr.com/photos/alienlebarge/3086973394/"><em>aCal</em></a>

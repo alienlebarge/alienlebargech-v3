@@ -8,12 +8,6 @@ tags:
 - Handball
 - Objectif
 - Sport
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453972389400576'
 ---
 <img src="https://farm4.static.flickr.com/3326/3337712678_44f56b79c7.jpg" alt="" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/3337712678/"></a></em>

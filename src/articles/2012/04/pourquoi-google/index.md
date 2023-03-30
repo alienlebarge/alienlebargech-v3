@@ -9,19 +9,6 @@ tags:
 - Internet
 - Réseau
 - social
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _thumbnail_id: '5829'
-  tmac_last_id: '256453615009533952'
 ---
 Le géant Google a sortie <a title="Google plus" href="https://plus.google.com/">son arme anti-facebook</a> l'année passée.  Il était temps de faire une "petite" mise à jour.<!--more-->
 

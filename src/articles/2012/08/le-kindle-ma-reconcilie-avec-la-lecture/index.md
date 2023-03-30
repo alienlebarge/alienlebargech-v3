@@ -12,19 +12,6 @@ tags:
 - Kindle Touch
 - Lecture
 - Livre électronique
-status: publish
-published: true
-meta:
-  hide_post_image: default
-  hide_post_date: default
-  hide_post_meta: default
-  unlink_post_title: default
-  hide_post_title: default
-  post_color: default
-  layout: default
-  _thumbnail_id: '6032'
-  _edit_last: '1'
-  tmac_last_id: '256453592481943552'
 ---
 Retour d'expérience sur ma dernière acquisition : le Kindle Touch
 

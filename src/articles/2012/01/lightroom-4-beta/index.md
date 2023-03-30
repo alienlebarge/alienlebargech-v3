@@ -10,20 +10,6 @@ tags:
 - Lightroom
 - Logiciel
 - Photographie
-status: publish
-published: true
-meta:
-  layout: default
-  _edit_last: '1'
-  post_color: default
-  video_url: ''
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _thumbnail_id: '5005'
-  tmac_last_id: '256453667954237441'
 ---
 Et oui, vous ne rêvez pas. La béta de Lightroom 4 est arrivée !
 

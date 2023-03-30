@@ -3,12 +3,6 @@ date: 2007-08-11
 title: Après-midi Sysex
 categories:
 - Musique
-tags: []
-status: publish
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Flickr";}i:1;O:8:"stdClass":1:{s:3:"tag";s:9:"Interface";}i:2;O:8:"stdClass":1:{s:3:"tag";s:7:"Musique";}}
-  tmac_last_id: ''
 ---
  <img src="https://farm2.static.flickr.com/1077/1082913836_f38b474a40.jpg" alt="C6 - Sysex Tool by Elektron v1.2b" />
 <em><a href="https://www.flickr.com/photos/alienlebarge/1082913836/" title="photo sharing">C6 - Sysex Tool by Elektron v1.2b</a></em>

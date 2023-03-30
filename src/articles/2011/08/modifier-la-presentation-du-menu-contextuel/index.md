@@ -1,6 +1,5 @@
 ---
 date: 2011-08-09
-
 title: Modifier la présentation du menu contextuel
 categories:
 - Typo3
@@ -10,16 +9,6 @@ tags:
 - Menu
 - TSconfig
 - Typo3
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  soy_box_size: Tiny (135px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  _syntaxhighlighter_encoded: '1'
-  tmac_last_id: '256453749923540994'
 ---
 Récemment, on m'a demandé de modifier la présentation du menu contextuel dans le backend Typo3. Même si je ne le recommande pas, vous trouverez ci-dessous un petit explicatif comment procéder.
 

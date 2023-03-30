@@ -12,19 +12,6 @@ tags:
 - Standard
 - Usabilité
 - ux
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _syntaxhighlighter_encoded: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453682114199552'
 ---
 Ce matin dans le train, je lisais "<a title="Mobil First sur a book apart" href="https://www.abookapart.com/products/mobile-first">Mobile First</a>" de Luke Wroblewski. Il y fait un bref étude de cas sur l'utilisation de la balise <a title="Description de l'élément label en HTML5" href="https://www.w3.org/TR/html5/forms.html#the-label-element">label</a> dans les formulaires. Je trouvais intéréssant de partager la reflexion avec vous.<!--more-->
 

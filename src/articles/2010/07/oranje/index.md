@@ -14,14 +14,6 @@ tags:
 - WC
 - WM
 - World Cup
-status: publish
-published: true
-meta:
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _edit_last: '1'
-  tmac_last_id: '256453846837121024'
 ---
 <img src="https://farm5.static.flickr.com/4020/4699631349_c2368c3908.jpg" alt="World Cup 2010 South Africa: Netherlands v Denmark" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/ryusha/4699631349/">World Cup 2010 South Africa: Netherlands v Denmark</a></em>

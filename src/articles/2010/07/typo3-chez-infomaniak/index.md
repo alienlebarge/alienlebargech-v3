@@ -9,16 +9,6 @@ tags:
 - Hébérgement
 - Infomaniak
 - Typo3
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _syntaxhighlighter_encoded: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  tmac_last_id: '256453838301712384'
 ---
 Actuellement en train de développer un site Typo3 chez Infomaniak, je me rend compte qu'il y a quelques spécialités à prendre en compte. Les lister pourrait être une bonne chose afin d'éviter de de devoir effectuer plusieurs fois les mêmes recherches (et si en plus ça peut être utile à d'autre). Alors voici sur quoi je suis tombé.
 

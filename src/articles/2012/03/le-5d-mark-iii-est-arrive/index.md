@@ -11,19 +11,6 @@ tags:
 - Boitier
 - Canon
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '5536'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453631618998272'
 ---
 Il était attendue depuis bien des mois (années ?). Canon a annoncé hier l'arrivé de la nouvelle version du 5D.
 

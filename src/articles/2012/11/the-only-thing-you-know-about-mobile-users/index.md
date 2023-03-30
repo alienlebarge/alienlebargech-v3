@@ -9,11 +9,6 @@ tags:
 - mobile
 - Screen
 - Size
-status: publish
-published: true
-meta:
-  _wp_old_slug: '6277'
-  _edit_last: '1'
 ---
 <blockquote><p>Knowing the type of device the user is holding doesn’t tell you anything about the user’s intent. Knowing someone’s location doesn’t tell you anything about her goals. You can’t make assumptions about what the user wants to do simply because she has a smaller screen.<br /> In fact, all you really know is: she has a smaller screen.</p>
 

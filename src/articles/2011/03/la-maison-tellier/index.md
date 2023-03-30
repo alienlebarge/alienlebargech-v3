@@ -9,18 +9,6 @@ tags:
 - Français
 - La Maison Tellier
 - Musique
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: '256453797935726592'
 ---
 <img class="alignnone size-full wp-image-2892" title="La Maison Tellier" src="https://dlgjp9x71cipk.cloudfront.net/2011/03/la-maison-tellier.jpg" alt="" width="500" height="333" />
 

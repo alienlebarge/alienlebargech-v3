@@ -9,12 +9,6 @@ tags:
 - Hudson Mohawke
 - Musique
 - Warp Records
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453939678027777'
 ---
 <img class="alignnone size-full wp-image-1202" title="Hudson Mohawke - Polyfolk Dance" src="https://dlgjp9x71cipk.cloudfront.net/2009/05/polyfolkdance.png" alt="Hudson Mohawke - Polyfolk Dance" width="500" height="281" />
 

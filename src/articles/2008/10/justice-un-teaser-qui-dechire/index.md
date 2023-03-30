@@ -7,15 +7,6 @@ tags:
 - Justice
 - Musique
 - Vidéo
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tweetbackscheck: '1234527706'
-  shorturls: a:7:{s:9:"permalink";s:68:"https://www.alienlebarge.ch/2008/10/02/justice-un-teaser-qui-dechire/";s:7:"tinyurl";s:25:"https://tinyurl.com/d9jmen";s:4:"isgd";s:17:"https://is.gd/ikg4";s:5:"bitly";s:19:"https://bit.ly/16xrm";s:5:"snipr";s:22:"https://snipr.com/b9xn7";s:5:"snurl";s:22:"https://snurl.com/b9xn7";s:7:"snipurl";s:24:"https://snipurl.com/b9xn7";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: '256454060394283008'
 ---
 <img class="alignnone size-medium wp-image-693" title="Justice" src="https://dlgjp9x71cipk.cloudfront.net/2008/10/justice.png" alt="" width="500" height="281" />
 

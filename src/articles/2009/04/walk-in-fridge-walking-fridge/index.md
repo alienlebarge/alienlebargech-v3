@@ -9,12 +9,6 @@ tags:
 - Humour
 - Publicité
 - Vidéo
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453948523835392'
 ---
 <img class="alignnone size-full wp-image-1139" title="Heineken" src="https://dlgjp9x71cipk.cloudfront.net/2009/04/heineken.png" alt="Heineken" width="500" height="281" />
 

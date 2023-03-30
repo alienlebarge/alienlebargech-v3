@@ -5,14 +5,6 @@ categories:
 - Logiciel
 tags:
 - Logiciel
-status: publish
-published: true
-meta:
-  tweetbackscheck: '1234317322'
-  shorturls: a:7:{s:9:"permalink";s:49:"https://www.alienlebarge.ch/2008/01/20/macheist-2/";s:7:"tinyurl";s:25:"https://tinyurl.com/d37elq";s:4:"isgd";s:17:"https://is.gd/j7cJ";s:5:"bitly";s:20:"https://bit.ly/3xVJhQ";s:5:"snipr";s:22:"https://snipr.com/bnuv0";s:5:"snurl";s:22:"https://snurl.com/bnuv0";s:7:"snipurl";s:24:"https://snipurl.com/bnuv0";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2008/01/macheist2.png" alt="MacHeist" />
 

@@ -7,12 +7,6 @@ tags:
 - Internet
 - Messagerie
 - web
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453979058352128'
 ---
 <img class="alignnone size-medium wp-image-1039" title="Une capture d'écran du site TinyChat" src="https://dlgjp9x71cipk.cloudfront.net/2009/02/tinychat-499x304.png" alt="Une capture d'écran du site TinyChat" width="499" height="304" />
 

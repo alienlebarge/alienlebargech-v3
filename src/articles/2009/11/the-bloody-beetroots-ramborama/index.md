@@ -7,11 +7,6 @@ tags:
 - Electro
 - Musique
 - The Bloody Beetroots
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453891267379200'
 ---
 <img class="alignnone size-medium wp-image-1428" title="the bloody beetroots" src="https://dlgjp9x71cipk.cloudfront.net/2009/11/tbb-artist-500x318.jpg" alt="the bloody beetroots" width="500" height="318" />
 

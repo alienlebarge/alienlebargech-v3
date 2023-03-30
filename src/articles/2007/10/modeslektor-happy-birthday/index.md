@@ -8,15 +8,6 @@ tags:
 - Bpitch Control
 - Modeselektor
 - Musique
-status: publish
-published: true
-meta:
-  _wp_old_slug: modeslektor-happy-birtday
-  tweetbackscheck: '1234604036'
-  shorturls: a:7:{s:9:"permalink";s:65:"https://www.alienlebarge.ch/2007/10/07/modeslektor-happy-birthday/";s:7:"tinyurl";s:25:"https://tinyurl.com/cqv8cr";s:4:"isgd";s:17:"https://is.gd/isVU";s:5:"bitly";s:19:"https://bit.ly/17YKo";s:5:"snipr";s:22:"https://snipr.com/bcd96";s:5:"snurl";s:22:"https://snurl.com/bcd96";s:7:"snipurl";s:24:"https://snipurl.com/bcd96";}
-  twittercomments: a:0:{}
-  tweetcount: '0'
-  tmac_last_id: ''
 ---
 <img src="https://dlgjp9x71cipk.cloudfront.net/2007/10/mdslktr_cowboy.png" alt="Modeselektor - Cow Boys" />
 

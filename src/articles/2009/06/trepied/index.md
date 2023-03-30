@@ -9,12 +9,6 @@ tags:
 - Matériel
 - Photographie
 - Trépied
-status: publish
-published: true
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  tmac_last_id: '256453928185647104'
 ---
 <img class="alignnone size-medium wp-image-1254" title="Manfrotto 190X Pro B" src="https://dlgjp9x71cipk.cloudfront.net/2009/06/2269969248_0c409615cc_o-500x332.jpg" alt="Manfrotto 190X Pro B" width="500" height="332" />
 

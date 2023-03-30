@@ -12,18 +12,6 @@ tags:
 - framework
 - html
 - JavaScript
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  layout: default
-  post_color: default
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453646735269888'
 ---
 Il y a quelques jours (mois), <a title="Lien vers l'article 'Amorcage de systeme'" href="https://www.alienlebarge.ch/2011/11/03/amorcage-de-systeme-schema-bleu-et-consort/">je vous parlais</a> de ressource (toolkit) HTML et CSS qui permettent de démarrer rapidement le développement d'un site. L'un deux, <a title="Site web de bootstrap" href="https://twitter.github.com/bootstrap/">Bootstrap</a> est passé à la version 2. <!--more-->
 

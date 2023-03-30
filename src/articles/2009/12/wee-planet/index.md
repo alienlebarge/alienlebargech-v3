@@ -9,11 +9,6 @@ tags:
 - Planète
 - Projection
 - Wee Planet
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  tmac_last_id: '256453883273048064'
 ---
 <img src="https://farm3.static.flickr.com/2225/1878347541_ddf1c43ca6.jpg" alt="Landing" />
 <em><a title="photo sharing" href="https://www.flickr.com/photos/gadl/1878347541/">Landing</a></em>

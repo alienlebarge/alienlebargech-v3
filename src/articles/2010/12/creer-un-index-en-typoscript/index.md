@@ -11,16 +11,6 @@ tags:
 - Snippet
 - Typo3
 - TypoScript
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _syntaxhighlighter_encoded: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  tmac_last_id: '256453813848928256'
 ---
 <img class="alignnone size-medium wp-image-2672" title="index" src="https://dlgjp9x71cipk.cloudfront.net/2010/12/index-500x373.jpg" alt="" width="500" height="373" />
 

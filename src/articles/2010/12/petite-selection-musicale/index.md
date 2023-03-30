@@ -8,15 +8,6 @@ tags:
 - Musique
 - Sélection
 - Vidéo
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: petite-selection-musical
-  tmac_last_id: '256453813848928256'
 ---
 <img class="alignnone size-medium wp-image-2656" title="iTunes" src="https://dlgjp9x71cipk.cloudfront.net/2010/12/iTunes-500x394.png" alt="" width="500" height="394" />
 
