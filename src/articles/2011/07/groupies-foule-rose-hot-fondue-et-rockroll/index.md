@@ -3,16 +3,6 @@ date: 2011-07-19
 title: Groupies, foule, rosé, hot-fondue et rock&amp;roll
 categories:
 - Photographie
-tags: []
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  soy_box_size: Tiny (135px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: '256453752893095937'
 ---
 ... et peut-être pluie.
 

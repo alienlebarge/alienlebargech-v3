@@ -8,18 +8,6 @@ tags:
 - Gris neutre
 - ND
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: '256453794840342528'
 ---
 La technique du "filé d'eau" ou "filé statique" m'a toujours attirée. Un trépied et un rotule avait déjà rejoint mon arsenal dans le but d'appliquer cette technique mais le filtre manquait encore.
 

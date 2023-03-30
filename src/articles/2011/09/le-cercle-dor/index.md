@@ -14,23 +14,6 @@ tags:
 - Photographie
 - Strokkur
 - Voyage
-status: publish
-published: true
-meta:
-  _thumbnail_id: '3961'
-  _edit_last: '1'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  hide_post_date: default
-  hide_post_image: default
-  hide_post_meta: default
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  tmac_last_id: '256453747348226048'
 ---
 Suite de nos pérégrinations islandaises :
 

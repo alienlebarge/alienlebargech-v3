@@ -8,23 +8,6 @@ categories:
 tags:
 - HDR
 - Islande
-status: publish
-published: true
-meta:
-  _thumbnail_id: '4076'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: 'yes'
-  _edit_last: '1'
-  soy_box_size: Large (660px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'No'
-  soy_post_style: Normal
-  tmac_last_id: '256453718336208896'
 ---
 Depuis notre voyage en Islande, je m'adonne à la HDR. Si on peut facilement obtenir des effets de "photos marsiennes", on peut aussi travailler en douceur afin de dévoiler tous les détails du sujet.
 

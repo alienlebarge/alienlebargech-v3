@@ -16,15 +16,6 @@ tags:
 - tt_news
 - Typo3
 - URL
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _syntaxhighlighter_encoded: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453803946164224'
 ---
 <img class="alignnone size-medium wp-image-2784" title="Do you speak machine ?" src="https://dlgjp9x71cipk.cloudfront.net/2011/02/doyouspeakmachine-500x373.jpg" alt="" width="500" height="373" />
 

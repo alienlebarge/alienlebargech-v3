@@ -10,24 +10,6 @@ tags:
 - MJOR
 - Photographie
 - Soirée
-status: publish
-published: true
-meta:
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: 'yes'
-  _thumbnail_id: '4181'
-  layout: default
-  post_color: black
-  lightbox_link: ''
-  _edit_last: '1'
-  soy_box_size: Tiny (135px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'No'
-  soy_post_style: Normal
-  tmac_last_id: '256453702049751040'
 ---
 Voici quelques photos prises durant la soirée de gala du <a title="Site du Mouvement juniors Orbe et région" href="https://www.mjor.ch">MJOR</a>.<!--more-->
 

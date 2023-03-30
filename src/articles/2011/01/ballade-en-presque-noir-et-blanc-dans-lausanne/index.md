@@ -13,27 +13,6 @@ tags:
 - Photographie
 - Rue
 - Street
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  _thumbnail_id: '2738'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  tmac_last_id: '256453804973756416'
 ---
 À la base cette balade avait pour but de sortir que <a title="Lien vers la galerie Flickr" href="https://www.flickr.com/photos/alienlebarge/sets/72157625710126205/">des photos en noir et blanc,</a> mais j'ai dû en laisser certaines en couleur :|
 

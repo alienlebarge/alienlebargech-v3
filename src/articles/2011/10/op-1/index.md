@@ -8,16 +8,6 @@ tags:
 - Musique
 - Op-1
 - Teenage Engineering
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  _thumbnail_id: '4054'
-  tmac_last_id: '256453728306094080'
 ---
 Il n'y a pas à dire, les Suédois sont très fort pour fabriquer des petites machines qui font rêver. On connaissait <a href="https://www.elektron.se/">Elektron</a> et leurs machinedrum, monomachine et ocotatrack. Voici que l'on découvre <a href="https://www.teenageengineering.com">Teenage Engineering</a> et leur OP-1.
 

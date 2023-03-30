@@ -7,18 +7,6 @@ tags:
 - Crumpler
 - Photographie
 - Sac
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: '256453794446053377'
 ---
 La marque australienne Crumpler sort un sac photo pour le moins intéressant. Il s'agit d'une poche que vous glisser à l'intérieur d'un sac. Si vous ne désirer ajouter des compartiments photos à un sac ordinaire, c'est la solution.
 

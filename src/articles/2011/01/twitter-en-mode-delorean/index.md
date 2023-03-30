@@ -8,14 +8,6 @@ tags:
 - Microbloging
 - Tweet
 - twitter
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453810183098368'
 ---
 <img class="alignnone size-medium wp-image-2700" title="Twitter 2010" src="https://dlgjp9x71cipk.cloudfront.net/2011/01/twitter2010-500x229.png" alt="" width="500" height="229" />
 

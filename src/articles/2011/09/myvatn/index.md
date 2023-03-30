@@ -11,23 +11,6 @@ tags:
 - Mývatn
 - Photographie
 - Voyage
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  _thumbnail_id: '4017'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: 'yes'
-  tmac_last_id: '256453732999495681'
 ---
 Le lac des mouches (traduction de Mývatn)  se situe dans le nord de l'Islande. Cette région regorge de "spécialités géologique".
 

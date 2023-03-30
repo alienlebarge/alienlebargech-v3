@@ -10,23 +10,6 @@ tags:
 - Mariage
 - Noir et blanc
 - Photographie
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  _thumbnail_id: '3489'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: 'yes'
-  tmac_last_id: '256453768512684032'
 ---
 Quelques photos du dernier mariage auquel nous avons assisté en temps qu'invités.
 J'aime beaucoup les clichés de la sortie avec le lancé ... de lavande (une première pour nous).

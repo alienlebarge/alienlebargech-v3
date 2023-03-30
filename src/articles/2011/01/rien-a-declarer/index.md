@@ -7,15 +7,6 @@ tags:
 - Cinéma
 - Douanier
 - Film
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _wp_old_slug: ''
-  tmac_last_id: '256453806718611456'
 ---
 <img class="alignnone size-medium wp-image-2730" title="Rien à déclarer" src="https://dlgjp9x71cipk.cloudfront.net/2011/01/rienadeclarer-500x281.png" alt="" width="500" height="281" />
 

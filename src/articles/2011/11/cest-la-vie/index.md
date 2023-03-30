@@ -6,26 +6,6 @@ categories:
 tags:
 - Coralie Clément
 - Musique
-status: publish
-published: true
-meta:
-  hide_post_date: default
-  hide_post_image: default
-  hide_post_meta: default
-  layout: default
-  post_color: default
-  video_url: https://youtu.be/thDU6HTaPBM
-  hide_post_title: default
-  unlink_post_title: default
-  _edit_last: '1'
-  soy_vid_url: https://youtu.be/thDU6HTaPBM
-  soy_box_size: Tiny (135px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'No'
-  soy_post_style: Normal
-  tmac_last_id: '256453705220620288'
-  _oembed_4054560bcae45758a220bd98ac313902: <iframe width="1024" height="768" src="https://www.youtube.com/embed/thDU6HTaPBM?fs=1&feature=oembed"
-    frameborder="0" allowfullscreen></iframe>
 ---
 Chanson du moment ...
 

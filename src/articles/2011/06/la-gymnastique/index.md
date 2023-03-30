@@ -12,26 +12,6 @@ tags:
 - Gymnaestrada
 - Gymnastique
 - Photographie
-status: publish
-published: true
-meta:
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _edit_last: '1'
-  soy_box_size: Medium (485px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: default
-  _thumbnail_id: '4961'
-  tmac_last_id: '256453791879139329'
 ---
 Il y a quelques mois, le <a title="Site du Groupe Vaudois" href="https://www.groupevaudois.ch/">Groupe Vaudois</a> m'a contacté pour faire des photos de leurs entraînements et production pour la <a title="Site de la Gymnaestrada 2011" href="https://www.wg-2011.com/">Gymnaestrada 2011</a>. La photo de gymnastique était une première pour moi. J’avoue que cette discipline m'était totalement étrangère. Les séances d'anneaux balançant et de barres parallèles à l'école était mes seules référence. Autant dire que c'est assez maigre.
 

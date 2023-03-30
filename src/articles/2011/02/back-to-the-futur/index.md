@@ -8,14 +8,6 @@ tags:
 - Passé
 - Photographie
 - Projet
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453799588286465'
 ---
 <img class="alignnone size-medium wp-image-2841" title="20_tommy-web" src="https://dlgjp9x71cipk.cloudfront.net/2011/02/20_tommy-web-500x169.jpg" alt="" width="500" height="169" />
 

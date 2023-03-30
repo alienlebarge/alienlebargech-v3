@@ -12,23 +12,6 @@ tags:
 - HC Moudon
 - Photographie
 - Sport
-status: publish
-published: true
-meta:
-  _thumbnail_id: '4126'
-  layout: default
-  post_color: black
-  hide_post_title: default
-  unlink_post_title: default
-  hide_post_meta: default
-  hide_post_date: default
-  hide_post_image: 'yes'
-  _edit_last: '1'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'No'
-  soy_post_style: Normal
-  tmac_last_id: '256453712460013568'
 ---
 La semaine passée, Etoy accueillait Moudon à la salle de Beausobre à Morges. C'était l'occasion de faire quelques photo de "hand'". Cela faisait quelques temps que je n'en avais plus fait.
 

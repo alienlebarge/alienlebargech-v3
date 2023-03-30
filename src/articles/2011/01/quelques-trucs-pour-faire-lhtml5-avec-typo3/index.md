@@ -9,15 +9,6 @@ tags:
 - JavaScript
 - Typo3
 - TypoScript
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  _syntaxhighlighter_encoded: '1'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  tmac_last_id: '256453810204078080'
 ---
 <img class="alignnone size-medium wp-image-2694" title="structure du html5" src="https://dlgjp9x71cipk.cloudfront.net/2011/01/structure-html5-500x250.gif" alt="" width="500" height="250" />
 

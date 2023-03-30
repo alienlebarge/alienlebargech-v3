@@ -3,16 +3,6 @@ date: 2011-07-10
 title: Changement de peau
 categories:
 - Le site
-tags: []
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-  soy_box_size: Default (310px)
-  soy_show_title: 'Yes'
-  soy_show_desc: 'Yes'
-  soy_post_style: Normal
-  tmac_last_id: '256453779833114624'
 ---
 Vous l'aurez remarqué, le site change de peau. Cela faisait un petit moment que je voulais quitter ce mode de présentation vertical des articles pour quelque chose de plus graphique. Il faut que je fasse encore quelques réglages, changements de couleur et traductions, mais j'en suis très content.
 
