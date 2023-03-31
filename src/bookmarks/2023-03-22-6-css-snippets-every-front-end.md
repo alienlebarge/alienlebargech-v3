@@ -9,6 +9,7 @@ syndication:
   - https://twitter.com/alienlebarge/status/1638421237960433664
 ---
 The 6 snippets are:
+
 - container queries
 - scroll snap
 - avoid `position: absolute` with grid
