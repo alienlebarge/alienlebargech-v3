@@ -39,7 +39,7 @@ Histoire de justifier le fait qu'un jour je pourrais avoir une AppleTV qui ne so
 	<li>Location d'événement : non disponible</li>
 	<li>Streaming et accès au contenu multimédia ordinateur : oui</li>
 </ul>
-On se rend compte que les machines n'ont pas la même utilité. Swisscom est vraiment un accès à la télévision avec en plus de la location et de l'enregistrement. L'Apple TV quant à elle est un centre multimédia ("media center") déporté. Elle vous permettra de visionner sur votre télévision les contenus des ordinateurs qui se trouvent sur votre réseau.
+On se rend compte que les machines n'ont pas la même utilité. Swisscom est vraiment un accès à la télévision avec en plus de la location et de l'enregistrement. L'Apple TV quant à elle est un centre multimédia ("media center") déporté. Elle vous permettra de visionner sur votre télévision les contenus des ordinateurs qui se trouvent sur votre réseau.
 
 Pour l'instant, l'offre des films Apple ne rivalise pas avec celle de Swisscom. Il faut voir avec le temps. Personnellement, je trouve que mettre 20 CHF pour acheter un film en format digital est un peu chère (je disais la même chose des MP3). Celà dit pour accéder à ma musique depuis la télé ça me plairait bien. Et 129 CHF, c'est le prix d'une Airport Express.
 

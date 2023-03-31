@@ -19,8 +19,8 @@ Ce matin dans le train, je lisais "<a title="Mobil First sur a book apart" href=
 
 Beaucoup de sites par soucis de gain de place n'affichent plus les label. Le label est directement afficher dans l'input. D'un point de vu graphique c'est tout à fait louable, mais l'usabilité du formulaire s'en voit réduite.
 
-Le site <a title="Page d'accueil du site Twitter" href="https://twitter.com/">Twitter </a>dans son formulaire d'inscription affiche le texte d'aide directement dans le champs de saisie. Graphiquement c'est très bien. Mais imaginez si vous avez une dizaine de champs à remplir. Une fois toutes les informations saisies, vous n'avez plus aucun moyen de savoir si vous avez malencontreusement inscris votre courriel professionnel alors que le privé était demandé. Pour se faire, il faut supprimer vos informations. Vous adviendrez que l'usabilité peux être meilleure.
-De plus, si on jet un oeil le code HTML, on remarque que la balise label est inexistante. Les textes d'aide se trouvent dans des balise span. Les règles d'accessibilités ne sont pas respectées. Il sera donc difficile pour les personnes malvoyante de remplir le formulaire.
+Le site <a title="Page d'accueil du site Twitter" href="https://twitter.com/">Twitter </a>dans son formulaire d'inscription affiche le texte d'aide directement dans le champs de saisie. Graphiquement c'est très bien. Mais imaginez si vous avez une dizaine de champs à remplir. Une fois toutes les informations saisies, vous n'avez plus aucun moyen de savoir si vous avez malencontreusement inscris votre courriel professionnel alors que le privé était demandé. Pour se faire, il faut supprimer vos informations. Vous adviendrez que l'usabilité peux être meilleure.
+De plus, si on jet un oeil le code HTML, on remarque que la balise label est inexistante. Les textes d'aide se trouvent dans des balise span. Les règles d'accessibilités ne sont pas respectées. Il sera donc difficile pour les personnes malvoyante de remplir le formulaire.
 
 [html highlight="4,8,12"]
 &lt;form action=&quot;https://twitter.com/signup&quot; class=&quot;signup signup-btn&quot; method=&quot;post&quot;&gt;
@@ -43,17 +43,17 @@ De plus, si on jet un oeil le code HTML, on remarque que la balise label est i
 &lt;/form&gt;
 [/html]
 
-On remarque également que texte saisie et texte d'aide se différencient juste par une légère variation de gris. On peut mieux faire.
+On remarque également que texte saisie et texte d'aide se différencient juste par une légère variation de gris. On peut mieux faire.
 
 [caption id="attachment_4687" align="alignleft" width="250" caption="La version mobile de Twitter propose un formulaire d&#39;inscription avec les labels à l&#39;extérieur des champs de saisie"]<a href="https://dlgjp9x71cipk.cloudfront.net/2011/12/label_outside.png"><img class="size-medium wp-image-4687" title="Twitter mobile login form" src="https://dlgjp9x71cipk.cloudfront.net/2011/12/label_outside-250x232.png" alt="Capture d'écran du formulaire d'inscription à Twitter dans sa version mobile" width="250" height="232" /></a>[/caption]
 
-Pour palier au problème mentionné ci-dessus, il est préférable de favoriser une utilisation sert plus classique des labels mais bien plus utilisable.
+Pour palier au problème mentionné ci-dessus, il est préférable de favoriser une utilisation sert plus classique des labels mais bien plus utilisable.
 
-Toujours<a title="Formulaire d'inscription sur la version mobile de Twitter" href="https://mobile.twitter.com/signup"> Twitter mais dans sa version mobile</a> cette fois propose un formulaire d'inscription avec les labels à l'extérieur. C'est un peu moi beau mais bien plus fonctionnel. De plus, un exemple de de saisie est affiché dans l'input pour aider l'internaute.
+Toujours<a title="Formulaire d'inscription sur la version mobile de Twitter" href="https://mobile.twitter.com/signup"> Twitter mais dans sa version mobile</a> cette fois propose un formulaire d'inscription avec les labels à l'extérieur. C'est un peu moi beau mais bien plus fonctionnel. De plus, un exemple de de saisie est affiché dans l'input pour aider l'internaute.
 
 Les labels à l'extérieurs sont toujours présents et donc permettent de toujours savoir quelle information ne devons saisir.
 
-Par contre si on regarde le HTML, on peux voir que ce n'est pas une balise label qui est utiliser mais un div. Les standards ne sont également pas respectés.
+Par contre si on regarde le HTML, on peux voir que ce n'est pas une balise label qui est utiliser mais un div. Les standards ne sont également pas respectés.
 
 [html highlight="4,9,12,19,24-28,31,36,40-42,50-52"]
 &lt;form action=&quot;/signup&quot; method=&quot;post&quot;&gt;&lt;div style=&quot;margin:0;padding:0;display:inline&quot;&gt;&lt;input name=&quot;authenticity_token&quot; type=&quot;hidden&quot; value=&quot;9052d033a3d28705d6af&quot;&gt;&lt;/div&gt;
@@ -124,12 +124,12 @@ En cliquant sur &quot;Créer mon compte&quot; ci-dessous, vous acceptez nos &lt;
 &lt;/form&gt;
 [/html]
 
-Lorsque vous créez un formulaire, partez sur une base simple et standard. Vous pourrez l'améliorer graphiquement avec des feuilles de style. Mais surtout respecter les standards d'accessibilité. Ça vous évitera beaucoup de problème. Mieux vaut un formulaire moins beau mais utilisable qu'un formulaire bling bling auquel on ne comprend rien.
+Lorsque vous créez un formulaire, partez sur une base simple et standard. Vous pourrez l'améliorer graphiquement avec des feuilles de style. Mais surtout respecter les standards d'accessibilité. Ça vous évitera beaucoup de problème. Mieux vaut un formulaire moins beau mais utilisable qu'un formulaire bling bling auquel on ne comprend rien.
 
 Voici comment je structure mes formulaires :
 
 [html]
-&lt;form action=&quot;/action.php&quot; method=&quot;post&quot;&gt;  &lt;fieldset&gt;    &lt;legend&gt;Ajouter un commentaire&lt;/legend&gt;    &lt;p&gt;      &lt;label for=&quot;firstname&quot;&gt;Pr��nom&lt;/label&gt;&lt;br&gt;      &lt;input class=&quot;text&quot; type=&quot;text&quot; name=&quot;firstname&quot; id=&quot;firstname&quot; value=&quot;&quot;&gt;     &lt;/p&gt;
+&lt;form action=&quot;/action.php&quot; method=&quot;post&quot;&gt;  &lt;fieldset&gt;    &lt;legend&gt;Ajouter un commentaire&lt;/legend&gt;    &lt;p&gt;      &lt;label for=&quot;firstname&quot;&gt;Pr��nom&lt;/label&gt;&lt;br&gt;      &lt;input class=&quot;text&quot; type=&quot;text&quot; name=&quot;firstname&quot; id=&quot;firstname&quot; value=&quot;&quot;&gt;     &lt;/p&gt;
     &lt;p&gt;
       &lt;label for=&quot;name&quot;&gt;Nom&lt;/label&gt;&lt;br&gt;
       &lt;input class=&quot;text&quot; type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; value=&quot;&quot;&gt;

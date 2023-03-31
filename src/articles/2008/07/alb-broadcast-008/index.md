@@ -16,7 +16,7 @@ Bonne écoute ...
 
 <!--more-->
 
-<strong>Playliste alb broadcat #008</strong> - <a title="Télécharger alb broadcast #008" href="https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_008.mp3">à emporter ici</a>
+<strong>Playliste alb broadcat #008</strong> - <a title="Télécharger alb broadcast #008" href="https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_008.mp3">à emporter ici</a>
 
 Daedelus - Bass In It
 Apparat - Holdon (Modeselektor rmx)

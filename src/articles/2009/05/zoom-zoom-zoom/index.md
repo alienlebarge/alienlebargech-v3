@@ -19,7 +19,7 @@ Depuis quelques jours que je regarde de quel zoom, je pourrais équiper mon 450d
 
 <strong>Canon EF 70-300 mm / 4.0-5.6 IS USM</strong>
 
-<a href="https://dlgjp9x71cipk.cloudfront.net/2009/05/ef-70-300mm-w200_tcm109-306154.jpg"><img class="alignright size-thumbnail wp-image-1208" title="Canon EF 70-300mm f4-5.6 IS USM" src="https://dlgjp9x71cipk.cloudfront.net/2009/05/ef-70-300mm-w200_tcm109-306154-150x150.jpg" alt="Canon EF 70-300mm f4-5.6 IS USM" width="150" height="150" /></a>J'ai déjà eu la chance de tester cet objectif.  La possibilité de zoomer à 300 mm pèse dans la balance. Cela dit, il faut que je teste si un tel zoom m’est utile. Pour des photos de foot, je me demande si un 200mm ne suffirait pas.
+<a href="https://dlgjp9x71cipk.cloudfront.net/2009/05/ef-70-300mm-w200_tcm109-306154.jpg"><img class="alignright size-thumbnail wp-image-1208" title="Canon EF 70-300mm f4-5.6 IS USM" src="https://dlgjp9x71cipk.cloudfront.net/2009/05/ef-70-300mm-w200_tcm109-306154-150x150.jpg" alt="Canon EF 70-300mm f4-5.6 IS USM" width="150" height="150" /></a>J'ai déjà eu la chance de tester cet objectif.  La possibilité de zoomer à 300 mm pèse dans la balance. Cela dit, il faut que je teste si un tel zoom m’est utile. Pour des photos de foot, je me demande si un 200mm ne suffirait pas.
 
 Dans de faibles conditions lumineuses, son ouverture provoque quelques mauvaises surprises lorsqu’on zoom à fond.
 

@@ -30,11 +30,11 @@ I’m very happy with the result on the technical side.  The Hexmix does a reall
 - which algorithm is selected on Plaits (and what sound sound it produce)
 - what sounds will play Radio Music
 
-The Arbhar is used as an effect. I use the « Aux » to send sounds and create atmospheric background sound. It works very well. I only need a way to clear Arbhar’s buffer when I need. I can try different things like:
+The Arbhar is used as an effect. I use the « Aux » to send sounds and create atmospheric background sound. It works very well. I only need a way to clear Arbhar’s buffer when I need. I can try different things like:
 
 - Set the density of the grains to 0
 - Use the follow mode
-- Use a sawtooth wave and an « end of fall » trigger to control the capture
+- Use a sawtooth wave and an « end of fall » trigger to control the capture
 
 So, there is still a lot to improve and explore. That's what's great about Eurorack. Your system is always evolving.
 

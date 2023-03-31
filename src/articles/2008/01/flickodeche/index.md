@@ -28,7 +28,7 @@ Et comment c'est qu'on fait ?
 Sur cette photo, on pourrait ajouter les tags "lausanne", "1,2", "fabrice", "cave" etc...
 Si vous vous reconnaissez sur une photo ou quelqu'un d'autre, mettez le prénom par exemple. Ca peut être cool pour retrouver des photos de gens.
 
-Les tags sont diponible ici :  <a href="https://dlgjp9x71cipk.cloudfront.net/2008/01/tag.png" title="Tag"><img src="https://dlgjp9x71cipk.cloudfront.net/2008/01/tag.thumbnail.png" alt="Tag" /></a>
+Les tags sont diponible ici :  <a href="https://dlgjp9x71cipk.cloudfront.net/2008/01/tag.png" title="Tag"><img src="https://dlgjp9x71cipk.cloudfront.net/2008/01/tag.thumbnail.png" alt="Tag" /></a>
 
 Si c'est une photo qui peut aller dans l'album "Best of the dèche", rien de plus simple : laisser un petit commentaire.
 
@@ -36,4 +36,4 @@ Si c'est une photo qui peut aller dans l'album "Best of the dèche", rien de plu
 Certaines personnes vont me dire "Ouais, mais on arrive pas à voir toutes les photos !". Et je répond que c'est parce que il faut créer un compte et que je vous accèpte parmis mes amis. (et que vous soyez un de mes amis).</em>
 
 <em>PS2
-Je sais pas pourquoi j'écris tout ça, je pense que l'impact ne serra pas très grand ;) sauf pour <a href="https://dlgjp9x71cipk.cloudfront.net/2008/01/perruque.jpg" title="Mr. Anonyme">ceux qui ont du temps</a>. </em>
+Je sais pas pourquoi j'écris tout ça, je pense que l'impact ne serra pas très grand ;) sauf pour <a href="https://dlgjp9x71cipk.cloudfront.net/2008/01/perruque.jpg" title="Mr. Anonyme">ceux qui ont du temps</a>. </em>

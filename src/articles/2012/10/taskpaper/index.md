@@ -10,7 +10,7 @@ tags:
 ---
 De la gestion de tâche simple et sans prise de tête.
 
-Depuis longtemps j’utilise <a title="Omnifocus" href="https://www.omnigroup.com/products/omnifocus">Omnifocus</a> pour la gestion de mes tâches quotidiennes. Dernièrement, j’ai redécouvert <a title="TaskPaper" href="https://www.hogbaysoftware.com/products/TaskPaper">Taskpaper</a>, un logiciel que je possédais déjà depuis quelques années, mais sur lequel je ne m’étais jamais penché. <!--more-->
+Depuis longtemps j’utilise <a title="Omnifocus" href="https://www.omnigroup.com/products/omnifocus">Omnifocus</a> pour la gestion de mes tâches quotidiennes. Dernièrement, j’ai redécouvert <a title="TaskPaper" href="https://www.hogbaysoftware.com/products/TaskPaper">Taskpaper</a>, un logiciel que je possédais déjà depuis quelques années, mais sur lequel je ne m’étais jamais penché. <!--more-->
 <h2 id="labdcontrele.txt">La BD contre le .txt</h2>
 <a title="TaskPaper" href="https://www.hogbaysoftware.com/products/TaskPaper">Taskpaper</a> comme <a title="Omnifocus" href="https://www.omnigroup.com/products/omnifocus">Omnifocus</a> permet de gérer des tâches. Mais là où Omnifucus enregistre ses informations dans une base de données propriétaire <a title="TaskPaper" href="https://www.hogbaysoftware.com/products/TaskPaper">Taskpaper</a> lui se base sur de simples fichiers texte.
 
@@ -50,7 +50,7 @@ Par exemple, j’utilise les tags du type <code>due(2012-12-24)</code> afin de s
 
 Il m’est alors possible de filtrer l’affichage en fonction de ces nouveaux tags. De plus je peux appliquer une colorisation particulière aux tâches en retard.
 <h3 id="cestsimplenonoise">C’est simple, no noise</h3>
-L’utilisation est extrêmement simple. Il n’y a pas des options partout. On reste donc foclaisé sur les tâches à effectuer et non sur leur gestion.
+L’utilisation est extrêmement simple. Il n’y a pas des options partout. On reste donc foclaisé sur les tâches à effectuer et non sur leur gestion.
 <h2 id="conclusion">Conclusion</h2>
 Cela fait maintenant 2 semaines que j’utilise TaskPaper. Je me suis retenu d’écrire un article dans la première heure d’utilisation. Mais après cette période, je suis très satisfait de ce système.
 

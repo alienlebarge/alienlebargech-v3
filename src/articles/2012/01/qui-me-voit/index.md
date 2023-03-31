@@ -8,7 +8,7 @@ tags:
 - Publicité
 - T-shirts
 ---
-Histoire de faire un petit coup de pub pour le site, je me suis fait un t-shirt clicclac.ch. Vous l'avez vu ? <!--more-->
+Histoire de faire un petit coup de pub pour le site, je me suis fait un t-shirt clicclac.ch. Vous l'avez vu ? <!--more-->
 
 On verra si ça va augmenter les visites du site. Comme premier test, je compte le porter durant la rencontre opposant HBC West à USY Yverdon ce week-end (21 janvier)
 

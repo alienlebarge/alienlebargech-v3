@@ -8,4 +8,4 @@ tags:
 - Concert
 - Photographie
 ---
-Article intéressant sur le fait de payer ou non les photos de concert.
+Article intéressant sur le fait de payer ou non les photos de concert.

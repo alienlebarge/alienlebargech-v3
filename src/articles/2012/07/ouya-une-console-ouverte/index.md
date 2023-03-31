@@ -12,14 +12,14 @@ tags:
 ---
 Encore un projet qui fait parler de lui sur Kickstarter la plateforme de financement participatif (<a title="Définition du crowfunding" href="https://fr.wikipedia.org/wiki/Crowdfunding">crowfunding</a>).
 
-<a title="Le projet Ouya sur Kickstarter" href="https://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console">Ouya</a>, c'est le nom d'une console de salon. Le but du projet était de levé 950 000 dollars. Le but était éteint en huit heures ! A l'heure où j'écrit ces lignes, deux jour plus tard, le projet a levé 3 960 000 dollars. <!--more-->
+<a title="Le projet Ouya sur Kickstarter" href="https://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console">Ouya</a>, c'est le nom d'une console de salon. Le but du projet était de levé 950 000 dollars. Le but était éteint en huit heures ! A l'heure où j'écrit ces lignes, deux jour plus tard, le projet a levé 3 960 000 dollars. <!--more-->
 
-Ouya est une console de salon complètement ouverte basé sur Android de moins de 100 dollars.
-Le but étant de permettre au développement de publier leur jeux très facilement et d'offrir des titres très bon marchés aux joueurs.
+Ouya est une console de salon complètement ouverte basé sur Android de moins de 100 dollars.
+Le but étant de permettre au développement de publier leur jeux très facilement et d'offrir des titres très bon marchés aux joueurs.
 
 La construction de la console se ferra au moyen de vis standards afin de permettre au hackers de la modifié à souhait.
 
-Autant vous dire que cela risque de donner un bon coup de pied dans la fourmilière.
+Autant vous dire que cela risque de donner un bon coup de pied dans la fourmilière.
 
 <iframe src="https://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console/widget/video.html" frameborder="0" width="480" height="360"></iframe>
 

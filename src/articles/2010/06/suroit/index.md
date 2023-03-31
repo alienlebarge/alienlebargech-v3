@@ -13,7 +13,7 @@ En ouvrant le programme du <a title="Site du festival de Pully" href="https://ww
 
 <!--more-->
 
-Et bien, ce fut un très belle découverte. Naviguant entre folks, musique celtique et acadienne, ils ont su apprivoiser un public largement pas acquis à leur cause. Je dois dire que j'ai quelque peu été surpris en entrant dans la salle. Le mot d'ordre était « On se prend un chaise et on s'asseye dans un coin ». Le devant de la scène était désert. C'est dire que l'ambiance était au rendez-vous si je vous dis qu'au final les gens étaient debout (ceux qui pouvaient) et dansait main dans la main devant le groupe.
+Et bien, ce fut un très belle découverte. Naviguant entre folks, musique celtique et acadienne, ils ont su apprivoiser un public largement pas acquis à leur cause. Je dois dire que j'ai quelque peu été surpris en entrant dans la salle. Le mot d'ordre était « On se prend un chaise et on s'asseye dans un coin ». Le devant de la scène était désert. C'est dire que l'ambiance était au rendez-vous si je vous dis qu'au final les gens étaient debout (ceux qui pouvaient) et dansait main dans la main devant le groupe.
 
 Après cette soirée, j'ose imaginer qu'avec un peu plus de monde et un public plus motivé ça doit être du tonnerre. Merci pour cette découverte !
 

@@ -24,4 +24,4 @@ Le problème est que si vous cochez cette case après avoir publié les photos s
 
 J'ai posté le bug donc si cela vous concerne également <a href="https://feedback.photoshop.com/photoshop_family/topics/updating_tags_on_flickr">allez le dire</a>.
 
-<img class="size-medium wp-image-4980 alignnone" title="Les mots-clé sur Flickr" src="https://dlgjp9x71cipk.cloudfront.net/2012/01/Gardien-du-vignoble-Flickr -partage-de-photos -222x250.png" alt="" width="222" height="250" />
+<img class="size-medium wp-image-4980 alignnone" title="Les mots-clé sur Flickr" src="https://dlgjp9x71cipk.cloudfront.net/2012/01/Gardien-du-vignoble-Flickr -partage-de-photos -222x250.png" alt="" width="222" height="250" />

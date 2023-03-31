@@ -13,6 +13,6 @@ tags:
 - Photographie
 - Sport
 ---
-Ce week-end, la West affrontait Soleure. Voici les photos de la rencontre. <!--more-->
+Ce week-end, la West affrontait Soleure. Voici les photos de la rencontre. <!--more-->
 
 [gallery link="file" order="DESC" columns="4" orderby="rand"]

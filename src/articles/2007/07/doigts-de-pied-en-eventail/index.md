@@ -9,7 +9,7 @@ tags: []
 
 Enfin !!!
 
-Vautré au bord de la piscine une caipirinha  bien fraiche à la main, je penserais à vous. Céline et moi on se taille au soleil.
+Vautré au bord de la piscine une caipirinha  bien fraiche à la main, je penserais à vous. Céline et moi on se taille au soleil.
 
 <!--more-->
 

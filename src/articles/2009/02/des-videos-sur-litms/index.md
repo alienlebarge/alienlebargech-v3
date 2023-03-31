@@ -15,7 +15,7 @@ tags:
 Il est désormais possible d'acheter des clip sur le iTunes Music Store.
 Pour fêter ça un petit quiz.
 
-Quels clipsreprésentents les deux personnagesci-dessus  ? 
-(petit indice  : Ces morceaux doivent figurer danstoutes bonne discothèque  !!! )
+Quels clipsreprésentents les deux personnagesci-dessus  ? 
+(petit indice  : Ces morceaux doivent figurer danstoutes bonne discothèque  !!! )
 
-Si vousne trouvez pas ... je vous cause plus !
+Si vousne trouvez pas ... je vous cause plus !

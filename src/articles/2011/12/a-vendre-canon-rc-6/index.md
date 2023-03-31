@@ -10,7 +10,7 @@ tags:
 - Télécommande
 - Vente
 ---
-Je  vends ma télécommande Canon. Elle permet de déclencher à distance le miroir de votre appareil. Croyez moi, elle vous rendra de fiers services. Je l'ai utilisé avec un 450d et un 7d. Elle a toujours fonctionné comme un charme.
+Je  vends ma télécommande Canon. Elle permet de déclencher à distance le miroir de votre appareil. Croyez moi, elle vous rendra de fiers services. Je l'ai utilisé avec un 450d et un 7d. Elle a toujours fonctionné comme un charme.
 
 <!--more-->
 

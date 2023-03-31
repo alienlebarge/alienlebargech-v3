@@ -15,9 +15,9 @@ Il m'aura fallu 18 mois pour faire ce nouveau podcast. La formule ne change pas.
 <p><strong>Playliste alb broadcat #009</strong> - <a title="Télécharger alb broadcast #009" href="https://www.alienlebarge.ch/filebrowser/musique/podcast/alb_broadcast_009.mp3">à emporter ici</a></p>
 <p>Little Dragon - Blinking Pigs<br />
 Desire - Don't Call<br />
-Beth Jeans Houghton &amp; The Hooves of Destiny - Lilyputt<br />
-Mum - Prophecies &amp; Reversed Memories<br />
+Beth Jeans Houghton &amp; The Hooves of Destiny - Lilyputt<br />
+Mum - Prophecies &amp; Reversed Memories<br />
 Metronomy - A Thing For Me<br />
 The Hundred In The Hands - Dressed In Dresden<br />
-Grizzly Bear Feat Michael MacDonald - While You Wait For The Others</p>
+Grizzly Bear Feat Michael MacDonald - While You Wait For The Others</p>
 <p>Abonnez-vous au podcast grâce au <a title="Flux RSS Podcast" href="feed://www.alienlebarge.ch/?feed=rss2&amp;category_name=podcast">flux RSS "podcast"</a></p>

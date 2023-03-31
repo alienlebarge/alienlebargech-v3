@@ -11,9 +11,9 @@ tags:
 <em><a title="photo sharing" href="https://www.flickr.com/photos/alienlebarge/2810770612/">Plouf</a></em>
 
 Deuxième semaine de faites.
-On a plus pu toucher à notre boulot d'artilleur. Malgré le tir art de lopette qu'on a fait (7 coups par pièces) on est pas mal dans (et sur) les chars. On fait passablement de kilomètres du coup les pilotes sont contents. On est allé se promener à la Vallée de Joux avec les pièces,  on a pris position dans le village de La Chaux (bon là notre M109 nous a lâché et on a dû le ramener à Bière) et la semaine prochaine, on va user du fuel.
+On a plus pu toucher à notre boulot d'artilleur. Malgré le tir art de lopette qu'on a fait (7 coups par pièces) on est pas mal dans (et sur) les chars. On fait passablement de kilomètres du coup les pilotes sont contents. On est allé se promener à la Vallée de Joux avec les pièces,  on a pris position dans le village de La Chaux (bon là notre M109 nous a lâché et on a dû le ramener à Bière) et la semaine prochaine, on va user du fuel.
 
-Il est clair que les éternelles parties de carte et séance de terrasse sont toujours de la partie. On contera notamment :
+Il est clair que les éternelles parties de carte et séance de terrasse sont toujours de la partie. On contera notamment :
 <ul>
 	<li>Une matinée complète de terrasse n'ayant rien trouvée pour nous occupée.</li>
 	<li>La maintenant célèbre journée culturelle de la bttr 1 avec une marche à la Vallée le matin, arrivé à 10h au Mt d'Orzeires, terrasse jusqu'à midi. Et l'après-midi, visite des Grottes de l'Orbe et de l'Abbaye de Romainmôtier.</li>
@@ -23,8 +23,8 @@ La semaine prochaine si vous voyez passer des chars par chez vous, ça risque bi
 
 <!--more-->
 
-<a class="tt-flickr tt-flickr-Medium" href="https://www.flickr.com/photos/alienlebarge/2810762434/"><img src="https://farm4.static.flickr.com/3239/2810762434_7886285787.jpg" border="0" alt="Raclette" width="500" height="375" /></a> 
+<a class="tt-flickr tt-flickr-Medium" href="https://www.flickr.com/photos/alienlebarge/2810762434/"><img src="https://farm4.static.flickr.com/3239/2810762434_7886285787.jpg" border="0" alt="Raclette" width="500" height="375" /></a> 
 
-<a class="tt-flickr tt-flickr-Medium" href="https://www.flickr.com/photos/alienlebarge/2809911245/"><img src="https://farm4.static.flickr.com/3269/2809911245_d542f141ff.jpg" border="0" alt="L'équipe à l'apéro" width="500" height="375" /></a> 
+<a class="tt-flickr tt-flickr-Medium" href="https://www.flickr.com/photos/alienlebarge/2809911245/"><img src="https://farm4.static.flickr.com/3269/2809911245_d542f141ff.jpg" border="0" alt="L'équipe à l'apéro" width="500" height="375" /></a> 
 
 <a title="Le reste des photos sur Flickr" href="https://www.flickr.com/photos/alienlebarge/sets/72157606887840177/">etc...</a>

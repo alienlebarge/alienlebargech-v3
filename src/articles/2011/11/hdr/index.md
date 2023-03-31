@@ -9,7 +9,7 @@ tags:
 - HDR
 - Islande
 ---
-Depuis notre voyage en Islande, je m'adonne à la HDR. Si on peut facilement obtenir des effets de "photos marsiennes", on peut aussi travailler en douceur afin de dévoiler tous les détails du sujet.
+Depuis notre voyage en Islande, je m'adonne à la HDR. Si on peut facilement obtenir des effets de "photos marsiennes", on peut aussi travailler en douceur afin de dévoiler tous les détails du sujet.
 
 Voici un petite galerie des mes dernières réalisations.
 

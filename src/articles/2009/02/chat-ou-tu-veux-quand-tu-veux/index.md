@@ -12,6 +12,6 @@ tags:
 
 Le principe de <a href="https://www.tinychat.com/" title="Lien vers le site tinychat.com">TinyChat</a> est bien sympa. Il vous permet de créer à la volée des chatroom.
 
-Cela dit au jour où tout le monde est n'importe qui a un compte de messagerie instantanée, on peut se demandé si cela va avoir du succès.
+Cela dit au jour où tout le monde est n'importe qui a un compte de messagerie instantanée, on peut se demandé si cela va avoir du succès.
 
-Mais avec la rapidité et la simplicité qu'on l'on créé un chatroom ça peut être bien pratique pour discuter avec les grand-parents (ou autres personnes) qui ne maîtrisent pas trop l'informatique.
+Mais avec la rapidité et la simplicité qu'on l'on créé un chatroom ça peut être bien pratique pour discuter avec les grand-parents (ou autres personnes) qui ne maîtrisent pas trop l'informatique.

@@ -21,7 +21,7 @@ Celle que je vais vous décrire ci-dessous est très pratique si vous avez des c
 
 <!--more-->
 
-Voici la procédure :
+Voici la procédure :
 <ol>
 	<li>Dans le menu déroulant "paramètres", cliquez sur le menu "confidentialité"
 <a href="https://dlgjp9x71cipk.cloudfront.net/2009/05/facebook1.png"><img class="alignnone size-thumbnail wp-image-1173" title="Le menu confidentialité" src="https://dlgjp9x71cipk.cloudfront.net/2009/05/facebook1-150x102.png" alt="Le menu confidentialité" width="150" height="102" /></a></li>

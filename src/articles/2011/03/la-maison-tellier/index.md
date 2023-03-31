@@ -12,7 +12,7 @@ tags:
 ---
 <img class="alignnone size-full wp-image-2892" title="La Maison Tellier" src="https://dlgjp9x71cipk.cloudfront.net/2011/03/la-maison-tellier.jpg" alt="" width="500" height="333" />
 
-Le titre "La chambre rose" sur la compilation "Les talents de la chanson française" ne m'a pas laisser de marbre. Ca fait quelques mois que j'écoute cette chanson à l'humour grinçant en boucle. C'est naturellement que je me suis intéressé au groupe derrière celle-ci. Je vous laisse apprécier "<a title="Le site web de La Maison Tellier" href="https://www.lamaisontellier.com/">La Maison Tellier</a>"  grâce au vidéo ci-dessous.
+Le titre "La chambre rose" sur la compilation "Les talents de la chanson française" ne m'a pas laisser de marbre. Ca fait quelques mois que j'écoute cette chanson à l'humour grinçant en boucle. C'est naturellement que je me suis intéressé au groupe derrière celle-ci. Je vous laisse apprécier "<a title="Le site web de La Maison Tellier" href="https://www.lamaisontellier.com/">La Maison Tellier</a>"  grâce au vidéo ci-dessous.
 
 <!--more-->
 

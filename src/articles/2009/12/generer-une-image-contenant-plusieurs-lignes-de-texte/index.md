@@ -26,7 +26,7 @@ Disons qu'on veut créer une en-tête de page sous forme d'image. Dans cette ima
 
 Pour ce faire, nous allons utiliser le champ "résumé" (abstract) des propriétés de la page. Si rien n'est définie dans ce champ, les pages parentes vont être remontées jusqu'à trouver une valeur à utiliser (slide).
 
-Pour pouvoir utiliser le champ "résumé", il faut ajouter "abstract" à  la variable <em>$TYPO3_CONF_VARS['FE']['addRootLineFields']</em> dans l'install tool (typo3conf/localconf.php)
+Pour pouvoir utiliser le champ "résumé", il faut ajouter "abstract" à  la variable <em>$TYPO3_CONF_VARS['FE']['addRootLineFields']</em> dans l'install tool (typo3conf/localconf.php)
 
 Bien entendu pour que cela fonctionne, il faut mapper notre en-tête dans le gabarit TamplaVoilà. Celui-ci doit être de type "TypoScript Object Path" ou un objet TypoScript si vous préférez. Nous allons l'appeler <em>lib.header.title</em>.
 

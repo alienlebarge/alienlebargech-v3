@@ -10,17 +10,17 @@ tags:
 - Réseau
 - social
 ---
-Le géant Google a sortie <a title="Google plus" href="https://plus.google.com/">son arme anti-facebook</a> l'année passée.  Il était temps de faire une "petite" mise à jour.<!--more-->
+Le géant Google a sortie <a title="Google plus" href="https://plus.google.com/">son arme anti-facebook</a> l'année passée.  Il était temps de faire une "petite" mise à jour.<!--more-->
 
 Cette vidéo présente les principales nouveautés.
 
 <iframe src="https://www.youtube.com/embed/A3Atj57r15U" frameborder="0" width="560" height="315"></iframe>
 
-Facebook a de quoi se faire des cheveux blancs. Google a communiqué mercredi avoir séduit plus de 170 millions de personnes depuis son lancement en juin 2011.
+Facebook a de quoi se faire des cheveux blancs. Google a communiqué mercredi avoir séduit plus de 170 millions de personnes depuis son lancement en juin 2011.
 
-La nouvelle interface graphique "Timeline" du géant bleu ne séduit pas et son ergonomie est discutable.  Et à contrario, Google relance Google+ avec une nouvelle interface des plus réussie.
+La nouvelle interface graphique "Timeline" du géant bleu ne séduit pas et son ergonomie est discutable.  Et à contrario, Google relance Google+ avec une nouvelle interface des plus réussie.
 
-Parmis tous les points forts de Google+, deux fonctionnalités me séduisent plus particulièrement.
+Parmis tous les points forts de Google+, deux fonctionnalités me séduisent plus particulièrement.
 <h2>Instant Upload</h2>
 Si vous utiliser l'<a title="L'application mobile de Google+" href="https://www.google.com/mobile/+/">application mobile Google+</a> (on dit "app")+, toutes les photos et vidéos prisent avec votre portable sont automatiquement disponible sur votre compte. Il vous est alors possible de les partager ou non, de les trier par albums, de les supprimer, etc.
 

@@ -33,7 +33,7 @@ tags:
 </span>Pour les sites internet, en plus du prix, je privilégie les sites avec lesquels j'ai déjà une expérience.<span style="font: 13.0px 'Lucida Grande';">
 </span>Voici ma liste :
 <ul style="list-style-type: disc;">
-	<li style="margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px Georgia;"><a href="https://www.ars-imago.ch/">Ars-imago.ch</a> : J'achète mes objectifs chez eux. Les prix sont très compétitifs. Ils répondent  au courriel et c'est une équipe de passionnés.</li>
+	<li style="margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px Georgia;"><a href="https://www.ars-imago.ch/">Ars-imago.ch</a> : J'achète mes objectifs chez eux. Les prix sont très compétitifs. Ils répondent  au courriel et c'est une équipe de passionnés.</li>
 	<li style="margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px Georgia;"><a href="https://shop.heinigerag.ch/">Heiniger</a></li>
 	<li style="margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px Georgia;"><a href="https://www.powerch.com/">Power CH</a> : pour les filtres</li>
 	<li style="margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px Georgia;"><a href="https://internet.ch/">Internet.ch</a> : J'ai eu une pièce manquante sur une rotule Manfrotto commandée chez eux. Le lendemain, j'avais la pièce dans la boîte aux lettres.</li>

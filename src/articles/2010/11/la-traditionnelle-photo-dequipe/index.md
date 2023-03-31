@@ -18,7 +18,7 @@ Rien ne vous empêche après de faire d'autres photos plus rigolotes.
 <ul>
 	<li>Vérifier le cadrage</li>
 	<li>Si la photo se fait devant un but, il faut veiller à ce que l'équipe soit centrée par rapport à celui-ci.</li>
-	<li>Il est préférable que tout le monde ait la même position. Les personnes du rang de devant auront le même genou à terre et celles au second rang auront les mains derrière le dos. Les bras croisés cachent le sponsor.</li>
+	<li>Il est préférable que tout le monde ait la même position. Les personnes du rang de devant auront le même genou à terre et celles au second rang auront les mains derrière le dos. Les bras croisés cachent le sponsor.</li>
 	<li>Les gardiens portant généralement un maillot différent, on positionnera les gardiens au même endroit de manière symétrique. De cette façon, la photo ne sera pas déséquilibrée.</li>
 	<li>Veiller à ce que tout le monde regarde l'objectif lors de la prise de vue.</li>
 	<li>Le sourire !</li>

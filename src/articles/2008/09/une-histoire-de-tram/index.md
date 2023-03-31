@@ -15,9 +15,9 @@ tags:
 
 Je me suis <span style="text-decoration: line-through;">acheté</span> offert dernièrement un livre que je lorgnais depuis un bon petit moment à chacun de mes passages chez Payot.
 
-Cet ouvrage raconte l'histoire des tramways lausannois (1896-1964). Si comme moi vous êtes féru de transport et de l'histoire de notre région, je vous conseille ce livre. Toute l'histoire des TL (Tramways lausannois) y est retracée de long en large ; de la décision d'équiper la ville d'un tel transport jusqu'à la mise hors service du réseau. L'histoire des chemins de fer du Jorat, du LEB (la brouette) et du LO (la ficelle) y est également contée.
+Cet ouvrage raconte l'histoire des tramways lausannois (1896-1964). Si comme moi vous êtes féru de transport et de l'histoire de notre région, je vous conseille ce livre. Toute l'histoire des TL (Tramways lausannois) y est retracée de long en large ; de la décision d'équiper la ville d'un tel transport jusqu'à la mise hors service du réseau. L'histoire des chemins de fer du Jorat, du LEB (la brouette) et du LO (la ficelle) y est également contée.
 
-Moi qui adore les vieilles photos, j'ai été comblé. Ce livre en est rempli. Je vous ai fait une petite sélection d'images rien que pour vous. Histoire de voir comment c'était « avant ».
+Moi qui adore les vieilles photos, j'ai été comblé. Ce livre en est rempli. Je vous ai fait une petite sélection d'images rien que pour vous. Histoire de voir comment c'était « avant ».
 
 <!--more-->
 

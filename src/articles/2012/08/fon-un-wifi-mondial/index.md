@@ -10,11 +10,11 @@ tags:
 - Roaming
 - Wi-Fi
 ---
-Avec les vacances qui approchent, je me suis intéressé à un moyen pour avoir du wifi pas chère à l'étranger.
+Avec les vacances qui approchent, je me suis intéressé à un moyen pour avoir du wifi pas chère à l'étranger.
 
-Après quelques recherches sur les cartes SIM prépayées, je suis tombé sur <a href="https://corp.fon.com">Fon</a>. <!--more-->
+Après quelques recherches sur les cartes SIM prépayées, je suis tombé sur <a href="https://corp.fon.com">Fon</a>. <!--more-->
 
-Fon, c'est une sorte de réseaux mondial de wifi. Le principe est simple : <strong>Partagez un peu de votre wifi à la maison et en échange, vous avez accès tous les Fon Spots du monde gratuitement</strong>.
+Fon, c'est une sorte de réseaux mondial de wifi. Le principe est simple : <strong>Partagez un peu de votre wifi à la maison et en échange, vous avez accès tous les Fon Spots du monde gratuitement</strong>.
 
 Il suffit de vous fournir d'une borne wifi Fon et de la brancher sur votre routeur afin de faire partie de la communauté. <a title="Détail de la borne Simpl" href="https://corp.fon.com/fr/products/simpl/">La borne Simple est à 39€</a>.
 Cette borne va créer deux signaux :
@@ -24,11 +24,11 @@ Cette borne va créer deux signaux :
 </ul>
 Dès que vous faites partie de la communauté, vous avez accès à tous les Fon Spots de la planète. Actuellement, Fon revendique 6 millions de points d'accès.
 
-Le réseau Fon est également accessible pour les membre qui ne partagent pas leur connexion à la maison. Mais l'accès est payant. Une partie des bénéfices ainsi généré vous est reversé sur votre compte Paypal. Autant dire que cela peut être avantageux si vous habitez un endroits très fréquenté.
+Le réseau Fon est également accessible pour les membre qui ne partagent pas leur connexion à la maison. Mais l'accès est payant. Une partie des bénéfices ainsi généré vous est reversé sur votre compte Paypal. Autant dire que cela peut être avantageux si vous habitez un endroits très fréquenté.
 
 Quelques fournisseur d'accès (internet provider) propose d'activer leur borne pour faire partie de la communauté Fon. Ce qui rend le réseau Fon très dense dans certains pays.
 
-Il est vrai que le réseau Fon, n'est pas intéressant partout. Les grandes villes offrent beaucoup plus de Hot Spots. Mais après quelques recherches, j'ai décidé de prendre de faire partie de ce projet. Car l'idée ma vraiment séduis.
+Il est vrai que le réseau Fon, n'est pas intéressant partout. Les grandes villes offrent beaucoup plus de Hot Spots. Mais après quelques recherches, j'ai décidé de prendre de faire partie de ce projet. Car l'idée ma vraiment séduis.
 <div></div>
 <div><iframe src="https://www.youtube.com/embed/r49XJKMuSn0" frameborder="0" width="560" height="315"></iframe></div>
 <div></div>
@@ -39,7 +39,7 @@ Il est vrai que le réseau Fon, n'est pas intéressant partout. Les grandes vi
 <h3>Londre</h3>
 <iframe src="https://maps.fon.com/mapContent?lt=51.51236936985704&amp;ln=-0.13347667147220577&amp;zm=16" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="550" height="300"></iframe>
 <h2 class="mceTemp">Mais ...</h2>
-Une chose que je n'ai pas encore comprise et que <a href="https://maps.fon.com/fr">la carte site de Fon</a> et l’<a href="https://itunes.apple.com/fr/app/fon-wifi/id478267641?mt=8">application iOS</a> ne présente pas les même spots. Je devrais bientôt avoir une réponse.
+Une chose que je n'ai pas encore comprise et que <a href="https://maps.fon.com/fr">la carte site de Fon</a> et l’<a href="https://itunes.apple.com/fr/app/fon-wifi/id478267641?mt=8">application iOS</a> ne présente pas les même spots. Je devrais bientôt avoir une réponse.
 
 https://twitter.com/alienlebarge/status/237839300362911745
 <h3>iOs</h3>
@@ -49,4 +49,4 @@ https://twitter.com/alienlebarge/status/237839300362911745
 <h3>Carte depuis le site Fon</h3>
 <iframe src="https://maps.fon.com/mapContent?lt=46.51996170000002&amp;ln=6.633597099999973&amp;zm=16" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="550" height="300"></iframe>
 
-C'est moins intéressant :(
+C'est moins intéressant :(

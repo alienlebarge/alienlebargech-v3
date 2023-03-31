@@ -13,7 +13,7 @@ tags:
 Les deux compères de Nôze nous sortent un nouvel album tout simplement splendide sur Get Physical. Minimal, funk, et groove voici les trois principaux ingrédients qui font que vous allez adorer ce nouvel opus. Si en plus il est saupoudré d'une bonne couche de fun, c'est encore meilleur.
 
 Parce que vous êtes sympa, je vous met mon titre favoris.
-[dewplayer:https://dlgjp9x71cipk.cloudfront.net/2008/05/inconnu.mp3] 
+[dewplayer:https://dlgjp9x71cipk.cloudfront.net/2008/05/inconnu.mp3] 
 
 <!--more-->
 

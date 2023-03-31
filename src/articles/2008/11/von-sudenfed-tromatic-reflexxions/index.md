@@ -11,9 +11,9 @@ tags:
 ---
 <img class="alignnone size-medium wp-image-791" title="Von Südenfed" src="https://dlgjp9x71cipk.cloudfront.net/2008/11/vonsudenfed.png" alt="" width="500" height="281" />
 
- 
+ 
 
-Je me suis réécouté l'album de Von Südenfed et je suis retombé sous le charme de leurs "bargitude". Vous voyez de quel album je parle ? Mais si, Tromatic Reflexxions. Non ?
+Je me suis réécouté l'album de Von Südenfed et je suis retombé sous le charme de leurs "bargitude". Vous voyez de quel album je parle ? Mais si, Tromatic Reflexxions. Non ?
 
 Bon faut dire que c'est pas trop connu. Aux commandes de ce groupe, on retrouve les Allemande Mouse On Mars et Mark E. Smith le leader de The Fall. Voici ci-dessous la description reprise de <a href="https://www.lastfm.fr/music/Von+S%C3%BCdenfed"><span>Last.fm</span></a>.
 <blockquote>Réunir Mark E. Smith {M.E.S.}, leader de the Fall, groupe légendaire de Manchester et les allemands de Mouse on Mars ; l’annonce en avait surpris plus d’un. En y regardant de plus près, plutôt en rapprochant ses oreilles, on découvre des connexions, une même rage, une même énergie brute, l’utilisation de la voix comme un instrument. Nos hommes se sont rencontrés lors d’un concert des Mouse on Mars auquel assistait M.E.S…<span id="wikiSecondPart">Le chanteur mancurien avait déjà rejoint d’autres formations, le temps d’un single (comme ‘I want you’ avec Inspiral Carpets, groupe de la vague Madchester), mais le voilà accompagné sur la longueur d’un album (un exploit diront les mauvaises langues, on connaît la légendaire mauvaise humeur de M.E.S. …), sous le nom de Von Sudenfeld. Plus même, car le trio a signé un contrat pour trois albums, et des concerts à venir.

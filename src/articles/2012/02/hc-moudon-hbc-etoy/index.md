@@ -14,6 +14,6 @@ tags:
 - Photographie
 - Sport
 ---
-Les photos des la rencontre entre les deux leaders de quatrième ligue masculine. <!--more-->
+Les photos des la rencontre entre les deux leaders de quatrième ligue masculine. <!--more-->
 
 [gallery link="file" order="DESC" columns="4" orderby="rand"]

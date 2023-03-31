@@ -10,7 +10,7 @@ tags:
 ---
 <img class="alignnone size-medium wp-image-547" title="avez-vous déjà vu ... ?" src="https://dlgjp9x71cipk.cloudfront.net/2008/06/avez-vous.png" alt="" width="500" height="281" />
 
-Cette minisérie animée réalisée par Alain Chabat est tout simplement ultrapoilante.
+Cette minisérie animée réalisée par Alain Chabat est tout simplement ultrapoilante.
 
 une petite séléction :
 <!--more-->
