@@ -38,7 +38,7 @@
     "@11ty/eleventy-plugin-directory-output": "^1.0.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
     "@remy/webmention": "^1.4.5",
-    "autoprefixer": "^10.4.13",
+    "autoprefixer": "^10.4.14",
     "concurrently": "^7.6.0",
     "eleventy-plugin-embed-everything": "^1.15.1",
     "html-minifier": "^4.0.0",
