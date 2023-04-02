@@ -52,7 +52,7 @@
     "markdown-it-bracketed-spans": "^1.0.1",
     "markdown-it-deflist": "^2.1.0",
     "markdown-it-footnote": "^3.0.3",
-    "markdown-it-handle": "github:paulrobertlloyd/markdown-it-handle",
+    "markdown-it-handle": "^0.1.0",
     "markdown-it-image-figures": "^2.1.1",
     "markdown-it-table-of-contents": "^0.6.0",
     "moment-timezone": "^0.5.42",
