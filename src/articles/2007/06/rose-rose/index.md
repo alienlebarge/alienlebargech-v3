@@ -14,4 +14,4 @@ Cela dit, je ne me suis pas encore trop intéressé au texte (les textes, ça n�
 
 Si vous cherchez un disque à écouter allongé dans l'herbe sous un vieux chêne isolé, vous pouvez vous l'acheter sans souci.
 
-<em>A noter que Rose sera présente 3 août à l'<a href="https://www.estivale.ch/" title="Le site de l'estivale">Estivale</a> d'Estavayer-le-Lac pour la soirée "chanson française". </em>
+<em>A noter que Rose sera présente 3 août à l'<a href="https://www.estivale.ch/" title="Le site de l'estivale">Estivale</a> d'Estavayer-le-Lac pour la soirée "chanson française". </em>

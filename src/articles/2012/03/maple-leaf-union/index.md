@@ -14,6 +14,6 @@ tags:
 - Sport
 - Union
 ---
-Il y a une peu de retard dans les publication de photo. Voici les photos du match opposant Maple Leaf à Union dans le cadre de la Coupe Suisse de Broomball. <!--more-->
+Il y a une peu de retard dans les publication de photo. Voici les photos du match opposant Maple Leaf à Union dans le cadre de la Coupe Suisse de Broomball. <!--more-->
 
 [gallery link="file" order="DESC" columns="4" orderby="rand"]

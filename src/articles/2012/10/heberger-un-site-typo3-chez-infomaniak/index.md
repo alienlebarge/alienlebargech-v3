@@ -10,7 +10,7 @@ tags:
 - Infomaniak
 - Typo3
 ---
-Depuis maintenant plus d’une année, je gère un site <a title="TYPO3" href="https://www.typo3.org">TYPO3</a> hébérgé chez <a title="Infomaniak" href="https://www.infomaniak.ch">Infomaniak</a>. Il est temps de faire un petit retour sur expérience. <!--more-->
+Depuis maintenant plus d’une année, je gère un site <a title="TYPO3" href="https://www.typo3.org">TYPO3</a> hébérgé chez <a title="Infomaniak" href="https://www.infomaniak.ch">Infomaniak</a>. Il est temps de faire un petit retour sur expérience. <!--more-->
 
 Je suis depuis quelques années au comité d’un mouvement juniors de football de ma région. Etant dans le monde de l’informatique, c’est à moi qu’est revenu la tâche de mettre sur pied un site internet. J’ai donc opté pour TYPO3 pour plusieurs raisons :
 <ul>

@@ -13,7 +13,7 @@ tags:
 - HC Moudon
 - Servette HC
 ---
-Je les avaient un peu oubliées les photos de la rencontre de Moudon face à Servette. Et bien les voilà ... <!--more-->
+Je les avaient un peu oubliées les photos de la rencontre de Moudon face à Servette. Et bien les voilà ... <!--more-->
 
 [gallery link="file" order="DESC" columns="4" orderby="rand"]
 

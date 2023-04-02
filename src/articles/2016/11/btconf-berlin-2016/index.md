@@ -42,7 +42,7 @@ Voilà un des messages d’[Ariel Contton](https://twitter.com/argoncobalt) nous
 
 ## How tech sector could move in one direction
 
-L’industrie technologique manque de diversité. On se base sur des diplômes afin d’embaucher des personnes plutôt que de juste « engager quelqu’un qui peut faire le job ».
+L’industrie technologique manque de diversité. On se base sur des diplômes afin d’embaucher des personnes plutôt que de juste « engager quelqu’un qui peut faire le job ».
 [Sacha Judd](https://twitter.com/szechuan) prend l’exemple de fans du groupe One Direction qui on développées compétences afin de partager sur leur passion, mais qui ne pense pas à se lancer dans l’industrie du web (ou autre) simplement à cause de préjugés.
 
 ![Mes sketchnote de "How tech sector could move in one direction"](https://c5.staticflickr.com/6/5338/31038294252_7d024a666c_c.jpg)
@@ -52,7 +52,7 @@ L’industrie technologique manque de diversité. On se base sur des diplômes a
 ## Unseen
 
 [Tim Kadlec](https://twitter.com/tkadlec) nous rappel que nous sommes un public privilégié sur les 3.5 milliards de personnes qui accèdent au web. Nous n’avons pas les mêmes obstacles que la majorité des utilisateurs pour accéder à l’information.
-Il faut élargir notre vision et penser à tous les cas de figure, prendre en compte la sécurité, l’accessibilité et les performances dès le début des projets. Il s’agit de problème qui le plus souvent nous « sautent à la figure » qu’une fois nos applications déployées.
+Il faut élargir notre vision et penser à tous les cas de figure, prendre en compte la sécurité, l’accessibilité et les performances dès le début des projets. Il s’agit de problème qui le plus souvent nous « sautent à la figure » qu’une fois nos applications déployées.
 
 ![Mes sketchnote de "Unseen" (partie 1 sur 2)](https://c5.staticflickr.com/6/5584/30360321684_a006872bdd_c.jpg) ![Mes sketchnote de "Unseen" (partie 2 sur 2)](https://c3.staticflickr.com/6/5482/31038293922_95420f2d5f_c.jpg)
 

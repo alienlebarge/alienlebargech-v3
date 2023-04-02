@@ -34,11 +34,11 @@ On voulait aussi proposer au moins deux artistes dans chaque style histoire de p
 
 Les heureux élus sont donc :
 
-Minimal &amp; Expérimental : <strong>Alien Le Barge &amp; James d'O LivePA
-</strong>Electro-Breaks : <strong>Leiko &amp; Dj Ako
-</strong>Tekhouse, Detroit, Techno : <strong>Freestate &amp; Natis Merio
-</strong>Goa &amp; PsyTrance : <strong>Aslak &amp; Psyclone (aka Ganesh)
-</strong>Drum'n'bass : <strong>Xuei Ruff &amp; Dj Rolla</strong>
+Minimal &amp; Expérimental : <strong>Alien Le Barge &amp; James d'O LivePA
+</strong>Electro-Breaks : <strong>Leiko &amp; Dj Ako
+</strong>Tekhouse, Detroit, Techno : <strong>Freestate &amp; Natis Merio
+</strong>Goa &amp; PsyTrance : <strong>Aslak &amp; Psyclone (aka Ganesh)
+</strong>Drum'n'bass : <strong>Xuei Ruff &amp; Dj Rolla</strong>
 
 <strong></strong>Comme vous pouvez le constater la soirée sera bien remplie et malgrès des sets un peu court elle promet un bon voyage musical durant lequel certain d'entre nous pourrons peut-être découvrir des sonorités nouvelles, c'est en tout cas notre but !
 

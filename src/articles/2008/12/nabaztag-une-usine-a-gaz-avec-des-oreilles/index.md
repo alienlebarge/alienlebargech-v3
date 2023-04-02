@@ -12,11 +12,11 @@ tags:
 - Médias
 - Nabaztag
 ---
- 
+ 
 
 <img class="alignnone size-full wp-image-926" title="Nabaztag" src="https://dlgjp9x71cipk.cloudfront.net/2008/12/181044383_5a4ab3b17e.jpg" alt="Nabaztag" width="500" height="281" />
 
-Je suis le propriétaire dans Nabaztag/tag depuis hier. Merci pour le cadeau !
+Je suis le propriétaire dans Nabaztag/tag depuis hier. Merci pour le cadeau !
 
 Les démonstrations de ce petit lapinou m'avaient fait quelque peu saliver, mais le prix m'a toujours repoussé. On dit partout que c'est formidable, qu'il fait tout ce que tu veux et blablabla et blablabla. Je m'étais donc fait tout un film.
 
@@ -38,7 +38,7 @@ Après l'avoir sortie du carton (ô joie du déballage), je me lance dans sa con
 
 [caption id="attachment_927" align="alignright" width="150" caption="L&#39;interface du site"]<a href="https://dlgjp9x71cipk.cloudfront.net/2008/12/violet.png"><img class="size-thumbnail wp-image-927 " title="Violet" src="https://dlgjp9x71cipk.cloudfront.net/2008/12/violet-150x150.png" alt="L'interface du site" width="150" height="150" /></a>[/caption]
 
-La configuration des services ou applications du lapin se fait via le site moyennement pratique et moche de Violet. À leur décharge, c'est une version bêta. Je pense (espère) qu'ils vont améliorer tout ça.
+La configuration des services ou applications du lapin se fait via le site moyennement pratique et moche de Violet. À leur décharge, c'est une version bêta. Je pense (espère) qu'ils vont améliorer tout ça.
 
 Pour configurer la météo, il n’y a pas trop de problème. Maintenant, quand je lui appuie sur la tête et que d'une voix suave et audible je prononce "Mé-Té-O", Kigner (c'est le nom de mon lapin) me donne les prévisions du lendemain. Mais pas tout le temps. Il arrive que des fois il ne soit pas motivé.
 
@@ -48,8 +48,8 @@ Il peut également vous avertir des arrivées de courriel que pour un seul compt
 
 Je me suis amusé à lui envoyer des messages vocaux déjà tout fait que le lapin récite comme un bon petit écolier. Bémol aura certainement quelques surprises pendant ses longues siestes.<span>
 </span>Cela dit, l'envoi de ce type de message ne peut se faire que via un compte Violet.<span>
-</span>Ce qui est cool, c'est que l'on peut lui envoyer des mails et qu'il les lit. De ce fait, vous pouvez lui faire dire n'importe quoi. La prononciation est très bien faite. Ce qui est tout particulièrement jouissif est la prononciation anglaise avec une voie francophone (Haï ouille gau touzeu park).
+</span>Ce qui est cool, c'est que l'on peut lui envoyer des mails et qu'il les lit. De ce fait, vous pouvez lui faire dire n'importe quoi. La prononciation est très bien faite. Ce qui est tout particulièrement jouissif est la prononciation anglaise avec une voie francophone (Haï ouille gau touzeu park).
 
 Il y a quelque application franco-française faite par des développeurs tiers. Cela dit le choix d'application me laisse quelque peu sur ma faim. Je m'attendais franchement à plus.
 
-C'est mon avis après seulement quelques heures d'utilisation. Peut-être que je reviendrais dessus à l'avenir (sur mon avis).
+C'est mon avis après seulement quelques heures d'utilisation. Peut-être que je reviendrais dessus à l'avenir (sur mon avis).

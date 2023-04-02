@@ -16,7 +16,7 @@ tags:
 	<li>Souper en famille</li>
 	<li>Noce</li>
 	<li>Sport</li>
-	<li>Grasse mâtiné</li>
+	<li>Grasse mâtiné</li>
 	<li>Noce</li>
 	<li>...</li>
 </ul>

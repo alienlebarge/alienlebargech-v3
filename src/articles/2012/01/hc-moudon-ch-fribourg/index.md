@@ -12,7 +12,7 @@ tags:
 - HC Moudon
 - Photographie
 ---
-Avec cette victoire face au CH Fribourg, Moudon continu de bétonner sa première place. <!--more-->
+Avec cette victoire face au CH Fribourg, Moudon continu de bétonner sa première place. <!--more-->
 
 Les photos de la première mi-temps.
 

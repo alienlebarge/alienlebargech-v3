@@ -12,7 +12,7 @@ tags:
 - Photographie
 - Voyage
 ---
-Le lac des mouches (traduction de Mývatn)  se situe dans le nord de l'Islande. Cette région regorge de "spécialités géologique".
+Le lac des mouches (traduction de Mývatn)  se situe dans le nord de l'Islande. Cette région regorge de "spécialités géologique".
 
 <!--more-->
 

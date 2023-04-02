@@ -55,6 +55,6 @@ J'ai choisi d'ouvrir les photos dans iPhoto. De cette manière, il va ouvrir les
 
 <em>C'est magique !</em>
 
-Bien entendu, il vous faudra ensuite vider le dossier « Export LR pour iPhoto » une fois l'importation dans iPhoto terminée.
+Bien entendu, il vous faudra ensuite vider le dossier « Export LR pour iPhoto » une fois l'importation dans iPhoto terminée.
 
 J'espère que cette petite technique vous aura servi ;)

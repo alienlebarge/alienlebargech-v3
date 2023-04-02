@@ -16,7 +16,7 @@ Chanson du moment ...
 - Non.
 
 - Heu ! On va faire un clip où tu fais du patins en roulette avec un short de hockey !
-Sinon, tu sais jouer de la guitare ?
+Sinon, tu sais jouer de la guitare ?
 
 - Non.
 

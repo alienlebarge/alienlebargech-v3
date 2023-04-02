@@ -10,9 +10,9 @@ tags:
 - Mou
 - Syntaxe
 ---
-<a title="Mou" href="https://mouapp.com/">Mou</a>, un éditeur markdown pour les développeurs web.<!--more-->
+<a title="Mou" href="https://mouapp.com/">Mou</a>, un éditeur markdown pour les développeurs web.<!--more-->
 
-La semaine prochaine, je m'en vais en <a title="Université Typo3" href="https://t3uni.typo3-fr.org/">formation</a>. Mon vieux MacBook étant au bord du précipice et déjà dépourvu de batterie ayant une autonomie supérieur à trente seconde, c'est le MacBook du bureau qui m'accompagnera dans les conférences.
+La semaine prochaine, je m'en vais en <a title="Université Typo3" href="https://t3uni.typo3-fr.org/">formation</a>. Mon vieux MacBook étant au bord du précipice et déjà dépourvu de batterie ayant une autonomie supérieur à trente seconde, c'est le MacBook du bureau qui m'accompagnera dans les conférences.
 
 Oui, vous avez bien compris. Je vais me retrouver là-bas sans mes petits programme adorés qui me rendent la vie tellement plus facile. Je suis donc partie à la recherche d'une alternative à mon chère <a title="iA Writer" href="https://www.iawriter.com/">iA Writer</a>.
 

@@ -8,7 +8,7 @@ tags: []
 <img class="alignnone size-medium wp-image-739" title="Huoratron" src="https://dlgjp9x71cipk.cloudfront.net/2008/11/huoratron.png" alt="" width="500" height="281" />
 
 Le constructeur suédois de machine à bruit <a title="Le site d'Elektron" href="https://www.elektron.se">Elektron</a> fête leur 10 ans. Happy Birthday !
-Pour fêter ça, ils organisent <a title="Le site de la soirée d'anniversaire" href="https://elektron.se/party/">une grosse fête</a> (on dit "party" pour faire bien). Dans le "line up" de ladite soirée figure un dénommé Huoratron. Je ne connaissais pas. Après investigation, il s'avère que ce monsieur fait du vraiment bon son. Une petite écoute s'impose...
+Pour fêter ça, ils organisent <a title="Le site de la soirée d'anniversaire" href="https://elektron.se/party/">une grosse fête</a> (on dit "party" pour faire bien). Dans le "line up" de ladite soirée figure un dénommé Huoratron. Je ne connaissais pas. Après investigation, il s'avère que ce monsieur fait du vraiment bon son. Une petite écoute s'impose...
 
 <!--more-->
 

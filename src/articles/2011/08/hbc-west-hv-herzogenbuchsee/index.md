@@ -11,7 +11,7 @@ tags:
 - HBC West
 - Photographie
 ---
-Dimanche 13 août, la <a title="Site du HBC West" href="https://www.west-hbc.ch/">West</a> rencontrait <a title="Site du HV Herzogenbuchsee" href="https://www.hvh.ch/">Herzogenbuchsee</a> pour un match amical.
+Dimanche 13 août, la <a title="Site du HBC West" href="https://www.west-hbc.ch/">West</a> rencontrait <a title="Site du HV Herzogenbuchsee" href="https://www.hvh.ch/">Herzogenbuchsee</a> pour un match amical.
 
 <!--more-->
 

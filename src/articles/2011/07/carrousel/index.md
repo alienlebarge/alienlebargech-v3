@@ -9,4 +9,4 @@ tags:
 - Musique
 - Suisse
 ---
-Voici un petit groupe franco-suisse qui monte et que j'aime beaucoup. Vous trouverez plus d'information les concernant sur leur <a title="Site web du groupe Carousel" href="https://www.groupecarrousel.com/">site web</a>.
+Voici un petit groupe franco-suisse qui monte et que j'aime beaucoup. Vous trouverez plus d'information les concernant sur leur <a title="Site web du groupe Carousel" href="https://www.groupecarrousel.com/">site web</a>.

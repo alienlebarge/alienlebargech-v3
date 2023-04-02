@@ -21,7 +21,7 @@ How can we manage to have the same underline's style everywhere ?  Why this is n
 Well, this is a legacy of the era of font case and paper. At that time there was simply no underline. And it is considered as too distracting.
 
 > Professional Western typesetting usually does not employ lines under letters for emphasis within running text, because it is considered too distracting. Underlining is, however, often used with typewriters, in handwriting and with some non-alphabetic scripts. It is also used for secondary emphasis, i.e. marks added by the reader and not the author.  
-> — [Emphasis (typography)](https://en.wikipedia.org/wiki/Emphasis_(typography)#Underlining) on Wikipedia 
+> — [Emphasis (typography)](https://en.wikipedia.org/wiki/Emphasis_(typography)#Underlining) on Wikipedia 
 
 
 > In printed documents underlining is generally avoided, with italics or small caps often used instead, or (especially in headings) using capitalization or bold type.  
@@ -78,7 +78,7 @@ I have choose to do all the calculation in `em` because it let me deal with prop
 
 ![Balanced underline thickness](https://dlgjp9x71cipk.cloudfront.net/2015/09/underline/balanced-underline-thickness.png)
 
-### There is not « one style that ruled them all »
+### There is not « one style that ruled them all »
 
 Each font must have is own underline style.
 

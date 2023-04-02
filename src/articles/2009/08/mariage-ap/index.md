@@ -7,7 +7,7 @@ categories:
 - Photographie
 - Portfolio
 ---
-Une sélection de photos prise au mariage de A&amp;P.
+Une sélection de photos prise au mariage de A&amp;P.
 
 <!--more-->
 

@@ -7,7 +7,7 @@ tags:
 - iPod
 - iPod Touch
 ---
- <img src="https://dlgjp9x71cipk.cloudfront.net/2008/01/itouch_emplacement.png" alt="Vous êtes pas ici" />
+ <img src="https://dlgjp9x71cipk.cloudfront.net/2008/01/itouch_emplacement.png" alt="Vous êtes pas ici" />
 
 La grande messe Apple vient de se terminer. Le mecs au col roulé, nous a annoncé l'arrivé d'<a href="https://www.apple.com/macbookair/" title="MacBook Air">un ordi qu'on peu envoyer par la poste</a>, d'<a href="https://www.apple.com/timecapsule/" title="Time Capsule">une borne dure wi-fi</a> , d'<a href="https://www.apple.com/ipodtouch/" title="iPod Touch">une mise à jour de briques en verre</a> et que <a href="https://www.apple.com/appletv/" title="Apple TV">vous n'aurez plus besoin de mettre votre training pour aller louer une vidéo</a>.
 

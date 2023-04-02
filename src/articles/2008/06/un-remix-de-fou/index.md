@@ -10,7 +10,7 @@ tags:
 ---
 <img class="alignnone size-medium wp-image-538" title="Radiohead - Numb Remix" src="https://dlgjp9x71cipk.cloudfront.net/2008/06/radiohead.png" alt="" width="500" height="281" />
 
-Quand on est technicien et que Radiohead propose de faire un remix d'un de ses titres, on fait quoi ? Ben, on prend une télévision, plein de disques durs, un oscilloscope, une machine à écrire et on le fait ce remix. C'est à voir, ça m'a laissé sur le c...
+Quand on est technicien et que Radiohead propose de faire un remix d'un de ses titres, on fait quoi ? Ben, on prend une télévision, plein de disques durs, un oscilloscope, une machine à écrire et on le fait ce remix. C'est à voir, ça m'a laissé sur le c...
 
 <!--more-->
 

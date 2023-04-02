@@ -12,10 +12,10 @@ tags:
 ---
 <img class="alignnone size-medium wp-image-904" title="Rolando" src="https://dlgjp9x71cipk.cloudfront.net/2008/12/rolando-500x338.png" alt="Rolando" width="500" height="338" />
 
-Les jeux sur iPhone deviennent de plus en plus recherchés et novateurs. <a href="https://rolando.ngmoco.com/"><span>Rolando</span></a> confirme cette tendance. Le gameplay a l'air tout simplement génial !<span>
+Les jeux sur iPhone deviennent de plus en plus recherchés et novateurs. <a href="https://rolando.ngmoco.com/"><span>Rolando</span></a> confirme cette tendance. Le gameplay a l'air tout simplement génial !<span>
 </span>L'idée du jeu est de guider des petites balles avec chacune des capacités différentes (collent aux murs, etc.) pour sauver leur bon roi qui roupille. Bien sûr, il vous faudra secouer votre iPhone dans tous les sens pour guider cette équipe de loyaux sujets.
 
-Je n'ai pas encore eu l'occasion d'y jouer. Cela dit, Rolando coûte quand même 11 CHF. Avant de l'essayer, je vais tenter de revoir le budget de ma ville <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=300260420&amp;mt=8"><span>SimCity</span></a> (moi, ce que j'aime c'est faire des métros pas des budgets). 
+Je n'ai pas encore eu l'occasion d'y jouer. Cela dit, Rolando coûte quand même 11 CHF. Avant de l'essayer, je vais tenter de revoir le budget de ma ville <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=300260420&amp;mt=8"><span>SimCity</span></a> (moi, ce que j'aime c'est faire des métros pas des budgets). 
 
 <!--more-->
 

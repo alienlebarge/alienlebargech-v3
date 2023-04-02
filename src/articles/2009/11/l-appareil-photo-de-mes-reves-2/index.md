@@ -16,7 +16,7 @@ Il y a quelques semaines, Leica présentait au grand jour le tout nouveau, tout 
 
 <!--more-->
 
-Non, mais franchement, ça ne vous fait pas rêver ça ? J'attends le jour où je pourrais rien qu’essayer un tel petit bijou. Allez, disons déjà rien qu'un télémètre. Le M9 reste quand même un appareil très peu accessible. Mais voilà,  entre les deux il y a maintenant le X1. Ils sont trop fort chez Leica ! Parce que quand tu vois le prix du M9 pour finir tu te resignes. Mais c'est là qu'ils te mettent un <a title="Lien vers le site du Leica X1" href="https://fr.leica-camera.com/photography/compact_cameras/x1/">X1</a> sous le nez. Tu te dis alors "ouais, il est quand même trois fois moins cher que le grand frère". Mais voilà, il est quand même deux mille francs.
+Non, mais franchement, ça ne vous fait pas rêver ça ? J'attends le jour où je pourrais rien qu’essayer un tel petit bijou. Allez, disons déjà rien qu'un télémètre. Le M9 reste quand même un appareil très peu accessible. Mais voilà,  entre les deux il y a maintenant le X1. Ils sont trop fort chez Leica ! Parce que quand tu vois le prix du M9 pour finir tu te resignes. Mais c'est là qu'ils te mettent un <a title="Lien vers le site du Leica X1" href="https://fr.leica-camera.com/photography/compact_cameras/x1/">X1</a> sous le nez. Tu te dis alors "ouais, il est quand même trois fois moins cher que le grand frère". Mais voilà, il est quand même deux mille francs.
 
 Je me dit que c'est un appareil que j'aurais à 40 ans ... ou pas.
 

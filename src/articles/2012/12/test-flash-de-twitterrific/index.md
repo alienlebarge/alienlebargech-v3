@@ -13,7 +13,7 @@ tags:
 ---
 <a href="https://iconfactory.com/">Iconfactory</a> a sortie la nuit passée (le 5 décembre) la refonte de son client Twitter <a href="https://twitterrific.com/ios">Twitterrific</a>.
 
-Après un jour d'utilisation, voici un test flash de cette application. Je vais simplement lister ce que je trouve bien et ce que je trouve moins bien. <!--more-->
+Après un jour d'utilisation, voici un test flash de cette application. Je vais simplement lister ce que je trouve bien et ce que je trouve moins bien. <!--more-->
 <h2>Les plus</h2>
 <ul>
 	<li>La rapidité. C'est la première chose qui frape. L'application est incroyablement rapide.</li>
@@ -30,5 +30,5 @@ Après un jour d'utilisation, voici un test flash de cette application. Je vais 
 	<li>Pas de "refresh" automatique.</li>
 	<li>Pas de possibilité de fixer en-haut de Timeline ("Fix to the top").</li>
 	<li>L'application ne supporte pas les notifications iOS. Il est recommandé d'utiliser <a href="https://boxcar.io/">Boxcar</a>.</li>
-	<li>Les messages directes en plus de s'afficher dans un onglet dédié, s'affichent dans la Timeline. C'est un peu déstabilisant pour moi.</li>
+	<li>Les messages directes en plus de s'afficher dans un onglet dédié, s'affichent dans la Timeline. C'est un peu déstabilisant pour moi.</li>
 </ul>

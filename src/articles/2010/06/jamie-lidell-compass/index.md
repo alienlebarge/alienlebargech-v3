@@ -12,7 +12,7 @@ tags:
 ---
 <img class="alignnone size-large wp-image-1658" title="Jamie Lidell" src="https://dlgjp9x71cipk.cloudfront.net/2010/06/jamieLidell-1024x768.jpg" alt="" width="500" height="375" />
 
-<a title="Site web de Jamie Lidell" href="https://jamielidell.com/">Jamie Lidell</a> fait partie de ces artistes pour lesquels j'ai beaucoup de respect. Il laisse toujours une grande part à l'improvisation et au surprenant dans sa musique (et ses concerts). Pour son dernier disque il s'est entouré d'une jolie brochette d'artiste qui pouvait nous faire espérer que le meilleur. Dans ladite brochette, on retrouve Feist, Beck (!), Snax.
+<a title="Site web de Jamie Lidell" href="https://jamielidell.com/">Jamie Lidell</a> fait partie de ces artistes pour lesquels j'ai beaucoup de respect. Il laisse toujours une grande part à l'improvisation et au surprenant dans sa musique (et ses concerts). Pour son dernier disque il s'est entouré d'une jolie brochette d'artiste qui pouvait nous faire espérer que le meilleur. Dans ladite brochette, on retrouve Feist, Beck (!), Snax.
 
 <!--more-->
 

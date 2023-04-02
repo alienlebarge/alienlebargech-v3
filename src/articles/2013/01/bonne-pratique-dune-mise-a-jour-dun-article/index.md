@@ -16,7 +16,7 @@ tags:
 ---
 Lorsqu'on fait une mise à jour d'un article sur un blog, on a pour habitude de rajouter "(Màj)" dans le titre puis la modification dans le corps précédé d'un titre du genre "Mise à jour du 4 janvier 2012".
 
-Récemment, j'ai mis à jour <a title="Afficher les fichiers cachés dans le Finder (mise à jour)" href="https://www.alienlebarge.ch/2012/12/26/afficher-les-fichiers-caches-dans-le-finder/">un de mes anciens articles</a> et je me suis intéressé à la manière de le faire correctement en respectant les conventions et en utilisant les outils <a title="https://www.w3.org/TR/2012/CR-html5-20121217/" href="https://www.w3.org/TR/2012/CR-html5-20121217/">HTML5</a>. <!--more-->
+Récemment, j'ai mis à jour <a title="Afficher les fichiers cachés dans le Finder (mise à jour)" href="https://www.alienlebarge.ch/2012/12/26/afficher-les-fichiers-caches-dans-le-finder/">un de mes anciens articles</a> et je me suis intéressé à la manière de le faire correctement en respectant les conventions et en utilisant les outils <a title="https://www.w3.org/TR/2012/CR-html5-20121217/" href="https://www.w3.org/TR/2012/CR-html5-20121217/">HTML5</a>. <!--more-->
 <h2>L'abréviation Màj</h2>
 Ceci est une petite parenthèse pour blogueurs francophones.
 

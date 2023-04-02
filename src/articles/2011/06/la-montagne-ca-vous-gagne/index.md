@@ -14,7 +14,7 @@ tags:
 ---
 Les ballade en montagne; qu'y a t-il de mieux ?
 
-Franchement, c'est quelque chose que j'adore. A chaque fois, c'est en réel plaisir.
+Franchement, c'est quelque chose que j'adore. A chaque fois, c'est en réel plaisir.
 
 <!--more-->
 

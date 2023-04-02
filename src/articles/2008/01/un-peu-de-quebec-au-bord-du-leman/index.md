@@ -47,4 +47,4 @@ Eux c'est du tout neuf. On reste dans le même registre que les précédents.
 
 [youtube s9otjryrpYU]
 
-<em>Pour la petite histoire, Linda Lemay est aussi de la partie. Et quand j'ai appris son surnom au Québec, ça ma trop fait rire. Là-bas, il l'appellent "Les grandes gencives". </em>
+<em>Pour la petite histoire, Linda Lemay est aussi de la partie. Et quand j'ai appris son surnom au Québec, ça ma trop fait rire. Là-bas, il l'appellent "Les grandes gencives". </em>

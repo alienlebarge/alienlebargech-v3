@@ -12,7 +12,7 @@ tags:
 - Kickstarter
 - Photographie
 ---
-Si vous êtes un fervent utilisateur d'<a href="https://www.instagram.com/">Instagram</a>, vous aimerez certainement ce projet de <a title="Site de la société Design 2 Matter" href="https://d2m-inc.com/"><abbr title="Design To Matter">D2M</abbr></a>. <!--more-->
+Si vous êtes un fervent utilisateur d'<a href="https://www.instagram.com/">Instagram</a>, vous aimerez certainement ce projet de <a title="Site de la société Design 2 Matter" href="https://d2m-inc.com/"><abbr title="Design To Matter">D2M</abbr></a>. <!--more-->
 
 Il s'agit d'un cadre photo numérique permettant d'afficher vos photos publié sur Instagram. Il est possible d'afficher des photos selon un utilisateur ou un mot-clé. Tout ceci se fait en directe grace à la magie du wi-fi.
 

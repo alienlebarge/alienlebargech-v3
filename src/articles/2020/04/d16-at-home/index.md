@@ -44,6 +44,6 @@ Il y a plein de petits changements que je trouve fort agréables.
 
 ## Et après ?
 
-Je ne sais pas quand cet « après » arrivera. Cela sera certainement plus tard que prévu. Mais j’espère du fond du coeur que certaines choses vont rester.
+Je ne sais pas quand cet « après » arrivera. Cela sera certainement plus tard que prévu. Mais j’espère du fond du coeur que certaines choses vont rester.
 
 Mais d’ici là: Courage !

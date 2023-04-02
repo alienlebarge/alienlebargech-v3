@@ -11,7 +11,7 @@ tags:
 ---
 <img class="alignnone size-medium wp-image-528" title="vinyles" src="https://dlgjp9x71cipk.cloudfront.net/2008/06/vinyles.png" alt="" width="500" height="281" />
 
-Adieu vinyles, diamants et bouts de scotchs.
+Adieu vinyles, diamants et bouts de scotchs.
 Bonjour les écrans tactiles.
 
 <!--more-->

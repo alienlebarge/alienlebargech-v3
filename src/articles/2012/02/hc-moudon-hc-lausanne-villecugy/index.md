@@ -14,7 +14,7 @@ tags:
 - Photographie
 - Sport
 ---
-Les voilà enfin les photos les photos de la semaine passée. <!--more-->
+Les voilà enfin les photos les photos de la semaine passée. <!--more-->
 
 [gallery link="file" order="DESC" columns="4" orderby="rand"]
 

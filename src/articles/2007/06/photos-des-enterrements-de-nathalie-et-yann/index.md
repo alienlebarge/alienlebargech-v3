@@ -4,7 +4,7 @@ title: Photos des enterrements de Nathalie et Yann
 categories:
 - Galerie
 ---
- <img src="https://dlgjp9x71cipk.cloudfront.net/2007/06/yannetnath.png" alt="Yann et Nathalie" />
+ <img src="https://dlgjp9x71cipk.cloudfront.net/2007/06/yannetnath.png" alt="Yann et Nathalie" />
 
 Les temps attendu photos des enterrements de vie de garçon de Yann et de jeune fille de Nathalie sont en ligne.
 

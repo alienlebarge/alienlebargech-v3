@@ -11,9 +11,9 @@ tags:
 ---
 <img class="alignnone size-medium wp-image-1104" title="La Patère Rose" src="https://dlgjp9x71cipk.cloudfront.net/2009/04/lapatererose-500x213.png" alt="La Patère Rose" width="500" height="213" />
 
-Je suis tombé sur ce clip assez spécial, mais que me plaît énormément (autant au niveau musical que de l'image). Faut dire que ça vient de "<a href="https://www.daretocarerecords.com/"" title="Le site de Dare To Care Records">Dare to Care Records</a>". On voit naître pas mal d'artistes très prometteurs (c'est mon avis) au sein de ce label québécois ces derniers temps. Je crois que Coeur de Pirate est également a également signée chez eux. Aïe, j'ai oublié de vous dire que l'artiste en question s'appelle la <span style="text-decoration: line-through;">Panthère</span> Patère Rose.
+Je suis tombé sur ce clip assez spécial, mais que me plaît énormément (autant au niveau musical que de l'image). Faut dire que ça vient de "<a href="https://www.daretocarerecords.com/"" title="Le site de Dare To Care Records">Dare to Care Records</a>". On voit naître pas mal d'artistes très prometteurs (c'est mon avis) au sein de ce label québécois ces derniers temps. Je crois que Coeur de Pirate est également a également signée chez eux. Aïe, j'ai oublié de vous dire que l'artiste en question s'appelle la <span style="text-decoration: line-through;">Panthère</span> Patère Rose.
 
-(Bien entendu, tous ces dires sont à confirmer, car je ne suis certain de rien. Oui, je fais mal mon boulot ;) )
+(Bien entendu, tous ces dires sont à confirmer, car je ne suis certain de rien. Oui, je fais mal mon boulot ;) )
 
 <!--more-->
 

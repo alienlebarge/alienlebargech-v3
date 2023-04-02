@@ -12,6 +12,6 @@ tags:
 
 En voilà une bonne nouvelle ! Notre chat Bémol va enfin être papa. Les précédentes tentatives avaient été infructueuses. Mais voilà que la semaine passée, la naissance de deux rejetons nous a été annoncée. Il y est finalement arrivé. Par contre, je saurais vous dire le nom de la maman. C'est un truc comme "Mahité"... enfin bref. Tout ce que je peux vous dire c'est qu'elle louche terriblement. On espère juste que les petits ne vont pas hériter de son strabisme.
 
-En tout cas, toutes nos félicitations. 
+En tout cas, toutes nos félicitations. 
 
 <em>Je sais, vous ne voyez pas le rapport avec la photo de Bémol aux toilettes. C’est juste que je la trouve excellente</em>

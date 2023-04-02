@@ -11,7 +11,7 @@ tags:
 - Vidéo
 - Zeitgeist
 ---
-Google retrace les évènements de l'année 2011 dans une vidéo (légèrement pro américains et pro Google).
+Google retrace les évènements de l'année 2011 dans une vidéo (légèrement pro américains et pro Google).
 
 <!--more-->
 

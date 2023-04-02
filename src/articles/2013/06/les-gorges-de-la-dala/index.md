@@ -14,7 +14,7 @@ published: true
 coordinates: 7.638888,46.385995
 ---
 
-Voici une petite ballade bien sympathique à faire du côté de Loèche-les-Bains. Elle n'est pas très longue une heure sans arrêter. Le temps parfait pour attendre que votre chambre d'hôtel soit prête. <!--more-->
+Voici une petite ballade bien sympathique à faire du côté de Loèche-les-Bains. Elle n'est pas très longue une heure sans arrêter. Le temps parfait pour attendre que votre chambre d'hôtel soit prête. <!--more-->
 
 Le départ du sentier se trouve entre la laiterie du village et le pont qui enjambe la rivière Dala sur Heilbadweg.
 

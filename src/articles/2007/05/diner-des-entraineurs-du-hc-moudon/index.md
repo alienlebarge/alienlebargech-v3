@@ -9,4 +9,4 @@ tags: []
 
 Dîner aux Cullayes en compagnie des entraîneurs du HC Moudon.
 
-<a href="https://www.alienlebarge.ch/picsengine/#album=7" title="Les photos des entraîneurs du HC Moudon">Ploutch ! </a>
+<a href="https://www.alienlebarge.ch/picsengine/#album=7" title="Les photos des entraîneurs du HC Moudon">Ploutch ! </a>

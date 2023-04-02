@@ -11,7 +11,7 @@ tags:
 - Suisse
 - Topographie
 ---
-Pour les personnes qui désirent visionner le tracé de leurs fichiers <abbr title="Keyhole Markup Language">KML</abbr> en ligne et qui ne dispose pas d'un serveur, j'ai trouvé une petit technique en écrivant <a title="Article sur la ballade au Saut du Day" href="https://www.alienlebarge.ch/2013/05/27/saut-du-day/">mon dernier article</a>. <!--more-->
+Pour les personnes qui désirent visionner le tracé de leurs fichiers <abbr title="Keyhole Markup Language">KML</abbr> en ligne et qui ne dispose pas d'un serveur, j'ai trouvé une petit technique en écrivant <a title="Article sur la ballade au Saut du Day" href="https://www.alienlebarge.ch/2013/05/27/saut-du-day/">mon dernier article</a>. <!--more-->
 
 https://twitter.com/alienlebarge/status/339077507246600194
 

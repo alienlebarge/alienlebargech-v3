@@ -11,7 +11,7 @@ tags:
 - Lac
 - Voyage
 ---
-On continue <a href="https://www.clicclac.ch/2011/09/03/skaftafell/">nos pérégrinations islandaises</a>.
+On continue <a href="https://www.clicclac.ch/2011/09/03/skaftafell/">nos pérégrinations islandaises</a>.
 
 <!--more-->
 

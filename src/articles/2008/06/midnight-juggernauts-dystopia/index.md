@@ -14,4 +14,4 @@ J'avais le titre "Into The Galaxy" qui me trottait dans la tête depuis un momen
 
 <!--more-->
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="https://www.youtube.com/v/J6SKNEYvZvQ&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="344" src="https://www.youtube.com/v/J6SKNEYvZvQ&amp;hl=en"></embed></object> 
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="https://www.youtube.com/v/J6SKNEYvZvQ&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="344" src="https://www.youtube.com/v/J6SKNEYvZvQ&amp;hl=en"></embed></object> 

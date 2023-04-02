@@ -8,4 +8,4 @@ tags:
 - Rumer
 - Slow
 ---
-Une artiste que j'ai découvert avec son premier album "Season Of My Soul". Rumer est l’une des nouvelles révélations Jazz en Angleterre.
+Une artiste que j'ai découvert avec son premier album "Season Of My Soul". Rumer est l’une des nouvelles révélations Jazz en Angleterre.

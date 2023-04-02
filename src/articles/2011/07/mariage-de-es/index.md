@@ -11,7 +11,7 @@ tags:
 - Noir et blanc
 - Photographie
 ---
-Quelques photos du dernier mariage auquel nous avons assisté en temps qu'invités.
+Quelques photos du dernier mariage auquel nous avons assisté en temps qu'invités.
 J'aime beaucoup les clichés de la sortie avec le lancé ... de lavande (une première pour nous).
 
 <!--more-->
