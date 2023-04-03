@@ -9,6 +9,8 @@
  */
 
 .o-stack {
+    --stack__space: var(--space-m); /* [1] */
+
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -39,8 +41,6 @@
 
 /* set the space */
 .o-stack > * + * {
-    --stack__space: var(--space-m); /* [1] */
-
     margin-block-start: var(--stack__space);
 }
 
