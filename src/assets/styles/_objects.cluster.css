@@ -2,6 +2,18 @@
    #CLUSTER
    ========================================================================== */
 
+.o-cluster {
+       align-items: center;
+       display: flex;
+       flex-wrap: wrap;
+       gap: var(--cluster__space, var(--step--0));
+       justify-content: flex-start;
+   }
+
+
+
+
+
 .o-cluster.o-cluster--step-1 {
     --cluster__space: var(--step-1);
 }
@@ -19,16 +31,6 @@
 }
 
 
-
-
-
-.o-cluster {
-    align-items: center;
-    display: flex;
-    flex-wrap: wrap;
-    gap: var(--cluster__space, var(--step--0));
-    justify-content: flex-start;
-}
 
 
 

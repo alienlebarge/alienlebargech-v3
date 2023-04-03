@@ -29,8 +29,6 @@
 
 .o-stack.o-stack--space-s { --stack__space: var(--space-s); /* [1] */ }
 
-.o-stack { --stack__space: var(--space-m); /* [1] */ }
-
 .o-stack.o-stack--space-l { --stack__space: var(--space-l); /* [1] */ }
 
 .o-stack.o-stack--space-xl { --stack__space: var(--space-xl); /* [1] */ }
@@ -41,6 +39,8 @@
 
 /* set the space */
 .o-stack > * + * {
+    --stack__space: var(--space-m); /* [1] */
+
     margin-block-start: var(--stack__space);
 }
 

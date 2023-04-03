@@ -2,10 +2,10 @@
    #NAV
    ========================================================================== */
 
-.c-nav:hover a:not(:hover) {
-    color: var(--color-gray-shade-4);
-}
-
 .c-nav a {
     --anchor-decoration-color: var(--color-primary-shade-4);
+}
+
+.c-nav:hover a:not(:hover) {
+    color: var(--color-gray-shade-4);
 }

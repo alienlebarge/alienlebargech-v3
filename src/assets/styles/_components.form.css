@@ -54,8 +54,6 @@ textarea.c-form__input {
 
     --box__color: var(--color-gray-shade-6);
     --box__background-color: var(--color-gray-shade-1);
-    --box__color: var(--color-gray-shade-6);
-    --box__background-color: var(--color-gray-shade-1);
 }
 
 .c-form__button:active {
