@@ -7,24 +7,14 @@
    #Scale
    ----------------------------------- */
 
-/* @link https://utopia.fyi/type/calculator?c=320,18,1.2,1240,20,1.25,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+   /* @link https://utopia.fyi/type/calculator?c=320,15,1.2,1240,20,1.25,5,0,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
-  --step--5: clamp(0.41rem, calc(0.47rem + -0.07vw), 0.45rem);
-  --step--4: clamp(0.51rem, calc(0.55rem + -0.05vw), 0.54rem);
-  --step--3: clamp(0.64rem, calc(0.66rem + -0.02vw), 0.65rem);
-  --step--2: clamp(0.78rem, calc(0.77rem + 0.03vw), 0.80rem);
-  --step--1: clamp(0.94rem, calc(0.92rem + 0.11vw), 1.00rem);
-  --step-0: clamp(1.13rem, calc(1.08rem + 0.22vw), 1.25rem);
-  --step-1: clamp(1.35rem, calc(1.28rem + 0.37vw), 1.56rem);
-  --step-2: clamp(1.62rem, calc(1.50rem + 0.58vw), 1.95rem);
-  --step-3: clamp(1.94rem, calc(1.77rem + 0.87vw), 2.44rem);
-  --step-4: clamp(2.33rem, calc(2.08rem + 1.25vw), 3.05rem);
-  --step-5: clamp(2.80rem, calc(2.45rem + 1.77vw), 3.82rem);
-  --step-6: clamp(3.36rem, calc(2.87rem + 2.45vw), 4.77rem);
-  --step-7: clamp(4.03rem, calc(3.36rem + 3.36vw), 5.96rem);
-  --step-8: clamp(4.84rem, calc(3.93rem + 4.54vw), 7.45rem);
-  --step-9: clamp(5.81rem, calc(4.58rem + 6.10vw), 9.31rem);
-  --step-10: clamp(6.97rem, calc(5.34rem + 8.13vw), 11.64rem);
+    --step-0: clamp(0.94rem, calc(0.83rem + 0.54vw), 1.25rem);
+    --step-1: clamp(1.13rem, calc(0.97rem + 0.76vw), 1.56rem);
+    --step-2: clamp(1.35rem, calc(1.14rem + 1.05vw), 1.95rem);
+    --step-3: clamp(1.62rem, calc(1.33rem + 1.43vw), 2.44rem);
+    --step-4: clamp(1.94rem, calc(1.56rem + 1.93vw), 3.05rem);
+    --step-5: clamp(2.33rem, calc(1.82rem + 2.58vw), 3.82rem);
 
 
 
@@ -116,14 +106,14 @@
     --font-family-system: system-ui;
     --font-family-script: "UntitledScript", script;
     --font-family-monospace: "UntitledMono", monospace;
-    --font-size-title: var(--step-4);
-    --font-size-lede: var(--step-2);
-    --font-size-heading: var(--step-3);
-    --font-size-subhead: var(--step-2);
-    --font-size-body: var(--step-0);
-    --font-size-reference: var(--step--2);
+    --font-size-title: var(--step-5);
+    --font-size-lede: var( --step-3);
+    --font-size-heading: var( --step-4);
+    --font-size-subhead: var( --step-3);
+    --font-size-body: var( --step-1);
+    --font-size-reference: var( --step-0);
     --font-family-reference: var(--font-family-sans);
-    --font-size-caption: var(--step--1);
+    --font-size-caption: var( --step-0);
     --font-size-default: 1em;
     --font-size-smaller: .8em;
     --letter-spacing-body: 0; /* change on dark mode */

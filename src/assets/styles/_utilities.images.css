@@ -4,7 +4,7 @@
 
 .u-avatar {
     border-radius: var(--border-radius-small);
-    max-height: var(--step-4);
-    max-width: var(--step-4);
+    max-height: var(--space-l);
+    max-width: var(--space-l);
 }
 

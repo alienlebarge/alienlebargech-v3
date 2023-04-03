@@ -1,8 +1,8 @@
 <header class="o-container o-box">
     <nav aria-label="Navigation">
         <h2 class="u-visually-hidden">Navigation</h2>
-        <div class="o-cluster o-cluster--step-1 o-cluster--space-between">
-            <a class="o-cluster o-cluster--step--2 c-logo"
+        <div class="o-cluster o-cluster--l o-cluster--space-between">
+            <a class="o-cluster o-cluster--s c-logo"
                href="{{ "/" | url }}"
                rel="home">
                 <img src="{{ app.icon }}" class="c-logo__img" aria-hidden="true" />
@@ -10,7 +10,7 @@
             </a>
             {%- if navigation.primary and type != "opengraph" -%}
             <div class="c-nav">
-                <ul class="o-cluster o-cluster--step--2">
+                <ul class="o-cluster o-cluster--s">
                     {%- for item in navigation.primary -%}
                     <li>
                         <a href="{{ item.url }}">{{ item.label }}</a>

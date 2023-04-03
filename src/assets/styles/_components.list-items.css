@@ -3,9 +3,9 @@
    ========================================================================== */
 
 .c-list-items {
-    --space: var(--step--5);
+    --space: var(--space-2xs);
     --list-display: list-item;
-    --flow-inset: var(--step-2);
+    --flow-inset: var(--space-xs);
 
     padding-inline-start: var(--flow-inset);
 }

@@ -9,11 +9,11 @@
 }
 
 .c-form > * + * {
-    margin-block-start: var(--step-2);
+    margin-block-start: var(--space-xs);
 }
 
 .c-form__field > * + * {
-    margin-block-start: var(--step--4);
+    margin-block-start: var(--space-2xs);
 }
 
 .c-form__label {
@@ -27,8 +27,8 @@
     font-family: var(--font-family-monospace);
     font-style: italic;
     line-height: var(--line-height-body);
-    padding-block: var(--box__padding-block, var(--step-0));
-    padding-inline: var(--box__padding-inline, var(--step-0));
+    padding-block: var(--box__padding-block, var( --space-2xs));
+    padding-inline: var(--box__padding-inline, var( --space-xs));
     width: 100%;
 }
 
@@ -48,8 +48,8 @@ textarea.c-form__input {
     cursor: pointer;
     font-variation-settings: "wght" 600;
     font-weight: 600;
-    padding-block: var(--box__padding-block, var(--step-0));
-    padding-inline: var(--box__padding-inline, var(--step-0));
+    padding-block: var(--box__padding-block, var( --space-2xs));
+    padding-inline: var(--box__padding-inline, var( --space-xs));
     width: fit-content;
 
     --box__color: var(--color-gray-shade-6);

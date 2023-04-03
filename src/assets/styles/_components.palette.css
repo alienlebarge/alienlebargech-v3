@@ -13,6 +13,6 @@
                 inset 0 2px 2px hsl(0deg 0% 0% / 10%);
     content: "";
     display: block;
-    height: var(--step-4);
-    width: var(--step-4);
+    height: var(--space-l);
+    width: var(--space-l);
 }

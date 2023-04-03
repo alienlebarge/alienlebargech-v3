@@ -6,7 +6,7 @@
        align-items: center;
        display: flex;
        flex-wrap: wrap;
-       gap: var(--cluster__space, var(--step--0));
+       gap: var(--cluster__space, var(--space-m));
        justify-content: flex-start;
    }
 
@@ -14,20 +14,20 @@
 
 
 
-.o-cluster.o-cluster--step-1 {
-    --cluster__space: var(--step-1);
+.o-cluster.o-cluster--l {
+    --cluster__space: var(--space-l);
 }
 
 .o-cluster:not([class*="o-cluster--step"]) {
-    --cluster__space: var(--step-0);
+    --cluster__space: var(--space-m);
 }
 
-.o-cluster.o-cluster--step--2 {
-    --cluster__space: var(--step--2);
+.o-cluster.o-cluster--s {
+    --cluster__space: var(--space-s);
 }
 
-.o-cluster.o-cluster--step--3 {
-    --cluster__space: var(--step--3);
+.o-cluster.o-cluster--xs {
+    --cluster__space: var(--space-s);
 }
 
 

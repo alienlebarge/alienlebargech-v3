@@ -21,7 +21,7 @@ tr {
 
 td,
 th {
-    padding: var(--step--4);
+    padding: var(--space-2xs);
     text-align: start;
     vertical-align: top;
 }

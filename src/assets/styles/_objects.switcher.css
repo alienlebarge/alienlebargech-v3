@@ -8,7 +8,7 @@
     align-items: baseline;
     display: flex;
     flex-wrap: wrap;
-    gap: var(--step--2);
+    gap: var(--space-m);
 }
 
 .o-switcher__item {

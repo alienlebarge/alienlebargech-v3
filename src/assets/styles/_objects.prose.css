@@ -7,8 +7,8 @@
  */
 
 .o-prose {
-    --space: var(--step-3);
-    --flow-inset: var(--step-2);
+    --space: var(--space-l);
+    --flow-inset: var( --space-m);
     --anchor-decoration-line: underline;
     --anchor-decoration-color: var(--color-primary-shade-4);
     --anchor-color-hover: var(--color-primary-shade-4);
@@ -66,21 +66,21 @@
 
 /* stylelint-disable-next-line no-descending-specificity */
 .o-prose > h2 + * {
-    --space: var(--step-0); /* [1] */
+    --space: var(--space-m); /* [1] */
 }
 
 /* stylelint-disable-next-line no-descending-specificity */
 .o-prose > h3 + * {
-    --space: var(--step-0); /* [2] */
+    --space: var(--space-m); /* [2] */
 }
 
 /* stylelint-disable-next-line no-descending-specificity */
 .o-prose :is(h4, h5, h6) + * {
-    --space: var(--step--2); /* [3] */
+    --space: var(--space-xs); /* [3] */
 }
 
 .o-prose li {
-    --space: var(--step--5); /* [4] */
+    --space: var(--space-2xs); /* [4] */
 }
 
 /* stylelint-disable-next-line no-descending-specificity */
@@ -100,7 +100,7 @@
 
 /* stylelint-disable-next-line no-descending-specificity */
 .o-prose > p + p {
-    --space: var(--step-0);
+    --space: var(--space-m);
 }
 
 
@@ -122,7 +122,7 @@
 
 /* stylelint-disable-next-line no-descending-specificity */
 .o-prose > blockquote > p + p {
-    --space: var(--step--1);
+    --space: var(--space-m);
 }
 
 
@@ -144,7 +144,7 @@
 
 /* stylelint-disable-next-line no-descending-specificity */
 .o-prose > figure > * + figcaption {
-    --space: var(--step--5);
+    --space: var(--space-2xs);
 }
 
 

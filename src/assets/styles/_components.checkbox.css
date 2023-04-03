@@ -7,7 +7,7 @@
  */
 .c-checkbox {
     display: flex;
-    margin-block-end: var(--step--4);
+    margin-block-end: var(--space-2xs);
     position: relative;
 }
 
@@ -55,7 +55,7 @@
  */
 .c-checkbox__label {
     cursor: pointer;
-    margin-inline-start: var(--step-0) /* [1] */;
+    margin-inline-start: var(--space-m) /* [1] */;
 }
 
 .c-checkbox__input:disabled + .c-checkbox__label {
