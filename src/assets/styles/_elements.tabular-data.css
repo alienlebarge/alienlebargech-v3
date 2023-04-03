@@ -9,11 +9,10 @@
  */
 
 table {
-    width: 100%; /* [1] */
-
     font-feature-settings: "kern", "liga", "clig", "calt", "lnum", "tnum";
     font-variant-ligatures: common-ligatures contextual;
     font-variant-numeric: lining-nums tabular-nums;
+    width: 100%; /* [1] */
 }
 
 tr {
@@ -22,9 +21,8 @@ tr {
 
 td,
 th {
-    text-align: start;
-
     padding: var(--step--4);
+    text-align: start;
     vertical-align: top;
 }
 
@@ -33,8 +31,8 @@ tr + tr {
 }
 
 thead th {
-    font-weight: 800;
     font-variation-settings: "wght" 800;
+    font-weight: 800;
 }
 
 tbody th {
@@ -42,6 +40,6 @@ tbody th {
 }
 
 caption {
-    text-align: start;
     caption-side: bottom;
+    text-align: start;
 }

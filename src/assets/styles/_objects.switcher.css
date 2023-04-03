@@ -5,15 +5,15 @@
 .o-switcher {
     --measure: var(--line-measure);
 
-    display: flex;
     align-items: baseline;
+    display: flex;
     flex-wrap: wrap;
     gap: var(--step--2);
 }
 
 .o-switcher__item {
-    flex-grow: 1;
     flex-basis: calc((var(--measure) - 100%) * 999);
+    flex-grow: 1;
 }
 
 .o-switcher__item--big {

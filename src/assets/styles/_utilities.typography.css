@@ -7,66 +7,67 @@
    ------------------------------------- */
 
 .u-title {
-    font-size: var(--font-size-title);
-    font-weight: var(--font-weight-title, 700);
     font-family: var(--font-family-title, var(--font-family-sans));
-    line-height: var(--line-height-title, var(--line-height-tight));
-    letter-spacing: 0; /* [1] */
+    font-size: var(--font-size-title);
     font-variation-settings: "wght" var(--font-weight-title, 700);
+    font-weight: var(--font-weight-title, 700);
     hanging-punctuation: first;
+    letter-spacing: 0; /* [1] */
+    line-height: var(--line-height-title, var(--line-height-tight));
 }
 
 .u-heading {
-    font-size: var(--font-size-heading);
-    font-weight: var(--font-weight-heading, 600);
     font-family: var(--font-family-heading, var(--font-family-sans));
-    line-height: var(--line-height-heading, var(--line-height-tight));
-    letter-spacing: 0; /* [1] */
+    font-size: var(--font-size-heading);
     font-variation-settings: "wght" var(--font-weight-heading, 600);
+    font-weight: var(--font-weight-heading, 600);
     hanging-punctuation: first;
+    letter-spacing: 0; /* [1] */
+    line-height: var(--line-height-heading, var(--line-height-tight));
 }
 
 .u-subhead {
-    font-size: var(--font-size-subhead);
-    font-weight: var(--font-weight-subhead, 600);
     font-family: var(--font-family-subhead, var(--font-family-sans));
-    line-height: var(--line-height-subhead, var(--line-height-tight));
-    letter-spacing: 0; /* [1] */
+    font-size: var(--font-size-subhead);
     font-variation-settings: "wght" var(--font-weight-subhead, 600);
+    font-weight: var(--font-weight-subhead, 600);
     hanging-punctuation: first;
+    letter-spacing: 0; /* [1] */
+    line-height: var(--line-height-subhead, var(--line-height-tight));
 }
 
 .u-overline {
-    font-size: var(--font-size-caption);
-    font-weight: var(--font-weight-overline, 800);
     font-family: var(--font-family-overline, inherit);
-    text-transform: uppercase;
-    letter-spacing: .125em;
+    font-size: var(--font-size-caption);
     font-variation-settings: "wght" var(--font-weight-overline, 800);
+    font-weight: var(--font-weight-overline, 800);
+    letter-spacing: .125em;
+    text-transform: uppercase;
 }
 
 .u-lede {
-    font-size: var(--font-size-lede);
-    font-weight: var(--font-weight-lede, 200);
     font-family: var(--font-family-lede, var(--font-family-sans));
-    line-height: var(--line-height-lede, var(--line-height-tight));
-    letter-spacing: .02em;
+    font-size: var(--font-size-lede);
     font-variation-settings: "wght" var(--font-weight-lede, 200);
+    font-weight: var(--font-weight-lede, 200);
     hanging-punctuation: first;
+    letter-spacing: .02em;
+    line-height: var(--line-height-lede, var(--line-height-tight));
 }
 
 .u-body {
     --flow-space: var(--line-height-body);
     --line-height-body: var(--line-height-loose);
-    font-size: var(--font-size-body);
-    font-weight: var(--font-weight-body, 400);
+
     font-family: var(--font-family-sans);
+    font-size: var(--font-size-body);
     font-variant: oldstyle-nums;
-    line-height: var(--line-height-body);
-    letter-spacing: var(--letter-spacing-body);
     font-variation-settings: "wght" var(--font-weight-body, 400);
+    font-weight: var(--font-weight-body, 400);
     hanging-punctuation: first;
     hyphens: auto;
+    letter-spacing: var(--letter-spacing-body);
+    line-height: var(--line-height-body);
     word-spacing: var(--word-spacing);
 }
 
@@ -77,29 +78,31 @@
 .u-reference {
     --flow-space: calc(var(--line-height-reference) / 2);
     --line-height-reference: var(--line-height-tight);
-    font-size: var(--font-size-reference);
+
     font-family: var(--font-family-reference);
-    font-variant: tabular-nums;
-    line-height: var(--line-height-reference);
-    letter-spacing: var(--letter-spacing-body);
     font-feature-settings: "ss14"; /* [1] */
+    font-size: var(--font-size-reference);
+    font-variant: tabular-nums;
     font-variation-settings: "opsz" 14;
     hanging-punctuation: first;
     hyphens: auto;
+    letter-spacing: var(--letter-spacing-body);
+    line-height: var(--line-height-reference);
     word-spacing: var(--word-spacing);
 }
 
 .u-caption {
     --flow-space: calc(var(--line-height-caption) / 3);
     --line-height-caption: var(--line-height-tight);
+
     font-size: var(--font-size-caption);
-    line-height: var(--line-height-caption);
     letter-spacing: var(--letter-spacing-body);
+    line-height: var(--line-height-caption);
 }
 
 .u-font-weight\:bold {
-    font-weight: 700 !important;
     font-variation-settings: "wght" 700 !important;
+    font-weight: 700 !important;
 }
 
 .u-font-family\:script {
@@ -126,8 +129,8 @@
 }
 
 svg.u-sup {
-    max-width: .85em;
     max-height: .85em;
+    max-width: .85em;
 }
 
 

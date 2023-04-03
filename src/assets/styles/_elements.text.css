@@ -36,8 +36,8 @@ a:active {
  */
 
 a[aria-current] {
-    font-weight: 800;
     font-variation-settings: "wght" 800;
+    font-weight: 800;
 }
 
 
@@ -49,10 +49,8 @@ a[aria-current] {
  */
 a:focus,
 a:focus-within {
-    outline-color: var(--color-focus);
+    outline: var(--color-focus) solid var(--border-width-thick);
     outline-offset: .25em;
-    outline-style: solid;
-    outline-width: var(--border-width-thick);
 }
 
 
@@ -80,8 +78,8 @@ em {
    ------------------------------------- */
 
 strong {
-    font-weight: var(--font-weight-strong, 800);
     font-variation-settings: "wght" var(--font-weight-strong, 800);
+    font-weight: var(--font-weight-strong, 800);
 }
 
 
@@ -105,22 +103,22 @@ strong {
  */
 
 abbr {
-    font-kerning: normal; /* [1] */
-    text-transform: uppercase; /* [1] [2] */
     font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum",
         "smcp", "c2sc"; /* [1] */
+
+    font-kerning: normal; /* [1] */
     font-variant-caps: all-small-caps; /* [1] */
     font-variant-ligatures: common-ligatures, contextual; /* [1] */
     font-variant-numeric: oldstyle-nums, proportional-nums; /* [1] */
+    text-transform: uppercase; /* [1] [2] */
 }
 
 @media (hover: none) {
-
     abbr::after {
-        font-size: var(--font-size-reference); /* [3] */
-        text-transform: none;
         content: " ("attr(title) ")"; /* [3] */
+        font-size: var(--font-size-reference); /* [3] */
         font-variant-caps: initial;
+        text-transform: none;
     }
 }
 
@@ -151,18 +149,15 @@ samp {
 }
 
 :not(pre) > code {
-    color: var(--color-gray-shade-1);
-
     background-color: var(--color-gray-shade-5);
+    color: var(--color-gray-shade-1);
     padding: var(--text-box);
 }
 
 @media (prefers-color-scheme: dark) {
-
     :not(pre) > code {
-        color: var(--color-gray-shade-6);
-
         background-color: var(--color-gray-shade-2);
+        color: var(--color-gray-shade-6);
     }
 }
 
@@ -173,9 +168,8 @@ samp {
  */
 code::selection,
 code ::selection {
-    color: var(--color-gray-shade-6);
-
     background-color: var(--color-gray-shade-1);
+    color: var(--color-gray-shade-6);
 }
 
 samp {
@@ -191,7 +185,6 @@ samp {
    ------------------------------------- */
 
 mark {
-    color: var(--color-gray-shade-1);
-
     background-color: var(--color-gray-shade-6);
+    color: var(--color-gray-shade-1);
 }

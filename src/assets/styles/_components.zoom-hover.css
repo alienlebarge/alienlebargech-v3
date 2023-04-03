@@ -20,27 +20,24 @@
 }
 
 .c-scale-hover .c-scale-hover__container::after {
+    background: transparent;
+    bottom: 0;
+    content: "";
+    height: 0;
+    left: 0;
+    margin-inline: var(--step-0);
     position: absolute;
     right: 0;
-    bottom: 0;
-    left: 0;
-
-    height: 0;
-
-    background: transparent;
-    content: "";
-    margin-inline: var(--step-0);
     transition: all var(--transition-short);
 }
 
 .c-scale-hover:hover .c-scale-hover__container::after,
 .c-scale-hover:active .c-scale-hover__container::after {
-    height: calc( 2 * var(--border-width-thickest) );
-
     background: linear-gradient(
             0deg,
             var(--color-gray-shade-1) 0%,
             var(--color-gray-shade-1) 50%,
             var(--color-gray-shade-6) 50%
         );
+    height: calc( 2 * var(--border-width-thickest) );
 }

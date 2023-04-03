@@ -12,9 +12,10 @@
     --anchor-decoration-line: underline;
     --anchor-decoration-color: var(--color-primary-shade-4);
     --anchor-color-hover: var(--color-primary-shade-4);
+
     font-size: var(--font-size-body);
-    font-weight: var(--font-weight-body, inherit);
     font-variation-settings: "wght" var(--font-weight-body, inherit);
+    font-weight: var(--font-weight-body, inherit);
 }
 
 /* -------------------------------------
@@ -152,7 +153,7 @@
  *     not want to override it.
  */
 
-.o-prose > *:not(table):not(.o-frame) {
+.o-prose > *:not(table, .o-frame) {
     max-inline-size: var(--line-measure); /* [1] */
 }
 
@@ -169,42 +170,42 @@
  */
 
 .o-prose > h1 {
-    font-size: var(--font-size-title);
-    font-weight: var(--font-weight-title, 700);
     font-family: var(--font-family-title, var(--font-family-sans));
-    line-height: var(--line-height-title, var(--line-height-tight));
-    letter-spacing: 0; /* [1] */
+    font-size: var(--font-size-title);
     font-variation-settings: "wght" var(--font-weight-title, 700);
+    font-weight: var(--font-weight-title, 700);
     hanging-punctuation: first;
+    letter-spacing: 0; /* [1] */
+    line-height: var(--line-height-title, var(--line-height-tight));
 }
 
 .o-prose > h2 {
-    font-size: var(--font-size-heading);
-    font-weight: var(--font-weight-heading, 600);
     font-family: var(--font-family-heading, var(--font-family-sans));
-    line-height: var(--line-height-heading, var(--line-height-tight));
-    letter-spacing: 0; /* [1] */
+    font-size: var(--font-size-heading);
     font-variation-settings: "wght" var(--font-weight-heading, 600);
+    font-weight: var(--font-weight-heading, 600);
     hanging-punctuation: first;
+    letter-spacing: 0; /* [1] */
+    line-height: var(--line-height-heading, var(--line-height-tight));
 }
 
 .o-prose > h3 {
-    font-size: var(--font-size-subhead);
-    font-weight: var(--font-weight-subhead, 600);
     font-family: var(--font-family-subhead, var(--font-family-sans));
-    line-height: var(--line-height-subhead, var(--line-height-tight));
-    letter-spacing: 0; /* [1] */
+    font-size: var(--font-size-subhead);
     font-variation-settings: "wght" var(--font-weight-subhead, 600);
+    font-weight: var(--font-weight-subhead, 600);
     hanging-punctuation: first;
+    letter-spacing: 0; /* [1] */
+    line-height: var(--line-height-subhead, var(--line-height-tight));
 }
 
 .o-prose :is(h4, h5, h6) {
-    font-size: var(--font-size-caption);
-    font-weight: var(--font-weight-overline, 800);
     font-family: var(--font-family-overline, inherit);
-    text-transform: uppercase;
-    letter-spacing: .125em;
+    font-size: var(--font-size-caption);
     font-variation-settings: "wght" var(--font-weight-overline, 800);
+    font-weight: var(--font-weight-overline, 800);
+    letter-spacing: .125em;
+    text-transform: uppercase;
 }
 
 
@@ -220,6 +221,7 @@
 .o-prose ul:not([class]),
 .o-prose ol:not([class]) {
     --list-display: list-item;
+
     padding-inline-start: var(--flow-inset);
 }
 
@@ -276,7 +278,8 @@
 .o-prose figcaption {
     --flow-space: calc(var(--line-height-caption) / 3);
     --line-height-caption: var(--line-height-tight);
+
     font-size: var(--font-size-caption);
-    line-height: var(--line-height-caption);
     letter-spacing: var(--letter-spacing-body);
+    line-height: var(--line-height-caption);
 }

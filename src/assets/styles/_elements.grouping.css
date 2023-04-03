@@ -17,15 +17,13 @@
  * TODO: perhaps it will be usefull to have more sizes
  */
 hr {
-    display: block;
-    height: var(--space-3xs);
-
-    text-align: left;
-
     background-color: var(--color-gray-shade-6);
     border: none;
+    display: block;
+    height: var(--space-3xs);
     inline-size: var(--space-3xl);
     margin-inline-start: 0;
+    text-align: left;
 }
 
 
@@ -38,25 +36,19 @@ hr {
  */
 
 pre {
-    display: block;
-
-    color: var(--color-gray-shade-1);
-
     background-color: var(--color-gray-shade-6);
-
+    color: var(--color-gray-shade-1);
+    display: block;
     font-feature-settings: "dlig"; /* [1] */
-
     overflow-x: scroll;
     padding-block: var(--space-2xs);
     padding-inline: var(--space-xs);
 }
 
 @media (prefers-color-scheme: dark) {
-
     pre {
-        color: var(--color-gray-shade-6);
-
         background-color: var(--color-gray-shade-2);
+        color: var(--color-gray-shade-6);
     }
 }
 
