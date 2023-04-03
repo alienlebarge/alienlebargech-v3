@@ -26,17 +26,15 @@
  * Hide date on small viewport
  */
 @media (--upto-small-viewport) {
-
     .c-list-items__date {
-        position: absolute;
-
-        border: 0;
-        margin: -1px;
-        padding: 0;
         block-size: 1px;
+        border: 0;
         clip: rect(0 0 0 0);
         inline-size: 1px;
+        margin: -1px;
         overflow: hidden;
+        padding: 0;
+        position: absolute;
     }
 }
 
@@ -61,7 +59,6 @@
 }
 
 @media (--from-small-viewport) {
-
     .c-list-items {
         --list-display: block;
         --flow-inset: 0;
@@ -71,20 +68,20 @@
      * Same code as in `o-with-sidebar` object
      */
     .c-list-items__link {
-        display: flex;
         align-items: baseline;
+        display: flex;
         flex-wrap: wrap;
         gap: var(--space-3xs-l);
     }
 
     .c-list-items__link > :first-child {
-        flex-grow: 1;
         flex-basis: var(--space-3xl);
+        flex-grow: 1;
     }
 
     .c-list-items__link > :last-child {
-        flex-grow: 999;
         flex-basis: 0;
+        flex-grow: 999;
         min-inline-size: 70%;
     }
 }

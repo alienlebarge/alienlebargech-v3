@@ -3,10 +3,10 @@
    ========================================================================== */
 
 .o-container {
-    width: 100%;
-    max-width: var(--grid-max-width);
     margin-inline: auto;
+    max-width: var(--grid-max-width);
     padding-inline: var(--grid-gutter);
+    width: 100%;
 }
 
 .o-container.o-container--full {

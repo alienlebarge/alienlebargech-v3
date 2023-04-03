@@ -12,9 +12,10 @@
     --anchor-decoration-line: underline;
     --anchor-decoration-color: var(--color-primary-shade-4);
     --anchor-color-hover: var(--color-primary-shade-4);
+
     font-size: var(--font-size-body);
-    font-weight: var(--font-weight-body, inherit);
     font-variation-settings: "wght" var(--font-weight-body, inherit);
+    font-weight: var(--font-weight-body, inherit);
 }
 
 /* -------------------------------------
@@ -63,14 +64,17 @@
  * 5. Space between things inside a li. For exemople a `p`
  */
 
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose > h2 + * {
     --space: var(--step-0); /* [1] */
 }
 
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose > h3 + * {
     --space: var(--step-0); /* [2] */
 }
 
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose :is(h4, h5, h6) + * {
     --space: var(--step--2); /* [3] */
 }
@@ -79,7 +83,7 @@
     --space: var(--step--5); /* [4] */
 }
 
-/* stylelint-disable selector-max-compound-selectors */
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose > ul:not([class]) > li + li,
 .o-prose :is(
     dl:not([class]),
@@ -87,13 +91,14 @@
     ul:not([class])) > li:first-child {
     margin-block-start: var(--space); /* [4] */
 }
-/* stylelint-enable */
 
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose li > * {
     margin-block-end: 0; /* [5] */
     margin-block-start: 0; /* [5] */
 }
 
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose > p + p {
     --space: var(--step-0);
 }
@@ -104,22 +109,21 @@
  * Blockquote
  */
 
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose > blockquote > * {
     margin-block-end: 0;
     margin-block-start: 0;
 }
 
-/* stylelint-disable selector-max-compound-selectors */
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose > blockquote > * + * {
     margin-block-start: var(--space);
 }
-/* stylelint-enable */
 
-/* stylelint-disable selector-max-compound-selectors */
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose > blockquote > p + p {
     --space: var(--step--1);
 }
-/* stylelint-enable */
 
 
 
@@ -127,22 +131,23 @@
  * Figures
  */
 
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose > figure > * {
     margin-block-end: 0;
     margin-block-start: 0;
 }
 
-/* stylelint-disable selector-max-compound-selectors */
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose > figure > * + * {
     margin-block-start: var(--space);
 }
-/* stylelint-enable selector-max-compound-selectors */
 
-/* stylelint-disable selector-max-compound-selectors */
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose > figure > * + figcaption {
     --space: var(--step--5);
 }
-/* stylelint-enable selector-max-compound-selectors */
+
+
 
 /**
  * Horizontal space (writing direction)
@@ -152,7 +157,8 @@
  *     not want to override it.
  */
 
-.o-prose > *:not(table):not(.o-frame) {
+/* stylelint-disable-next-line no-descending-specificity */
+.o-prose > *:not(table, .o-frame) {
     max-inline-size: var(--line-measure); /* [1] */
 }
 
@@ -169,42 +175,42 @@
  */
 
 .o-prose > h1 {
-    font-size: var(--font-size-title);
-    font-weight: var(--font-weight-title, 700);
     font-family: var(--font-family-title, var(--font-family-sans));
-    line-height: var(--line-height-title, var(--line-height-tight));
-    letter-spacing: 0; /* [1] */
+    font-size: var(--font-size-title);
     font-variation-settings: "wght" var(--font-weight-title, 700);
+    font-weight: var(--font-weight-title, 700);
     hanging-punctuation: first;
+    letter-spacing: 0; /* [1] */
+    line-height: var(--line-height-title, var(--line-height-tight));
 }
 
 .o-prose > h2 {
-    font-size: var(--font-size-heading);
-    font-weight: var(--font-weight-heading, 600);
     font-family: var(--font-family-heading, var(--font-family-sans));
-    line-height: var(--line-height-heading, var(--line-height-tight));
-    letter-spacing: 0; /* [1] */
+    font-size: var(--font-size-heading);
     font-variation-settings: "wght" var(--font-weight-heading, 600);
+    font-weight: var(--font-weight-heading, 600);
     hanging-punctuation: first;
+    letter-spacing: 0; /* [1] */
+    line-height: var(--line-height-heading, var(--line-height-tight));
 }
 
 .o-prose > h3 {
-    font-size: var(--font-size-subhead);
-    font-weight: var(--font-weight-subhead, 600);
     font-family: var(--font-family-subhead, var(--font-family-sans));
-    line-height: var(--line-height-subhead, var(--line-height-tight));
-    letter-spacing: 0; /* [1] */
+    font-size: var(--font-size-subhead);
     font-variation-settings: "wght" var(--font-weight-subhead, 600);
+    font-weight: var(--font-weight-subhead, 600);
     hanging-punctuation: first;
+    letter-spacing: 0; /* [1] */
+    line-height: var(--line-height-subhead, var(--line-height-tight));
 }
 
 .o-prose :is(h4, h5, h6) {
-    font-size: var(--font-size-caption);
-    font-weight: var(--font-weight-overline, 800);
     font-family: var(--font-family-overline, inherit);
-    text-transform: uppercase;
-    letter-spacing: .125em;
+    font-size: var(--font-size-caption);
     font-variation-settings: "wght" var(--font-weight-overline, 800);
+    font-weight: var(--font-weight-overline, 800);
+    letter-spacing: .125em;
+    text-transform: uppercase;
 }
 
 
@@ -220,6 +226,7 @@
 .o-prose ul:not([class]),
 .o-prose ol:not([class]) {
     --list-display: list-item;
+
     padding-inline-start: var(--flow-inset);
 }
 
@@ -248,12 +255,11 @@
 /**
  * 1. `dt` are sometimes visually hidden. This rules force consistency
  */
-/* stylelint-disable selector-max-compound-selectors */
+
 .o-prose dd + .o-prose dt,
 .o-prose dd + .o-prose dt.u-visually-hidden + .o-prose dd { /* [1] */
     margin-block-start: calc(var(--flow-space, 0) / 2);
 }
-/* stylelint-enable */
 
 
 
@@ -273,10 +279,12 @@
    #EMBED
    ------------------------------------- */
 
+/* stylelint-disable-next-line no-descending-specificity */
 .o-prose figcaption {
     --flow-space: calc(var(--line-height-caption) / 3);
     --line-height-caption: var(--line-height-tight);
+
     font-size: var(--font-size-caption);
-    line-height: var(--line-height-caption);
     letter-spacing: var(--letter-spacing-body);
+    line-height: var(--line-height-caption);
 }

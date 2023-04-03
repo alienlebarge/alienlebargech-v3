@@ -7,13 +7,12 @@
 }
 
 .c-palette::before {
-    display: block;
-    width: var(--step-4);
-    height: var(--step-4);
-
     background: currentcolor;
     border-radius: var(--border-radius-small);
-    box-shadow: 0 2px 0 hsla(0, 0%, 100%, .15),
-                inset 0 2px 2px hsla(0, 0%, 0%, .1);
+    box-shadow: 0 2px 0 hsl(0deg 0% 100% / 15%),
+                inset 0 2px 2px hsl(0deg 0% 0% / 10%);
     content: "";
+    display: block;
+    height: var(--step-4);
+    width: var(--step-4);
 }

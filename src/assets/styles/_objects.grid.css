@@ -9,7 +9,6 @@
 }
 
 @supports (width: min(calc(2*var(--space-3xl)), 100%)) {
-
     .o-grid {
         grid-template-columns: repeat(
             auto-fit,

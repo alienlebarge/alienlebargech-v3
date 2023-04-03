@@ -2,141 +2,29 @@
  * #CUSTOM-PROPERTIES
  * ========================================================================== */
 
+:root {
 /* -----------------------------------
    #Scale
    ----------------------------------- */
 
 /* @link https://utopia.fyi/type/calculator?c=320,18,1.2,1240,20,1.25,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
-:root {
-  --fluid-min-width: 320;
-  --fluid-max-width: 1240;
 
-  --fluid-screen: 100vw;
-  --fluid-bp: calc(
-    (var(--fluid-screen) - var(--fluid-min-width) / 16 * 1rem) /
-      (var(--fluid-max-width) - var(--fluid-min-width))
-  );
-}
-
-@media screen and (min-width: 1240px) {
-  :root {
-    --fluid-screen: calc(var(--fluid-max-width) * 1px);
-  }
-}
-
-:root {
-  --f--5-min: 7.23;
-  --f--5-max: 6.55;
-  --step--5: calc(
-    ((var(--f--5-min) / 16) * 1rem) + (var(--f--5-max) - var(--f--5-min)) *
-      var(--fluid-bp)
-  );
-
-  --f--4-min: 8.68;
-  --f--4-max: 8.19;
-  --step--4: calc(
-    ((var(--f--4-min) / 16) * 1rem) + (var(--f--4-max) - var(--f--4-min)) *
-      var(--fluid-bp)
-  );
-
-  --f--3-min: 10.42;
-  --f--3-max: 10.24;
-  --step--3: calc(
-    ((var(--f--3-min) / 16) * 1rem) + (var(--f--3-max) - var(--f--3-min)) *
-      var(--fluid-bp)
-  );
-
-  --f--2-min: 12.50;
-  --f--2-max: 12.80;
-  --step--2: calc(
-    ((var(--f--2-min) / 16) * 1rem) + (var(--f--2-max) - var(--f--2-min)) *
-      var(--fluid-bp)
-  );
-
-  --f--1-min: 15.00;
-  --f--1-max: 16.00;
-  --step--1: calc(
-    ((var(--f--1-min) / 16) * 1rem) + (var(--f--1-max) - var(--f--1-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-0-min: 18.00;
-  --f-0-max: 20.00;
-  --step-0: calc(
-    ((var(--f-0-min) / 16) * 1rem) + (var(--f-0-max) - var(--f-0-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-1-min: 21.60;
-  --f-1-max: 25.00;
-  --step-1: calc(
-    ((var(--f-1-min) / 16) * 1rem) + (var(--f-1-max) - var(--f-1-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-2-min: 25.92;
-  --f-2-max: 31.25;
-  --step-2: calc(
-    ((var(--f-2-min) / 16) * 1rem) + (var(--f-2-max) - var(--f-2-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-3-min: 31.10;
-  --f-3-max: 39.06;
-  --step-3: calc(
-    ((var(--f-3-min) / 16) * 1rem) + (var(--f-3-max) - var(--f-3-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-4-min: 37.32;
-  --f-4-max: 48.83;
-  --step-4: calc(
-    ((var(--f-4-min) / 16) * 1rem) + (var(--f-4-max) - var(--f-4-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-5-min: 44.79;
-  --f-5-max: 61.04;
-  --step-5: calc(
-    ((var(--f-5-min) / 16) * 1rem) + (var(--f-5-max) - var(--f-5-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-6-min: 53.75;
-  --f-6-max: 76.29;
-  --step-6: calc(
-    ((var(--f-6-min) / 16) * 1rem) + (var(--f-6-max) - var(--f-6-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-7-min: 64.50;
-  --f-7-max: 95.37;
-  --step-7: calc(
-    ((var(--f-7-min) / 16) * 1rem) + (var(--f-7-max) - var(--f-7-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-8-min: 77.40;
-  --f-8-max: 119.21;
-  --step-8: calc(
-    ((var(--f-8-min) / 16) * 1rem) + (var(--f-8-max) - var(--f-8-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-9-min: 92.88;
-  --f-9-max: 149.01;
-  --step-9: calc(
-    ((var(--f-9-min) / 16) * 1rem) + (var(--f-9-max) - var(--f-9-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-10-min: 111.45;
-  --f-10-max: 186.26;
-  --step-10: calc(
-    ((var(--f-10-min) / 16) * 1rem) + (var(--f-10-max) - var(--f-10-min)) *
-      var(--fluid-bp)
-  );
-}
+  --step--5: clamp(0.41rem, calc(0.47rem + -0.07vw), 0.45rem);
+  --step--4: clamp(0.51rem, calc(0.55rem + -0.05vw), 0.54rem);
+  --step--3: clamp(0.64rem, calc(0.66rem + -0.02vw), 0.65rem);
+  --step--2: clamp(0.78rem, calc(0.77rem + 0.03vw), 0.80rem);
+  --step--1: clamp(0.94rem, calc(0.92rem + 0.11vw), 1.00rem);
+  --step-0: clamp(1.13rem, calc(1.08rem + 0.22vw), 1.25rem);
+  --step-1: clamp(1.35rem, calc(1.28rem + 0.37vw), 1.56rem);
+  --step-2: clamp(1.62rem, calc(1.50rem + 0.58vw), 1.95rem);
+  --step-3: clamp(1.94rem, calc(1.77rem + 0.87vw), 2.44rem);
+  --step-4: clamp(2.33rem, calc(2.08rem + 1.25vw), 3.05rem);
+  --step-5: clamp(2.80rem, calc(2.45rem + 1.77vw), 3.82rem);
+  --step-6: clamp(3.36rem, calc(2.87rem + 2.45vw), 4.77rem);
+  --step-7: clamp(4.03rem, calc(3.36rem + 3.36vw), 5.96rem);
+  --step-8: clamp(4.84rem, calc(3.93rem + 4.54vw), 7.45rem);
+  --step-9: clamp(5.81rem, calc(4.58rem + 6.10vw), 9.31rem);
+  --step-10: clamp(6.97rem, calc(5.34rem + 8.13vw), 11.64rem);
 
 
 
@@ -145,72 +33,28 @@
    ----------------------------------- */
 
 /* @link https://utopia.fyi/space/calculator?c=320,18,1.2,1240,20,1.25,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,3xs-l&g=s,l,xl,12 */
-:root {
-  --fluid-min-width: 320;
-  --fluid-max-width: 1240;
+  --space-3xs: clamp(0.31rem, calc(0.31rem + 0.00vw), 0.31rem);
+  --space-2xs: clamp(0.56rem, calc(0.54rem + 0.11vw), 0.63rem);
+  --space-xs: clamp(0.88rem, calc(0.85rem + 0.11vw), 0.94rem);
+  --space-s: clamp(1.13rem, calc(1.08rem + 0.22vw), 1.25rem);
+  --space-m: clamp(1.69rem, calc(1.62rem + 0.33vw), 1.88rem);
+  --space-l: clamp(2.25rem, calc(2.16rem + 0.43vw), 2.50rem);
+  --space-xl: clamp(3.38rem, calc(3.24rem + 0.65vw), 3.75rem);
+  --space-2xl: clamp(4.50rem, calc(4.33rem + 0.87vw), 5.00rem);
+  --space-3xl: clamp(6.75rem, calc(6.49rem + 1.30vw), 7.50rem);
 
-  --fluid-screen: 100vw;
-  --fluid-bp: calc((var(--fluid-screen) - var(--fluid-min-width) / 16 * 1rem) / (var(--fluid-max-width) - var(--fluid-min-width)));
-}
-
-@media screen and (min-width: 1240px) {
-  :root {
-    --fluid-screen: calc(var(--fluid-max-width) * 1px);
-  }
-}
-
-:root {
-  --fc-3xs-min: (var(--fc-s-min) * 0.25); 
-  --fc-3xs-max: (var(--fc-s-max) * 0.25);
-
-  --fc-2xs-min: (var(--fc-s-min) * 0.5); 
-  --fc-2xs-max: (var(--fc-s-max) * 0.5);
-
-  --fc-xs-min: (var(--fc-s-min) * 0.75); 
-  --fc-xs-max: (var(--fc-s-max) * 0.75);
-
-  --fc-s-min: (var(--f-0-min, 18)); 
-  --fc-s-max: (var(--f-0-max, 20));
-
-  --fc-m-min: (var(--fc-s-min) * 1.5); 
-  --fc-m-max: (var(--fc-s-max) * 1.5);
-
-  --fc-l-min: (var(--fc-s-min) * 2); 
-  --fc-l-max: (var(--fc-s-max) * 2);
-
-  --fc-xl-min: (var(--fc-s-min) * 3); 
-  --fc-xl-max: (var(--fc-s-max) * 3);
-
-  --fc-2xl-min: (var(--fc-s-min) * 4); 
-  --fc-2xl-max: (var(--fc-s-max) * 4);
-
-  --fc-3xl-min: (var(--fc-s-min) * 6); 
-  --fc-3xl-max: (var(--fc-s-max) * 6);
-
-  /* T-shirt sizes */
-  --space-3xs: calc(((var(--fc-3xs-min) / 16) * 1rem) + (var(--fc-3xs-max) - var(--fc-3xs-min)) * var(--fluid-bp));
-  --space-2xs: calc(((var(--fc-2xs-min) / 16) * 1rem) + (var(--fc-2xs-max) - var(--fc-2xs-min)) * var(--fluid-bp));
-  --space-xs: calc(((var(--fc-xs-min) / 16) * 1rem) + (var(--fc-xs-max) - var(--fc-xs-min)) * var(--fluid-bp));
-  --space-s: calc(((var(--fc-s-min) / 16) * 1rem) + (var(--fc-s-max) - var(--fc-s-min)) * var(--fluid-bp));
-  --space-m: calc(((var(--fc-m-min) / 16) * 1rem) + (var(--fc-m-max) - var(--fc-m-min)) * var(--fluid-bp));
-  --space-l: calc(((var(--fc-l-min) / 16) * 1rem) + (var(--fc-l-max) - var(--fc-l-min)) * var(--fluid-bp));
-  --space-xl: calc(((var(--fc-xl-min) / 16) * 1rem) + (var(--fc-xl-max) - var(--fc-xl-min)) * var(--fluid-bp));
-  --space-2xl: calc(((var(--fc-2xl-min) / 16) * 1rem) + (var(--fc-2xl-max) - var(--fc-2xl-min)) * var(--fluid-bp));
-  --space-3xl: calc(((var(--fc-3xl-min) / 16) * 1rem) + (var(--fc-3xl-max) - var(--fc-3xl-min)) * var(--fluid-bp));
-  
   /* One-up pairs */
-  --space-3xs-2xs: calc(((var(--fc-3xs-min) / 16) * 1rem) + (var(--fc-2xs-max) - var(--fc-3xs-min)) * var(--fluid-bp));
-  --space-2xs-xs: calc(((var(--fc-2xs-min) / 16) * 1rem) + (var(--fc-xs-max) - var(--fc-2xs-min)) * var(--fluid-bp));
-  --space-xs-s: calc(((var(--fc-xs-min) / 16) * 1rem) + (var(--fc-s-max) - var(--fc-xs-min)) * var(--fluid-bp));
-  --space-s-m: calc(((var(--fc-s-min) / 16) * 1rem) + (var(--fc-m-max) - var(--fc-s-min)) * var(--fluid-bp));
-  --space-m-l: calc(((var(--fc-m-min) / 16) * 1rem) + (var(--fc-l-max) - var(--fc-m-min)) * var(--fluid-bp));
-  --space-l-xl: calc(((var(--fc-l-min) / 16) * 1rem) + (var(--fc-xl-max) - var(--fc-l-min)) * var(--fluid-bp));
-  --space-xl-2xl: calc(((var(--fc-xl-min) / 16) * 1rem) + (var(--fc-2xl-max) - var(--fc-xl-min)) * var(--fluid-bp));
-  --space-2xl-3xl: calc(((var(--fc-2xl-min) / 16) * 1rem) + (var(--fc-3xl-max) - var(--fc-2xl-min)) * var(--fluid-bp));
+  --space-3xs-2xs: clamp(0.31rem, calc(0.20rem + 0.54vw), 0.63rem);
+  --space-2xs-xs: clamp(0.56rem, calc(0.43rem + 0.65vw), 0.94rem);
+  --space-xs-s: clamp(0.88rem, calc(0.74rem + 0.65vw), 1.25rem);
+  --space-s-m: clamp(1.13rem, calc(0.86rem + 1.30vw), 1.88rem);
+  --space-m-l: clamp(1.69rem, calc(1.40rem + 1.41vw), 2.50rem);
+  --space-l-xl: clamp(2.25rem, calc(1.73rem + 2.61vw), 3.75rem);
+  --space-xl-2xl: clamp(3.38rem, calc(2.81rem + 2.83vw), 5.00rem);
+  --space-2xl-3xl: clamp(4.50rem, calc(3.46rem + 5.22vw), 7.50rem);
 
   /* Custom pairs */
-  --space-3xs-l: calc(((var(--fc-3xs-min) / 16) * 1rem) + (var(--fc-l-max) - var(--fc-3xs-min)) * var(--fluid-bp));
-}
+  --space-3xs-l: clamp(0.31rem, calc(-0.45rem + 3.80vw), 2.50rem);
 
 
 
@@ -218,9 +62,7 @@
  #Boxed content
  ----------------------------------- */
 
-:root {
     --text-box: var(--space-3xs) var(--space-2xs);
-}
 
 
 /* -----------------------------------
@@ -232,34 +74,33 @@
  * Colors is based on Reasonable Colors color system :
  * https://reasonable.work/colors/
  */
-:root {
+
     /* grey */
-    --color-gray-shade-1: hsla(0, 0%, 96%, 1);
-    --color-gray-shade-2: hsla(0, 0%, 89%, 1);
-    --color-gray-shade-3: hsla(0, 0%, 55%, 1);
-    --color-gray-shade-4: hsla(0, 0%, 44%, 1);
-    --color-gray-shade-5: hsla(0, 0%, 24%, 1);
-    --color-gray-shade-6: hsla(0, 0%, 13%, 1);
+    --color-gray-shade-1: hsl(0deg 0% 96% / 100%);
+    --color-gray-shade-2: hsl(0deg 0% 89% / 100%);
+    --color-gray-shade-3: hsl(0deg 0% 55% / 100%);
+    --color-gray-shade-4: hsl(0deg 0% 44% / 100%);
+    --color-gray-shade-5: hsl(0deg 0% 24% / 100%);
+    --color-gray-shade-6: hsl(0deg 0% 13% / 100%);
 
     /* primary */
-    --color-primary-shade-1: hsla(154.47, 99.98%, 92.65%, 1);
-    --color-primary-shade-2: hsla(161.94, 100%, 62.84%, 1);
-    --color-primary-shade-3: hsla(165.15, 99.85%, 31.18%, 1);
-    --color-primary-shade-4: hsla(164.85, 99.87%, 25%, 1);
-    --color-primary-shade-5: hsla(163.67, 99.87%, 13.96%, 1);
-    --color-primary-shade-6: hsla(161.53, 99.95%, 7.77%, 1);
+    --color-primary-shade-1: hsl(154.47deg 99.98% 92.65% / 100%);
+    --color-primary-shade-2: hsl(161.94deg 100% 62.84% / 100%);
+    --color-primary-shade-3: hsl(165.15deg 99.85% 31.18% / 100%);
+    --color-primary-shade-4: hsl(164.85deg 99.87% 25% / 100%);
+    --color-primary-shade-5: hsl(163.67deg 99.87% 13.96% / 100%);
+    --color-primary-shade-6: hsl(161.53deg 99.95% 7.77% / 100%);
 
     /* secondary */
-    --color-secondary-shade-1: hsla(332.82, 99.54%, 98.48%, 1);
-    --color-secondary-shade-2: hsla(331.79, 99.98%, 93.07%, 1);
-    --color-secondary-shade-3: hsla(322.24, 100%, 59.31%, 1);
-    --color-secondary-shade-4: hsla(319.09, 99.94%, 41.2%, 1);
-    --color-secondary-shade-5: hsla(319.97, 99.95%, 23.72%, 1);
-    --color-secondary-shade-6: hsla(321.26, 99.94%, 14.63%, 1);
+    --color-secondary-shade-1: hsl(332.82deg 99.54% 98.48% / 100%);
+    --color-secondary-shade-2: hsl(331.79deg 99.98% 93.07% / 100%);
+    --color-secondary-shade-3: hsl(322.24deg 100% 59.31% / 100%);
+    --color-secondary-shade-4: hsl(319.09deg 99.94% 41.2% / 100%);
+    --color-secondary-shade-5: hsl(319.97deg 99.95% 23.72% / 100%);
+    --color-secondary-shade-6: hsl(321.26deg 99.94% 14.63% / 100%);
 
     /* states */
-    --color-focus: hsla(51.81, 100%, 62.08%, 1);
-}
+    --color-focus: hsl(51.81deg 100% 62.08% / 100%);
 
 
 
@@ -267,7 +108,6 @@
    #Typography
    ----------------------------------- */
 
-:root {
     --anchor-decoration-color: var(--color-primary-shade-4);
     --anchor-decoration-color-hover: transparent;
     --background-color: var(--color-gray-shade-1);
@@ -292,7 +132,6 @@
     --line-height-loose: 1.6;
     --line-measure: 60ch;
     --word-spacing: 0;
-}
 
 
 
@@ -300,9 +139,7 @@
    #Container
    ----------------------------------- */
 
-:root {
     --measure: 70ch;
-}
 
 
 
@@ -310,14 +147,12 @@
    #Borders
    ----------------------------------- */
 
-:root {
     --border-radius-xsmall: .125rem;
     --border-radius-small: .25rem;
     --border-radius-circle: 50%;
     --border-width-thin: .0625rem;
     --border-width-thick: .125rem;
     --border-width-thickest: .5rem;
-}
 
 
 
@@ -325,7 +160,6 @@
    #Grids
    ----------------------------------- */
 
-:root {
     --grid-max-width: 77.5rem;
     --grid-gutter: var(--space-s-l,
         clamp(
@@ -335,7 +169,6 @@
         )
     );
     --grid-columns: 12;
-}
 
 
 
@@ -343,10 +176,7 @@
    #Animation
    ----------------------------------- */
 
-:root {
-    /* Animation */
     --transition-short: 150ms;
-}
 
 
 
@@ -354,21 +184,19 @@
    #Container value
    ----------------------------------- */
 
-:root {
     --container-inline-size: 100vw;
     --container-inline-inset: calc(100vw - var(--container-inline-size));
     --container-gutter: calc(var(--container-inline-inset) / 2);
-}
+
+} /* /:root */
 
 @media (--from-large-viewport) {
-
     :root {
         --container-inline-size: 80vw;
     }
 }
 
 @media (--from-largest-viewport) {
-
     :root {
         --container-inline-size: 80rem;
     }
@@ -381,35 +209,34 @@
    ----------------------------------- */
 
 @media (prefers-color-scheme: dark) {
-
     :root {
         /***
         * Colors
         */
 
         /* grey */
-        --color-gray-shade-6: hsla(0, 0%, 96%, 1);
-        --color-gray-shade-5: hsla(0, 0%, 89%, 1);
-        --color-gray-shade-4: hsla(0, 0%, 55%, 1);
-        --color-gray-shade-3: hsla(0, 0%, 44%, 1);
-        --color-gray-shade-2: hsla(0, 0%, 24%, 1);
-        --color-gray-shade-1: hsla(0, 0%, 13%, 1);
+        --color-gray-shade-6: hsl(0deg 0% 96% / 100%);
+        --color-gray-shade-5: hsl(0deg 0% 89% / 100%);
+        --color-gray-shade-4: hsl(0deg 0% 55% / 100%);
+        --color-gray-shade-3: hsl(0deg 0% 44% / 100%);
+        --color-gray-shade-2: hsl(0deg 0% 24% / 100%);
+        --color-gray-shade-1: hsl(0deg 0% 13% / 100%);
 
         /* primary */
-        --color-primary-shade-6: hsla(154.47, 99.98%, 92.65%, 1);
-        --color-primary-shade-5: hsla(161.94, 100%, 62.84%, 1);
-        --color-primary-shade-4: hsla(165.15, 99.85%, 31.18%, 1);
-        --color-primary-shade-3: hsla(164.85, 99.87%, 25%, 1);
-        --color-primary-shade-2: hsla(163.67, 99.87%, 13.96%, 1);
-        --color-primary-shade-1: hsla(161.53, 99.95%, 7.77%, 1);
+        --color-primary-shade-6: hsl(154.47deg 99.98% 92.65% / 100%);
+        --color-primary-shade-5: hsl(161.94deg 100% 62.84% / 100%);
+        --color-primary-shade-4: hsl(165.15deg 99.85% 31.18% / 100%);
+        --color-primary-shade-3: hsl(164.85deg 99.87% 25% / 100%);
+        --color-primary-shade-2: hsl(163.67deg 99.87% 13.96% / 100%);
+        --color-primary-shade-1: hsl(161.53deg 99.95% 7.77% / 100%);
 
         /* secondary */
-        --color-secondary-shade-6: hsla(332.82, 99.54%, 98.48%, 1);
-        --color-secondary-shade-5: hsla(331.79, 99.98%, 93.07%, 1);
-        --color-secondary-shade-4: hsla(322.24, 100%, 59.31%, 1);
-        --color-secondary-shade-3: hsla(319.09, 99.94%, 41.2%, 1);
-        --color-secondary-shade-2: hsla(319.97, 99.95%, 23.72%, 1);
-        --color-secondary-shade-1: hsla(321.26, 99.94%, 14.63%, 1);
+        --color-secondary-shade-6: hsl(332.82deg 99.54% 98.48% / 100%);
+        --color-secondary-shade-5: hsl(331.79deg 99.98% 93.07% / 100%);
+        --color-secondary-shade-4: hsl(322.24deg 100% 59.31% / 100%);
+        --color-secondary-shade-3: hsl(319.09deg 99.94% 41.2% / 100%);
+        --color-secondary-shade-2: hsl(319.97deg 99.95% 23.72% / 100%);
+        --color-secondary-shade-1: hsl(321.26deg 99.94% 14.63% / 100%);
         --bg-dots: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'><path fill='hsla(0, 0%, 87%, 1)' fill-opacity='.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'></path></svg>");
     }
 }

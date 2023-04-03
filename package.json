@@ -61,13 +61,14 @@
     "uslug": "^1.0.4"
   },
   "devDependencies": {
-    "@alienlebarge/stylelint-config": "^3.1.6",
     "chokidar-cli": "^3.0.0",
     "eslint-plugin-jsdoc": "^40.1.1",
     "lodash": "^4.17.21",
     "markdownlint-cli": "^0.33.0",
     "node-fetch": "^3.3.1",
-    "stylelint": "^14.16.1",
+    "stylelint": "^15.4.0",
+    "stylelint-config-standard": "^32.0.0",
+    "stylelint-order": "^6.0.3",
     "xo": "^0.53.1"
   },
   "xo": {

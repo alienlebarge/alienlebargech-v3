@@ -4,10 +4,9 @@
 
 .c-pagination__link {
     display: flex;
-
-    text-decoration: none;
     flex-direction: column;
     padding-block-start: var(--space-block-xsmall);
+    text-decoration: none;
 }
 
 .c-pagination__link :not(.pagination__arrow) {
@@ -21,12 +20,13 @@
 .c-pagination__caption {
     --flow-space: calc(var(--line-height-reference) / 2);
     --line-height-reference: var(--line-height-tight);
+
     font-size: var(--font-size-reference);
     font-variant: oldstyle-nums;
-    line-height: var(--line-height-reference);
-    letter-spacing: var(--letter-spacing-body);
     font-variation-settings: "opsz" 14;
     hanging-punctuation: first;
     hyphens: auto;
+    letter-spacing: var(--letter-spacing-body);
+    line-height: var(--line-height-reference);
     word-spacing: var(--word-spacing);
 }

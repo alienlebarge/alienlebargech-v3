@@ -3,56 +3,56 @@
    ========================================================================== */
 
 /* Settings */
-@import "_settings.custom-media.css";
-@import "_settings.custom-properties.css";
-@import "_settings.webfont.css";
+@import url("_settings.custom-media.css");
+@import url("_settings.custom-properties.css");
+@import url("_settings.webfont.css");
 
 /* Generic */
-@import "_generic.box-sizing.css";
-@import "_generic.reset.css";
+@import url("_generic.box-sizing.css");
+@import url("_generic.reset.css");
 
 /* Elements */
-@import "_elements.edits.css";
-@import "_elements.embedded.css";
-@import "_elements.forms.css";
-@import "_elements.grouping.css";
-@import "_elements.interactive.css";
-@import "_elements.sections.css";
-@import "_elements.tabular-data.css";
-@import "_elements.text.css";
+@import url("_elements.edits.css");
+@import url("_elements.embedded.css");
+@import url("_elements.forms.css");
+@import url("_elements.grouping.css");
+@import url("_elements.interactive.css");
+@import url("_elements.sections.css");
+@import url("_elements.tabular-data.css");
+@import url("_elements.text.css");
 
 /* Objects */
-@import "_objects.box.css";
-@import "_objects.cluster.css";
-@import "_objects.container.css";
-@import "_objects.frame.css";
-@import "_objects.grid.css";
-@import "_objects.list-bare.css";
-@import "_objects.list-inline.css";
-@import "_objects.prose.css";
-@import "_objects.reel.css";
-@import "_objects.stack.css";
-@import "_objects.switcher.css";
-@import "_objects.with-sidebar.css";
+@import url("_objects.box.css");
+@import url("_objects.cluster.css");
+@import url("_objects.container.css");
+@import url("_objects.frame.css");
+@import url("_objects.grid.css");
+@import url("_objects.list-bare.css");
+@import url("_objects.list-inline.css");
+@import url("_objects.prose.css");
+@import url("_objects.reel.css");
+@import url("_objects.stack.css");
+@import url("_objects.switcher.css");
+@import url("_objects.with-sidebar.css");
 
 /* Components */
-@import "_components.checkbox.css";
-@import "_components.footer.css";
-@import "_components.form.css";
-@import "_components.item.css";
-@import "_components.item-photo.css";
-@import "_components.list-items.css";
-@import "_components.logo.css";
-@import "_components.nav.css";
-@import "_components.page.css";
-@import "_components.pagination.css";
-@import "_components.palette.css";
-@import "_components.zoom-hover.css";
+@import url("_components.checkbox.css");
+@import url("_components.footer.css");
+@import url("_components.form.css");
+@import url("_components.item.css");
+@import url("_components.item-photo.css");
+@import url("_components.list-items.css");
+@import url("_components.logo.css");
+@import url("_components.nav.css");
+@import url("_components.page.css");
+@import url("_components.pagination.css");
+@import url("_components.palette.css");
+@import url("_components.zoom-hover.css");
 
 /* Utilities */
-@import "_utilities.images.css";
-@import "_utilities.languages.css";
-@import "_utilities.link-zone.css";
-@import "_utilities.sizes.css";
-@import "_utilities.typography.css";
-@import "_utilities.visually-hidden.css";
+@import url("_utilities.images.css");
+@import url("_utilities.languages.css");
+@import url("_utilities.link-zone.css");
+@import url("_utilities.sizes.css");
+@import url("_utilities.typography.css");
+@import url("_utilities.visually-hidden.css");

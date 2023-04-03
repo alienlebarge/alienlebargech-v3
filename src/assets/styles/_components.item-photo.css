@@ -7,22 +7,19 @@
 }
 
 .c-item-photo__figcaption {
-    position: absolute;
-    right: var(--space-s);
+    background-color: var(--color-gray-shade-1);
     bottom: var(--space-s);
-
+    color: var(--color-gray-shade-6);
     font-size: var(--font-size-reference);
     font-variant: oldstyle-nums;
-    line-height: var(--line-height-reference);
-
-    color: var(--color-gray-shade-6);
-    letter-spacing: var(--letter-spacing-body);
-
-    background-color: var(--color-gray-shade-1);
-    padding: var(--text-box);
     font-variation-settings: "opsz" 14;
     hanging-punctuation: first;
     hyphens: auto;
+    letter-spacing: var(--letter-spacing-body);
+    line-height: var(--line-height-reference);
+    padding: var(--text-box);
+    position: absolute;
+    right: var(--space-s);
     word-spacing: var(--word-spacing);
 
     --flow-space: calc(var(--line-height-reference) / 2);

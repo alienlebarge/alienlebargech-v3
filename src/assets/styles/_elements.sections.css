@@ -24,12 +24,12 @@
  */
 
 html {
-    color: var(--font-color);
     block-size: 100vh;
     box-sizing: border-box; /* [3] */
+    color: var(--font-color);
     overflow-y: scroll; /* [1] */
     scroll-behavior: smooth;
-    text-rendering: optimizeLegibility;
+    text-rendering: optimizelegibility;
     text-size-adjust: 100%; /* [2] */
 }
 
@@ -40,9 +40,8 @@ html {
    ------------------------------------- */
 
 ::selection {
-    color: var(--color-gray-shade-1);
-
     background-color: var(--color-secondary-shade-4);
+    color: var(--color-gray-shade-1);
 }
 
 
@@ -62,20 +61,19 @@ html {
 body {
     --flow-space: var(--line-height-body);
     --line-height-body: var(--line-height-loose);
-    font-size: var(--font-size-body);
-    font-weight: var(--font-weight-body, 400);
-    font-family: var(--font-family-sans);
-    font-variant: oldstyle-nums;
-    line-height: var(--line-height-body);
-
-    color: var(--color-gray-shade-1);
-    letter-spacing: var(--letter-spacing-body);
 
     background: var(--color-gray-shade-1);
-    margin: 0;
+    color: var(--color-gray-shade-1);
+    font-family: var(--font-family-sans);
+    font-size: var(--font-size-body);
+    font-variant: oldstyle-nums;
     font-variation-settings: "wght" var(--font-weight-body, 400);
+    font-weight: var(--font-weight-body, 400);
     hanging-punctuation: first;
     hyphens: auto;
+    letter-spacing: var(--letter-spacing-body);
+    line-height: var(--line-height-body);
+    margin: 0;
     min-block-size: 100vh; /* [2] */
     word-spacing: var(--word-spacing);
 }
@@ -87,7 +85,7 @@ body {
    ------------------------------------- */
 
 :is(h1, h2, h3, h4, h5, h6, legend) {
+    break-after: avoid;
     font-size: inherit;
     font-weight: inherit;
-    break-after: avoid;
 }
