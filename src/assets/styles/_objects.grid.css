@@ -7,13 +7,13 @@
     grid-gap: var(--space-m);
 }
 
-@supports (width: min(var(--space-3xl), 100%)) {
+@supports (width: min(cacl(2 * var(--space-3xl)), 100%)) {
     .o-grid {
         grid-template-columns: repeat(
             auto-fit, 
             minmax(
                 min(
-                    var(--space-3xl),
+                    calc(2 * var(--space-3xl)),
                     100%
                 ), 
                 1fr
