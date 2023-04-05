@@ -6,6 +6,11 @@
     color: var(--color-gray-shade-4);
 }
 
-.c-footer .u-bookmark-of {
-    --anchor-decoration: underline var(--color-gray-shade-3);
+.c-footer a {
+    --anchor-decoration-color: var(--color-gray-shade-2);
+}
+
+.c-footer a:hover,
+.c-footer a:active {
+    --anchor-decoration-color-hover: var(--color-gray-shade-4)
 }
