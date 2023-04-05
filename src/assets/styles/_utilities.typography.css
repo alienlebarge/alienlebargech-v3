@@ -105,12 +105,6 @@
     font-weight: 700 !important;
 }
 
-/* TODO: The way script font style is include is basically a hack! */
-.u-font-family\:script {
-    font-family: var(--font-family-script) !important;
-    font-variation-settings: "wght" 300,"INFM" 100, "BNCE" 20 !important;
-}
-
 .u-font-family\:monospace {
     font-family: var(--font-family-monospace) !important;
 }
