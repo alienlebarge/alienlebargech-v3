@@ -6,11 +6,10 @@
     align-items: baseline;
     display: flex;
     flex-wrap: wrap;
-    gap: var(--space-3xs-l);
+    gap: var(--gap, var(--space-m));
 }
 
 .o-with-sidebar > :first-child {
-    flex-basis: var(--space-3xl);
     flex-grow: 1;
 }
 
