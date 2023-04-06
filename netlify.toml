@@ -74,14 +74,14 @@
 [[redirects]]
     from = "/2022/*"
     to = "/articles/2022/:splat"
-    
+
+# well-known redirect for brid.gy
+# https://fed.brid.gy/docs#redirect+these+URL+paths
 [[redirects]]
     from = "/.well-known/host-meta*"
     to = "https://fed.brid.gy/.well-known/host-meta:splat"
     status = 302
 
-# well-known redirect for brid.gy
-# https://fed.brid.gy/docs#redirect+these+URL+paths
 [[redirects]]
     from = "/.well-known/webfinger*"
     to = "https://fed.brid.gy/.well-known/webfinger"
