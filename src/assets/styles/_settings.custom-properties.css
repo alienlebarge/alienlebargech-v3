@@ -102,7 +102,7 @@
     --anchor-decoration-color-hover: transparent;
     --background-color: var(--color-gray-shade-1);
     --font-color: var(--color-gray-shade-6);
-    --font-family-sans: "Untitled", system-ui;
+    --font-family-sans: "Untitled", system-ui; /* See fallback fonts */
     --font-family-system: system-ui;
     --font-family-monospace: "UntitledMono", monospace;
     --font-size-title: var(--step-5);
@@ -190,6 +190,15 @@
     :root {
         --container-inline-size: 80rem;
     }
+}
+
+
+/* -----------------------------------
+   #Fallback font
+   ----------------------------------- */
+html:not(.fonts-loaded) {
+    --font-family-sans: Helvetica, system-ui;
+    --letter-spacing-body: 0.45px
 }
 
 

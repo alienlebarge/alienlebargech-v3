@@ -85,6 +85,29 @@
         <link rel="apple-touch-icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_152/{{ app.url }}{{ app.icon | url }}" sizes="152x152">
         <link rel="apple-touch-icon" href="https://res.cloudinary.com/alienlebarge/image/fetch/w_180/{{ app.url }}{{ app.icon | url }}" sizes="180x180">
 
+        <script>
+        (function() {
+
+            // Optimization for Repeat Views
+            if( sessionStorage.fontsLoadedFoutWithClass ) {
+                document.documentElement.className += " fonts-loaded";
+                return;
+            }
+
+            if( "fonts" in document ) {
+                Promise.all([
+                    document.fonts.load("1em Untitled"),
+                    document.fonts.load("700 1em Untitled"),
+                ]).then(function () {
+                    document.documentElement.className += " fonts-loaded";
+
+                    // Optimization for Repeat Views
+                    sessionStorage.fontsLoadedFoutWithClass = true;
+                });
+            }
+        })();
+        </script>
+
         <title>
             {%- if type != "homepage" -%}
                 {%- if title -%}
