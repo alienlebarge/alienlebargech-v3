@@ -197,7 +197,7 @@
    #Fallback font
    ----------------------------------- */
 html:not(.fonts-loaded) {
-    --font-family-sans: Helvetica, system-ui;
+    --font-family-sans: helvetica, system-ui;
     --letter-spacing-body: 0.45px
 }
 
