@@ -41,7 +41,7 @@
     font-size: var(--font-size-caption);
     font-variation-settings: "wght" var(--font-weight-overline, 800);
     font-weight: var(--font-weight-overline, 800);
-    letter-spacing: .125em;
+    letter-spacing: 0.125em;
     text-transform: uppercase;
 }
 
@@ -51,7 +51,7 @@
     font-variation-settings: "wght" var(--font-weight-lede, 200);
     font-weight: var(--font-weight-lede, 200);
     hanging-punctuation: first;
-    letter-spacing: .02em;
+    letter-spacing: 0.02em;
     line-height: var(--line-height-lede, var(--line-height-tight));
 }
 
@@ -113,23 +113,19 @@
     font-style: italic;
 }
 
-
-
 /* -------------------------------------
    #U-SUP
    ------------------------------------- */
 
 .u-sup {
-    font-size: .85em;
+    font-size: 0.85em;
     vertical-align: super;
 }
 
 svg.u-sup {
-    max-height: .85em;
-    max-width: .85em;
+    max-height: 0.85em;
+    max-width: 0.85em;
 }
-
-
 
 /* -------------------------------------
    #U-ALIGN

@@ -9,8 +9,3 @@
 .c-footer a {
     --anchor-decoration-color: var(--color-gray-shade-2);
 }
-
-.c-footer a:hover,
-.c-footer a:active {
-    --anchor-decoration-color-hover: var(--color-gray-shade-4)
-}
