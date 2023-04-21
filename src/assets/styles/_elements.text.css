@@ -49,8 +49,6 @@ a[aria-current] {
  */
 a:focus,
 a:focus-within {
-    background-color: var(--color-focus);
-    display: block;
     outline: var(--color-focus) solid var(--border-width-thickest);
     outline-offset: var(--space-2xs);
 }
