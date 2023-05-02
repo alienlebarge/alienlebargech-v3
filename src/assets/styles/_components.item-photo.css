@@ -2,6 +2,14 @@
    #ITEM-PHOTO
    ========================================================================== */
 
+/**
+ * 1. Allow focus style to be applied
+ */
+
+.c-item-link {
+    display: block; /* [1] */
+}
+
 .c-item-photo__figure {
     position: relative;
 }
