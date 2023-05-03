@@ -18,8 +18,7 @@ Lausanne area, Switzerland
 
 ## What I’m watching
 
-- [Shadow and Bone](https://www.imdb.com/title/tt2403776/){rel="external"} (Season 2)
-- [The Orville](https://www.imdb.com/title/tt5691552/){rel="external"} (Season 1)
+- [Welcome to Wrexham](https://www.imdb.com/title/tt14674086/){rel="external"}
 
 ## What I'm listening to
 
@@ -28,13 +27,14 @@ Lausanne area, Switzerland
 
 ## What I'm playing
 
+- Zelda Reath of the Wild while waiting for Zelda Tears of the Kingdom
 - Splatoon 3
 - Minecraft (Java)
-- Zelda Reath of the Wild while waiting for Zelda Tears of the Kingdom
 
 ## What I’m making
 
 - Working as a Frontend Engineer for the [State of Vaud](https://www.vd.ch){rel="external"}
+- Building a web pattern builder for [Stolperbeats eurorack module](https://makingsoundmachines.com/stolperbeats/){rel="external"}
 - Redesigning my website (the one your are visiting right now)
 - Fixing things in the house
 
@@ -56,4 +56,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: 2023-04-23 {.u-reference}
+last update: 2023-05-03 {.u-reference}
