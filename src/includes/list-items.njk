@@ -3,7 +3,7 @@
     {% if limit and reverse -%}
         {%- for item in items | reverse-%}
             {% if loop.index0 < limit and not item.data.deleted -%}
-                <li>
+                <li class="c-separator">
                 {%- include 'item/' + item.data.type + '.njk' -%}
                 </li>
             {%- endif %}
@@ -11,7 +11,7 @@
     {% elif limit %}
         {%- for item in items -%}
             {% if loop.index0 < limit and not item.data.deleted -%}
-                <li>
+                <li class="c-separator">
                 {%- include 'item/' + item.data.type + '.njk' -%}
                 </li>
             {%- endif %}
@@ -19,7 +19,7 @@
     {%- else -%}
         {%- for item in items -%}
         {%- if not item.data.deleted -%}
-            <li>
+            <li class="c-separator">
             {%- include 'item/' + item.data.type + '.njk' -%}
             </li>
         {%- endif -%}

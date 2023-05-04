@@ -27,7 +27,7 @@ Hi, I’m Cédric a swiss front end engineer based in Lausanne with a love for e
     </header>
     <div>
         {%- set latest_notes = collections.note | reverse -%}
-        {{ list.listItems(latest_notes, "o-stack--space-3xl", 5) }}
+        {{ list.listItems(latest_notes, "o-stack--space-xl", 5) }}
     </div>
     <footer class="o-prose">
         <p><a href="{{- "/notes" | url -}}"">More notes</a></p>

@@ -1,13 +1,26 @@
-<article class="o-with-sidebar | h-entry" data-type="note">
-    <footer class="c-footer u-reference">
+<article class="c-item | h-entry" data-type="note">
+    {% if item.data.title %}
+    <header class="o-prose c-item__header">
+        <h3 class="u-subhead">{{- item.data.title -}}</h3>
+    </header>
+    {% endif %}
+    <div class="o-prose c-item__content | e-content p-name">
+        {{ item.content | safe }}
+        {%- if item.data.likeOf -%}
+        <a href="{{- item.data.likeOf | safe -}}">
+            {{- item.data.likeOf | safe -}}
+        </a>
+        {%- endif -%}
+    </div>
+    <footer class="c-footer c-item__footer u-reference" style="--line-height-reference: var(--line-height-loose);">
         <dl class="o-stack o-stack--space-xs">
             <dt class="u-visually-hidden">Published on</dt>
             <dd>
             <a class="u-url" rel="bookmark" href="{{ item.url | url }}">
                 {#- TODO: use src/_data/dates.json to format the date. -#}
-                <time class="o-stack o-stack--space-2xs  | dt-published"
+                <time class="dt-published"
                       datetime="{{ item.date | date }}">
-                    <span>{{ item.date | date("YYYY-MM-DD") }}</span>
+                    <span>{{ item.date | date("YYYY-MM-DD") }}</span> <span class="c-item__date-separator">&bull; </span>
                     <span>{{ item.date | date("HH:mm") }}</span>
                 </time>
             </a>
@@ -24,12 +37,4 @@
             {% endif %}
         </dl>
     </footer>
-    <div class="o-prose | e-content p-name">
-        {{ item.content | safe }}
-        {%- if item.data.likeOf -%}
-        <a href="{{- item.data.likeOf | safe -}}">
-            {{- item.data.likeOf | safe -}}
-        </a>
-        {%- endif -%}
-    </div>
 </article>

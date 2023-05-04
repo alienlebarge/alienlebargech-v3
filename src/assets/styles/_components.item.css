@@ -3,66 +3,32 @@
    ========================================================================== */
 
 .c-item {
-    --c-item__grid-gap: var(--space-m) var(--space-m);
-    --c-item__grid-template: "header" auto "main" auto "footer" 1fr/1fr;
-
     align-items: baseline;
     display: grid;
-    grid-gap: var(--c-item__grid-gap);
-    grid-template: var(--c-item__grid-template);
+    gap: var(--c-item__gap, var(--space-m));
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
 }
 
 @media (--from-small-viewport) {
     .c-item {
-        --c-item__grid-template: "footer header" auto "footer main" 1fr /
-            var(--grid-content-width) 1fr;
+        grid-auto-flow: dense;
+        grid-template-columns: var(--space-3xl) auto;
     }
-}
 
-/* -----------------------------------
-   #ITEM__HEADER
-   ----------------------------------- */
+    .c-item__header {
+        grid-column: 2;
+    }
 
-.c-item__header {
-    --anchor-decoration: underline;
+    .c-item__content {
+        grid-column: 2;
+    }
 
-    font-family: var(--font-family-subhead, var(--font-family-sans));
-    font-size: var(--font-size-subhead);
-    font-variation-settings: "wght" var(--font-weight-subhead, 600);
-    font-weight: var(--font-weight-subhead, 600);
-    grid-area: header;
-    hanging-punctuation: first;
-    letter-spacing: 0; /* [1] */
-    line-height: var(--line-height-subhead, var(--line-height-tight));
-}
+    .c-item__footer {
+        grid-column: 1;
+    }
 
-/* -----------------------------------
-   #ITEM__MAIN
-   ----------------------------------- */
-
-.c-item__main {
-    grid-column: main;
-}
-
-/* -----------------------------------
-   #ITEM__FOOTER
-   ----------------------------------- */
-
-.c-item__footer {
-    --anchor-decoration: none;
-    --flow-space: calc(var(--line-height-caption) / 3);
-    --line-height-caption: var(--line-height-tight);
-
-    font-size: var(--font-size-caption);
-    grid-area: footer;
-    letter-spacing: var(--letter-spacing-body);
-    line-height: var(--line-height-caption);
-}
-
-.c-item__footer .u-bookmark-of {
-    --anchor-decoration: underline var(--color-gray-shade-1);
-}
-
-.c-item__footer a {
-    word-break: break-word;
+    .c-item__date-separator {
+        display: none;
+    }
 }

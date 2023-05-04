@@ -1,0 +1,8 @@
+/* ======================================================================
+   # _components.separator.css
+   ====================================================================== */
+
+.c-separator + .c-separator {
+    border-block-start: var(--border-width-thin) solid var(--color-gray-shade-2);
+    padding-block-start: var(--c-separator__padding, var(--space-xs));
+}
