@@ -18,7 +18,7 @@ Lausanne area, Switzerland
 
 ## What I’m watching
 
-nothing special (because I'm playing. See "[What I'm playing](what-im-playing)" section 🤷‍♂️.)
+nothing special (because I'm playing. See "[What I'm playing](#what-im-playing)" section 🤷‍♂️.)
 
 ## What I'm listening to
 
