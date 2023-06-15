@@ -6,16 +6,22 @@
     display: flex;
     flex-direction: column;
     padding-block-start: var(--space-block-xsmall);
-    text-decoration: none;
+    --anchor-decoration-line: none;
 }
 
-.c-pagination__link :not(.pagination__arrow) {
-    text-decoration: underline;
+.c-pagination__link :not(.c-pagination__arrow) {
+    --anchor-decoration-line: underline;
+
+    text-decoration-line: var(--anchor-decoration-line, underline);
 }
 
-.c-pagination__link:hover :not(.pagination__arrow) {
-    text-decoration: none;
+.c-pagination__link:hover :not(.c-pagination__arrow) {
+    text-decoration-color: var(--anchor-decoration-color-hover, var(--anchor-decoration-color));
 }
+
+/* .c-pagination__link:hover :not(.pagination__arrow) {
+    text-decoration: none;
+} */
 
 .c-pagination__caption {
     --flow-space: calc(var(--line-height-reference) / 2);

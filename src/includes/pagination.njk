@@ -10,7 +10,7 @@
         <a href="{{ pagination.nextPageHref }}"
            rel="next"
            class="c-pagination__link">
-            <span class="pagination__arrow" aria-hidden="true">&larr;</span>
+            <span class="c-pagination__arrow" aria-hidden="true">&larr;</span>
             <span>Older {{ label | lower }}</span>
             <span class="u-visually-hidden">:</span>
             <span class="c-pagination__caption">Page {{ pagination.pageNumber + 2 }} of {{ pagination.hrefs.length }}</span>
@@ -23,7 +23,7 @@
         <a href="{{ pagination.previousPageHref }}"
            rel="prev"
            class="c-pagination__link">
-            <span class="pagination__arrow" aria-hidden="true">&rarr;</span>
+            <span class="c-pagination__arrow" aria-hidden="true">&rarr;</span>
             <span>Newer {{ label | lower }}</span>
             <span class="u-visually-hidden">:</span>
             <span class="c-pagination__caption">Page {{ pagination.pageNumber }} of {{ pagination.hrefs.length }}</span>
