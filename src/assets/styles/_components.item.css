@@ -5,7 +5,7 @@
 .c-item {
     align-items: baseline;
     display: grid;
-    gap: var(--c-item__gap, var(--space-m));
+    gap: var(--c-gap, var(--space-m));
     grid-template-columns: 1fr;
     grid-template-rows: auto;
 }
