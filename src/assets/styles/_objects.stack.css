@@ -20,6 +20,11 @@
     margin-block: 0;
 }
 
+/* set the space */
+.o-stack > * + * {
+    margin-block-start: var(--stack__space);
+}
+
 /**
  * Define spaces for each modifier
  */
@@ -38,11 +43,6 @@
 .o-stack.o-stack--space-2xl > * { --stack__space: var(--space-2xl); /* [1] */ }
 
 .o-stack.o-stack--space-3xl > * { --stack__space: var(--space-3xl); /* [1] */ }
-
-/* set the space */
-.o-stack > * + * {
-    margin-block-start: var(--stack__space);
-}
 
 /* Remove margin if the first element of the stack is hidden */
 .o-stack > .u-visually-hidden:first-child + * {
