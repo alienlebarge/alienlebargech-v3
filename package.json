@@ -62,7 +62,7 @@
     "chokidar-cli": "^3.0.0",
     "eslint-plugin-jsdoc": "^46.2.6",
     "lodash": "^4.17.21",
-    "markdownlint-cli": "^0.34.0",
+    "markdownlint-cli": "^0.35.0",
     "node-fetch": "^3.3.1",
     "stylelint": "^15.7.0",
     "stylelint-config-standard": "^33.0.0",
