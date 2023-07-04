@@ -55,7 +55,7 @@
     "markdown-it-table-of-contents": "^0.6.0",
     "moment-timezone": "^0.5.43",
     "netlify-plugin-11ty": "^1.4.0",
-    "sanitize-html": "^2.10.0",
+    "sanitize-html": "^2.11.0",
     "uslug": "^1.0.4"
   },
   "devDependencies": {
