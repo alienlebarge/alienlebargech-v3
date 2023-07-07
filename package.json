@@ -64,7 +64,7 @@
     "lodash": "^4.17.21",
     "markdownlint-cli": "^0.35.0",
     "node-fetch": "^3.3.1",
-    "stylelint": "^15.9.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-standard": "^33.0.0",
     "stylelint-order": "^6.0.3",
     "xo": "^0.54.2"
