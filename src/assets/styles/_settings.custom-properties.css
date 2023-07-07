@@ -114,6 +114,7 @@
     --font-size-caption: var( --step-0);
     --font-size-default: 1em;
     --font-size-smaller: .8em;
+    --font-size-space: .5ch; /* width of a space (depending of the font use) */
     --letter-spacing-body: 0; /* change on dark mode */
     --line-height-solid: 1;
     --line-height-tight: 1.2;

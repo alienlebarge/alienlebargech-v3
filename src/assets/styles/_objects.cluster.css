@@ -10,30 +10,6 @@
        justify-content: flex-start;
    }
 
-
-
-
-
-.o-cluster.o-cluster--l {
-    --cluster-space: var(--space-l);
-}
-
-.o-cluster:not([class*="o-cluster--step"]) {
-    --cluster-space: var(--space-m);
-}
-
-.o-cluster.o-cluster--s {
-    --cluster-space: var(--space-s);
-}
-
-.o-cluster.o-cluster--xs {
-    --cluster-space: var(--space-s);
-}
-
-
-
-
-
 .o-cluster.o-cluster--space-between {
     justify-content: space-between;
 }

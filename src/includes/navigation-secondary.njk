@@ -1,7 +1,9 @@
 {%- if navigation.secondary -%}
-<nav aria-label="Secondary navigation" class="c-nav">
+<nav aria-label="Secondary navigation"
+     class="c-nav">
     <h2 class="u-visually-hidden">Secondary navigation</h2>
-    <ul class="[ o-cluster o-cluster--s ]">
+    <ul class="o-cluster"
+        style="--cluster-space: var(--space-s);">
         {%- for item in navigation.secondary -%}
         <li>
             <a href="{{ item.url }}">{{ item.label }}</a>
