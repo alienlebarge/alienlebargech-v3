@@ -20,13 +20,8 @@
 
 .c-list-items__date {
     --anchor-decoration-line: underline;
-
-    color: var(--color-gray-shade-4);
-    text-decoration-color: var(--color-gray-shade-2, inherit);
-    text-decoration-line: var(--anchor-decoration-line, underline);
-    text-decoration-skip-ink: auto;
-    text-underline-offset: var(--anchor-decoration-offset, var(--space-3xs));
-    transition: all var(--transition-short);
+    --anchor-color: var(--color-gray-shade-4);
+    --anchor-decoration-color: var(--color-gray-shade-2);
 }
 
 /***
@@ -46,15 +41,20 @@
 }
 
 /***
+ * Apply link style
+ *
  * Style is taken from anchors (`a`) in `_element.text.css`
+ * Variables are set in the parent style
  */
-.c-list-items__title {
+.c-list-items__title,
+.c-list-items__date {
     --anchor-decoration-line: underline;
 
     color: var(--anchor-color, inherit);
     text-decoration-color: var(--anchor-decoration-color, inherit);
     text-decoration-line: var(--anchor-decoration-line, underline);
     text-decoration-skip-ink: auto;
+    text-decoration-thickness: var(--border-width-thin);
     text-underline-offset: var(--anchor-decoration-offset, var(--space-3xs));
     transition: all var(--transition-short);
 }
@@ -64,7 +64,8 @@
 .c-list-items__link:hover .c-list-items__date,
 .c-list-items__link:active .c-list-items__date {
     color: var(--anchor-color-hover, inherit);
-    text-decoration-color: var(--anchor-decoration-color-hover, transparent);
+    text-decoration-color: var(--anchor-decoration-color-hover, var(--anchor-decoration-color));
+    text-decoration-thickness: var(--border-width-thick);
 }
 
 @media (--from-small-viewport) {

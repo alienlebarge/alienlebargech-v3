@@ -99,7 +99,6 @@
    ----------------------------------- */
 
     --anchor-decoration-color: var(--color-primary-shade-4);
-    --anchor-decoration-color-hover: transparent;
     --background-color: var(--color-gray-shade-1);
     --font-color: var(--color-gray-shade-6);
     --font-family-sans: "Untitled", system-ui; /* See fallback fonts */
@@ -115,6 +114,7 @@
     --font-size-caption: var( --step-0);
     --font-size-default: 1em;
     --font-size-smaller: .8em;
+    --font-size-space: .5ch; /* width of a space (depending of the font use) */
     --letter-spacing-body: 0; /* change on dark mode */
     --line-height-solid: 1;
     --line-height-tight: 1.2;
@@ -137,12 +137,21 @@
    #Borders
    ----------------------------------- */
 
+/***
+ * Thickness of link and border underlines in hover state
+ *
+ * - 3px
+ * - 0.1875rem, if it's thicker than 3px because the user has changed the text
+ *   size in their browser
+ * - 0.12em (relative to the link's text size)
+ */
+
     --border-radius-xsmall: .125rem;
     --border-radius-small: .25rem;
     --border-radius-circle: 50%;
-    --border-width-thin: .0625rem;
-    --border-width-thick: .125rem;
-    --border-width-thickest: .5rem;
+    --border-width-thin: max(1px, .0625rem);
+    --border-width-thick: max(3px, .1875rem, .12em);
+    --border-width-thickest: max(6px, .5rem, .24em);
 
 
 

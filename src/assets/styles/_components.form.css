@@ -21,14 +21,14 @@
 }
 
 .c-form__input {
-    background-color: var(--box__background-color, var(--color-gray-shade-6));
+    background-color: var(--box-background-color, var(--color-gray-shade-6));
     border: var(--border-width-thick) solid var(--color-gray-shade-6);
-    color: var(--box__color, var(--color-gray-shade-1));
+    color: var(--box-color, var(--color-gray-shade-1));
     font-family: var(--font-family-monospace);
     font-style: italic;
     line-height: var(--line-height-body);
-    padding-block: var(--box__padding-block, var( --space-2xs));
-    padding-inline: var(--box__padding-inline, var( --space-xs));
+    padding-block: var(--box-padding-block, var( --space-2xs));
+    padding-inline: var(--box-padding-inline, var( --space-xs));
     width: 100%;
 }
 
@@ -42,18 +42,18 @@ textarea.c-form__input {
  * 1. When button is clicked, the border of it is always visible
  */
 .c-form__button {
-    background-color: var(--box__background-color, var(--color-gray-shade-6));
+    background-color: var(--box-background-color, var(--color-gray-shade-6));
     border: var(--border-width-thick) solid var(--color-gray-shade-6); /* [1] */
-    color: var(--box__color, var(--color-gray-shade-1));
+    color: var(--box-color, var(--color-gray-shade-1));
     cursor: pointer;
     font-variation-settings: "wght" 600;
     font-weight: 600;
-    padding-block: var(--box__padding-block, var( --space-2xs));
-    padding-inline: var(--box__padding-inline, var( --space-xs));
+    padding-block: var(--box-padding-block, var( --space-2xs));
+    padding-inline: var(--box-padding-inline, var( --space-xs));
     width: fit-content;
 
-    --box__color: var(--color-gray-shade-6);
-    --box__background-color: var(--color-gray-shade-1);
+    --box-color: var(--color-gray-shade-6);
+    --box-background-color: var(--color-gray-shade-1);
 }
 
 .c-form__button:active {

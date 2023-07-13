@@ -3,10 +3,10 @@
    ========================================================================== */
 
 .o-box {
-    background-color: var(--box__background-color, var(--background-color));
-    color: var(--box__color, var(--font-color));
-    padding-block: var(--box__padding-block, var(--space-m));
-    padding-inline: var(--box__padding-inline, var(--space-m));
+    background-color: var(--box-background-color, var(--background-color));
+    color: var(--box-color, var(--font-color));
+    padding-block: var(--box-padding-block, var(--space-m));
+    padding-inline: var(--box-padding-inline, var(--space-m));
 }
 
 .o-box *:not(pre, code),
@@ -26,20 +26,20 @@
  * Dark becomes light, and light becomes dark
  */
 .o-box--invert {
-    --box__color: var(--font-color);
-    --box__background-color: var(--background-color);
+    --box-color: var(--background-color);
+    --box-background-color: var(--font-color);
 }
 
 .o-box--invert::selection,
 .o-box--invert ::selection {
-    --box__color: var(--background-color);
-    --box__background-color: var(--font-color);
+    --box-color: var(--font-color);
+    --box-background-color: var(--background-color);
 }
 
 /***
  * Box L
  */
 .o-box--space-l {
-    --box__padding-inline: var(--space-l);
-    --box__padding-block: var(--space-l);
+    --box-padding-inline: var(--space-l);
+    --box-padding-block: var(--space-l);
 }

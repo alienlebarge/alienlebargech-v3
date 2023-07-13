@@ -20,7 +20,7 @@ Utilities that can be used on any element in order to modify the style.
 
 The colors are switching between light and dark depending on the color scheme.
 
-<ul class="o-cluster o-cluster--small">
+<ul class="o-cluster">
     <li class="o-box">Light</li>
     <li class="o-box o-box--invert">Dark</li>
 </ul>

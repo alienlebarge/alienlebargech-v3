@@ -26,9 +26,9 @@
         </dd>
         {%- endif %}
         {% if date -%}
-        <div class="[ o-cluster o-cluster--xs ]
-                   __text
-                    u-width:fit-content">
+        <div class="o-cluster
+                    u-width:fit-content"
+             style="--cluster-space: var(--space-s)">
             <dt class="u-visually-hidden">Published on</dt>
             <dd>
                 <a{% if vocab %} class="u-url"{% endif %} href="{{ page.url | url }}">
@@ -39,9 +39,9 @@
         </div>
         {%- endif %}
         {% if syndication -%}
-        <div class="[ o-cluster o-cluster--xs ]
-                   __text
-                    u-width:fit-content">
+        <div class="o-cluster
+                    u-width:fit-content"
+             style="--cluster-space: var(--font-size-space);">
             <dt>Also on</dt>
             {% for item in syndication %}
             {%- if item != false -%}
@@ -57,9 +57,9 @@
         </div>
         {%- endif %}
         {% if inReplyTo -%}
-        <div class="[ o-cluster o-cluster--xs ]
-                   __text
-                    u-width:fit-content">
+        <div class="o-cluster
+                    u-width:fit-content"
+             style="--cluster-space: var(--font-size-space);">
             <dt>In reply to a post on</dt>
             <dd>
                 <a{% if vocab %} class="u-in-reply-to"{% endif %}
@@ -70,9 +70,10 @@
         </div>
         {%- endif %}
         {% if category -%}
-        <div class="[ o-cluster o-cluster--xs ]
+        <div class="o-cluster
                     c-background__text
-                    u-width:fit-content">
+                    u-width:fit-content"
+             style="--cluster-space: var(--font-size-space);">
             <dt>Category</dt>
             {% for item in category | toArray %}
             {%- if item != false -%}

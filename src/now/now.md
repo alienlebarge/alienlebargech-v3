@@ -18,18 +18,16 @@ Lausanne area, Switzerland
 
 ## What I’m watching
 
-- [Welcome to Wrexham](https://www.imdb.com/title/tt14674086/){rel="external"}
+nothing special (because I'm playing. See "[What I'm playing](#what-im-playing)" section 🤷‍♂️.)
 
 ## What I'm listening to
 
-- I really enjoy listening to [radiooooo.com](https://radiooooo.com/){rel="external"}
 - You can check [my last.fm profil](https://www.last.fm/user/alienlebarge){rel="external"} for recent played tracks
 
 ## What I'm playing
 
-- Zelda Reath of the Wild while waiting for Zelda Tears of the Kingdom
-- Splatoon 3
-- Minecraft (Java)
+- _Zelda Tears of the Kingdom_ like crazy
+- nothing else
 
 ## What I’m making
 

@@ -3,12 +3,12 @@
    ========================================================================== */
 
 .c-logo {
-    --anchor-decoration-line: transparent;
+    --anchor-decoration-color-hover:var(--color-primary-shade-4);
+    --anchor-decoration-color: transparent;
 }
 
 .c-logo:hover {
     --anchor-decoration-line: underline;
-    --anchor-decoration-color: var(--color-primary-shade-4);
 }
 
 .c-logo__img {
