@@ -31,8 +31,8 @@ nothing special (because I'm playing. See "[What I'm playing](#what-im-playing)"
 
 ## What I’m making
 
+- Learning to program a Eurorack sequencer.
 - Working as a Frontend Engineer for the [State of Vaud](https://www.vd.ch){rel="external"}
-- Building a web pattern builder for [Stolperbeats eurorack module](https://makingsoundmachines.com/stolperbeats/){rel="external"}
 - Redesigning my website (the one your are visiting right now)
 - Fixing things in the house
 
@@ -54,4 +54,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: 2023-05-03 {.u-reference}
+last update: 2023-08-19 {.u-reference}
