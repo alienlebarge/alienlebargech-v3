@@ -5,6 +5,8 @@ permalink: /styleguide/index.html
 hidden: true
 ---
 
+[[toc]]
+
 ## Utilities
 
 Utilities that can be used on any element in order to modify the style.
