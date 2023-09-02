@@ -13,4 +13,4 @@ syndication:
 Usually I tend to play music at +120 bpm. Here I tried to explore -90 bpm territory.
 Beats are sequenced with Stolperbeats a wonderfull module to produce tripping rythmic patterns. And all sounds are coming from the Squid Salmple.
 
-https://vimeo.com/806919841
+[![Video preview](video-preview.gif)](https://vimeo.com/806919841 "Video on Vimeo")
