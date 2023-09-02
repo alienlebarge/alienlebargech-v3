@@ -37,11 +37,11 @@
     "@11ty/eleventy-fetch": "^4.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "@remy/webmention": "^1.4.5",
-    "autoprefixer": "^10.4.14",
-    "concurrently": "^8.2.0",
+    "autoprefixer": "^10.4.15",
+    "concurrently": "^8.2.1",
     "html-minifier": "^4.0.0",
-    "https-proxy-agent": "^7.0.0",
-    "lightningcss": "^1.21.5",
+    "https-proxy-agent": "^7.0.1",
+    "lightningcss": "^1.21.7",
     "markdown-it": "^13.0.1",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-anchor": "^8.6.7",
@@ -60,14 +60,14 @@
   },
   "devDependencies": {
     "chokidar-cli": "^3.0.0",
-    "eslint-plugin-jsdoc": "^46.2.6",
+    "eslint-plugin-jsdoc": "^46.5.1",
     "lodash": "^4.17.21",
     "markdownlint-cli": "^0.35.0",
     "node-fetch": "^3.3.2",
-    "stylelint": "^15.10.2",
+    "stylelint": "^15.10.3",
     "stylelint-config-standard": "^34.0.0",
     "stylelint-order": "^6.0.3",
-    "xo": "^0.54.2"
+    "xo": "^0.56.0"
   },
   "xo": {
     "space": true,
