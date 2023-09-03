@@ -14,6 +14,9 @@
 [[plugins]]
   package = "netlify-plugin-11ty"
 
+[[plugins]]
+  package = "netlify-plugin-webmentions"
+
 # new article urls
 [[redirects]]
     from = "/2005/*"
