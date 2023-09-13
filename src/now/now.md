@@ -18,7 +18,7 @@ Lausanne area, Switzerland
 
 ## What I’m watching
 
-nothing special (because I'm playing. See "[What I'm playing](#what-im-playing)" section 🤷‍♂️.)
+- Ahsoka
 
 ## What I'm listening to
 
@@ -27,11 +27,11 @@ nothing special (because I'm playing. See "[What I'm playing](#what-im-playing)"
 ## What I'm playing
 
 - _Zelda Tears of the Kingdom_ like crazy
-- nothing else
+- Waiting for the [Playdate](https://play.date) to arrive
 
 ## What I’m making
 
-- Learning to program a Eurorack sequencer.
+- Learning to program a Eurorack sequencer
 - Working as a Frontend Engineer for the [State of Vaud](https://www.vd.ch){rel="external"}
 - Redesigning my website (the one your are visiting right now)
 - Fixing things in the house
@@ -54,4 +54,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: 2023-08-19 {.u-reference}
+last update: 2023-09-13 {.u-reference}
