@@ -27,7 +27,7 @@ Lausanne area, Switzerland
 ## What I'm playing
 
 - _Zelda Tears of the Kingdom_ like crazy
-- Waiting for the [Playdate](https://play.date) to arrive
+- Waiting for the [Playdate](https://play.date){rel="external"} to arrive
 
 ## What I’m making
 
