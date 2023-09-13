@@ -26,7 +26,7 @@ Lausanne area, Switzerland
 
 ## What I'm playing
 
-- _Zelda Tears of the Kingdom_ like crazy
+- [Zelda Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/){rel="external"} like crazy
 - Waiting for the [Playdate](https://play.date){rel="external"} to arrive
 
 ## What I’m making
