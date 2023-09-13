@@ -18,7 +18,7 @@ Lausanne area, Switzerland
 
 ## What I’m watching
 
-- Ahsoka
+- [Ahsoka](https://www.imdb.com/title/tt13622776/){rel="external"}
 
 ## What I'm listening to
 
