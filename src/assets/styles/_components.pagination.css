@@ -2,6 +2,18 @@
    #PAGINATION
    ========================================================================== */
 
+/***
+ * 1. Fade unselected link
+ */
+
+.c-pagination a {
+    --anchor-decoration-color: var(--color-primary-shade-4); /* [1] */
+}
+
+.c-pagination:hover a:not(:hover) {
+    color: var(--color-gray-shade-4); /* [1] */
+}
+
 .c-pagination__link {
     display: flex;
     flex-direction: column;
