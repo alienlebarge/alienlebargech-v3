@@ -1,9 +1,12 @@
 ---
 date: 2023-09-25T07:07:05.167+02:00
-updated: 2023-09-25T07:11:30.965+02:00
+updated: 2023-09-25T07:15:20.048+02:00
 title: Weeknote 2023-38
 excerpt: What caught my attention during the week of September 18 to 24, 2023
 visibility: public
+syndication:
+  - https://social.lol/@alienlebarge/111124081513993570
+  - https://twitter.com/alienlebarge/status/1706175528187662353
 ---
 
  *[RTS]: Radio Télévision Suisse
