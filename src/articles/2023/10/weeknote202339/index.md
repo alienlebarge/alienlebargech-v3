@@ -1,10 +1,13 @@
 ---
 date: 2023-10-02T07:22:49.430+02:00
-updated: 2023-10-02T07:26:23.924+02:00
+updated: 2023-10-02T07:27:52.746+02:00
 title: Weeknote 2023-39
 excerpt: The topics that caught my attention during the week of September 25 to October 1, 2023.
 category: weeknote
 visibility: public
+syndication:
+  - https://social.lol/@alienlebarge/111163767018206583
+  - https://twitter.com/alienlebarge/status/1708715400475599296
 ---
 
 Here's what caught attention during week 39:
