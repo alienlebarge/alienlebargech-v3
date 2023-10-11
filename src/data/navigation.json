@@ -35,6 +35,10 @@
       "url": "/contact/"
     },
     {
+      "label": "Replies",
+      "url": "/replies/"
+    },
+    {
       "label": "Likes",
       "url": "/likes/"
     }
