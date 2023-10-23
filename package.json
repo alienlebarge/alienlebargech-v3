@@ -38,7 +38,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "@remy/webmention": "^1.4.5",
     "autoprefixer": "^10.4.16",
-    "concurrently": "^8.2.1",
+    "concurrently": "^8.2.2",
     "html-minifier": "^4.0.0",
     "https-proxy-agent": "^7.0.2",
     "lightningcss": "^1.22.0",
@@ -65,7 +65,7 @@
     "markdownlint-cli": "^0.37.0",
     "netlify-plugin-webmentions": "^1.1.1",
     "node-fetch": "^3.3.2",
-    "stylelint": "^15.10.3",
+    "stylelint": "^15.11.0",
     "stylelint-config-standard": "^34.0.0",
     "stylelint-order": "^6.0.3",
     "xo": "^0.56.0"
