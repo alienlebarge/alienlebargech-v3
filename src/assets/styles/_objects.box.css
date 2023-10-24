@@ -9,7 +9,10 @@
     padding-inline: var(--box-padding-inline, var(--space-m));
 }
 
-.o-box *:not(pre, code),
+/***
+ * TODO: Find a better solution to handle color
+ */
+.o-box *:not(pre, code, input, textarea),
 .o-box *:not[class] {
     color: inherit;
 }
