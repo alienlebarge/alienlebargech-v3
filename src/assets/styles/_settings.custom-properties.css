@@ -207,6 +207,7 @@
    ----------------------------------- */
 html:not(.fonts-loaded) {
     --font-family-sans: helvetica, system-ui;
+    --font-family-monospace: monospace;
     --letter-spacing-body: 0.45px
 }
 
