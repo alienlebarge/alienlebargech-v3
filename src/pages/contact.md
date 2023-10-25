@@ -19,6 +19,6 @@ templateEngineOverride: md,njk
     <label class="c-form__label" for="message">Message</label>
     <textarea class="c-form__input" id="message" name="message" row="10" cols="20" required aria-required="true"></textarea>
   </p>
-  <button class="c-form__button" type="submit">Send</button>
+  <button class="c-button" type="submit">Send</button>
 </form>
 

@@ -319,8 +319,8 @@ The `details` element creates a disclosure widget in which information is visibl
 
 ### Button
 
-<form class="o-stack c-form">
-  <button class="c-form__button" type="submit">Send</button>
+<form class="o-stack">
+  <button class="c-button" type="submit">Send</button>
 </form>
 
 ### Embed

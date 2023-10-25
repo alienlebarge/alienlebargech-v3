@@ -1,0 +1,31 @@
+/* ==========================================================================
+   #BUTTONS
+   ========================================================================== */
+
+/**
+ * 1. When button is clicked, the border of it is always visible
+ */
+.c-button {
+    background-color: var(--box-background-color, var(--color-gray-shade-6));
+    border: var(--border-width-thick) solid var(--color-gray-shade-6); /* [1] */
+    color: var(--box-color, var(--color-gray-shade-1));
+    cursor: pointer;
+    font-variation-settings: "wght" 600;
+    font-weight: 600;
+    font-family: var(--font-family-monospace);
+    padding-block: var(--box-padding-block, var( --space-2xs));
+    padding-inline: var(--box-padding-inline, var( --space-xs));
+    width: fit-content;
+
+    --box-color: var(--color-gray-shade-6);
+    --box-background-color: var(--color-gray-shade-1);
+}
+
+.c-button:hover,
+.c-button:active {
+    --box-background-color: var(--color-gray-shade-2);
+}
+
+.c-button:active {
+    transform: scale(.95);
+}

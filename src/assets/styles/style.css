@@ -36,6 +36,7 @@
 @import url("_objects.with-sidebar.css");
 
 /* Components */
+@import url("_components.buttons.css");
 @import url("_components.checkbox.css");
 @import url("_components.footer.css");
 @import url("_components.form.css");
