@@ -186,6 +186,5 @@ samp {
    ------------------------------------- */
 
 mark {
-    background-color: var(--color-gray-shade-6);
-    color: var(--color-gray-shade-1);
+    background-color: var(--color-gray-shade-2);
 }

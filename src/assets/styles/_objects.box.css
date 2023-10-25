@@ -12,7 +12,7 @@
 /***
  * TODO: Find a better solution to handle color
  */
-.o-box *:not(pre, code, input, textarea, mark),
+.o-box *:not(pre, code, input, textarea),
 .o-box *:not[class] {
     color: inherit;
 }
