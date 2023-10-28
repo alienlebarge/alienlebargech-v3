@@ -1,5 +1,6 @@
 ---
 date: 2023-10-28T20:44:40.212+02:00
+updated: 2023-10-28T20:44:58.659+02:00
 title: "One Month Review: Pros and Cons of Our Dacia Jogger Hybrid"
 category:
   - car
