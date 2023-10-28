@@ -1,6 +1,6 @@
 ---
 date: 2023-10-28T20:44:40.212+02:00
-updated: 2023-10-28T20:45:06.287+02:00
+updated: 2023-10-28T21:20:36.718+02:00
 title: "One Month Review: Pros and Cons of Our Dacia Jogger Hybrid"
 category:
   - car
@@ -12,7 +12,7 @@ syndication:
   - https://social.lol/@alienlebarge/111314121922701481
 ---
 
-It's been a month since we received our 7-seater [Dacia Jogger](https://en.wikipedia.org/wiki/Dacia_Jogger) hybrid and have traveled about 2000 kilometers. It's time to share our thoughts. Here are the aspects we liked and those we didn't so far.
+It's been a month since we received our 7-seater [Dacia Jogger](https://en.wikipedia.org/wiki/Dacia_Jogger){rel=external} hybrid and have traveled about 2000 kilometers. It's time to share our thoughts. Here are [the aspects we liked](#positive-points) and [those we didn't](#negative-points) so far.
 
 ## Positive points
 
