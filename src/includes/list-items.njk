@@ -62,3 +62,19 @@
     {%- endfor -%}
 </ul>
 {% endmacro %}
+
+
+
+{% macro reelItems(items) %}
+
+{%- set image_preset = "grid" -%}
+<ul class="o-reel">
+    {%- for item in items -%}
+    {%- if not item.data.deleted -%}
+    <li>
+    {%- include 'item/' + item.data.type + '.njk' -%}
+    </li>
+    {%- endif -%}
+    {%- endfor -%}
+</ul>
+{% endmacro %}

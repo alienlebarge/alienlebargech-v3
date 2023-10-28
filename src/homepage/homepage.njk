@@ -39,8 +39,8 @@ Hi, I’m Cédric a swiss front end engineer based in Lausanne with a love for e
         <h2>Photos</h2>
     </header>
 
-    {% set latest_photos = collections.photo | reverse | limit(4) %}
-    {{ list.gridItems(latest_photos) }}
+    {% set latest_photos = collections.photo | reverse | limit(5) %}
+    {{ list.reelItems(latest_photos) }}
 
     <footer class="o-prose">
         <p><a href="{{- "/photos" | url -}}"">More photos</a></p>
