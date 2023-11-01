@@ -1,6 +1,6 @@
 ---
 date: 2023-10-28T20:44:40.212+02:00
-updated: 2023-10-28T21:20:36.718+02:00
+updated: 2023-11-01T06:30:13.006+01:00
 title: "One Month Review: Pros and Cons of Our Dacia Jogger Hybrid"
 category:
   - car
@@ -33,3 +33,4 @@ It's been a month since we received our 7-seater [Dacia Jogger](https://en.wikip
 -  When it rains, the blind spot warnings go off when a water droplet passes over them. This happens very often and it's annoying.
 -  There's no storage in the trunk.
 -  When the battery is low, the engine can kick in loudly to recharge it. It's quite startling, it sounds like a car driving in first gear at 60 km/h.
+- <ins datetime="2023-11-01T06:29:57-02:00">The specifications changed between the order and delivery, and we ended up with copper-colored mirrors. This was not planned, and we find it terrible. It gives the car an appearance suited for older people.</ins>
