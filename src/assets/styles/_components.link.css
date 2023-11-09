@@ -1,0 +1,41 @@
+/* ==========================================================================
+   #LINK
+   ========================================================================== */
+
+.c-link {
+    --anchor-decoration-line: none;
+
+    color: var(--anchor-color, inherit);
+}
+
+.c-link:hover,
+.c-link:active {
+    color: var(--anchor-color-hover, inherit);
+}
+
+.c-link:hover .c-link__text,
+.c-link:active .c-link__text {
+    text-decoration-color: var(--anchor-decoration-color-hover, var(--anchor-decoration-color));
+    text-decoration-thickness: var(--border-width-thick);
+}
+
+
+.c-link__text {
+    --anchor-decoration-line: underline;
+
+    text-decoration-color: var(--anchor-decoration-color, inherit);
+    text-decoration-line: var(--anchor-decoration-line, underline);
+    text-decoration-skip-ink: auto;
+    text-decoration-thickness: var(--border-width-thin);
+    text-underline-offset: var(--anchor-decoration-offset, var(--space-3xs));
+}
+
+.c-link::after {
+    content: "\2192";
+    margin-inline-start: .5ch;
+    transition: all var(--transition-short);
+}
+
+.c-link:hover::after {
+    margin-inline-start: 1ch;
+}
