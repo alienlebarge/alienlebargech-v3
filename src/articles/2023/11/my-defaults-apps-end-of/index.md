@@ -1,9 +1,11 @@
 ---
 date: 2023-11-09T20:17:27.506+01:00
-updated: 2023-11-09T20:55:07.905+01:00
+updated: 2023-11-09T20:55:17.725+01:00
 title: My defaults apps end of 2023
 category: application
 visibility: public
+syndication:
+  - https://social.lol/@alienlebarge/111382345647760151
 ---
 
 This post is inspired by the article [My default apps at the end of 2023](https://birchtree.me/blog/my-default-apps-at-the-end-of-2023/){rel=external} from Birchtree. It appears that sharing our default used applications has become [a trend](https://defaults.rknight.me/){rel=external}.
