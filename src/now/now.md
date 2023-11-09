@@ -18,7 +18,7 @@ Lausanne area, Switzerland
 
 ## What I’m watching
 
-- [Ahsoka](https://www.imdb.com/title/tt13622776/){rel="external"}
+- [Sex Education](https://www.imdb.com/title/tt7767422/){rel="external"} Season 2
 
 ## What I'm listening to
 
@@ -27,7 +27,7 @@ Lausanne area, Switzerland
 ## What I'm playing
 
 - [Zelda Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/){rel="external"} like crazy
-- Waiting for the [Playdate](https://play.date){rel="external"} to arrive
+- Enjoying [Playdate](https://play.date){rel="external"}'s games
 
 ## What I’m making
 
@@ -54,4 +54,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: 2023-09-13 {.u-reference}
+last update: 2023-11-07 {.u-reference}
