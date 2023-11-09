@@ -1,6 +1,6 @@
 ---
 date: 2023-11-09T20:17:27.506+01:00
-updated: 2023-11-09T20:55:17.725+01:00
+updated: 2023-11-09T22:27:21.970+01:00
 title: My defaults apps end of 2023
 category: application
 visibility: public
@@ -20,7 +20,7 @@ Here are my defaults applications at the end of 2023:
 - **Cloud storage**: iCloud for photos and [kDrive](https://www.infomaniak.com/en/kdrive){rel=external} for everything eles.
 - **Photo library**: iCloud
 - **Photo editing**: [Darkroom](https://darkroom.co/){rel=external}
-- **Web browser**:[Arc](https://arc.net/){rel=external}
+- **Web browser**: [Arc](https://arc.net/){rel=external}
 - **Calendar**: [Fantastical](https://flexibits.com/fantastical){rel=external}
 - **Contact**: [Cardhop](https://flexibits.com/cardhop){rel=external}
 - **Weather**: [MeteoSwiss App](https://www.meteoswiss.admin.ch/services-and-publications/service/weather-and-climate-products/meteoswiss-app.html){rel=external}
