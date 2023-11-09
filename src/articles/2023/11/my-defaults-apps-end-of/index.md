@@ -1,7 +1,7 @@
 ---
 date: 2023-11-09T20:17:27.506+01:00
 title: My defaults apps end of 2023
-category: Application
+category: application
 visibility: public
 ---
 
