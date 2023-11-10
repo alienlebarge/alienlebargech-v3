@@ -1,6 +1,6 @@
 ---
 date: 2023-11-09T20:17:27.506+01:00
-updated: 2023-11-10T10:22:16.237+01:00
+updated: 2023-11-10T10:26:36.988+01:00
 title: My defaults apps end of 2023
 category: application
 visibility: public
@@ -13,9 +13,9 @@ This post is inspired by the article [My default apps at the end of 2023](https:
 
 Here are my defaults applications at the end of 2023:
 Mail service & mail client
-: [HEY](https://www.hey.com/){rel=external}
+:   [HEY](https://www.hey.com/){rel=external}
 Tasks
-: [Worflowy](https://workflowy.com/){rel=external}
+:   [Worflowy](https://workflowy.com/){rel=external}
 - **Shopping list**: [Reminders app](https://apps.apple.com/us/app/reminders/id1108187841){rel=external}
 - **RSS**: [Feedbin](https://feedbin.com/) with [Reeder](https://reederapp.com/){rel=external} on iOS and web client elsewhere.
 - **Launcher**: [Raycast](https://www.raycast.com/){rel=external}
