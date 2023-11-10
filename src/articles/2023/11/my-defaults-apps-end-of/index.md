@@ -1,6 +1,6 @@
 ---
 date: 2023-11-09T20:17:27.506+01:00
-updated: 2023-11-10T10:34:43.032+01:00
+updated: 2023-11-10T10:37:32.279+01:00
 title: My defaults apps end of 2023
 category: application
 visibility: public
@@ -12,6 +12,7 @@ This post is inspired by the article [My default apps at the end of 2023](https:
 
 
 Here are my defaults applications at the end of 2023:
+
 Mail service & mail client
 :   [HEY](https://www.hey.com/){rel=external}
 
