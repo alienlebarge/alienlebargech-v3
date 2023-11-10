@@ -1,6 +1,6 @@
 ---
 date: 2023-11-09T20:17:27.506+01:00
-updated: 2023-11-09T22:27:21.970+01:00
+updated: 2023-11-10T09:42:45.063+01:00
 title: My defaults apps end of 2023
 category: application
 visibility: public
@@ -24,6 +24,7 @@ Here are my defaults applications at the end of 2023:
 - **Calendar**: [Fantastical](https://flexibits.com/fantastical){rel=external}
 - **Contact**: [Cardhop](https://flexibits.com/cardhop){rel=external}
 - **Weather**: [MeteoSwiss App](https://www.meteoswiss.admin.ch/services-and-publications/service/weather-and-climate-products/meteoswiss-app.html){rel=external}
+- **Hicking**: [Swisstopo App](https://www.swisstopo.admin.ch/en/maps-data-online/maps-geodata-online/swisstopo-app.html)
 - **Podcasts**: [Overcast](https://overcast.fm/){rel=external}
 - **Music**: [Spotify](https://www.spotify.com){rel=external}
 - **Clipboard manager**: [Raycast](https://www.raycast.com/){rel=external}
