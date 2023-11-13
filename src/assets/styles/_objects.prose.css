@@ -236,9 +236,9 @@
 
 
 .o-prose dt {
-    font-weight: 800;
     /* TODO: Improve weight settings. IDEA: calc(var(--font-size-default + 200) */
     font-variation-settings: "wght" 800;
+    font-weight: 800;
 }
 
 .o-prose dd {
