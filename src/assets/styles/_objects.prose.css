@@ -23,6 +23,7 @@
  * Vertical space (flow direction)
  */
 
+
 .o-prose > * {
     margin-block: 0 0;
 }
@@ -50,15 +51,15 @@
 
 
 
+
+
 /**
- * Exceptions
- *
- * 1. Space after h2
- * 2. Space after h3
- * 3. Space after h4, h5 and h6
- * 4. Space between list elements and definition list elements
- * 5. Space between things inside a li. For exemople a `p`
- */
+  * Headings and other elements
+  *
+  * 1. Space after h2
+  * 2. Space after h3
+  * 3. Space after h4, h5 and h6
+  */
 
 /* stylelint-disable-next-line no-descending-specificity */
 .o-prose > h2 + * {
@@ -75,23 +76,29 @@
     --space: var(--space-xs); /* [3] */
 }
 
+
+
+
+
+/**
+ * Lists
+ *
+ * 1. Space between list elements and definition list elements
+ * 2. Space between things inside a li. For exemple a `p`
+ */
+
 .o-prose :is(li, dd, dt)  {
-    --space: var(--space-2xs); /* [4] */
+    --space: var(--space-2xs); /* [1] */
 }
 
-
-
-/* stylelint-disable-next-line no-descending-specificity */
-.o-prose ul:not([class]) > li + li,
-.o-prose ol:not([class]) > li + li,
-.o-prose > dl:not([class]) > dd + dt,
-.o-prose > dl:not([class]) > dd + dd {
-    margin-block-start: var(--space); /* [4] */
+.o-prose :is(li, dd, dt) > * {
+    margin-block: 0 0; /* [2] */
 }
 
 /* stylelint-disable-next-line no-descending-specificity */
-.o-prose li > * {
-    margin-block: 0 0; /* [5] */
+.o-prose :is(ul, ol, dl):not([class]) > * + *,
+.o-prose :is(li):not([class]) > * + * {
+    margin-block-start: var(--space); /* [1] */ /* [2] */
 }
 
 
