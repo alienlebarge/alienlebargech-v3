@@ -56,7 +56,7 @@
  * 1. Space after h2
  * 2. Space after h3
  * 3. Space after h4, h5 and h6
- * 4. Space between li
+ * 4. Space between list elements and definition list elements
  * 5. Space between things inside a li. For exemople a `p`
  */
 
@@ -75,28 +75,26 @@
     --space: var(--space-xs); /* [3] */
 }
 
-.o-prose li {
+.o-prose :is(li, dd, dt)  {
     --space: var(--space-2xs); /* [4] */
 }
 
+
+
 /* stylelint-disable-next-line no-descending-specificity */
-.o-prose > ul:not([class]) > li + li,
-.o-prose :is(
-    dl:not([class]),
-    ol:not([class]),
-    ul:not([class])) > li:first-child {
+.o-prose ul:not([class]) > li + li,
+.o-prose ol:not([class]) > li + li,
+.o-prose > dl:not([class]) > dd + dt,
+.o-prose > dl:not([class]) > dd + dd {
     margin-block-start: var(--space); /* [4] */
 }
 
 /* stylelint-disable-next-line no-descending-specificity */
 .o-prose li > * {
-    margin-block: 0 0; /* [5] */ /* [5] */
+    margin-block: 0 0; /* [5] */
 }
 
-/* stylelint-disable-next-line no-descending-specificity */
-.o-prose > p + p {
-    --space: var(--space-m);
-}
+
 
 
 
