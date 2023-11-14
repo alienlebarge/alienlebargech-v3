@@ -10,9 +10,9 @@
     border: var(--border-width-thick) solid var(--color-gray-shade-6); /* [1] */
     color: var(--box-color, var(--color-gray-shade-1));
     cursor: pointer;
+    font-family: var(--font-family-monospace);
     font-variation-settings: "wght" 600;
     font-weight: 600;
-    font-family: var(--font-family-monospace);
     padding-block: var(--box-padding-block, var( --space-2xs));
     padding-inline: var(--box-padding-inline, var( --space-xs));
     width: fit-content;

@@ -5,8 +5,7 @@
 .o-reel {
     block-size: auto;
     display: flex;
-    overflow-x: auto;
-    overflow-y: hidden;
+    overflow: auto hidden;
     scrollbar-color: var(--color-gray-shade-1) var(--color-gray-shade-4);
 }
 

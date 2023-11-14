@@ -4,8 +4,7 @@
 
 .c-form > *,
 .c-form__field > * {
-    margin-block-end: 0;
-    margin-block-start: 0;
+    margin-block: 0 0;
 }
 
 .c-form > * + * {
