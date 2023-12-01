@@ -42,7 +42,7 @@
     "concurrently": "^8.2.2",
     "html-minifier": "^4.0.0",
     "https-proxy-agent": "^7.0.2",
-    "lightningcss": "^1.22.0",
+    "lightningcss": "^1.22.1",
     "markdown-it": "^13.0.2",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-anchor": "^8.6.7",
