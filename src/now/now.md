@@ -14,11 +14,11 @@ Lausanne area, Switzerland
 
 ## What I’m reading
 
-- [PATCH & TWEAK - Exploring Modular Synthesis](https://bjooks.com/products/patch-tweak-exploring-modular-synthesis){rel="external"} by Kim Bjørn
+- nothing
 
 ## What I’m watching
 
-- [Sex Education](https://www.imdb.com/title/tt7767422/){rel="external"} Season 2
+- nothing
 
 ## What I'm listening to
 
@@ -26,7 +26,7 @@ Lausanne area, Switzerland
 
 ## What I'm playing
 
-- [Zelda Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/){rel="external"} like crazy
+- [Zelda Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/){rel="external"}. I'm trying to do all shrines.
 - Enjoying [Playdate](https://play.date){rel="external"}'s games
 
 ## What I’m making
@@ -54,4 +54,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: 2023-11-07 {.u-reference}
+last update: <date datetime="2023-12-20">2023-12-20<date> {.u-reference}
