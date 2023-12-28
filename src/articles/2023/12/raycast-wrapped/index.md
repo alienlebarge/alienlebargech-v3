@@ -1,6 +1,6 @@
 ---
-date: 2023-12-28T03:35:00.000+01:00
-updated: 2023-12-28T08:28:09.495+01:00
+date: 2023-12-28T01:35:00.000+01:00
+updated: 2023-12-28T08:35:24.613+01:00
 title: Raycast Wrapped
 excerpt: My 2023 Raycast wrapped
 visibility: public
@@ -10,9 +10,9 @@ Raycast has a certain cost, and I'm still wondering if it's worth investing so m
 I use this app daily. It has replaced Spotlight on all the Macs I work on.
 
 The things I like and used the most are:
-- AI: Primarily for spelling correction and translations
-- Clipboard History
-- Floating Notes: I love how it syncs quickly between different computers.
+- **AI**: Primarily for spelling correction and translations
+- **Clipboard History**
+- **Floating Notes**: I love how it syncs quickly between different computers
 
 For what it's worth, here are my statistics for 2023.
 
