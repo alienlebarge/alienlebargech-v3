@@ -26,7 +26,7 @@ Lausanne area, Switzerland
 
 ## What I'm playing
 
-- [Super Mario Bros Wonder](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/)
+- [Super Mario Bros Wonder](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/){rel="external"}
 - [Zelda Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/){rel="external"}. I'm trying to do all shrines.
 - Enjoying [Playdate](https://play.date){rel="external"}'s games
 
