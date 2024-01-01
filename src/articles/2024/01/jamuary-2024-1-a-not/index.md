@@ -17,4 +17,4 @@ As we begin the new year 2024, a new series of jams for "Jamuary" is coming. For
 
 On the musical side, I must admit I wasn't fully prepared. I used a patch that had been set up a few days ago for bass line generation exploration. The modules aren't even properly fixed in the case. For this bass line, I'm using the "Auza Wave Packet" and the "Mutable Instruments Blades".
 
-[![video-thumbnail.png](A not so ready bass line video thumbnail)](https://vimeo.com/899073484 "A not so ready bass line on Vimeo"){rel="external"}
+[![A not so ready bass line video thumbnail](video-thumbnail.png)](https://vimeo.com/899073484 "A not so ready bass line on Vimeo"){rel="external"}
