@@ -1,11 +1,14 @@
 ---
 date: 2024-01-01T22:03:56.343+01:00
+updated: 2024-01-01T22:04:20.960+01:00
 title: "Jamuary 2024 #1: A not so ready bass line"
 category:
   - jam
   - eurorack
   - jamuary
 visibility: public
+syndication:
+  - https://social.lol/@alienlebarge/111682719629904597
 ---
 
 Happy New Year to everyone!
