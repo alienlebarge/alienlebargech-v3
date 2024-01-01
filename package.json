@@ -61,7 +61,7 @@
   },
   "devDependencies": {
     "chokidar-cli": "^3.0.0",
-    "eslint-plugin-jsdoc": "^46.9.1",
+    "eslint-plugin-jsdoc": "^47.0.2",
     "lodash": "^4.17.21",
     "markdownlint-cli": "^0.38.0",
     "netlify-plugin-webmentions": "^1.1.1",
