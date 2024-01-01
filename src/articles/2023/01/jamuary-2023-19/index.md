@@ -14,4 +14,4 @@ This last jamuary is inspired by the _Auto Harmony generator_ patch by @DivKid@t
 
 The _Wave_ and _Sub_ output of MCO and the _Pulse_ output of Tš-L are used to create the melody sequenced by meloDICER.
 
-[![video-preview.gif](Preview image)](https://vimeo.com/794660338 "Video on Vimeo")
+[![Preview image](video-preview.gif)](https://vimeo.com/794660338 "Video on Vimeo")
