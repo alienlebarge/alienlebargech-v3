@@ -8,6 +8,7 @@
     "build": "concurrently -c \"auto\" \"npm:build:*\"",
     "postbuild": "webmention www/feed.xml --limit 1 --send",
     "watch:files": "eleventy --config=lib/eleventy.config.js --incremental --serve",
+    "postwatch": "npx pagefind",
     "watch": "concurrently -c \"auto\" \"npm:watch:*\"",
     "lint:markdown": "markdownlint src/**/*.md",
     "lint:styles": "stylelint src/**/*.css",
