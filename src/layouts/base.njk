@@ -123,7 +123,7 @@
         </title>
     </head>
     {#- Add attribut if content must be indexed in the search engine (pagefind) -#}
-    {%- if type != "opengraph" -%}
+    {%- if type == "opengraph" -%}
     <body class="c-page">
     {%- elif hidden == true -%}
     <body class="c-page">
