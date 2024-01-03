@@ -6,7 +6,7 @@
     "prebuild": "rm -rf www && mkdir -p www/assets",
     "build:files": "eleventy --config=lib/eleventy.config.js --quiet",
     "build": "concurrently -c \"auto\" \"npm:build:*\"",
-    "postbuild": "webmention www/feed.xml --limit 1 --send",
+    "postbuild": "webmention www/feed.xml --limit 1 --send && npx pagefind",
     "watch:files": "eleventy --config=lib/eleventy.config.js --incremental --serve",
     "postwatch": "npx pagefind",
     "watch": "concurrently -c \"auto\" \"npm:watch:*\"",

@@ -35,6 +35,10 @@
       "url": "/contact/"
     },
     {
+      "label": "Search",
+      "url": "/search/"
+    },
+    {
       "label": "Replies",
       "url": "/replies/"
     },

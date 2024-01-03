@@ -186,25 +186,6 @@
     --container-inline-size: 100vw;
     --container-inline-inset: calc(100vw - var(--container-inline-size));
     --container-gutter: calc(var(--container-inline-inset) / 2);
-
-
-
-/* -----------------------------------
-   #Vendors
-   ----------------------------------- */
-
-    --pagefind-ui-scale: 1;
-    --pagefind-ui-primary: var(----color-primary-shade-1);
-    --pagefind-ui-text: var(--font-color);
-    --pagefind-ui-background: var(--color-gray-shade-2);
-    --pagefind-ui-border: var(--color-gray-shade-3);
-    --pagefind-ui-tag: var(--color-gray-shade-3);
-    --pagefind-ui-border-width: 2px;
-    --pagefind-ui-border-radius: 8px;
-    --pagefind-ui-image-border-radius: 8px;
-    --pagefind-ui-image-box-ratio: 3 / 2;
-    --pagefind-ui-font: var(--font-family-sans);
-
 } /* /:root */
 
 

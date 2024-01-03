@@ -70,6 +70,9 @@
 
         <link rel="pgpkey" href="/key.txt">
 
+        {%- if style -%}
+        <link rel="stylesheet" href="{{ style | url }}">
+        {%- endif -%}
         <link rel="stylesheet" href="{{ "/assets/styles/style.css" | url }}">
 
         <!-- Generic icon -->
@@ -119,7 +122,14 @@
             {% endif -%}{{- app.title | safe -}}
         </title>
     </head>
+    {#- Add attribut if content must be indexed in the search engine (pagefind) -#}
+    {%- if type != "opengraph" -%}
     <body class="c-page">
+    {%- elif hidden == true -%}
+    <body class="c-page">
+    {%- else -%}
+    <body class="c-page" data-pagefind-body>
+    {%- endif -%}
         {# {% if type != "opengraph" -%} #}
             {% include 'banner.njk' %}
         {# {%- endif %} #}
