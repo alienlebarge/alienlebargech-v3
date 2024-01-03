@@ -4,7 +4,6 @@ summary: Looking for something special ?
 permalink: /search/index.html
 hidden: true
 layout: "article.njk"
-style: /pagefind/pagefind-ui.css
 ---
 
 <script src="/pagefind/pagefind-ui.js"></script>

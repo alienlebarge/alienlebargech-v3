@@ -20,35 +20,24 @@
        --pagefind-ui-font: var(--font-family-sans);
 }
 
-.pagefind-ui__search-input,
-.pagefind-ui__search-clear {
-    color: var(--color-gray-shade-1) !important;
-    font-family: var(--font-family-monospace);
-    font-style: italic;
-}
+.pagefind-ui .pagefind-ui__search-input {
+        background-color: var(--box-background-color, var(--color-gray-shade-6));
+        border: var(--border-width-thick) solid var(--color-gray-shade-6);
+        color: var(--box-color, var(--color-gray-shade-1));
+        font-family: var(--font-family-monospace);
+        font-style: italic;
+        line-height: var(--line-height-body);
+        padding-block: var(--box-padding-block, var( --space-2xs));
+        padding-inline: var(--box-padding-inline, var( --space-xs));
+        width: 100%;
 
-.pagefind-ui__search-input::placeholder {
-    color: var(--color-gray-shade-4) !important;
-    opacity: 1 !important;
-}
-
-.pagefind-ui__form::before {
-    background-color: var(--color-gray-shade-1) !important;
-}
-
-.pagefind-ui__result {
-    --pagefind-ui-border-width: var(--border-width-thin);
-    --pagefind-ui-border: var(--color-gray-shade-2);
-}
-
-.pagefind-ui__result mark {
-    background-color: var(--color-gray-shade-2) !important;
 }
 
 /**
- * 1. When button is clicked, the border of it is always visible
+ * Buttons
  */
-.pagefind-ui__button {
+.pagefind-ui__button,
+.pagefind-ui__search-clear {
     background-color: var(--box-background-color, var(--color-gray-shade-6)) !important;
     border: var(--border-width-thick) solid var(--color-gray-shade-6) !important; /* [1] */
     color: var(--box-color, var(--color-gray-shade-1)) !important;
@@ -71,4 +60,74 @@
 
 .pagefind-ui__button:active {
     transform: scale(.95) !important;
+}
+
+/***
+ * Stacks
+ */
+
+.pagefind-ui__form,
+.pagefind-ui__results-area,
+.pagefind-ui__results
+ {
+    --stack-space: var(--space-m); /* [1] */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.pagefind-ui__form > *,
+.pagefind-ui__results-area > *,
+.pagefind-ui__results > * {
+    margin-block: 0;
+}
+
+.pagefind-ui__form > * + *,
+.pagefind-ui__results-area > * + *,
+.pagefind-ui__results > * + * {
+    margin-block-start: var(--stack-space);
+}
+
+.pagefind-ui__result + .pagefind-ui__result {
+    border-block-start: var(--border-width-thin) solid var(--color-gray-shade-2);
+    padding-block-start: var(--c-padding, var(--space-xs));
+}
+
+/***
+ * Headings 2
+ * Number of result
+ */
+.pagefind-ui__message {
+        font-family: var(--font-family-heading, var(--font-family-sans));
+        font-size: var(--font-size-heading);
+        font-variation-settings: "wght" var(--font-weight-heading, 600);
+        font-weight: var(--font-weight-heading, 600);
+        hanging-punctuation: first;
+        letter-spacing: 0; /* [1] */
+        line-height: var(--line-height-heading, var(--line-height-tight));
+}
+
+/***
+ * Headings 3
+ * Result title
+ */
+.pagefind-ui__result-title {
+    font-family: var(--font-family-subhead, var(--font-family-sans));
+    font-size: var(--font-size-subhead);
+    font-variation-settings: "wght" var(--font-weight-subhead, 600);
+    font-weight: var(--font-weight-subhead, 600);
+    hanging-punctuation: first;
+    letter-spacing: 0; /* [1] */
+    line-height: var(--line-height-subhead, var(--line-height-tight));
+}
+
+.pagefind-ui__result {
+    display: flex;
+    flex-direction: column;
+}
+
+.pagefind-ui__result-thumb {
+    max-width: var(--space-3xl);
+    order: 999;
 }
