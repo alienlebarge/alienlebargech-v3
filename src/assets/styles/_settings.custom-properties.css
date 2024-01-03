@@ -186,8 +186,10 @@
     --container-inline-size: 100vw;
     --container-inline-inset: calc(100vw - var(--container-inline-size));
     --container-gutter: calc(var(--container-inline-inset) / 2);
-
 } /* /:root */
+
+
+
 
 @media (--from-large-viewport) {
     :root {
@@ -200,6 +202,7 @@
         --container-inline-size: 80rem;
     }
 }
+
 
 
 /* -----------------------------------

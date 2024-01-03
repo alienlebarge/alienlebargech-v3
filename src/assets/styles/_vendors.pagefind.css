@@ -1,0 +1,74 @@
+/* ==========================================================================
+   #PAGEFORM
+   ========================================================================== */
+
+:root {
+    /* -----------------------------------
+      #Vendors
+      ----------------------------------- */
+
+       --pagefind-ui-scale: 1;
+       --pagefind-ui-primary: var(--color-primary-shade-1);
+       --pagefind-ui-text: var(--font-color);
+       --pagefind-ui-background: var(--color-gray-shade-6);
+       --pagefind-ui-border: var(--color-gray-shade-6);
+       --pagefind-ui-tag: var(--color-gray-shade-3);
+       --pagefind-ui-border-width: var(--border-width-thick);
+       --pagefind-ui-border-radius: 0;
+       --pagefind-ui-image-border-radius: 0;
+       --pagefind-ui-image-box-ratio: 3 / 2;
+       --pagefind-ui-font: var(--font-family-sans);
+}
+
+.pagefind-ui__search-input,
+.pagefind-ui__search-clear {
+    color: var(--color-gray-shade-1) !important;
+    font-family: var(--font-family-monospace);
+    font-style: italic;
+}
+
+.pagefind-ui__search-input::placeholder {
+    color: var(--color-gray-shade-4) !important;
+    opacity: 1 !important;
+}
+
+.pagefind-ui__form::before {
+    background-color: var(--color-gray-shade-1) !important;
+}
+
+.pagefind-ui__result {
+    --pagefind-ui-border-width: var(--border-width-thin);
+    --pagefind-ui-border: var(--color-gray-shade-2);
+}
+
+.pagefind-ui__result mark {
+    background-color: var(--color-gray-shade-2) !important;
+}
+
+/**
+ * 1. When button is clicked, the border of it is always visible
+ */
+.pagefind-ui__button {
+    background-color: var(--box-background-color, var(--color-gray-shade-6)) !important;
+    border: var(--border-width-thick) solid var(--color-gray-shade-6) !important; /* [1] */
+    color: var(--box-color, var(--color-gray-shade-1)) !important;
+    cursor: pointer !important;
+    font-family: var(--font-family-monospace) !important;
+    font-variation-settings: "wght" 600 !important;
+    font-weight: 600 !important;
+    padding-block: var(--box-padding-block, var( --space-2xs)) !important;
+    padding-inline: var(--box-padding-inline, var( --space-xs)) !important;
+    width: fit-content !important;
+
+    --box-color: var(--color-gray-shade-6) !important;
+    --box-background-color: var(--color-gray-shade-1) !important;
+}
+
+.pagefind-ui__button:hover,
+.pagefind-ui__button:active {
+    --box-background-color: var(--color-gray-shade-2) !important;
+}
+
+.pagefind-ui__button:active {
+    transform: scale(.95) !important;
+}
