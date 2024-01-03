@@ -30,6 +30,18 @@ textarea {
 }
 
 /**
+ * Focus
+ */
+button:focus-visible,
+input:focus-visible,
+optgroup:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+    outline: var(--color-focus) solid var(--border-width-thickest);
+    outline-offset: var(--space-2xs);
+}
+
+/**
  * Show the overflow in IE.
  * 1. Show the overflow in Edge.
  */
