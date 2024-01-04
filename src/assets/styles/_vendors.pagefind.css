@@ -35,6 +35,7 @@
 
 /**
  * Buttons
+ * "Clear search" and "Load more results" buttons are style like .c-button
  */
 .pagefind-ui__button,
 .pagefind-ui__search-clear {
@@ -54,11 +55,14 @@
 }
 
 .pagefind-ui__button:hover,
-.pagefind-ui__button:active {
+.pagefind-ui__button:active,
+.pagefind-ui__search-clear:hover,
+.pagefind-ui__search-clear:active {
     --box-background-color: var(--color-gray-shade-2) !important;
 }
 
-.pagefind-ui__button:active {
+.pagefind-ui__button:active,
+.pagefind-ui__search-clear:active {
     transform: scale(.95) !important;
 }
 
@@ -122,11 +126,17 @@
     line-height: var(--line-height-subhead, var(--line-height-tight));
 }
 
+/***
+ * Result item display
+ */
 .pagefind-ui__result {
     display: flex;
     flex-direction: column;
 }
 
+/***
+ * Image size
+ */
 .pagefind-ui__result-thumb {
     max-width: var(--space-3xl);
     order: 999;
