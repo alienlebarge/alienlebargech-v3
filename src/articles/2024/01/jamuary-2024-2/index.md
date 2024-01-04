@@ -13,3 +13,5 @@ syndication:
 ---
 
 The aim of this jam was to program a rhythmic pattern and modulate it as much as possible. The main sequencer is the Stolperbeats. Its patterns are modulated with the iDUM, the RND Step, the Ochd, and its Expander. In the end, we achieve a well-syncopated beat.
+
+![Slow drums video thumbnail](video-thumbnail.png "[Slow drums on Vimeo](https://vimeo.com/899917854)")
