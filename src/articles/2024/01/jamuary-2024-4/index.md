@@ -14,4 +14,5 @@ syndication:
 
 A bit of music made with [Granular by Orllewin](https://orllewin.itch.io/granular) on the Playdate. I recorded a music box. Then, everything passed through Mutable Instruments Beads before the recording.
 
-https://vimeo.com/900911776?share=copy
+
+![Granular on the playdate video thumbnail](video-thumbnail.png "[Granular on the playdate on Vimeo](https://vimeo.com/900911776)")
