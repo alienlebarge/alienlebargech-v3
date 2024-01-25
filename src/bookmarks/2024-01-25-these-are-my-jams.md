@@ -1,5 +1,6 @@
 ---
-date: 2024-01-25T09:20:44.507+01:00
+date: 2024-01-25T07:20:00.000+01:00
+updated: 2024-01-25T09:21:03.192+01:00
 title: These are my jams
 bookmark-of: https://paulrobertlloyd.com/2024/005/a1/jams/
 visibility: public
