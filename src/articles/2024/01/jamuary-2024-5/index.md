@@ -14,4 +14,5 @@ syndication:
 
 This January month isn't very productive in terms of jams. However, here's a new one. Yesterday, I received the "Metalloid Percussion Entity" module. It's a chance to have fun with this case full of [Steady State Fate](https://steadystatefate.com/) modules.
 
-https://vimeo.com/907999659
+
+![Entity line video thumbnail](video-thumbnail.png "[Entity line on Vimeo](https://vimeo.com/907999659)")
