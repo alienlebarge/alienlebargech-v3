@@ -81,7 +81,7 @@
         align-items: baseline;
         display: flex;
         flex-wrap: wrap;
-        gap: var(--space-3xs-l);
+        gap: var(--space-s-l);
     }
 
     .c-list-items__link > :first-child {
