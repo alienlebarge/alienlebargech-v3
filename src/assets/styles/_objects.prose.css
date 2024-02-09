@@ -8,7 +8,7 @@
 
 .o-prose {
     --space: var(--space-l);
-    --flow-inset: var( --space-m);
+    --flow-inset: var(--space-m);
 
     font-size: var(--font-size-body);
     font-variation-settings: "wght" var(--font-weight-body, inherit);
