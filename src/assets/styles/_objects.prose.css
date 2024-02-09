@@ -263,29 +263,6 @@
 
 
 
-/***
- * Blockquote
- */
-
-.o-prose figure:has(blockquote) {
-    border-inline-start: var(--border-width-thickest)
-                         solid
-                         var(--color-gray-shade-6);
-    margin-inline-start: 0; /* [1] */
-    padding-inline-start: var(--flow-inset);
-}
-
-.o-prose figure:has(blockquote) blockquote {
-    font-style: italic;
-}
-
-.o-prose figure:has(blockquote) figcaption::before {
-    content: "—";
-    margin-inline-end: 1ch;
-}
-
-
-
 /**
  * Table
  */

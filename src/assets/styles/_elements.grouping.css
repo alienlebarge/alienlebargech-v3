@@ -64,7 +64,11 @@ pre {
  * 1. Override browser style
  */
 blockquote {
+    border-inline-start: var(--border-width-thickest)
+                         solid
+                         var(--color-gray-shade-6);
     margin-inline-start: 0; /* [1] */
+    padding-inline-start: var(--flow-inset);
 }
 
 
