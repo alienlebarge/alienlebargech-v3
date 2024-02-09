@@ -74,6 +74,10 @@ p q r s t u v w x y z { | } ~
 
 The `blockquote` element represents a section that is being quoted from another source.
 
+> 1996 was a different time. The Spice Girl’s “Wannabe” was in anti-shock discmans everywhere, and the most common network connection was 56k dial-up modems. So of course the original developers had a smaller performance budget to work with, and the site is much lighter. Fair enough - so how long did it take to load the original Space Jam site back then?
+
+If you wish to add a citation, enclose it within a `<figure>` tag:
+
 > Life is too short to not have fun; we are only here for a short time compared to the sun and the moon and all that.
 > — Coolio
 
