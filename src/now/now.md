@@ -33,6 +33,7 @@ Lausanne area, Switzerland
 ## What I’m making
 
 - Learning to program a Eurorack sequencer
+- Rebuilding my Eurorack case
 - Working as a Frontend Engineer for the [State of Vaud](https://www.vd.ch){rel="external"}
 - Redesigning my website (the one your are visiting right now)
 - Fixing things in the house
@@ -55,4 +56,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: <date datetime="2023-12-20">2023-12-20<date> {.u-reference}
+last update: <date datetime="2024-03-04">;2024-03-04<date> {.u-reference}
