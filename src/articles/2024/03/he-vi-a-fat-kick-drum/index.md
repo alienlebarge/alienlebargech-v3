@@ -8,6 +8,6 @@ syndication:
   - https://social.lol/@alienlebarge/112107248007713667
 ---
 
-The SSF trinity (ultra-kick, ultra-perc and metalloid-percussion) producing some heavy techno. We are almost in hardcore territory.
+Producing some heavy techno with a massively [SSF](https://steadystatefate.com/)-oriented rack.
 
 [He-vi jam](https://vimeo.com/923895663)
