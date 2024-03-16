@@ -10,4 +10,4 @@ syndication:
 
 Producing some heavy techno with a massively [SSF](https://steadystatefate.com/)-oriented rack.
 
-[He-vi jam](https://vimeo.com/923895663)
+![Video thumbnail](thumb.png "[He-vi jam](https://vimeo.com/923895663)")
