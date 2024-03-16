@@ -5,7 +5,7 @@ title: He-vi, a fat kick drum oriented jam
 category: jam
 visibility: public
 syndication:
-  - https://social.lol/@alienlebarge/112107248007713667
+  - https://social.lol/@alienlebarge/112107596170455865
 ---
 
 Producing some heavy techno with a massively [SSF](https://steadystatefate.com/)-oriented rack.
