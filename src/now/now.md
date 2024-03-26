@@ -14,11 +14,12 @@ Lausanne area, Switzerland
 
 ## What I’m reading
 
-- nothing
+- [Building a Second Brain](https://www.buildingasecondbrain.com/){rel="external"}
 
 ## What I’m watching
 
-- nothing
+- [Resident Alien (Season 1)](https://www.imdb.com/title/tt8690918/)
+- [Extraordinary (Season 2)](https://www.imdb.com/title/tt14531842/)
 
 ## What I'm listening to
 
@@ -56,4 +57,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: <date datetime="2024-03-04">;2024-03-04<date> {.u-reference}
+last update: <date datetime="2024-03-26">2024-03-26<date> {.u-reference}
