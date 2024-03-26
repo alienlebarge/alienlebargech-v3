@@ -12,4 +12,4 @@ external-link: https://codepen.io/alienlebarge/blog/iconic-and-github-public-rep
 external-site: CodePen Blog
 ---
 
-[iconic](https://useiconic.com/) is a very interesting icon framework. But apparently, [it doesn't work when hosted on an other server than the page](https://codepen.io/alienlebarge/blog/iconic-and-github-public-repo).
+[iconic](https://web.archive.org/web/20221218014722/http://useiconic.com/) is a very interesting icon framework. But apparently, [it doesn't work when hosted on an other server than the page](https://codepen.io/alienlebarge/blog/iconic-and-github-public-repo).
