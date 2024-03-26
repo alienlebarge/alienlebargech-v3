@@ -13,25 +13,25 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXCEPTIONS: twitter.com
         with:
-          content-folder: 'src/_content/articles'
+          content-folder: 'src/articles'
       - name: Fix bookmark links
         uses: tmcw/notfoundbot@v2.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXCEPTIONS: twitter.com
         with:
-          content-folder: 'src/_content/bookmarks'
+          content-folder: 'src/bookmarks'
       - name: Fix note links
         uses: tmcw/notfoundbot@v2.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXCEPTIONS: twitter.com
         with:
-          content-folder: 'src/_content/notes'
+          content-folder: 'src/notes'
       - name: Fix photo links
         uses: tmcw/notfoundbot@v2.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXCEPTIONS: twitter.com
         with:
-          content-folder: 'src/_content/photos'
+          content-folder: 'src/photos'
