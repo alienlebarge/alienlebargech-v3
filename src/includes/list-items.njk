@@ -49,6 +49,27 @@
 
 
 
+{% macro listJams(items, modifier) %}
+<ul class="c-list-items{% if modifier %}{{ modifier }} {% endif %}">
+    {%- for item in items -%}
+    {%- if not item.data.deleted -%}
+        <li class="c-list-items__item">
+            <a class="c-list-items__link | u-url" rel="bookmark" href="{{ item.url | url }}">
+                <time class="c-list-items__date u-reference | dt-published" datetime="{{ item.date | date }}">
+                    {{- item.date | date("YYYY-MM-DD") -}}
+                </time>
+            </a>
+            <spotify-jam class="c-list-items__title">
+                <a href="{{- item.data.jam_of.url -}}"><cite>{{- item.data.jam_of.name -}}</cite> by {{ item.data.jam_of.author }}</a>
+            </spotify-jam>
+        </li>
+    {%- endif -%}
+    {%- endfor -%}
+</ul>
+{% endmacro %}
+
+
+
 {% macro gridItems(items) %}
 
 {%- set image_preset = "grid" -%}
