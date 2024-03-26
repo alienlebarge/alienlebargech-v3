@@ -1,7 +1,7 @@
 name: notfoundbot
 on:
   schedule:
-    - cron: '0 0 1 * *' # https://crontab.guru/#0_0_1_*_*
+    - cron: '*/5 * * * *' # https://crontab.guru/#0_0_1_*_*
 jobs:
   check:
     runs-on: ubuntu-latest
