@@ -1,0 +1,17 @@
+---
+title: Jams
+summary: Music I like
+pagination:
+  data: collections.myjam
+  size: 25
+  reverse: true
+permalink: jams/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber }}{% else %}index{% endif %}.html
+layout: index.njk
+type: index
+override:tags: []
+---
+{% import 'list-items.njk' as list %}
+{{ list.listItems(pagination.items, "o-stack--space-xl") }}
+
+{% import 'pagination.njk' as transverse %}
+{{ transverse.paginate(pagination, label='Notes') }}
