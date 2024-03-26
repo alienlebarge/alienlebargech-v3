@@ -29,7 +29,7 @@ Enjoy !
 
 ![Mes sketchnote de "Progressive Web AMPs"](https://c7.staticflickr.com/6/5522/30360321734_2be247a4ce_c.jpg)
 
-[Vidéo de la présentation](https://vimeo.com/190831091)
+[Vidéo de la présentation](https://web.archive.org/web/20200803191856/https://vimeo.com/190831091)
 
 ## The world is your interface
 
@@ -38,7 +38,7 @@ Voilà un des messages d’[Ariel Contton](https://twitter.com/argoncobalt) nous
 
 ![Mes sketchnote de "The world is your interface" (partie 1 sur 2)](https://c3.staticflickr.com/6/5719/31038294522_0909039547_c.jpg) ![Mes sketchnote de "The world is your interface" (partie 2 sur 2)](https://c4.staticflickr.com/6/5768/31181470995_d623ec7ef0_c.jpg)
 
-[Vidéo de la présentation](https://vimeo.com/190832714)
+[Vidéo de la présentation](https://web.archive.org/web/20210127053654/https://vimeo.com/190832714)
 
 ## How tech sector could move in one direction
 
@@ -47,7 +47,7 @@ L’industrie technologique manque de diversité. On se base sur des diplômes a
 
 ![Mes sketchnote de "How tech sector could move in one direction"](https://c5.staticflickr.com/6/5338/31038294252_7d024a666c_c.jpg)
 
-[Vidéo de la présentation](https://vimeo.com/190832862)
+[Vidéo de la présentation](https://web.archive.org/web/20221205223333/https://vimeo.com/190832862)
 
 ## Unseen
 
@@ -56,7 +56,7 @@ Il faut élargir notre vision et penser à tous les cas de figure, prendre en co
 
 ![Mes sketchnote de "Unseen" (partie 1 sur 2)](https://c5.staticflickr.com/6/5584/30360321684_a006872bdd_c.jpg) ![Mes sketchnote de "Unseen" (partie 2 sur 2)](https://c3.staticflickr.com/6/5482/31038293922_95420f2d5f_c.jpg)
 
-[Videé de la présentation](https://vimeo.com/190833161)
+[Videé de la présentation](https://web.archive.org/web/20180125114317/https://vimeo.com/190833161)
 
 ## Let us now praise ordinary people
 
@@ -68,7 +68,7 @@ Le prêche de [Mike Monteiro](https://twitter.com/monteiro) avait pour but de no
 
 ![Mes sketchnote de "Let us now praise ordinary people" (partie 1 sur 3)](https://c7.staticflickr.com/6/5458/30360321574_2c2fb28a55_c.jpg) ![Mes sketchnote de "Let us now praise ordinary people" (partie 2 sur 3)](https://c3.staticflickr.com/6/5826/31038293562_bf565b0f31_c.jpg) ![Mes sketchnote de "Let us now praise ordinary people" (partie 3 sur 3)](https://c1.staticflickr.com/6/5693/31038293792_efb73e95a0_c.jpg)
 
-[Vidéo de la présentations](https://vimeo.com/190834270)
+[Vidéo de la présentations](https://web.archive.org/web/20230321101731/https://vimeo.com/190834270)
 
 ## Writing less damned code
 
@@ -76,7 +76,7 @@ Le prêche de [Mike Monteiro](https://twitter.com/monteiro) avait pour but de no
 
 ![Mes sketchnote de "Writing less damned code" (partie 1 sur 2)](https://c7.staticflickr.com/6/5735/30360321374_4f0ab613dd_c.jpg) ![Mes sketchnote de "Writing less damned code" (partie 2 sur 2)](https://c1.staticflickr.com/6/5550/31038293352_92ee177056_c.jpg)
 
-[Vidéo de la présentation](https://vimeo.com/190834530)
+[Vidéo de la présentation](https://web.archive.org/web/20230815202650/https://vimeo.com/190834530)
 
 ## Everyday matters
 
@@ -84,7 +84,7 @@ Je ne connaissais pas [Danny Gregory](https://twitter.com/DannyGregory). Il nous
 
 ![Mes sketchnote de "Everyday matters"](https://c1.staticflickr.com/6/5792/30360321304_7bbb5188bb_c.jpg)
 
-[Vidéo de la présentations](https://vimeo.com/190834587)
+[Vidéo de la présentations](https://web.archive.org/web/20200814150019/https://vimeo.com/190834587)
 
 ## Be the black sheep
 
@@ -94,7 +94,7 @@ J'ai vraiment été impressionné par la qualité de son travail. Je vous recomm
 
 ![Mes sketchnote de "Be the black sheep" (partie 1 sur 2)](https://c1.staticflickr.com/6/5708/30814078560_3efdf38b01_c.jpg) ![Mes sketchnote de "Be the black sheep" (partie 2 sur 2)](https://c5.staticflickr.com/6/5682/30360321204_012d806be9_c.jpg)
 
-[Vidéo de la présentation](https://vimeo.com/190839751)
+[Vidéo de la présentation](https://web.archive.org/web/20180125114329/https://vimeo.com/190839751)
 
 ## Typography is code
 
@@ -102,7 +102,7 @@ Frank Rausch se définit comme un "User Interface Typographer". La typographie e
 
 ![Mes sketchnote de "Typography is code"](https://c7.staticflickr.com/6/5690/30814078230_24594838b6_c.jpg)
 
-[Vidéo de la présentation](https://vimeo.com/190844058)
+[Vidéo de la présentation](https://web.archive.org/web/20220812001357/https://vimeo.com/190844058)
 
 ## From pages to patterns
 
@@ -110,7 +110,7 @@ Découper des pages en élément réutilisable n'est pas toujours un exercice fa
 
 ![Mes sketchnote de "From pages to patterns" (partie 1 sur 2)](https://c1.staticflickr.com/6/5456/31038292472_1346b915f3_c.jpg) ![Mes sketchnote de "From pages to patterns" (partie 2 sur 2)](https://c3.staticflickr.com/6/5441/30814077810_e972f2a37b_c.jpg)
 
-[Vidéo de la présentation](https://vimeo.com/190849537)
+[Vidéo de la présentation](https://web.archive.org/web/20210516073642/https://vimeo.com/190849537)
 
 
 ## Refactoring CSS without losing your mind
@@ -119,7 +119,7 @@ Le refactoring n'a jamais été ma tâche favorite et je pense que je ne suis pa
 
 ![Mes sketchnote de "Refactoring CSS without losing your mind" (partie 1 sur 3)](https://c5.staticflickr.com/6/5684/30360321084_ec87397b0b_c.jpg) ![Mes sketchnote de "Refactoring CSS without losing your mind" (partie 2 sur 3)](https://c5.staticflickr.com/6/5333/30814077380_3665807f8c_c.jpg) ![Mes sketchnote de "Refactoring CSS without losing your mind" (partie 3 sur 3)](https://c7.staticflickr.com/6/5729/31038292142_e0ac82bee4_c.jpg)
 
-[Vidéo de la présentation](https://vimeo.com/190866449)
+[Vidéo de la présentation](https://web.archive.org/web/20180125114353/https://vimeo.com/190866449)
 
 ## The joy of optimising
 
@@ -127,7 +127,7 @@ Les images correspondent à une grande partie des données à télécharger sur 
 
 ![Mes sketchnote de "The joy of optimising" (partie 1 sur 3)](https://c3.staticflickr.com/6/5732/30814076970_faea1ddabb_c.jpg) ![Mes sketchnote de "The joy of optimising" (partie 2 sur 3)](https://c7.staticflickr.com/6/5731/30814076790_402abcfbd5_c.jpg) ![Mes sketchnote de "The joy of optimising" (partie 3 sur 3)](https://c3.staticflickr.com/6/5599/30360320954_c636a09c11_c.jpg)
 
-[Vidéo de la présentation](https://vimeo.com/190871719)
+[Vidéo de la présentation](https://web.archive.org/web/20230130071954/https://vimeo.com/190871719)
 
 ## Beyond Measure
 
@@ -135,7 +135,7 @@ Peut-on vraiment se fier aux données ? [Erika Hall](https://twitter.com/mulegir
 
 ![Mes sketchnote de "Beyond Measure" (partie 1 sur 2)](https://c1.staticflickr.com/6/5822/30814076360_363b9627e2_c.jpg)  ![Mes sketchnote de "Beyond Measure" (partie 2 sur 2)](https://c7.staticflickr.com/6/5821/30360320894_daaf537486_c.jpg)
 
-[Vidéo de la présentation](https://vimeo.com/190883361)
+[Vidéo de la présentation](https://web.archive.org/web/20230516072545/https://vimeo.com/190883361)
 
 ## Be stubborn, be naive
 
@@ -144,4 +144,4 @@ C'est la règle que Jeff Greenspan applique dans ses projets. Cela lui a permis 
 
 ![Mes sketchnote de "Be stubborn, be naive"](https://c1.staticflickr.com/6/5650/31038291072_b962cb8c17_c.jpg)
 
-[Vidéo de la présentation](https://vimeo.com/190893060)
+[Vidéo de la présentation](https://web.archive.org/web/20180125114246/https://vimeo.com/190893060)
