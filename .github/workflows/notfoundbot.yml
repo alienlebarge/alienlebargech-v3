@@ -13,7 +13,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXCEPTIONS: twitter.com
         with:
-          content-folder: 'src/articles'
+          content-folder: 'src/articles/**/**'
       - name: Fix bookmark links
         uses: tmcw/notfoundbot@v2.3.0
         env:
