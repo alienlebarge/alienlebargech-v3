@@ -40,11 +40,14 @@ Phone
 The apps I open every day.
 
 Browser
-    : Arc
+    : [Arc](https://arc.net/){rel="external"}
 
 Editor
-    : Panic Nova and Vim
+    : [Panic Nova](https://nova.app/){rel="external"} and [Vim](https://www.vim.org/){rel="external"}
 
 Launcher
-    : Raycast
+    : [Raycast](https://www.raycast.com/){rel="external"}
+
+ToDo / Note taking / Project Management
+    : [Workflowy](https://workflowy.com/){rel="external"}
 
