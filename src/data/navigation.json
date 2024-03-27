@@ -27,17 +27,14 @@
       "url": "/now/"
     },
     {
-      "label": "Jams",
-      "url": "/jams/"
+      "label": "Uses",
+      "url": "/uses/"
     },
     {
       "label": "Find me elsewhere",
       "url": "/elsewhere/"
     },
-    {
-      "label": "Uses",
-      "url": "/uses/"
-    },
+
     {
       "label": "Contact",
       "url": "/contact/"
@@ -45,6 +42,10 @@
     {
       "label": "Search",
       "url": "/search/"
+    },
+    {
+      "label": "Jams",
+      "url": "/jams/"
     },
     {
       "label": "Replies",
