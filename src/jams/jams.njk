@@ -12,7 +12,7 @@ override:tags: []
 ---
 
 {% import 'list-items.njk' as list %}
-{{ list.listJams(pagination.items, "o-stack--space-xl") }}
+{{ list.listItems(pagination.items, "o-stack--space-xl") }}
 
 {% import 'pagination.njk' as transverse %}
 {{ transverse.paginate(pagination, label='Notes') }}
