@@ -27,6 +27,10 @@
       "url": "/now/"
     },
     {
+      "label": "Jams",
+      "url": "/jams/"
+    },
+    {
       "label": "Find me elsewhere",
       "url": "/elsewhere/"
     },
