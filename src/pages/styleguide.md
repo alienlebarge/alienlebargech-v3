@@ -329,9 +329,17 @@ The `details` element creates a disclosure widget in which information is visibl
 
 ### Embed
 
-https://vimeo.com/454091293/b45b02e2a5
+```html
+[<cite>Windowlicker</cite>cite> by Aphex Twin](https://open.spotify.com/intl-fr/track/409z4jUHpq7eIkg3N3FzZh?si=de002ef3fec949d0)
+```
 
-[eleventy-plugin-vimeo-embed](https://www.npmjs.com/package/eleventy-plugin-vimeo-embed) is used to embed Vimeo media.
+```html
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/409z4jUHpq7eIkg3N3FzZh?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+
+https://open.spotify.com/track/7x3pzBo6cpFVMy6g1pO5vE?si=qK1jnfsmRAyGtw__UZQ0vw
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7x3pzBo6cpFVMy6g1pO5vE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 *[ASCII]: American Standard Code for Information Interchange

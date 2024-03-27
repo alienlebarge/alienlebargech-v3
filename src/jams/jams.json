@@ -1,0 +1,8 @@
+{
+  "title": "",
+  "layout": "jam.njk",
+  "permalink": "jams/{{ page.fileSlug }}/",
+  "tags": ["post", "myjam"],
+  "type": "entry-untitled",
+  "vocab": ["entry"]
+}

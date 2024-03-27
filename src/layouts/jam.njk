@@ -1,0 +1,15 @@
+{% set altTitle %}Jam: <time>{{ date | date(dates.datetime_full) }}</time>{% endset %}
+
+{%- set webmentionUrl -%}{{ app.url }}{{ page.url | url }}{%- endset -%}
+{% extends './base.njk' %}
+{% block main %}
+    <div class="u-visually-hidden">
+        {% include 'header.njk' %}
+    </div>
+    {% include 'content.njk' %}
+    <div class="o-container o-box">
+        {% include 'footer.njk' %}
+    </div>
+    {% include 'webmentions-list.njk' %}
+    <script src="/assets/scripts/spotify-jam.js" type="module"></script>
+{% endblock %}
