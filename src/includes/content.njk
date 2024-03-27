@@ -11,5 +11,9 @@
             {%- endif -%}
         </figure>
         {%- endfor -%}
+    {%- elif jam_of -%}
+        <spotify-jam class="c-list-items__title">
+            <a href="{{- jam_of.url -}}"><cite>{{- jam_of.name -}}</cite> by {{ jam_of.author }}</a>
+        </spotify-jam>
     {%- endif %}
 </div>
