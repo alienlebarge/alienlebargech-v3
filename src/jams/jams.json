@@ -1,7 +1,7 @@
 {
   "title": "",
   "layout": "jam.njk",
-  "permalink": "jams/{{ page.fileSlug }}/",
+  "permalink": "jams/{{ page.date | date: 'YYYY/MM/DD' }}/{{ page.fileSlug }}/",
   "tags": ["post", "myjam"],
   "type": "entry-untitled",
   "vocab": ["entry"]
