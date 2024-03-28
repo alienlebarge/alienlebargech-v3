@@ -12,7 +12,7 @@ class SpotifyJamElement extends HTMLElement {
     //embed.height = embed.src.includes("music-video") ? 450 : 175;
     embed.height = "352";
     embed.width = "100%";
-    embed.style = "border-radius:12px";
+    embed.style.borderRadius = "12px"; // Changed style assignment
     embed.loading = "lazy";
     embed.frameBorder = "0";
     embed.allow = "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture";
