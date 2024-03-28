@@ -11,7 +11,7 @@
             {{- item.data.likeOf | safe -}}
         </a>
         {%- elif item.data.jam_of -%}
-        <spotify-jam class="c-list-items__title">
+        <spotify-jam>
             <a href="{{- item.data.jam_of.url -}}"><cite>{{- item.data.jam_of.name -}}</cite> by {{ item.data.jam_of.author }}</a>
         </spotify-jam>
         {%- endif -%}
