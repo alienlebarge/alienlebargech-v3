@@ -10,7 +10,7 @@
     grid-template-rows: auto;
 }
 
-/* If the content begins with an iframe, the date aligns at the top. This is 
+/* If the content begins with an iframe, the date aligns at the top. This is
    used for spotify-jam web components. */
 .c-item:has(>.c-item__content iframe:first-child) {
     align-items: normal;
