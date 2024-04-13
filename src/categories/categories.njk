@@ -12,8 +12,6 @@ hidden: true
 
 <ul class="[ o-box o-box--container-big ] o-stack">
 {%- for category in collections.category | toArray | sort -%}
-    {%- if category | length > 1 -%}
     <li><a class="p-category" rel="tag" href="/categories/{{ category | slugify }}">{{ category }}</a></li>
-    {%- endif -%}
 {%- endfor -%}
 </ul>
