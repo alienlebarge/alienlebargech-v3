@@ -10,13 +10,13 @@
     "watch:files": "eleventy --config=lib/eleventy.config.js --incremental --serve",
     "postwatch": "npx pagefind",
     "watch": "concurrently -c \"auto\" \"npm:watch:*\"",
-    "lint:markdown": "markdownlint src/**/*.md",
+    "lint:format": "prettier . --check",
     "lint:styles": "stylelint src/**/*.css",
-    "lint:scripts": "xo '**/*.js'",
+    "lint:scripts": "eslint '**/*.js'",
     "lint": "concurrently -c \"auto\" \"npm:lint:*\"",
-    "fix:markdown": "markdownlint src/**/*.md --fix",
+    "fix:format": "prettier . --write",
     "fix:styles": "stylelint src/**/*.css --fix",
-    "fix:scripts": "xo '**/*.js' --fix",
+    "fix:scripts": "eslint '**/*.js' --fix",
     "fix": "concurrently -c \"auto\" \"npm:fix:*\"",
     "debug": "DEBUG=* npx eleventy --config=lib/eleventy.config.js"
   },
@@ -62,40 +62,18 @@
   },
   "devDependencies": {
     "chokidar-cli": "^3.0.0",
+    "eslint": "^9.1.0",
+    "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-jsdoc": "^48.2.3",
+    "eslint-plugin-prettier": "^5.1.3",
+    "eslint-plugin-unicorn": "^52.0.0",
     "lodash": "^4.17.21",
-    "markdownlint-cli": "^0.39.0",
     "netlify-plugin-webmentions": "^1.1.1",
     "node-fetch": "^3.3.2",
+    "prettier": "^3.2.5",
     "stylelint": "^16.3.1",
     "stylelint-config-standard": "^36.0.0",
-    "stylelint-order": "^6.0.4",
-    "xo": "^0.58.0"
+    "stylelint-order": "^6.0.4"
   },
-  "xo": {
-    "space": true,
-    "extends": [
-      "plugin:jsdoc/recommended"
-    ],
-    "plugins": [
-      "jsdoc"
-    ],
-    "envs": "browser",
-    "ignores": [
-      "www/**"
-    ],
-    "rules": {
-      "camelcase": [
-        "warn",
-        {
-          "properties": "never"
-        }
-      ],
-      "node/prefer-global/process": [
-        "error",
-        "always"
-      ],
-      "unicorn/prefer-module": 0
-    }
-  }
+  "type": "module"
 }
