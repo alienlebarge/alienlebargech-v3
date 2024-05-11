@@ -1,5 +1,4 @@
 <div class="o-container o-box o-prose{% if vocab %} | e-content{% if type == "note" %} p-name{% endif %}{% endif %}">
-    {{ content | safe }}
     {# add photo if there is any #}
     {%- if photo %}
         {%- import 'image.njk' as image -%}
@@ -16,4 +15,5 @@
             <a href="{{- jam_of.url -}}"><cite>{{- jam_of.name -}}</cite> by {{ jam_of.author }}</a>
         </spotify-jam>
     {%- endif %}
+    {{ content | safe }}
 </div>
