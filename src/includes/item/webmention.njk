@@ -14,11 +14,19 @@
 
     <div class="o-stack o-stack--space-xs">
         <header class="o-stack">
-            <h3 class="u-overline">
+            <h3 class="u-overline | h-card p-author p-name">
+                {%- if webmention.author.url -%}
+                    <a href="{{ webmention.author.url }}"
+                       rel="noopener noreferrer"
+                       class="u-url">
+                {%- endif -%}
                 {%- if webmention.author.name -%}
                     {{- webmention.author.name -}}
                 {%- else -%}
                     Anonymous
+                {%- endif -%}
+                {%- if webmention.author.url -%}
+                    </a>
                 {%- endif -%}
             </h3>
         </header>
@@ -32,7 +40,7 @@
         </div>
 
         <footer class="c-footer u-reference">
-            <a class="p-author h-card u-url"
+            <a class="u-url"
             href="{{ webmention.url }}"
             target="_blank"
             rel="noopener noreferrer"><span class="u-visually-hidden">Published the </span><time class="webmention__pubdate dt-published"
