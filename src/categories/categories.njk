@@ -10,10 +10,8 @@ hidden: true
 {# {%- assign categories = collections.category | sort_natural -%}
 {%- render 'categories' with categories -%} #}
 
-<ul class="[ o-box o-box--container-big ] o-list-inline">
+<ul class="o-cluster" style="--cluster-space: var(--space-s);">
 {%- for category in collections.category | toArray | sort -%}
-    <li style="--box-padding-block:var(--space-3xs);
-               --box-padding-inline:var(--space-2xs);"
-        class="[ o-list-inline__item o-box ]"><a class="[ p-category ]" rel="tag" href="/categories/{{ category | slugify }}">{{ category | lower }}</a></li>
+    <li><a class="[ p-category ]" rel="tag" href="/categories/{{ category | slugify }}">{{ category | lower }}</a></li>
 {%- endfor -%}
 </ul>
