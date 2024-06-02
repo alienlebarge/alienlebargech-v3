@@ -10,6 +10,12 @@ hidden: true
 {% set items = collections.all | includes('data.category', title) | reverse %}
 <ul class="[ o-box o-box--container-big ] o-stack">
 {%- for item in items -%}
-    <li><a href="{{ item.url | url }}">Titre: {{ item.data.title }}</a></li>
+    <li><a href="{{ item.url | url }}">
+        {%- if item.data.title -%}
+        {{- item.data.title -}}
+        {%- else -%}
+        {{ item.content | striptags(true) | truncate(124) }}
+        {%- endif -%}
+    </a></li>
 {%- endfor -%}
 </ul>
