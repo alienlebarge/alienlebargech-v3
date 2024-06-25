@@ -5,7 +5,8 @@ category:
   - email
   - application
   - family
-updated: 2024-06-25T06:51:35.924+02:00
+updated: 2024-06-25T06:51:53.160+02:00
+visibility: public
 ---
 
 I was eagerly awaiting it, but in the end, I'm disappointed with the new family-oriented offer proposed by [HEY](https://www.hey.com/).
