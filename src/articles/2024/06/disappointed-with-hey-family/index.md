@@ -5,8 +5,10 @@ category:
   - email
   - application
   - family
-updated: 2024-06-25T06:51:53.160+02:00
+updated: 2024-06-25T06:56:10.217+02:00
 visibility: public
+syndication:
+  - https://social.lol/@alienlebarge/112675479158294283
 ---
 
 I was eagerly awaiting it, but in the end, I'm disappointed with the new family-oriented offer proposed by [HEY](https://www.hey.com/).
