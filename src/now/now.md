@@ -18,8 +18,8 @@ Lausanne area, Switzerland
 
 ## What I’m watching
 
-- [Resident Alien (Season 1)](https://www.imdb.com/title/tt8690918/)
-- [Extraordinary (Season 2)](https://www.imdb.com/title/tt14531842/)
+- [Welcome to Wrexham (Season 3)](https://www.imdb.com/title/tt14674086/){rel="external"}
+- [The Acolyte (Season 1)](https://www.imdb.com/title/tt12262202/){rel="external"}
 
 ## What I'm listening to
 
@@ -57,4 +57,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: <date datetime="2024-03-26">2024-03-26<date> {.u-reference}
+last update: <date datetime="2024-06-25">2024-06-25<date>
