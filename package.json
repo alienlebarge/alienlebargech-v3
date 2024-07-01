@@ -42,7 +42,7 @@
     "autoprefixer": "^10.4.19",
     "concurrently": "^8.2.2",
     "html-minifier": "^4.0.0",
-    "https-proxy-agent": "^7.0.4",
+    "https-proxy-agent": "^7.0.5",
     "lightningcss": "^1.25.1",
     "markdown-it": "^14.1.0",
     "markdown-it-abbr": "^2.0.0",
