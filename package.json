@@ -71,7 +71,7 @@
     "netlify-plugin-webmentions": "^1.1.1",
     "node-fetch": "^3.3.2",
     "prettier": "^3.3.1",
-    "stylelint": "^16.5.0",
+    "stylelint": "^16.6.1",
     "stylelint-config-standard": "^36.0.0",
     "stylelint-order": "^6.0.4"
   }
