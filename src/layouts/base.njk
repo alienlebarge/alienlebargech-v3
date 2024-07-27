@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="robots" content="{% if hidden == true %}noindex{% else %}index{% endif %}, follow">
-
+        <meta property="fediverse:creator" content="{{ app.author.fediverse }}l" />
         <meta property="og:title" content="
             {%- if title -%}
                 {{- title | striptags(true) | safe -}}

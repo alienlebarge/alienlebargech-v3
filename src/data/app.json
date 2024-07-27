@@ -10,7 +10,8 @@
     "name": "Cédric Aellen",
     "url": "https://alienlebarge.ch",
     "email": "noreply@alienlebarge.ch",
-    "avatar": "https://www.gravatar.com/avatar/35449a5b09a740b214e4147d8893aee9?s=512"
+    "avatar": "https://www.gravatar.com/avatar/35449a5b09a740b214e4147d8893aee9?s=512",
+    "fediverse":"@alienlebarge@social.lol"
   },
   "feed_limit": 25,
   "themeColor": "hsla(208, 21%, 9%, 1)",
