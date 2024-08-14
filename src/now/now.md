@@ -23,6 +23,7 @@ Lausanne area, Switzerland
 
 ## What I'm listening to
 
+- The songs I listen to on repeat are available on the [jams](/jams) page.
 - You can check [my last.fm profil](https://www.last.fm/user/alienlebarge){rel="external"} for recent played tracks
 
 ## What I'm playing
