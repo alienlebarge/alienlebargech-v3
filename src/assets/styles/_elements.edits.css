@@ -50,3 +50,26 @@ del::after {
 ins {
     text-decoration: underline;
 }
+
+/***
+ * Improve accessibility
+ * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins
+ */
+ins::before,
+ins::after {
+  clip-path: inset(100%);
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+ins::before {
+  content: " [insertion start] ";
+}
+
+ins::after {
+  content: " [insertion end] ";
+}
