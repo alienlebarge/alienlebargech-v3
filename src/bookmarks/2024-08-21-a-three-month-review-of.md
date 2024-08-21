@@ -5,6 +5,9 @@ bookmark_of: https://flatfootfox.com/a-three-month-review-of-kagi-search-the-ori
 category:
   - app
   - search
+syndication:
+  - https://social.lol/@alienlebarge/112998191332318972
+updated: 2024-08-21T06:46:06.975+02:00
 ---
 
 This article about the Kagi search engine is really interesting. I also use it and pay $10 per month. Although it's not cheap, the results are excellent and the user experience is pleasant.
