@@ -7,10 +7,10 @@ category:
   - search
 syndication:
   - https://social.lol/@alienlebarge/112998191332318972
-updated: 2024-08-21T06:46:06.975+02:00
+updated: 2024-08-21T10:21:47.302+02:00
 ---
 
-This article about the Kagi search engine is really interesting. I also use it and pay $10 per month. Although it's not cheap, the results are excellent and the user experience is pleasant.
+[This article about the Kagi search engine](https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/) is really interesting. I also use it and pay $10 per month. Although it's not cheap, the results are excellent and the user experience is pleasant.
 
 I really appreciate this search engine, but it's true that at $10 per month, one might wonder if it's truly worth it. For web professionals, it might be justified, but for the general public, it's an investment that few people would want to make. It does represent a certain budget.
 
