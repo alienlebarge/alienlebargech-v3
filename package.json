@@ -64,7 +64,7 @@
     "chokidar-cli": "^3.0.0",
     "eslint": "^9.2.0",
     "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-jsdoc": "^48.2.4",
+    "eslint-plugin-jsdoc": "^50.2.2",
     "eslint-plugin-prettier": "^5.1.3",
     "eslint-plugin-unicorn": "^53.0.0",
     "lodash": "^4.17.21",
