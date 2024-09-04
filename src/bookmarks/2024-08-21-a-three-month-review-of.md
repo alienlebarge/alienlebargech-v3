@@ -1,13 +1,13 @@
 ---
 date: 2024-08-21T06:45:38.164+02:00
-title: A Three Month Review of Kagi Search & The Orion Web Browser
+title: A Three Month Review of Kagi Search and The Orion Web Browser
 bookmark_of: https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/
 category:
   - app
   - search
 syndication:
   - https://social.lol/@alienlebarge/112998191332318972
-updated: 2024-08-21T10:21:47.302+02:00
+updated: 2024-09-04T13:08:44.136+02:00
 ---
 
 [This article about the Kagi search engine](https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/) is really interesting. I also use it and pay $10 per month. Although it's not cheap, the results are excellent and the user experience is pleasant.
