@@ -29,13 +29,12 @@ Lausanne area, Switzerland
 ## What I'm playing
 
 - [Super Mario Bros Wonder](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/){rel="external"}
-- [Zelda Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/){rel="external"}. I'm trying to do all shrines.
+- [Zelda Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/){rel="external"}. [Here are my latest states](/categories/totk/)
 - Enjoying [Playdate](https://play.date){rel="external"}'s games
 
 ## What I’m making
 
 - Learning to program a Eurorack sequencer
-- Rebuilding my Eurorack case
 - Working as a Frontend Engineer for the [State of Vaud](https://www.vd.ch){rel="external"}
 - Redesigning my website (the one your are visiting right now)
 - Fixing things in the house
@@ -58,4 +57,4 @@ It’s like a weblog, but it’s designed for short status updates. Things like 
 
 ## Last Update {.u-visually-hidden}
 
-last update: <date datetime="2024-06-25">2024-06-25<date>
+last update: <date datetime="2024-09-09">2024-09-09<date>
