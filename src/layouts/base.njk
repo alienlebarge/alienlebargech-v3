@@ -135,7 +135,7 @@
               {% if type %}data-type="{{ type }}"{% endif %}
               {% if lang %}lang={{ lang }}{% endif %}>
             {% block main %}
-                {{ layoutContent | safe }}
+                {{ content | safe }}
             {% endblock %}
         </main>
         {% if type != "opengraph" -%}
