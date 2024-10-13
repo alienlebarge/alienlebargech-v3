@@ -1,5 +1,5 @@
 [build]
-    publish = "www/"
+    publish = "www"
     command = "npm run build"
 
 [context.production]
