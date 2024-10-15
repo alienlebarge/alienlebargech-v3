@@ -4,6 +4,9 @@ title: Jeux de cartes Jam
 category:
   - jam
   - eurorack
+syndication:
+  - https://social.lol/@alienlebarge/113310239426619567
+updated: 2024-10-15T09:24:02.373+02:00
 ---
 
 All the small scratchy sounds come from samples I made with a deck of cards. I'm not quite happy with the result yet. I still need to work on managing the samples in the Squid Salmple. But it's a start.
