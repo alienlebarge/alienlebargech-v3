@@ -1,12 +1,12 @@
 ---
 date: 2024-10-16T00:00:30.699+02:00
-title: Esacpe Jam
+title: An Eurorack jam featuring the sounds of kids playing an escape game
 category:
   - eurorack
   - jam
 syndication:
   - https://social.lol/@alienlebarge/113313686471828350
-updated: 2024-10-16T00:00:39.940+02:00
+updated: 2024-10-16T21:01:49.060+02:00
 ---
 
 The jam is sequenced with Pamela Pro Workout and DivSkip, with all sounds coming from the Squid Salmple and Plaits for melody. Effects are added by the MFX and everything is mixed together by Tangle Quartet.
