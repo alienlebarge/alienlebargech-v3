@@ -14,7 +14,11 @@ My work time is split between two locations. Half of my time, I work at my emplo
 
 ## Desk
 
+Desk Top
+    : The desk top I received for my 14th birthday
 
+Adjustable Desk Leg
+    : Contini ET225E
 
 ## Mac setup
 
@@ -29,6 +33,12 @@ Keyboard
 Mouse
     : Logitech MX Master 3
 
+Laptop Stand
+    : Leitz Laptop Stand
+
+Monitor
+    : An old 2008 iMac
+
 ## Laptop, Tablet, Phones, Etc.
 
 Phone
@@ -40,7 +50,7 @@ Phone
 The apps I open every day.
 
 Browser
-    : [Arc](https://arc.net/){rel="external"}
+    : [Orion](https://kagi.com/orion/){rel="external"}
 
 Editor
     : [Panic Nova](https://nova.app/){rel="external"} and [Vim](https://www.vim.org/){rel="external"}
@@ -50,4 +60,5 @@ Launcher
 
 ToDo / Note taking / Project Management
     : [Workflowy](https://workflowy.com/){rel="external"}
+    : But I am currently (<time datetime="2024-11-06">2024-11-06</time>) testing [Capacities](https://capacities.io)
 
