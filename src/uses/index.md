@@ -44,6 +44,9 @@ Monitor
 Phone
     : IPhone 15
 
+Phone case
+    : [Freitag F385 Circ-Case](https://freitag.ch/en_CH/products/f385-circ-case-iphone){rel="external"} with [Freitag F3890 Justin](https://freitag.ch/en_CH/products/f380-justin){rel="external"} for the cards
+
 ## Apps
 
 The apps I open every day.
@@ -59,5 +62,5 @@ Launcher
 
 ToDo / Note taking / Project Management
     : [Workflowy](https://workflowy.com/){rel="external"}
-    : But I am currently (<time datetime="2024-11-06">2024-11-06</time>) testing [Capacities](https://capacities.io)
+    : But I am currently (<time datetime="2024-11-06">2024-11-06</time>) testing [Capacities](https://capacities.io){rel="external"}
 
