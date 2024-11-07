@@ -43,7 +43,6 @@ Monitor
 
 Phone
     : IPhone 15
-    : I just replaced my old iPhone XR, which now belongs to another family member.
 
 ## Apps
 
