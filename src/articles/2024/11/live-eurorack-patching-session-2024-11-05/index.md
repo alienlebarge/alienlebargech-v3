@@ -5,6 +5,9 @@ category:
   - eurorack
   - live
   - jam
+syndication:
+  - https://social.lol/@alienlebarge/113446498362354952
+updated: 2024-11-08T09:56:28.623+01:00
 ---
 
 Three days ago, I conducted a live patching session with my Eurorack system. Nothing was prepared beforehand. It was pure improvisation. I apologize for the video orientation; it's in portrait mode because I streamed this session live on Instagram. Feel free to skip any parts that seem too long. It's truly exploratory.
