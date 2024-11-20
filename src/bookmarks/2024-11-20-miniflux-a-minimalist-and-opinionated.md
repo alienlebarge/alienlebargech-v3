@@ -5,7 +5,9 @@ bookmark_of: https://miniflux.app
 category:
   - application
   - rss
-updated: 2024-11-20T06:58:54.515+01:00
+updated: 2024-11-20T07:04:59.971+01:00
+syndication:
+  - https://social.lol/@alienlebarge/113513771811621312
 ---
 
 [In the latest episode of the AppStories podcast](https://appstories.net/episodes/412), @robb@social.lol mentioned that he uses [Miniflux](https://miniflux.app) to manage his RSS feeds. I had never heard of this service before.
