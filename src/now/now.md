@@ -18,8 +18,9 @@ Lausanne area, Switzerland
 
 ## What I’m watching
 
-- [Welcome to Wrexham (Season 3)](https://www.imdb.com/title/tt14674086/){rel="external"}
-- [The Acolyte (Season 1)](https://www.imdb.com/title/tt12262202/){rel="external"}
+- ~~[Welcome to Wrexham (Season 3)](https://www.imdb.com/title/tt14674086/){rel="external"}~~
+- ~~[The Acolyte (Season 1)](https://www.imdb.com/title/tt12262202/){rel="external"}~~
+- [Skeleton Crew](https://www.imdb.com/title/tt20600980/)
 
 ## What I'm listening to
 
@@ -29,8 +30,9 @@ Lausanne area, Switzerland
 ## What I'm playing
 
 - [Super Mario Bros Wonder](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/){rel="external"}
-- [Zelda Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/){rel="external"}. [Here are my latest states](/categories/totk/)
-- Enjoying [Playdate](https://play.date){rel="external"}'s games
+- [Zelda - Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/){rel="external"}. [Here are my latest states](/categories/totk/)
+- ~~[Zelda - Echoes of Wisdom](https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch/){rel="external"}~~
+- [Echoes - The Oracle's Scroll](https://play.date/games/echo-the-oracles-scroll/){rel="external"}
 
 ## What I’m making
 
