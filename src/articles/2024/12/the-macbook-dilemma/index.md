@@ -4,7 +4,9 @@ title: "The MacBook Dilemma: Air or Pro? My Experience and Thoughts"
 category:
   - computer
   - macbook
-updated: 2024-12-20T13:56:09.861+01:00
+updated: 2024-12-20T14:13:45.007+01:00
+syndication:
+  - https://social.lol/@alienlebarge/113685327038508228
 ---
 
 Since 2018, I've been using a 13-inch MacBook Pro with an i5 processor and 8Gb on RAM. After six years of faithful service, it's starting to struggle when multiple applications are running simultaneously. It's time for an upgrade.
