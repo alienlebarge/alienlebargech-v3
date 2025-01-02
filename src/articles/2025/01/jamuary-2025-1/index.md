@@ -6,6 +6,9 @@ category:
   - jamuary
   - eurorack
   - music
+syndication:
+  - https://social.lol/@alienlebarge/113760375687597347
+updated: 2025-01-02T20:19:36.467+01:00
 ---
 
 Here we are again in January, and as every year, I try to offer you musical gems as often as possible. However, I can't make any guarantees. For this first session, I decided to explore the possibilities offered by the Blades module from Mutable Instruments. My goal was to create a melody accompanied by a bass line.
