@@ -6,6 +6,9 @@ category:
   - jamuary
   - music
   - eurorack
+syndication:
+  - https://social.lol/@alienlebarge/113772018464485114
+updated: 2025-01-04T21:40:31.135+01:00
 ---
 
 For this year's third jam session, I've taken a creative turn by incorporating a filter to craft a bassline with a touch of feedback. The results are quite interesting, and I'm excited to share them with you all. 
