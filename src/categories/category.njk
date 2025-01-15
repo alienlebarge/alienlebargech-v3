@@ -8,7 +8,7 @@ permalink: "categories/{{ title | slugify }}/"
 hidden: true
 ---
 {% set items = collections.all | includes('data.category', title) | reverse %}
-<ul class="[ o-box o-box--container-big ] o-stack">
+<ul class="o-stack">
 {%- for item in items -%}
     <li><a href="{{ item.url | url }}">
         {%- if item.data.title -%}
