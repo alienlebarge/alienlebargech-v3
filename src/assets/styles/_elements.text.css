@@ -38,8 +38,8 @@ a:active {
  */
 
 a[aria-current] {
-    font-variation-settings: "wght" 800;
-    font-weight: 800;
+    font-variation-settings: "wght" calc(var(--font-weight-body) * 2);
+    font-weight: calc(var(--font-weight-body) * 2);
 }
 
 
@@ -79,8 +79,8 @@ em {
    ------------------------------------- */
 
 strong {
-    font-variation-settings: "wght" var(--font-weight-strong, 800);
-    font-weight: var(--font-weight-strong, 800);
+    font-variation-settings: "wght" var(--font-weight-strong, calc(var(--font-weight-body) * 2));
+    font-weight: var(--font-weight-strong, calc(var(--font-weight-body) * 2));
 }
 
 
