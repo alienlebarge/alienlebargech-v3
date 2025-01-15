@@ -9,8 +9,8 @@
 .u-title {
     font-family: var(--font-family-title, var(--font-family-sans));
     font-size: var(--font-size-title);
-    font-variation-settings: "wght" var(--font-weight-title, 700);
-    font-weight: var(--font-weight-title, 700);
+    font-variation-settings: "wght" var(--font-weight-title, 800);
+    font-weight: var(--font-weight-title, 800);
     hanging-punctuation: first;
     letter-spacing: 0; /* [1] */
     line-height: var(--line-height-title, var(--line-height-tight));
@@ -19,8 +19,8 @@
 .u-heading {
     font-family: var(--font-family-heading, var(--font-family-sans));
     font-size: var(--font-size-heading);
-    font-variation-settings: "wght" var(--font-weight-heading, 600);
-    font-weight: var(--font-weight-heading, 600);
+    font-variation-settings: "wght" var(--font-weight-heading, 800);
+    font-weight: var(--font-weight-heading, 800);
     hanging-punctuation: first;
     letter-spacing: 0; /* [1] */
     line-height: var(--line-height-heading, var(--line-height-tight));
@@ -39,8 +39,8 @@
 .u-overline {
     font-family: var(--font-family-overline, inherit);
     font-size: var(--font-size-caption);
-    font-variation-settings: "wght" var(--font-weight-overline, 800);
-    font-weight: var(--font-weight-overline, 800);
+    font-variation-settings: "wght" var(--font-weight-overline, 600);
+    font-weight: var(--font-weight-overline, 600);
     letter-spacing: 0.125em;
     text-transform: uppercase;
 }
