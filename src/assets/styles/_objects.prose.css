@@ -244,8 +244,8 @@
 
 .o-prose dt {
     /* TODO: Improve weight settings. IDEA: calc(var(--font-size-default + 200) */
-    font-variation-settings: "wght" 800;
-    font-weight: 800;
+    font-variation-settings: "wght" calc(var(--font-weight-body) * 2);
+    font-weight: calc(var(--font-weight-body) * 2);
 }
 
 .o-prose dd {
