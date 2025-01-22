@@ -2,7 +2,9 @@
 date: 2025-01-22T10:39:35.267+01:00
 title: Back to Bullet Journaling in 2025
 category: bullet-journal
-updated: 2025-01-22T10:46:21.556+01:00
+updated: 2025-01-22T10:58:10.482+01:00
+syndication:
+  - https://social.lol/@alienlebarge/113871414250656208
 ---
 
 One of my new resolutions for 2025 is to get back into bullet journaling. It’s a practice I used to engage in, and it suited me well.
