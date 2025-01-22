@@ -2,7 +2,7 @@
 date: 2025-01-22T10:39:35.267+01:00
 title: Back to Bullet Journaling in 2025
 category: bullet-journal
-updated: 2025-01-22T10:44:26.669+01:00
+updated: 2025-01-22T10:46:21.556+01:00
 ---
 
 One of my new resolutions for 2025 is to get back into bullet journaling. It’s a practice I used to engage in, and it suited me well.
@@ -22,7 +22,7 @@ It's the Caran d'Ache 843 pen that I've been using for several years, and it’s
 
 I’m very satisfied with this setup that allows me to quickly grab everything and throw it into my bag.
 
-![](https://alienlebarge.ch/media/photos/2025/01/22/img-6503.jpg)
+![A black notebook placed on a table. The notebook is closed. A blue pen and a black mechanical pencil are attached to its spine.](https://alienlebarge.ch/media/photos/2025/01/22/img-6503.jpg)
 
 I hope that returning to Bullet Journaling will help me with my organization. Fingers crossed!
 
