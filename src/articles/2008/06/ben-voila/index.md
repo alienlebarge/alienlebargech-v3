@@ -18,5 +18,6 @@ C'est dommage car je pense qu'on avait les capacité de passer le premier tour. 
 J'espère que contre le Portugal il vont jouer décomplexé et se donner à fond. On a plus rien à perdre ;) 
 
 Pour la suite ... <!--more-->
+<a title="hollande de alienlebarge, sur Flickr" href="https://www.flickr.com/photos/alienlebarge/2573548232/"><img src="https://farm4.static.flickr.com/3271/2573548232_1d5d248ff3.jpg" alt="hollande" width="500" height="281" /></a>
 
 <a title="hollande de alienlebarge, sur Flickr" href="https://www.flickr.com/photos/alienlebarge/2573548232/"></a>Hop holland ! Vendredi, les oranges tapent les français ;)
