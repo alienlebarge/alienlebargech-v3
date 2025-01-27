@@ -29,6 +29,8 @@ Durant les deux semaine à venir, on devrait pas mal bouger avec les chars (cool
 
 <a class="tt-flickr tt-flickr-Medium" href="https://www.flickr.com/photos/alienlebarge/2786912712/"><img src="https://farm4.static.flickr.com/3166/2786912712_4af581b326.jpg" border="0" alt="Journée " width="500" height="375" /></a> 
 
+<a class="tt-flickr tt-flickr-Medium" href="https://www.flickr.com/photos/alienlebarge/2786057597/"><img src="https://farm4.static.flickr.com/3040/2786057597_9c2fd960d4.jpg" border="0" alt="Journée " width="500" height="375" /></a> 
+
 <a class="tt-flickr tt-flickr-Medium" href="https://www.flickr.com/photos/alienlebarge/2786058049/"><img src="https://farm4.static.flickr.com/3268/2786058049_67a8a4e290.jpg" border="0" alt="Journée " width="500" height="375" /></a> 
 
 <a class="tt-flickr tt-flickr-Medium" href="https://www.flickr.com/photos/alienlebarge/2786913904/"><img src="https://farm4.static.flickr.com/3009/2786913904_2e1f55d924.jpg" border="0" alt="Journée " width="500" height="375" /></a> 
