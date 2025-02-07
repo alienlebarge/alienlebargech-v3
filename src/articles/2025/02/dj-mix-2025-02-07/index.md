@@ -5,7 +5,9 @@ category:
   - dj
   - mix
   - music
-updated: 2025-02-07T23:21:35.970+01:00
+updated: 2025-02-07T23:21:45.252+01:00
+syndication:
+  - https://social.lol/@alienlebarge/113964935088877008
 ---
 
 Here's a small DJ mix on vinyl, featuring quite a few productions from Matthew Herbert.
