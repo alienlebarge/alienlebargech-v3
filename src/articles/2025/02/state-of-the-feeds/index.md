@@ -4,6 +4,9 @@ title: State of the feeds
 category:
   - rss
   - feed
+syndication:
+  - https://social.lol/@alienlebarge/113984024399761354
+updated: 2025-02-11T08:16:25.072+01:00
 ---
 
 RSS feeds are my main source of information. 
