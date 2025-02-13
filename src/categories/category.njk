@@ -7,15 +7,7 @@ pagination:
 permalink: "categories/{{ title | slugify }}/"
 hidden: true
 ---
-{% set items = collections.all | includes('data.category', title) | reverse %}
-<ul class="o-stack">
-{%- for item in items -%}
-    <li><a href="{{ item.url | url }}">
-        {%- if item.data.title -%}
-        {{- item.data.title -}}
-        {%- else -%}
-        {{ item.content | striptags(true) | truncate(124) }}
-        {%- endif -%}
-    </a></li>
-{%- endfor -%}
-</ul>
+
+{% import 'list-items.njk' as list with context %}
+{%- set items = collections.all | includes('data.category', title) | reverse -%}
+{{ list.simpleListItems(items, "") }}

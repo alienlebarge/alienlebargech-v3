@@ -38,7 +38,11 @@
                     {{- item.date | date("YYYY-MM-DD") -}}
                 </time>
                 <span class="c-list-items__title">
+                    {%- if item.data.title -%}
                     {{- item.data.title -}}
+                    {%- else -%}
+                    {{- item.content | striptags | truncate(125) | safe -}}
+                    {%- endif -%}
                 </span>
             </a>
         </li>
