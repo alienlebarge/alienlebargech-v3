@@ -25,6 +25,7 @@ Adjustable Desk Leg
 ### MacBook Pro
 
 Computer
+    : MacBook Pro M4 Pro, 24 Gb RAM, 14-inch, 2024
     : MacBook Pro, 13-inch, 2018, Four Thunderbolt 3 Ports
 
 Keyboard
@@ -41,6 +42,9 @@ Monitor
 
 Speakers
     : AudioEngine A2
+
+Webcam
+    : Obsbot Meet 2
 
 Headphones
     : Apple AirPods Pro (2nd Gen.) MagSafe USB-C
