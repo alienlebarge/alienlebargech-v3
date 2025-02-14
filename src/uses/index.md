@@ -22,6 +22,14 @@ Desk Top
 Adjustable Desk Leg
     : Contini ET225E
 
+### Light
+
+Task Light
+    : Luxo L-1
+
+Back Light
+    : An old Philips Bloom model
+
 ### MacBook Pro
 
 Computer
