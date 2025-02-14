@@ -87,7 +87,7 @@ ToDo / Note taking / Project Management
     : I am currently (<time datetime="2024-11-06">2024-11-06</time>) testing [Capacities](https://capacities.io){rel="external"}
 
 RSS
-    : [Reeder Classic](https://reederapp.com/classic/){rel="external"} via [Feedbin](http://www.feedbin.com/){rel="external"}
+    : [Reeder Classic](https://reederapp.com/classic/){rel="external"} via self hosted [Miniflux](https://miniflux.app){rel="external"}
 
 Mastodon
     : [Ivory](https://tapbots.com/ivory/){rel="external"}
@@ -113,6 +113,3 @@ Screenshots, screen recording, and annotation
 
 Hyper key
     : [Superkey](https://superkey.app){rel="external"}
-
-
-
