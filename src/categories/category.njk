@@ -1,16 +1,28 @@
+{#
+ # Template for category pages
+ # This template displays all content items for a specific category
+ #}
 ---
 layout: index
 pagination:
+  # Get all available categories
   data: collections.category
   size: 1
   alias: category
+# Generate URL-friendly category paths
 permalink: "categories/{{ category | slugify }}/"
 eleventyComputed:
+  # Compute the title and summary dynamically based on the category
   title: "{{ category | title }}"
   summary: "All content in {{ category | title }} category"
 hidden: true
 ---
 
 {% import 'list-items.njk' as list with context %}
+{# Get all items that belong to the current category and sort them in reverse chronological order #}
 {%- set items = collections.all | includes('data.category', category) | reverse -%}
-{{ list.simpleListItems(items, "") }}
+{%- if items.length > 0 -%}
+  {{ list.simpleListItems(items, "") }}
+{%- else -%}
+  <p>Aucun contenu trouvé dans cette catégorie.</p>
+{%- endif -%}

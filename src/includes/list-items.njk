@@ -1,26 +1,43 @@
+{#
+ # Display a list of items with optional limit and reverse order
+ # @param {Array} items - The array of items to display
+ # @param {String} modifier - Optional CSS modifier class
+ # @param {Number} limit - Optional limit of items to display
+ # @param {Boolean} reverse - Optional flag to reverse the order
+ #}
 {% macro listItems(items, modifier, limit, reverse) %}
 <ul class="{% if modifier %}{{ modifier }} {% endif %}o-stack">
+    {# Handle items with limit and reverse order #}
     {% if limit and reverse -%}
         {%- for item in items | reverse-%}
-            {% if loop.index0 < limit and not item.data.deleted -%}
+            {% if loop.index0 < limit and not item.data.deleted and item.data.type -%}
                 <li class="c-separator">
-                {%- include 'item/' + item.data.type + '.njk' -%}
+                {# Include the corresponding template based on item type, ignore if template is missing #}
+                {%- if item.data.type -%}
+                    {%- include 'item/' + item.data.type + '.njk' ignore missing -%}
+                {%- endif -%}
                 </li>
             {%- endif %}
         {%- endfor -%}
+    {# Handle items with limit only #}
     {% elif limit %}
         {%- for item in items -%}
-            {% if loop.index0 < limit and not item.data.deleted -%}
+            {% if loop.index0 < limit and not item.data.deleted and item.data.type -%}
                 <li class="c-separator">
-                {%- include 'item/' + item.data.type + '.njk' -%}
+                {%- if item.data.type -%}
+                    {%- include 'item/' + item.data.type + '.njk' ignore missing -%}
+                {%- endif -%}
                 </li>
             {%- endif %}
         {%- endfor -%}
+    {# Handle all items without limit #}
     {%- else -%}
         {%- for item in items -%}
-        {%- if not item.data.deleted -%}
+        {%- if not item.data.deleted and item.data.type -%}
             <li class="c-separator">
-            {%- include 'item/' + item.data.type + '.njk' -%}
+            {%- if item.data.type -%}
+                {%- include 'item/' + item.data.type + '.njk' ignore missing -%}
+            {%- endif -%}
             </li>
         {%- endif -%}
         {%- endfor -%}
@@ -28,6 +45,11 @@
 </ul>
 {% endmacro %}
 
+{#
+ # Display a simple list of items with dates and titles
+ # @param {Array} items - The array of items to display
+ # @param {String} modifier - Optional CSS modifier class
+ #}
 {% macro simpleListItems(items, modifier) %}
 <ul class="c-list-items{% if modifier %}{{ modifier }} {% endif %}">
     {%- for item in items -%}
@@ -38,10 +60,11 @@
                     {{- item.date | date("YYYY-MM-DD") -}}
                 </time>
                 <span class="c-list-items__title">
+                    {# Use title if available, otherwise fallback to summary or content #}
                     {%- if item.data.title -%}
                     {{- item.data.title -}}
                     {%- else -%}
-                    {{- item.content | striptags | truncate(125) | safe -}}
+                    {{- (item.data.summary or item.data.content) | striptags | truncate(125) | safe -}}
                     {%- endif -%}
                 </span>
             </a>
@@ -51,18 +74,20 @@
 </ul>
 {% endmacro %}
 
-
-
-
-
+{#
+ # Display items in a grid layout
+ # @param {Array} items - The array of items to display
+ #}
 {% macro gridItems(items) %}
-
 {%- set image_preset = "grid" -%}
 <ul class="o-grid">
     {%- for item in items -%}
-    {%- if not item.data.deleted -%}
+    {%- if not item.data.deleted and item.data.type -%}
     <li>
-    {%- include 'item/' + item.data.type + '.njk' -%}
+    {# Include the corresponding template based on item type, ignore if template is missing #}
+    {%- if item.data.type -%}
+        {%- include 'item/' + item.data.type + '.njk' ignore missing -%}
+    {%- endif -%}
     </li>
     {%- endif -%}
     {%- endfor -%}
