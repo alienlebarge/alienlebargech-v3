@@ -3,11 +3,14 @@ layout: index
 pagination:
   data: collections.category
   size: 1
-  alias: title
-permalink: "categories/{{ title | slugify }}/"
+  alias: category
+permalink: "categories/{{ category | slugify }}/"
+eleventyComputed:
+  title: "{{ category | title }}"
+  summary: "All content in {{ category | title }} category"
 hidden: true
 ---
 
 {% import 'list-items.njk' as list with context %}
-{%- set items = collections.all | includes('data.category', title) | reverse -%}
+{%- set items = collections.all | includes('data.category', category) | reverse -%}
 {{ list.simpleListItems(items, "") }}
