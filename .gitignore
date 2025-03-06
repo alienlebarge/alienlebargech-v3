@@ -13,3 +13,6 @@ _cache
 
 # IDE
 .nova
+
+# Log files
+.log
