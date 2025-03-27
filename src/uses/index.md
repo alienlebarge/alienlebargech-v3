@@ -49,7 +49,7 @@ Monitor
     : Samsung ViewFinity S6
 
 Speakers
-    : AudioEngine A2
+    : Adam Audio D3V
 
 Webcam
     : Obsbot Meet 2
