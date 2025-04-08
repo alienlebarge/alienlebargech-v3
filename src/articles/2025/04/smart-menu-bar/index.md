@@ -5,7 +5,9 @@ category:
   - application
   - screen
   - menu
-updated: 2025-04-08T22:03:38.623+02:00
+updated: 2025-04-08T22:03:42.676+02:00
+syndication:
+  - https://social.lol/@alienlebarge/114304130897274950
 ---
 
 Today, I listened to the latest episode of Apptories: "[Return of the Utility Grab Bag](https://appstories.net/episodes/430)". @viticci@macstories.net was wondering how to show or hide icons in the menu bar depending on which screen was being used. Here's how I do it with Bartender to hide icons when I'm only using the MacBook Pro screen, and to show them all when I'm on my large screen, at home or at work.
