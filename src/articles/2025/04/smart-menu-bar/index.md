@@ -5,7 +5,7 @@ category:
   - application
   - screen
   - menu
-updated: 2025-04-08T22:03:42.676+02:00
+updated: 2025-04-08T22:14:33.635+02:00
 syndication:
   - https://social.lol/@alienlebarge/114304130897274950
 ---
@@ -20,7 +20,7 @@ Not being very comfortable with hardware-related bash scripts, I admit that thes
 
 I have two triggers: one that detects if only the MacBook Pro screen is active and another that detects if an additional screen is connected to the computer.
 
-### Detection script if only the MacBook Pro screen is being used.
+### Detection script if only the MacBook Pro screen is being used
 
 ```bash
 #!/bin/zsh
@@ -47,7 +47,7 @@ else
 fi
 ```
 
-### Detection script if an additional screen is connected.
+### Detection script if an additional screen is connected
 
 ```bash
 #!/bin/zsh
