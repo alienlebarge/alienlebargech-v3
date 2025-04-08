@@ -5,9 +5,10 @@ category:
   - application
   - screen
   - menu
+updated: 2025-04-08T22:03:38.623+02:00
 ---
 
-Today, I listened to the latest episode of Apptories: "[Return of the Utility Grab BagReturn of the utility grab](https://appstories.net/episodes/430)". @viticci@macstories.net was wondering how to show or hide icons in the menu bar depending on which screen was being used. Here's how I do it with Bartender to hide icons when I'm only using the MacBook Pro screen, and to show them all when I'm on my large screen, at home or at work.
+Today, I listened to the latest episode of Apptories: "[Return of the Utility Grab Bag](https://appstories.net/episodes/430)". @viticci@macstories.net was wondering how to show or hide icons in the menu bar depending on which screen was being used. Here's how I do it with Bartender to hide icons when I'm only using the MacBook Pro screen, and to show them all when I'm on my large screen, at home or at work.
 
 ## Disclaimer
 
@@ -81,4 +82,4 @@ fi
 
 ### The presets
 
-The two scripts mentioned above activate two presets depending on whether screens are connected or not. There is a preset that I called "small screen" which hides all icons and another preset that I called "large screen" which displays everything by default.
+The two scripts mentioned above activate two presets depending on whether screens are connected or not. There is a preset that I called "Small screen" which hides all icons and another preset that I called "Big screen" which displays everything by default.
